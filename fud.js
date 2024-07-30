@@ -612,7 +612,7 @@ async function a0fC() {
       process.stdout.write(a0PX + " LICENSE IS VERIFIED!");
     }
   } else {
-    console.info("\n", "You are using the FREE version limited to ~500000000000\n", "accumulations. The advantage of acquiring the\n", "license is that the bot continues to work\n", "indefinitely and accumulates large amounts.\n", a0Pb + " Buy license in[35m " + "https://bit.ly/bottok-premium" + "[0m\n");
+    console.info("\n", "You are using the FREE version limited to ~50000000\n", "accumulations. The advantage of acquiring the\n", "license is that the bot continues to work\n", "indefinitely and accumulates large amounts.\n", a0Pb + " Buy license in[35m " + "https://bit.ly/bottok-premium" + "[0m\n");
     const J = {
       type: "list",
       name: "choice",
@@ -976,7 +976,7 @@ async function a0fR(P, f, S, E, J = null) {
       clearInterval(a0Pc);
       await a0fv();
       setTimeout(async () => {
-        console.info("\n\n", "You are using the FREE version limited to ~500000000000\n", "accumulations. The advantage of acquiring the\n", "license is that the bot continues to work\n", "indefinitely and accumulates large amounts.\n", a0Pb + " Buy license in[35m " + "https://bit.ly/bottok-premium" + "[0m\n");
+        console.info("\n\n", "You are using the FREE version limited to ~50000000\n", "accumulations. The advantage of acquiring the\n", "license is that the bot continues to work\n", "indefinitely and accumulates large amounts.\n", a0Pb + " Buy license in[35m " + "https://bit.ly/bottok-premium" + "[0m\n");
       }, 100);
     }
     if (a0P6.limit && a0P6.limit > 0 && a0Pz > a0P6.limit) {
@@ -1076,7 +1076,7 @@ async function a0fH(f, S, E = null) {
         }
       }
     }
-  }, 500000000000);
+  }, 50000000);
 }
 async function a0fw(f) {
   try {
@@ -2865,7 +2865,7 @@ async function a0SJ(P, f, S, E, J = null) {
       clearInterval(a0Pc);
       await a0fv();
       setTimeout(async () => {
-        console.info("\n\n", "You are using the FREE version limited to ~500000000000\n", "accumulations. The advantage of acquiring the\n", "license is that the bot continues to work\n", "indefinitely and accumulates large amounts.\n", a0Pb + " Buy license in[35m " + "https://bit.ly/bottok-premium" + "[0m\n");
+        console.info("\n\n", "You are using the FREE version limited to ~50000000\n", "accumulations. The advantage of acquiring the\n", "license is that the bot continues to work\n", "indefinitely and accumulates large amounts.\n", a0Pb + " Buy license in[35m " + "https://bit.ly/bottok-premium" + "[0m\n");
       }, 100);
     }
     if (a0P6.limit && a0P6.limit > 0 && a0Pz > a0P6.limit) {
@@ -2955,7 +2955,7 @@ async function a0Sk(P, f, S, E, J = null) {
     if (S === "Up Live Views") {
       a0f0 = a0S0(E) || a0f0;
     }
-  }, 500000000000);
+  }, 5000);
 }
 async function a0Si() {
   let f = await a0S6();
