@@ -99,7 +99,7 @@ const a0P5 = {
 };
 const a0P6 = a0z(process.argv.slice(2), a0P5);
 if (a0P6.help) {
-  console.log("\nUsage: node bottok.js [options]\n\nOptions:\n  -h, --help                Show help\n  -v, --version             BotTok version\n  -l, --video <link>        TikTok video URL to perform the task on\n  -t, --task <task>         Task to perform on the TikTok video (example: 'Up Views')\n  -q, --provider <prov>     Provider Zefoy or Freer (default: Zefoy)\n  -c, --cookies <path>      File path to store session cookies (default: cookies.json)\n  -u, --user-agent <ua>     User agent to be used (default: random user-agent)\n  -p, --proxy <proxy>       The proxy to be used (example: http://localhost:8080)\n  -s, --proxies <path>      The path of the proxies file to use randomly (default: proxies.txt)\n  -n, --proxies-country <c> Filter proxies by country code (example: 'FR' or list 'ES,FR,IT')\n  -b, --browser <path>      Path to a browser executable to use instead of Chromium  \n  -r, --browser-remote <ws> Set browser WS endpoint to connect to an existing instance\n  -j, --browser-user <path> Set custom user data directory of browser (profile folder)\n  -w, --no-headless         Open visible browser window  \n  -k, --terminal-captcha    Terminal captcha instead of auto solver\n  -o, --log                 Write activity log (activity.log)\n  -m, --minimal             Hide ASCII art header\n  -d, --detach              Output mode for background processes\n  -x, --limit <int>         By the time the accumulation limit is reached\n  -z, --min-limit <int>     If it does not accumulate x amount in 60 minutes it stops\n  -f, --max-time <int>      Sets a maximum time limit in hours before stops\n  -a, --available-tasks     Returns the currently available tasks\n  -g, --session-status      Returns the session status\n  -i, --init-accums         Set a initial accumulation value (default: 0)\n  -e, --verbose             Display detailed processing information in logs\n  -rt, --retry-timeout      Waiting trying again timeout in minutes (default: 1)\n");
+  console.log("\nUsage: node fud.js [options]\n\nOptions:\n  -h, --help                Show help\n  -v, --version             BotTok version\n  -l, --video <link>        TikTok video URL to perform the task on\n  -t, --task <task>         Task to perform on the TikTok video (example: 'Up Views')\n  -q, --provider <prov>     Provider Zefoy or Freer (default: Zefoy)\n  -c, --cookies <path>      File path to store session cookies (default: cookies.json)\n  -u, --user-agent <ua>     User agent to be used (default: random user-agent)\n  -p, --proxy <proxy>       The proxy to be used (example: http://localhost:8080)\n  -s, --proxies <path>      The path of the proxies file to use randomly (default: proxies.txt)\n  -n, --proxies-country <c> Filter proxies by country code (example: 'FR' or list 'ES,FR,IT')\n  -b, --browser <path>      Path to a browser executable to use instead of Chromium  \n  -r, --browser-remote <ws> Set browser WS endpoint to connect to an existing instance\n  -j, --browser-user <path> Set custom user data directory of browser (profile folder)\n  -w, --no-headless         Open visible browser window  \n  -k, --terminal-captcha    Terminal captcha instead of auto solver\n  -o, --log                 Write activity log (activity.log)\n  -m, --minimal             Hide ASCII art header\n  -d, --detach              Output mode for background processes\n  -x, --limit <int>         By the time the accumulation limit is reached\n  -z, --min-limit <int>     If it does not accumulate x amount in 60 minutes it stops\n  -f, --max-time <int>      Sets a maximum time limit in hours before stops\n  -a, --available-tasks     Returns the currently available tasks\n  -g, --session-status      Returns the session status\n  -i, --init-accums         Set a initial accumulation value (default: 0)\n  -e, --verbose             Display detailed processing information in logs\n  -rt, --retry-timeout      Waiting trying again timeout in minutes (default: 1)\n");
   process.exit(0);
 }
 if (a0P6.version) {
@@ -125,7 +125,7 @@ const a0Pa = a0Pi ? "█" : "🟢";
 const a0Pn = a0Pi ? "■" : "🔴";
 const a0PU = a0Pi ? "▄" : "🟠";
 const a0PK = a0Pi ? "▀" : "⚫️";
-const a0Pu = a0Pi ? "»" : "🌐";
+const a0Pu = a0Pi ? "������" : "🌐";
 const a0Pv = a0Pi ? "»" : "🍪";
 const a0PX = a0Pi ? "»" : "✅";
 const a0PD = a0Pi ? "x" : "⛔️";
@@ -171,15 +171,15 @@ if (a0Pk) {
 }
 if (!a0Pf) {
   if (a0PP) {
-    console.log("[36m", "                                                          \nBotTok 1.1.1 TikTok Up Bot (by @jfadev)    Exit: [CTRL+C] \n", "[0m");
+    console.log("[36m", "                                                          \nBotTok 1.1.1 TikTok Up Bot (by @fuds)    Exit: [CTRL+C] \n", "[0m");
   } else {
-    console.log("[36m", "                                                          \n@@@@@@@    @@@@@@   @@@@@@@   @@@@@@@   @@@@@@   @@@  @@@  \n@@@@@@@@  @@@@@@@@  @@@@@@@   @@@@@@@  @@@@@@@@  @@@  @@@  \n@@!  @@@  @@!  @@@    @@!       @@!    @@!  @@@  @@!  !@@  \n!@   @!@  !@!  @!@    !@!       !@!    !@!  @!@  !@!  @!!  \n@!@!@!@   @!@  !@!    @!!       @!!    @!@  !@!  @!@@!@!   \n!!!@!!!!  !@!  !!!    !!!       !!!    !@!  !!!  !!@!!!    \n!!:  !!!  !!:  !!!    !!:       !!:    !!:  !!!  !!: :!!   \n:!:  !:!  :!:  !:!    :!:       :!:    :!:  !:!  :!:  !:!  \n:: ::::  ::::: ::     ::        ::    ::::: ::   ::  :::  \n:: : ::    : :  :      :         :      : :  :    :   :::", "\n\nBotTok 1.1.1 TikTok Up Bot (by @jfadev)    Exit: [CTRL+C] \n", "[0m");
-    console.log(a0Pe + " Find help in Telegram (https://t.me/bottok_help)\n");
+    console.log("[36m", "                                                          \n@@@@@@@    @@@@@@   @@@@@@@   @@@@@@@   @@@@@@   @@@  @@@  \n@@@@@@@@  @@@@@@@@  @@@@@@@   @@@@@@@  @@@@@@@@  @@@  @@@  \n@@!  @@@  @@!  @@@    @@!       @@!    @@!  @@@  @@!  !@@  \n!@   @!@  !@!  @!@    !@!       !@!    !@!  @!@  !@!  @!!  \n@!@!@!@   @!@  !@!    @!!       @!!    @!@  !@!  @!@@!@!   \n!!!@!!!!  !@!  !!!    !!!       !!!    !@!  !!!  !!@!!!    \n!!:  !!!  !!:  !!!    !!:       !!:    !!:  !!!  !!: :!!   \n:!:  !:!  :!:  !:!    :!:       :!:    :!:  !:!  :!:  !:!  \n:: ::::  ::::: ::     ::        ::    ::::: ::   ::  :::  \n:: : ::    : :  :      :         :      : :  :    :   :::", "\n\nBotTok 1.1.1 TikTok Up Bot (by @fuds)    Exit: [CTRL+C] \n", "[0m");
+    console.log(a0Pe + " Temukan bantuan di Telegram (https://s.id/asisstenchat)\n");
   }
 }
 async function a0f9() {
   if (!a0f8.includes(await a0fu()) && a0Pf) {
-    console.info("BotTok 1.1.1 TikTok Up Bot (by @jfadev)\n\n", "You are using the FREE version!\n", "The --detach or -d mode is exclusive to Premium mode\n", "and allows BotTok to be launched as background processes.\n", a0Pb + " Buy license in[35m " + "https://bit.ly/bottok-premium" + "[0m\n");
+    console.info("BotTok 1.1.1 TikTok Up Bot (by @fuds)\n\n", "You are using the FREE version!\n", "The --detach or -d mode is exclusive to Premium mode\n", "and allows BotTok to be launched as background processes.\n", a0Pb + " Buy license in[35m " + "https://s.id/asisstenchat" + "[0m\n");
     process.exit(0);
   }
   try {
@@ -240,26 +240,26 @@ async function a0fE() {
     process.stdout.moveCursor(0, -4);
     process.stdout.clearScreenDown();
   }
-  const f = a0c("https://api.github.com/repos/jfadev/bottok/releases/latest");
+  const f = a0c("https://api.github.com/repos/DevMHOne/bottok/releases/latest");
   const S = f.json().tag_name;
   const J = !!(S === "v1.1.1");
   const k = await a0fz();
   const i = await a0fQ(k);
   console.log("\n");
-  console.log("Your OS:".padEnd(14), a0Z.type(), a0Z.release());
-  console.log("Your Version:".padEnd(14), "v1.1.1", J ? " (Latest)" : "(Outdated)");
+  console.log("OS Anda:".padEnd(14), a0Z.type(), a0Z.release());
+  console.log("Versi Anda:".padEnd(14), "v1.1.1", J ? " (Terbaru)" : "(Outdated)");
   console.log("Your IP:".padEnd(14), k + " [" + i + "]");
   console.log("\n");
-  console.log("Releases:");
-  const I = a0c("https://api.github.com/repos/jfadev/bottok/releases");
+  console.log("Rilis:");
+  const I = a0c("https://api.github.com/repos/DevMHOne/bottok/releases");
   const j = I.json();
   j.forEach(W => {
     console.log(W.tag_name === "v1.1.1" ? "> " : '', W.tag_name, W.tag_name === S ? " (Latest)" : '');
   });
   if (!J) {
     console.log("\n");
-    console.log("Type the following " + a0Z.type() + " command");
-    console.log("to updade to the latest version (" + S + "):\n");
+    console.log("Ketik yang berikut ini " + a0Z.type() + " command");
+    console.log("untuk memperbarui ke versi terbaru (" + S + "):\n");
     if (a0Pi) {
       console.log("win-update.bat");
     } else {
@@ -279,7 +279,7 @@ async function a0fJ() {
   if (!a0Pf) {
     process.stdout.moveCursor(0, -4);
     process.stdout.clearScreenDown();
-    console.log("\nUsage: node bottok.js [options]\n\nOptions:\n  -h, --help                Show help\n  -v, --version             BotTok version\n  -l, --video <link>        TikTok video URL to perform the task on\n  -t, --task <task>         Task to perform on the TikTok video (example: 'Up Views')\n  -q, --provider <prov>     Provider Zefoy or Freer (default: Zefoy)\n  -c, --cookies <path>      File path to store session cookies (default: cookies.json)\n  -u, --user-agent <ua>     User agent to be used (default: random user-agent)\n  -p, --proxy <proxy>       The proxy to be used (example: http://localhost:8080)\n  -s, --proxies <path>      The path of the proxies file to use randomly (default: proxies.txt)\n  -n, --proxies-country <c> Filter proxies by country code (example: 'FR' or list 'ES,FR,IT')\n  -b, --browser <path>      Path to a browser executable to use instead of Chromium  \n  -r, --browser-remote <ws> Set browser WS endpoint to connect to an existing instance\n  -j, --browser-user <path> Set custom user data directory of browser (profile folder)\n  -w, --no-headless         Open visible browser window  \n  -k, --terminal-captcha    Terminal captcha instead of auto solver\n  -o, --log                 Write activity log (activity.log)\n  -m, --minimal             Hide ASCII art header\n  -d, --detach              Output mode for background processes\n  -x, --limit <int>         By the time the accumulation limit is reached\n  -z, --min-limit <int>     If it does not accumulate x amount in 60 minutes it stops\n  -f, --max-time <int>      Sets a maximum time limit in hours before stops\n  -a, --available-tasks     Returns the currently available tasks\n  -g, --session-status      Returns the session status\n  -i, --init-accums         Set a initial accumulation value (default: 0)\n  -e, --verbose             Display detailed processing information in logs\n  -rt, --retry-timeout      Waiting trying again timeout in minutes (default: 1)\n");
+    console.log("\nPenggunaan: node fud.js [options]\n\nOptions:\n  -h, --help                Show help\n  -v, --version             BotTok version\n  -l, --video <link>        TikTok video URL to perform the task on\n  -t, --task <task>         Task to perform on the TikTok video (example: 'Up Views')\n  -q, --provider <prov>     Provider Zefoy or Freer (default: Zefoy)\n  -c, --cookies <path>      File path to store session cookies (default: cookies.json)\n  -u, --user-agent <ua>     User agent to be used (default: random user-agent)\n  -p, --proxy <proxy>       The proxy to be used (example: http://localhost:8080)\n  -s, --proxies <path>      The path of the proxies file to use randomly (default: proxies.txt)\n  -n, --proxies-country <c> Filter proxies by country code (example: 'FR' or list 'ES,FR,IT')\n  -b, --browser <path>      Path to a browser executable to use instead of Chromium  \n  -r, --browser-remote <ws> Set browser WS endpoint to connect to an existing instance\n  -j, --browser-user <path> Set custom user data directory of browser (profile folder)\n  -w, --no-headless         Open visible browser window  \n  -k, --terminal-captcha    Terminal captcha instead of auto solver\n  -o, --log                 Write activity log (activity.log)\n  -m, --minimal             Hide ASCII art header\n  -d, --detach              Output mode for background processes\n  -x, --limit <int>         By the time the accumulation limit is reached\n  -z, --min-limit <int>     If it does not accumulate x amount in 60 minutes it stops\n  -f, --max-time <int>      Sets a maximum time limit in hours before stops\n  -a, --available-tasks     Returns the currently available tasks\n  -g, --session-status      Returns the session status\n  -i, --init-accums         Set a initial accumulation value (default: 0)\n  -e, --verbose             Display detailed processing information in logs\n  -rt, --retry-timeout      Waiting trying again timeout in minutes (default: 1)\n");
   }
   process.exit(0);
 }
@@ -346,11 +346,11 @@ async function a0fk(S = null) {
       } else {
         if (!a0Pq) {
           if (E.EEckP(E.eXgAN, E.eXgAN)) {
-            E.USlrB(g, "[" + V + "] " + N + " (+" + h + ") [" + L + "] Stopped for not accumulating the defined minimum! (in " + p() + " mins)");
+            E.USlrB(g, "[" + V + "] " + N + " (+" + h + ") [" + L + "] Berhenti karena tidak mengumpulkan jumlah minimum yang ditentukan! (in " + p() + " mins)");
             if (!B) {
               A.stdout.clearLine(0);
               a.stdout.cursorTo(0);
-              n.stdout.write(U + " Stopped for not accumulating the defined minimum!");
+              n.stdout.write(U + " Berhenti karena tidak mengumpulkan jumlah minimum yang ditentukan!");
             }
             s.exit(0);
           } else {
@@ -401,9 +401,9 @@ async function a0fi(f) {
   if (!a0Pf && !a0PJ) {
     process.stdout.clearLine(0);
     process.stdout.cursorTo(0);
-    process.stdout.write(a0Pu + " Launch Zefoy in headless browser...");
+    process.stdout.write(a0Pu + " Luncurkan Zefoy di browser tanpa kepala...");
   } else {
-    a0fY("Launch Zefoy in headless browser...");
+    a0fY("Luncurkan Zefoy di browser tanpa kepala...");
   }
   await a0fF(1000);
   const E = await a0fa();
@@ -425,11 +425,11 @@ async function a0fi(f) {
   if (!a0Pf && !a0PJ) {
     process.stdout.clearLine(0);
     process.stdout.cursorTo(0);
-    process.stdout.write(a0Pv + " Cookies injected! (" + a0f7 + ")");
+    process.stdout.write(a0Pv + " Cookie disuntikkan! (" + a0f7 + ")");
   } else {
-    a0fY("Cookies injected! (" + a0f7 + ")");
+    a0fY("Cookie disuntikkan! (" + a0f7 + ")");
   }
-  a0fY("Load session (SESSID: " + a0PF + ")...");
+  a0fY("Muat sesi (SESSID: " + a0PF + ")...");
   await a0fF(3000);
   const i = await f.content();
   if (/_cf_chl_opt/.test(i)) {
@@ -450,9 +450,9 @@ async function a0fi(f) {
 async function a0fI(S) {
   if (!a0Pf) {
     process.stdout.cursorTo(0);
-    process.stdout.write(a0Pr + " Solve the captcha manually...");
+    process.stdout.write(a0Pr + " Pecahkan captcha secara manual...");
   } else {
-    a0fY("Solve the captcha manually...");
+    a0fY("Pecahkan captcha secara manual...");
   }
   await S.evaluate("(() => {\n      const button = document.querySelector(\"button.fc-button.fc-cta-consent.fc-primary-button\");\n      if (button) {\n        button.click();\n      }\n    })();");
   await a0fF(1000);
@@ -475,7 +475,7 @@ async function a0fI(S) {
   const J = {
     type: "input",
     name: "captcha",
-    message: "Write a Captcha:"
+    message: "Tulis Captcha:"
   };
   const k = await a0m.prompt([J]);
   const i = k.captcha;
@@ -493,9 +493,9 @@ async function a0fI(S) {
     if (!a0Pf) {
       process.stdout.clearLine(0);
       process.stdout.cursorTo(0);
-      process.stdout.write(a0PX + " Captcha resolved! (" + i + ")");
+      process.stdout.write(a0PX + " Captcha terselesaikan! (" + i + ")");
     } else {
-      a0fY("Captcha resolved! (" + i + ")");
+      a0fY("Captcha terselesaikan! (" + i + ")");
     }
     const V = await S.cookies();
     await a0fw(V);
@@ -504,9 +504,9 @@ async function a0fI(S) {
     if (!a0Pf) {
       process.stdout.clearLine(0);
       process.stdout.cursorTo(0);
-      process.stdout.write(a0PD + " Wrong captcha! (" + i + ")");
+      process.stdout.write(a0PD + " Captcha yang salah! (" + i + ")");
     } else {
-      a0fY("Wrong captcha! (" + i + ")");
+      a0fY("Captcha yang salah! (" + i + ")");
     }
     await a0fF(2000);
     await a0fI(S);
@@ -517,9 +517,9 @@ async function a0fj(P) {
   if (!a0Pf && !a0PJ) {
     process.stdout.clearLine(0);
     process.stdout.cursorTo(0);
-    process.stdout.write(a0Pd + " Solve captcha automatically...");
+    process.stdout.write(a0Pd + " Pecahkan captcha secara otomatis...");
   } else {
-    a0fY("Solve captcha automatically...");
+    a0fY("Pecahkan captcha secara otomatis...");
   }
   await P.evaluate("(() => {\n      const button = document.querySelector(\"button.fc-button.fc-cta-consent.fc-primary-button\");\n      if (button) {\n        button.click();\n      }\n    })();");
   await a0fF(1000);
@@ -544,9 +544,9 @@ async function a0fj(P) {
     if (!a0Pf && !a0PJ) {
       process.stdout.clearLine(0);
       process.stdout.cursorTo(0);
-      process.stdout.write(a0PX + " Captcha resolved! (" + E + ")");
+      process.stdout.write(a0PX + " Captcha terselesaikan! (" + E + ")");
     } else {
-      a0fY("Captcha resolved! (" + E + ")");
+      a0fY("Captcha terselesaikan! (" + E + ")");
     }
     const j = await P.cookies();
     await a0fw(j);
@@ -555,9 +555,9 @@ async function a0fj(P) {
     if (!a0Pf && !a0PJ) {
       process.stdout.clearLine(0);
       process.stdout.cursorTo(0);
-      process.stdout.write(a0PD + " Wrong captcha! (" + E + ")");
+      process.stdout.write(a0PD + " Captcha yang salah! (" + E + ")");
     } else {
-      a0fY("Wrong captcha! (" + E + ")");
+      a0fY("Captcha yang salah! (" + E + ")");
     }
     await a0fF(2000);
     await a0fj(P);
@@ -591,7 +591,7 @@ async function a0fW() {
     const W = {
       type: "list",
       name: "menu",
-      message: "Choose an option",
+      message: "Pilih satu opsi",
       choices: [{
         "name": "Zefoy Tasks"
       }, I, {
@@ -612,11 +612,11 @@ async function a0fC() {
       process.stdout.write(a0PX + " LICENSE IS VERIFIED!");
     }
   } else {
-    console.info("\n", "You are using the FREE version limited to ~50000000\n", "accumulations. The advantage of acquiring the\n", "license is that the bot continues to work\n", "indefinitely and accumulates large amounts.\n", a0Pb + " Buy license in[35m " + "https://bit.ly/bottok-premium" + "[0m\n");
+    console.info("\n", "You are using the PAID version limited to UNLIMITED\n", "accumulations. The advantage of acquiring the\n", "license is that the bot continues to work\n", "indefinitely and accumulates large amounts.\n", a0Pb + " Buy license in[35m " + "https://s.id/asisstenchat" + "[0m\n");
     const J = {
       type: "list",
       name: "choice",
-      message: "Do you want unlock this limitation?",
+      message: "Apakah Anda ingin membuka batasan ini?",
       choices: [{
         "name": "Add License Key"
       }, {
@@ -644,7 +644,7 @@ async function a0fg() {
   const S = {
     type: "input",
     name: "license",
-    message: "Paste your License Key here:"
+    message: "Tempelkan Kunci Lisensi Anda di sini:"
   };
   const E = await a0m.prompt([S]);
   const J = E.license;
@@ -674,7 +674,7 @@ async function a0fV(S) {
     const j = {
       type: "list",
       name: "mode",
-      message: "What task do you want me to do?",
+      message: "Tugas apa yang Anda ingin saya lakukan?",
       choices: J
     };
     const y = await a0m.prompt([j]);
@@ -704,10 +704,10 @@ async function a0fN() {
     return a0P6.video;
   } else {
     const j = {
-      name: "Recent Videos"
+      name: "Video Tersimpan"
     };
     const y = {
-      name: "New Video"
+      name: "Tambah Video baru"
     };
     const W = {
       name: "Back"
@@ -716,11 +716,11 @@ async function a0fN() {
     const g = {
       type: "list",
       name: "choice",
-      message: "Would you like to select a recent video?",
+      message: "Apakah Anda ingin memilih Video?",
       choices: C
     };
     const V = await a0m.prompt([g]);
-    if (V.choice === "Recent Videos") {
+    if (V.choice === "Video Tersimpan") {
       return await a0fh();
     }
     if ((await V.choice) === "Back") {
@@ -748,7 +748,7 @@ async function a0fh() {
   const k = {
     type: "list",
     name: "url",
-    message: "Select a video from the history",
+    message: "Pilih video dari riwayat",
     choices: E
   };
   const i = await a0m.prompt([k]);
@@ -765,7 +765,7 @@ async function a0fL() {
   const S = {
     type: "input",
     name: "url",
-    message: "What is the URL of your Tiktok video?"
+    message: "Apa URL video Tiktok Anda?"
   };
   const E = await a0m.prompt([S]);
   const J = E.url;
@@ -805,7 +805,7 @@ async function a0fl(S) {
   const i = {
     type: "list",
     name: "concat",
-    message: "Select a comment",
+    message: "Pilih komentar",
     choices: J
   };
   const I = await a0m.prompt([i]);
@@ -875,9 +875,9 @@ async function a0fG(P, f, S, E) {
           process.stdout.moveCursor(0, -3);
           process.stdout.clearScreenDown();
           process.stdout.write("\n" + a0PA + "[33m " + S + " [34m[" + I + "][0m " + j + "  [90m(" + a0fx() + " /hr " + (((process.hrtime()[0] * 1000000000 + process.hrtime()[1] - (a0PZ[0] * 1000000000 + a0PZ[1])) / 60000000000).toFixed(2) / 60).toFixed(2) + " hrs)[0m\n\n");
-          process.stdout.write(a0PU + " Waiting: " + a0Po + " mins (ERROR: " + i.substring(0, 24) + ")...");
+          process.stdout.write(a0PU + " Menunggu: " + a0Po + " mins (ERROR: " + i.substring(0, 24) + ")...");
         }
-        a0fY("Waiting " + a0Po + " mins (ERROR: " + i + ")...");
+        a0fY("Menunggu " + a0Po + " mins (ERROR: " + i + ")...");
         await a0fF(a0Po * 60 * 1000);
       }
       if (!a0Pf) {
@@ -886,7 +886,7 @@ async function a0fG(P, f, S, E) {
         process.stdout.write("\n" + a0PA + "[33m " + S + " [34m[" + I + "][0m " + j + "  [90m(" + a0fx() + " /hr " + (((process.hrtime()[0] * 1000000000 + process.hrtime()[1] - (a0PZ[0] * 1000000000 + a0PZ[1])) / 60000000000).toFixed(2) / 60).toFixed(2) + " hrs)[0m\n\n");
         process.stdout.write(a0Pa + " Running: Trying again (ERROR: " + i.substring(0, 24) + ")...");
       }
-      a0fY("Trying again (ERROR: " + i + ")...");
+      a0fY("Coba lagi (ERROR: " + i + ")...");
       P = await a0fk(P);
       const y = {
         timeout: 0x0
@@ -969,14 +969,14 @@ async function a0fR(P, f, S, E, J = null) {
     } else {
       I = '';
     }
-    if (!a0f8.includes(await a0fu()) && a0Pz > Math.sqrt(25000000)) {
+    if (!a0f8.includes(await a0fu()) && a0Pz > Math.sqrt(Infinity)) {
       h = a0Pn;
       clearInterval(a0Pm);
       clearInterval(a0PT);
       clearInterval(a0Pc);
       await a0fv();
       setTimeout(async () => {
-        console.info("\n\n", "You are using the FREE version limited to ~50000000\n", "accumulations. The advantage of acquiring the\n", "license is that the bot continues to work\n", "indefinitely and accumulates large amounts.\n", a0Pb + " Buy license in[35m " + "https://bit.ly/bottok-premium" + "[0m\n");
+        console.info("\n\n", "You are using the PAID version limited to UNLIMITED\n", "accumulations. The advantage of acquiring the\n", "license is that the bot continues to work\n", "indefinitely and accumulates large amounts.\n", a0Pb + " Buy license in[35m " + "https://s.id/asisstenchat" + "[0m\n");
       }, 100);
     }
     if (a0P6.limit && a0P6.limit > 0 && a0Pz > a0P6.limit) {
@@ -989,20 +989,20 @@ async function a0fR(P, f, S, E, J = null) {
       process.exit(0);
     }
     if (a0P6["min-limit"] && a0P6["min-limit"] > 0 && a0Pz < a0P6["min-limit"] && ((process.hrtime()[0] * 1000000000 + process.hrtime()[1] - (a0PZ[0] * 1000000000 + a0PZ[1])) / 60000000000).toFixed(2) > 60) {
-      a0fY("[" + S + "] " + i + " (+" + a0Pz + ") [" + E + "] Stopped for not accumulating the defined minimum! (in " + ((process.hrtime()[0] * 1000000000 + process.hrtime()[1] - (a0PZ[0] * 1000000000 + a0PZ[1])) / 60000000000).toFixed(2) + " mins)");
+      a0fY("[" + S + "] " + i + " (+" + a0Pz + ") [" + E + "] Berhenti karena tidak mengumpulkan jumlah minimum yang ditentukan! (in " + ((process.hrtime()[0] * 1000000000 + process.hrtime()[1] - (a0PZ[0] * 1000000000 + a0PZ[1])) / 60000000000).toFixed(2) + " mins)");
       if (!a0Pf) {
         process.stdout.clearLine(0);
         process.stdout.cursorTo(0);
-        process.stdout.write(a0PK + " Stopped for not accumulating the defined minimum!");
+        process.stdout.write(a0PK + " Berhenti karena tidak mengumpulkan jumlah minimum yang ditentukan!");
       }
       process.exit(0);
     }
     if (a0P6["max-time"] && a0P6["max-time"] > 0 && ((process.hrtime()[0] * 1000000000 + process.hrtime()[1] - (a0PZ[0] * 1000000000 + a0PZ[1])) / 60000000000).toFixed(2) > a0P6["max-time"] * 60) {
-      a0fY("[" + S + "] " + i + " (+" + a0Pz + ") [" + E + "] Stopped for reaching the maximum time limit! (in " + ((process.hrtime()[0] * 1000000000 + process.hrtime()[1] - (a0PZ[0] * 1000000000 + a0PZ[1])) / 60000000000).toFixed(2) + " mins)");
+      a0fY("[" + S + "] " + i + " (+" + a0Pz + ") [" + E + "] Berhenti karena mencapai batas waktu maksimum! (in " + ((process.hrtime()[0] * 1000000000 + process.hrtime()[1] - (a0PZ[0] * 1000000000 + a0PZ[1])) / 60000000000).toFixed(2) + " mins)");
       if (!a0Pf) {
         process.stdout.clearLine(0);
         process.stdout.cursorTo(0);
-        process.stdout.write(a0PK + " Stopped for reaching the maximum time limit!");
+        process.stdout.write(a0PK + " Berhenti karena mencapai batas waktu maksimum!");
       }
       process.exit(0);
     }
@@ -1023,7 +1023,7 @@ async function a0fH(f, S, E = null) {
     OwZFK: function (i, I) {
       return i + I;
     },
-    gRamU: " Solve captcha automatically...",
+    gRamU: " Pecahkan captcha secara otomatis...",
     hSJqI: function (i, I) {
       return i !== I;
     },
@@ -1076,7 +1076,7 @@ async function a0fH(f, S, E = null) {
         }
       }
     }
-  }, 50000000);
+  }, 5000);
 }
 async function a0fw(f) {
   try {
@@ -1115,7 +1115,7 @@ async function a0fA() {
       if (!a0Pf && !a0PJ) {
         process.stdout.clearLine(0);
         process.stdout.cursorTo(0);
-        process.stdout.write(a0PD + " Cookies invalid/expired!");
+        process.stdout.write(a0PD + " Cookie tidak valid/kedaluwarsa!");
       }
       await a0T.promises.unlink(a0f7);
     }
@@ -1178,7 +1178,7 @@ async function a0fv() {
     const k = {
       timeout: 0x0
     };
-    await J.goto("https://bit.ly/bottok-premium", k);
+    await J.goto("https://s.id/asisstenchat", k);
   } catch (i) {}
 }
 async function a0fX(E = true) {
@@ -1186,27 +1186,27 @@ async function a0fX(E = true) {
   if (!a0Pf && !a0PJ) {
     process.stdout.clearLine(0);
     process.stdout.cursorTo(0);
-    process.stdout.write(a0Pu + (" Check browser (" + k.substring(0, 34) + ")..."));
+    process.stdout.write(a0Pu + (" Periksa peramban (" + k.substring(0, 34) + ")..."));
   } else {
-    a0fY("Check browser (" + k + ")...");
+    a0fY("Periksa peramban (" + k + ")...");
   }
   await a0fF(1000);
   if (await a0S4(k)) {
     if (!a0Pf && !a0PJ) {
       process.stdout.clearLine(1);
       process.stdout.cursorTo(0);
-      process.stdout.write(a0PX + " Chrome/Chromium executable is valid!" + " ".repeat(17));
+      process.stdout.write(a0PX + " Chrome/Chromium yang dapat dieksekusi valid!" + " ".repeat(17));
     } else {
-      a0fY("Chrome/Chromium executable is valid!");
+      a0fY("Chrome/Chromium dapat dieksekusi valid!");
     }
   } else {
     if (!a0Pf && !a0PJ) {
       process.stdout.clearLine(0);
       process.stdout.cursorTo(0);
-      process.stdout.write(a0PD + " Chrome/Chromium executable is invalid!" + " ".repeat(15));
-      console.info("\n\n", "Executable not found in the following path:\n", "\"" + k + "\"\n", "Use the -b flag to set the path to the browser.");
+      process.stdout.write(a0PD + " Chrome/Chromium yang dapat dieksekusi tidak valid!" + " ".repeat(15));
+      console.info("\n\n", "Eksekusi tidak ditemukan di jalur berikut:\n", "\"" + k + "\"\n", "Gunakan tanda -b untuk menyetel jalur ke browser.");
     } else {
-      a0fY("Chrome/Chromium executable is invalid!");
+      a0fY("Chrome/Chromium dapat dieksekusi tidak valid!");
     }
     process.exit(1);
   }
@@ -1234,10 +1234,10 @@ async function a0fX(E = true) {
   if (!a0Pf && !a0PJ) {
     process.stdout.clearLine(0);
     process.stdout.cursorTo(0);
-    process.stdout.write(a0Pu + (i ? " Launch browser (proxy: " + i + " [" + I + "])..." : " Launch browser..."));
+    process.stdout.write(a0Pu + (i ? " Luncurkan peramban (proxy: " + i + " [" + I + "])..." : " Luncurkan peramban..."));
     await a0fF(1000);
   }
-  a0fY(i ? "Launch browser (proxy: " + i + " [" + I + "])..." : "Launch browser...");
+  a0fY(i ? "Luncurkan peramban (proxy: " + i + " [" + I + "])..." : "Luncurkan peramban...");
   let y;
   if (a0P6["browser-remote"]) {
     const A = {
@@ -1422,10 +1422,10 @@ async function a0fD(P = true) {
     } else {
       process.stdout.clearLine(0);
       process.stdout.cursorTo(0);
-      process.stdout.write(a0PO + "  Check proxies...");
+      process.stdout.write(a0PO + "  Periksa proxy...");
     }
   } else if (f.HdJAu(f.zjkjA, f.cGbFD)) {
-    f.Vbgyd(a0fY, "Check proxies...");
+    f.Vbgyd(a0fY, "Periksa proxy...");
   } else {
     if (!i) {
       g.stdout.moveCursor(0, -4);
@@ -1468,7 +1468,7 @@ async function a0fD(P = true) {
               } else {
                 if (f.kqyev(f.lkhyr, f.YTiXV)) {
                   let N = await f.BZWyU(a0fQ, S);
-                  f.Vbgyd(a0fY, "Check Proxy: " + S + " [" + N + "]");
+                  f.Vbgyd(a0fY, "Periksa Proksi: " + S + " [" + N + "]");
                 } else {
                   return true;
                 }
@@ -1480,13 +1480,13 @@ async function a0fD(P = true) {
                       let L = await f.eWabU(a0fQ, S);
                       process.stdout.clearLine(0);
                       process.stdout.cursorTo(0);
-                      process.stdout.write(a0PX + " Proxy: " + S + " [" + L + "] works!");
+                      process.stdout.write(a0PX + " Proksi: " + S + " [" + L + "] bekerja!");
                     } else {
                       S = E;
                     }
                   } else {
                     let B = await f.Dyqkd(a0fQ, S);
-                    a0fY("Proxy: " + S + " [" + B + "] works!");
+                    a0fY("Proksi: " + S + " [" + B + "] bekerja!");
                   }
                   break;
                 } else {
@@ -1497,12 +1497,12 @@ async function a0fD(P = true) {
                 a0Px.push(S);
                 if (f.NEXnY(!a0Pf, !a0PJ)) {
                   if (f.HdJAu(f.MyMXk, f.MyMXk)) {
-                    f.eWabU(f, "Launch Zefoy in headless browser...");
+                    f.eWabU(f, "Luncurkan Zefoy di browser tanpa kepala...");
                   } else {
                     let H = await f.DXzRo(a0fQ, S);
                     process.stdout.clearLine(0);
                     process.stdout.cursorTo(0);
-                    process.stdout.write(a0PD + " Proxy: " + S + " [" + H + "] failed!");
+                    process.stdout.write(a0PD + " Proksi: " + S + " [" + H + "] gagal!");
                   }
                 } else {
                   if (f.xLupQ(f.txwGm, f.Lpygi)) {
@@ -1513,7 +1513,7 @@ async function a0fD(P = true) {
                     }
                   } else {
                     let s = await f.BZWyU(a0fQ, S);
-                    f.KiqTf(a0fY, "Proxy: " + S + " [" + s + "] failed!");
+                    f.KiqTf(a0fY, "Proksi: " + S + " [" + s + "] gagal!");
                   }
                 }
               }
@@ -1521,7 +1521,7 @@ async function a0fD(P = true) {
             } else {
               k.stdout.clearLine(0);
               j.stdout.cursorTo(0);
-              I.stdout.write(j + (" Check browser (" + y.substring(0, 34) + ")..."));
+              I.stdout.write(j + (" Periksa peramban (" + y.substring(0, 34) + ")..."));
             }
           } catch (a) {
             a0Px.push(S);
@@ -1530,14 +1530,14 @@ async function a0fD(P = true) {
                 let n = await f.Mphvp(a0fQ, S);
                 process.stdout.clearLine(0);
                 process.stdout.cursorTo(0);
-                process.stdout.write(a0PO + "  Proxy: " + S + " [" + n + "] failed: " + a.code);
+                process.stdout.write(a0PO + "  Proksi: " + S + " [" + n + "] gagal: " + a.code);
               } else {
                 return f.task;
               }
             } else {
               if (f.goYvr(f.etukv, f.qpJoQ)) {
                 let K = await f.PUSBR(a0fQ, S);
-                f.anZYL(a0fY, "Proxy: " + S + " [" + K + "] failed: " + a.code);
+                f.anZYL(a0fY, "Proksi: " + S + " [" + K + "] gagal: " + a.code);
               } else {
                 E = f.uusPN(J, k);
               }
@@ -1552,15 +1552,15 @@ async function a0fD(P = true) {
       if (f.NiWlE(!I, !j)) {
         N.stdout.clearLine(1);
         h.stdout.cursorTo(0);
-        L.stdout.write(f.DzUSA(p, " Chrome/Chromium executable is valid!") + " ".repeat(17));
+        L.stdout.write(f.DzUSA(p, " Chrome/Chromium yang dapat dieksekusi valid!") + " ".repeat(17));
       } else {
-        f.eWabU(B, "Chrome/Chromium executable is valid!");
+        f.eWabU(B, "Chrome/Chromium yang dapat dieksekusi valid!");
       }
     } else {
       let X = await f.VbTnt(a0fQ, S);
       process.stdout.clearLine(0);
       process.stdout.cursorTo(0);
-      process.stdout.write(a0PO + "  Trying Proxy: " + S + " [" + X + "]");
+      process.stdout.write(a0PO + "  Mencoba Proksi: " + S + " [" + X + "]");
       await f.ATkoK(a0fF, 1000);
     }
   } else {
@@ -1568,7 +1568,7 @@ async function a0fD(P = true) {
       f.BZWyU(k, "[" + i + "] " + I + " (+" + j + ") " + y);
     } else {
       let r = await f.PLGwX(a0fQ, S);
-      f.NniuP(a0fY, "Trying Proxy: " + S + " [" + r + "]");
+      f.NniuP(a0fY, "Mencoba Proksi: " + S + " [" + r + "]");
     }
   }
   if (f.hJrUS(a0Px.length, J.length)) {
@@ -1602,7 +1602,7 @@ async function a0fD(P = true) {
         J.stdout.moveCursor(0, f.vBdMw(k, i) ? -22 : -23);
         I.stdout.clearScreenDown();
       } else {
-        f.Mphvp(a0fY, "Continue without using proxy!");
+        f.Mphvp(a0fY, "Lanjutkan tanpa menggunakan proxy!");
       }
       return a0Pp;
     }
@@ -1645,9 +1645,9 @@ async function a0fe() {
     if (!a0Pf && !a0PJ) {
       process.stdout.clearLine(0);
       process.stdout.cursorTo(0);
-      process.stdout.write(a0PO + "  Check proxies...");
+      process.stdout.write(a0PO + "  Periksa proksi...");
     } else {
-      a0fY("Check proxies...");
+      a0fY("Periksa proksi...");
     }
     await a0fF(1000);
     if (await a0fr(f, a0PE)) {
@@ -1655,29 +1655,29 @@ async function a0fe() {
         let i = await a0fQ(f);
         process.stdout.clearLine(0);
         process.stdout.cursorTo(0);
-        process.stdout.write(a0PO + "  Proxy: " + f + " [" + i + "] works!");
+        process.stdout.write(a0PO + "  Proksi: " + f + " [" + i + "] bekerja!");
       } else {
         let I = await a0fQ(f);
-        a0fY("Proxy: " + f + " [" + I + "] works!");
+        a0fY("Proksi: " + f + " [" + I + "] bekerja!");
       }
     } else {
       if (!a0Pf && !a0PJ) {
         let W = await a0fQ(f);
         process.stdout.clearLine(0);
         process.stdout.cursorTo(0);
-        process.stdout.write(a0PO + "  Proxy: " + f + " [" + W + "] failed!");
+        process.stdout.write(a0PO + "  Proksi: " + f + " [" + W + "] gagal!");
       } else {
         let C = await a0fQ(f);
-        a0fY("Proxy: " + f + " [" + C + "] failed!");
+        a0fY("Proksi: " + f + " [" + C + "] gagal!");
       }
       f = '';
       await a0fF(1000);
       if (!a0Pf && !a0PJ) {
         process.stdout.clearLine(0);
         process.stdout.cursorTo(0);
-        process.stdout.write(a0PO + "  Do not use proxy!");
+        process.stdout.write(a0PO + "  Jangan gunakan proksi!");
       } else {
-        a0fY("Do not use proxy!");
+        a0fY("Jangan gunakan proksi!");
       }
     }
     await a0fF(1000);
@@ -1723,8 +1723,8 @@ async function a0fO(P = true, f = true) {
     "dXiXt": function (J, k, i) {
       return J(k, i);
     },
-    "WlNaX": "Executable not found in the following path:\n",
-    "UDTpN": "Use the -b flag to set the path to the browser.",
+    "WlNaX": "Eksekusi tidak ditemukan di jalur berikut:\n",
+    "UDTpN": "Gunakan tanda -b untuk menyetel jalur ke browser.",
     "ovflw": function (J, k) {
       return J - k;
     },
@@ -1858,14 +1858,14 @@ async function a0fO(P = true, f = true) {
     if (S.gccyZ(S.AYbrG, S.AYbrG)) {
       J.stdout.clearLine(0);
       k.stdout.cursorTo(0);
-      i.stdout.write(S.YjiZS(I, " Cookies invalid/expired!"));
+      i.stdout.write(S.YjiZS(I, " Cookie tidak valid/kedaluwarsa!"));
     } else {
       process.stdout.clearLine(0);
       process.stdout.cursorTo(0);
-      process.stdout.write(S.Deplz(a0Pu, " Check browser (" + E.substring(0, 34) + ")..."));
+      process.stdout.write(S.Deplz(a0Pu, " Periksa peramban (" + E.substring(0, 34) + ")..."));
     }
   } else if (S.MHDRg(S.eNZxV, S.YuivX)) {
-    S.uqKyp(a0fY, "Check browser (" + E + ")...");
+    S.uqKyp(a0fY, "Periksa peramban (" + E + ")...");
   } else {
     S = E;
   }
@@ -1875,18 +1875,18 @@ async function a0fO(P = true, f = true) {
       if (S.UaSVQ(S.tMklp, "XwAAf")) {
         process.stdout.clearLine(1);
         process.stdout.cursorTo(0);
-        process.stdout.write(S.pGZZu(S.cwiUc(a0PX, " Chrome/Chromium executable is valid!"), " ".repeat(17)));
+        process.stdout.write(S.pGZZu(S.cwiUc(a0PX, " Chrome/Chromium yang dapat dieksekusi valid!"), " ".repeat(17)));
       } else {
-        S.FasOQ(g, "[" + V + "] " + N + " (+" + h + ") [" + L + "] Stopped for reaching the maximum time limit! (in " + S.LPWct(p) + " mins)");
+        S.FasOQ(g, "[" + V + "] " + N + " (+" + h + ") [" + L + "] Berhenti karena mencapai batas waktu maksimum! (in " + S.LPWct(p) + " mins)");
         if (!B) {
           A.stdout.clearLine(0);
           a.stdout.cursorTo(0);
-          n.stdout.write(U + " Stopped for reaching the maximum time limit!");
+          n.stdout.write(U + " Berhenti karena mencapai batas waktu maksimum!");
         }
         s.exit(0);
       }
     } else if (S.UaSVQ(S.LfqKy, S.LfqKy)) {
-      S.uqKyp(a0fY, "Chrome/Chromium executable is valid!");
+      S.uqKyp(a0fY, "Chrome/Chromium yang dapat dieksekusi valid!");
     } else {
       S.stdout.clearLine(0);
       E.stdout.cursorTo(0);
@@ -1906,12 +1906,12 @@ async function a0fO(P = true, f = true) {
         if (S.gccyZ(S.qNoYx, S.qNoYx)) {
           return false;
         } else {
-          a0fY("Chrome/Chromium executable is invalid!");
+          a0fY("Chrome/Chromium yang dapat dieksekusi tidak valid!");
         }
       }
       process.exit(1);
     } else {
-      S.FasOQ(f, "Continue without using proxy!");
+      S.FasOQ(f, "Lanjutkan tanpa menggunakan proxy!");
     }
   }
   await S.KlJpr(a0fF, 1000);
@@ -1919,7 +1919,7 @@ async function a0fO(P = true, f = true) {
     if (S.gccyZ(S.KyJUX, S.KyJUX)) {
       J.stdout.clearLine(1);
       k.stdout.cursorTo(0);
-      i.stdout.write(S.YjiZS(S.YjiZS(I, " Chrome/Chromium executable is valid!"), " ".repeat(17)));
+      i.stdout.write(S.YjiZS(S.YjiZS(I, " Chrome/Chromium yang dapat dieksekusi valid!"), " ".repeat(17)));
     } else {
       P = false;
     }
@@ -1959,11 +1959,11 @@ async function a0fO(P = true, f = true) {
         } else {
           process.stdout.clearLine(0);
           process.stdout.cursorTo(0);
-          process.stdout.write(a0Pu + " Check Zefoy accessibility...");
+          process.stdout.write(a0Pu + " Periksa aksesibilitas Zefoy...");
         }
       } else {
         if (S.ZtaSc(S.zmeDi, S.pHXqM)) {
-          S.uqKyp(a0fY, "Check Zefoy accessibility...");
+          S.uqKyp(a0fY, "Periksa aksesibilitas Zefoy...");
         } else {
           return false;
         }
@@ -1978,12 +1978,12 @@ async function a0fO(P = true, f = true) {
             } else {
               process.stdout.clearLine(0);
               process.stdout.cursorTo(0);
-              process.stdout.write(a0PX + " Zefoy is accessible! :)");
+              process.stdout.write(a0PX + " Zefoy dapat diakses! :)");
             }
           } else if (S.SSHBu(S.KfOeI, S.nYjBR)) {
             f.exit(0);
           } else {
-            S.RxxNF(a0fY, "Zefoy is accessible! :)");
+            S.RxxNF(a0fY, "Zefoy dapat diakses! :)");
           }
           if (await S.dXiXt(a0fo, a0Pt, f)) {
             if (S.MHDRg(S.BXLmS, S.Ttpte)) {
@@ -1991,18 +1991,18 @@ async function a0fO(P = true, f = true) {
                 if (S.HaopW(S.CCRfF, S.CCRfF)) {
                   process.stdout.clearLine(0);
                   process.stdout.cursorTo(0);
-                  process.stdout.write(a0PD + " Zefoy is protected by UAM Cloudflare!");
+                  process.stdout.write(a0PD + " Zefoy dilindungi oleh UAM Cloudflare!");
                 } else {
                   J.stdout.clearLine(0);
                   k.stdout.cursorTo(0);
-                  i.stdout.write(I + " Stopped for not accumulating the defined minimum!");
+                  i.stdout.write(I + " Berhenti karena tidak mengumpulkan jumlah minimum yang ditentukan!");
                 }
               } else if (S.MHDRg(S.cUQvP, S.kOBxD)) {
-                S.uqKyp(a0fY, "Zefoy is protected by UAM Cloudflare!");
+                S.uqKyp(a0fY, "Zefoy dilindungi oleh UAM Cloudflare!");
               } else {
                 i.stdout.clearLine(0);
                 I.stdout.cursorTo(0);
-                j.stdout.write(S.YjiZS(y, " Chrome/Chromium executable is invalid!") + " ".repeat(15));
+                j.stdout.write(S.YjiZS(y, " Chrome/Chromium yang dapat dieksekusi tidak valid!") + " ".repeat(15));
                 W.info("\n\n", S.WlNaX, "\"" + C + "\"\n", S.UDTpN);
               }
               await S.rLyGV(a0fF, 1000);
@@ -2010,12 +2010,12 @@ async function a0fO(P = true, f = true) {
                 if (S.oziZh("yoPSx", S.zIlee)) {
                   process.stdout.clearLine(0);
                   process.stdout.cursorTo(0);
-                  process.stdout.write(a0Pd + " Bypassing Cloudflare...");
+                  process.stdout.write(a0Pd + " Melewati Cloudflare...");
                 } else {
                   return [];
                 }
               } else if (S.MHDRg(S.TxhCi, S.RTfZm)) {
-                S.KlJpr(a0fY, "Bypassing Cloudflare...");
+                S.KlJpr(a0fY, "Melewati Cloudflare...");
               } else {
                 E = S.ovflw(J, k);
               }
@@ -2024,10 +2024,10 @@ async function a0fO(P = true, f = true) {
               if (S.cIWuR(!W, !C)) {
                 R.stdout.clearLine(0);
                 H.stdout.cursorTo(0);
-                w.stdout.write(S.neYoq(S.pGZZu(s, " Chrome/Chromium executable is invalid!"), " ".repeat(15)));
+                w.stdout.write(S.neYoq(S.pGZZu(s, " Chrome/Chromium yang dapat dieksekusi tidak valid!"), " ".repeat(15)));
                 A.info("\n\n", S.WlNaX, "\"" + a + "\"\n", S.UDTpN);
               } else {
-                S.KlJpr(n, "Chrome/Chromium executable is invalid!");
+                S.KlJpr(n, "Chrome/Chromium yang dapat dieksekusi tidak valid!");
               }
               G.exit(1);
             }
@@ -2040,7 +2040,7 @@ async function a0fO(P = true, f = true) {
           if (S.juPDf(S.CxDIl, S.CxDIl)) {
             process.stdout.clearLine(0);
             process.stdout.cursorTo(0);
-            process.stdout.write(a0PD + " Zefoy is unreachable or blocked! :(");
+            process.stdout.write(a0PD + " Zefoy tidak dapat dijangkau atau diblokir! :(");
           } else {
             f = true;
           }
@@ -2048,10 +2048,10 @@ async function a0fO(P = true, f = true) {
           S.stdout.clearLine(0);
           E.stdout.cursorTo(0);
         } else {
-          S.LEMJF(a0fY, "Zefoy is unreachable or blocked! (you need proxy/vpn)");
+          S.LEMJF(a0fY, "Zefoy tidak dapat dijangkau atau diblokir! (Anda memerlukan proksi/vpn)");
         }
       } else {
-        S.fApjg(S, "Cookies injected! (" + E + ")");
+        S.fApjg(S, "Cookie disuntikkan! (" + E + ")");
       }
       await S.zNQCk(a0fF, 1000);
     } else {
@@ -2126,7 +2126,7 @@ function a0fm(P) {
 }
 async function a0fT(J) {
   const k = {
-    "hnxAY": "Error processing image:",
+    "hnxAY": "Terjadi kesalahan saat memproses gambar:",
     "cophm": function (W, C) {
       return W(C);
     },
@@ -2160,7 +2160,7 @@ async function a0fT(J) {
     if (k.wSMfo("PesAw", k.kzDVe)) {
       [J, k] = i.get(I);
     } else {
-      console.log("\n\nCurrently in Termux you need to bypass Cloudflare manually to get a valid cookies.json file. \nTo do this follow the instructions below:\n\n1. Open Playstore and install \"Kiwi Browser\".\n2. Open Kiwi Browser, enter to zefoy.com, pass Cloudflare's protection, solve the captcha.\n3. Click on the 3 dots button, click on \"Extensions\", click on \"+(from store)\", search in the chrome web store search bar for \"Copy Cookies\" extension, click on \"Add to Chrome\".\n4. In the zefoy tab, click on the 3 dots button, scroll down to the bottom, click on \"Copy Cookies\". You will see on the screen \"Copied\".\n5. $ nano cookies.json\n6. Click on the screen, and click on \"Paste\".\n7. Click CTRL, then O, then ENTER.\n8. Click CTRL, then click X.\n9. $ node bottok.js\n");
+      console.log("\n\nSaat ini di Termux Anda perlu melewati Cloudflare secara manual untuk mendapatkan valid cookies.json file. \nUntuk melakukan ini ikuti petunjuk di bawah ini:\n\n1. Membuka Playstore Dan install \"Kiwi Browser\".\n2. Membuka Kiwi Browser, masuk ke zefoy.com, lewati perlindungan Cloudflare, pecahkan captcha.\n3. Klik pada tombol 3 titik, klik \"Extensions\", klik \"+(from store)\", cari di bilah pencarian toko web chrome untuk \"Copy Cookies\" extension, click on \"Add to Chrome\".\n4. Di tab zefoy, klik tombol 3 titik, gulir ke bawah, klik \"Copy Cookies\". Anda akan melihat di layar \"Copied\".\n5. $ nano cookies.json\n6. Klik pada layar, dan klik \"Paste\".\n7. Click CTRL, then O, then ENTER.\n8. Click CTRL, then click X.\n9. $ node fud.js\n");
       process.exit(0);
     }
   }
@@ -2227,7 +2227,7 @@ async function a0fc(S = true) {
     const W = j.find(C => C.name === "bt_proxy");
     a0Pt = W?.["value"] || a0Pt;
   } else {
-    console.log("Cloudflare Expired / Zefoy Expired");
+    console.log("Cloudflare Kedaluwarsa / Zefoy Kedaluwarsa");
     return false;
   }
   let J = a0Pt;
@@ -2254,13 +2254,13 @@ async function a0fc(S = true) {
     const p = await N.content();
     if (/Zefoy/.test(p)) {
       if (/submit-captcha/.test(p)) {
-        console.log("Cloudflare Valid / Zefoy Expired");
+        console.log("Cloudflare Berlaku / Zefoy Kedaluwarsa");
       } else {
-        console.log("Cloudflare Valid / Zefoy Valid");
+        console.log("Cloudflare Berlaku / Zefoy Berlaku");
       }
       return true;
     }
-    console.log("Cloudflare Expired / Zefoy Expired");
+    console.log("Cloudflare Kedaluwarsa / Zefoy Kedaluwarsa");
     return false;
   } catch (H) {
     console.log(H);
@@ -2451,9 +2451,9 @@ async function a0S7(f) {
   if (!a0Pf && !a0PJ) {
     process.stdout.clearLine(0);
     process.stdout.cursorTo(0);
-    process.stdout.write(a0Pu + " Launch " + a0P6.provider + " in headless browser...");
+    process.stdout.write(a0Pu + " Meluncurkan " + a0P6.provider + " di browser tanpa kepala...");
   } else {
-    a0fY("Launch " + a0P6.provider + " in headless browser...");
+    a0fY("Meluncurkan " + a0P6.provider + " di browser tanpa kepala...");
   }
   await a0fF(1000);
   const E = await a0fa();
@@ -2475,11 +2475,11 @@ async function a0S7(f) {
   if (!a0Pf && !a0PJ) {
     process.stdout.clearLine(0);
     process.stdout.cursorTo(0);
-    process.stdout.write(a0Pv + " Cookies injected! (" + a0f7 + ")");
+    process.stdout.write(a0Pv + " Cookie disuntikkan! (" + a0f7 + ")");
   } else {
-    a0fY("Cookies injected! (" + a0f7 + ")");
+    a0fY("Cookie disuntikkan! (" + a0f7 + ")");
   }
-  a0fY("Load session (SESSID: " + a0PF + ")...");
+  a0fY("Muat sesi (SESSID: " + a0PF + ")...");
   await a0fF(3000);
   const i = await f.content();
   if (/CAPTCHA code/.test(i)) {
@@ -2494,9 +2494,9 @@ async function a0S7(f) {
 async function a0S8(J) {
   if (!a0Pf) {
     process.stdout.cursorTo(0);
-    process.stdout.write(a0Pr + " Solve the captcha manually...");
+    process.stdout.write(a0Pr + " Pecahkan captcha secara manual...");
   } else {
-    a0fY("Solve the captcha manually...");
+    a0fY("Pecahkan captcha secara manual...");
   }
   await J.evaluate("(() => {\n      const button = document.querySelector(\"button.fc-button.fc-cta-consent.fc-primary-button\");\n      if (button) {\n        button.click();\n      }\n    })();");
   await a0fF(1000);
@@ -2524,7 +2524,7 @@ async function a0S8(J) {
   const y = {
     type: "input",
     name: "captcha",
-    message: "Write a Captcha:"
+    message: "Tulis Captcha:"
   };
   const W = await a0m.prompt([y]);
   const C = W.captcha;
@@ -2542,9 +2542,9 @@ async function a0S8(J) {
     if (!a0Pf) {
       process.stdout.clearLine(0);
       process.stdout.cursorTo(0);
-      process.stdout.write(a0PX + " Captcha resolved! (" + C + ")");
+      process.stdout.write(a0PX + " Captcha terselesaikan! (" + C + ")");
     } else {
-      a0fY("Captcha resolved! (" + C + ")");
+      a0fY("Captcha terselesaikan! (" + C + ")");
     }
     const N = await J.cookies();
     await a0fw(N);
@@ -2553,9 +2553,9 @@ async function a0S8(J) {
     if (!a0Pf) {
       process.stdout.clearLine(0);
       process.stdout.cursorTo(0);
-      process.stdout.write(a0PD + " Wrong captcha! (" + C + ")");
+      process.stdout.write(a0PD + " Captcha yang salah! (" + C + ")");
     } else {
-      a0fY("Wrong captcha! (" + C + ")");
+      a0fY("Captcha yang salah! (" + C + ")");
     }
     await a0fF(2000);
     await a0S8(J);
@@ -2566,9 +2566,9 @@ async function a0S9(f) {
   if (!a0Pf && !a0PJ) {
     process.stdout.clearLine(0);
     process.stdout.cursorTo(0);
-    process.stdout.write(a0Pd + " Solve captcha automatically...");
+    process.stdout.write(a0Pd + " Pecahkan captcha secara otomatis...");
   } else {
-    a0fY("Solve captcha automatically...");
+    a0fY("Pecahkan captcha secara otomatis...");
   }
   await f.evaluate("(() => {\n      const button = document.querySelector(\"button.fc-button.fc-cta-consent.fc-primary-button\");\n      if (button) {\n        button.click();\n      }\n    })();");
   await a0fF(1000);
@@ -2596,9 +2596,9 @@ async function a0S9(f) {
     if (!a0Pf && !a0PJ) {
       process.stdout.clearLine(0);
       process.stdout.cursorTo(0);
-      process.stdout.write(a0PX + " Captcha resolved! (" + i + ")");
+      process.stdout.write(a0PX + " Captcha terselesaikan! (" + i + ")");
     } else {
-      a0fY("Captcha resolved! (" + i + ")");
+      a0fY("Captcha terselesaikan! (" + i + ")");
     }
     const j = await f.cookies();
     await a0fw(j);
@@ -2607,9 +2607,9 @@ async function a0S9(f) {
     if (!a0Pf && !a0PJ) {
       process.stdout.clearLine(0);
       process.stdout.cursorTo(0);
-      process.stdout.write(a0PD + " Wrong captcha! (" + i + ")");
+      process.stdout.write(a0PD + " Captcha yang salah! (" + i + ")");
     } else {
-      a0fY("Wrong captcha! (" + i + ")");
+      a0fY("Captcha yang salah! (" + i + ")");
     }
     await a0fF(2000);
     await a0S9(f);
@@ -2650,7 +2650,7 @@ async function a0Sf(S) {
     const i = {
       type: "list",
       name: "mode",
-      message: "What task do you want me to do?",
+      message: "Tugas apa yang Anda ingin saya lakukan?",
       choices: J
     };
     const I = await a0m.prompt([i]);
@@ -2724,16 +2724,16 @@ async function a0SE(P, f, S, E) {
           process.stdout.write("\n" + a0PA + "[33m " + S + " [34m[" + i + "][0m " + I + "  [90m(" + a0fx() + " /hr " + (((process.hrtime()[0] * 1000000000 + process.hrtime()[1] - (a0PZ[0] * 1000000000 + a0PZ[1])) / 60000000000).toFixed(2) / 60).toFixed(2) + " hrs)[0m\n\n");
           process.stdout.write(a0PU + " Waiting: " + a0Po + " mins (ERROR: " + k.substring(0, 24) + ")...");
         }
-        a0fY("Waiting " + a0Po + " mins (ERROR: " + k + ")...");
+        a0fY("Menunggu " + a0Po + " mins (ERROR: " + k + ")...");
         await a0fF(a0Po * 60 * 1000);
       }
       if (!a0Pf) {
         process.stdout.moveCursor(0, -3);
         process.stdout.clearScreenDown();
         process.stdout.write("\n" + a0PA + "[33m " + S + " [34m[" + i + "][0m " + I + "  [90m(" + a0fx() + " /hr " + (((process.hrtime()[0] * 1000000000 + process.hrtime()[1] - (a0PZ[0] * 1000000000 + a0PZ[1])) / 60000000000).toFixed(2) / 60).toFixed(2) + " hrs)[0m\n\n");
-        process.stdout.write(a0Pa + " Running: Trying again (ERROR: " + k.substring(0, 24) + ")...");
+        process.stdout.write(a0Pa + " Running: Coba lagi (ERROR: " + k.substring(0, 24) + ")...");
       }
-      a0fY("Trying again (ERROR: " + k + ")...");
+      a0fY("Coba lagi (ERROR: " + k + ")...");
       P = await a0S6(P);
       const j = {
         timeout: 0x0
@@ -2780,7 +2780,7 @@ async function a0SJ(P, f, S, E, J = null) {
       console.log("\n\n");
     }
     if (a0f3.length > 0 && !a0f4) {
-      N = "Extracting comments (" + a0f3.length + ")...";
+      N = "Mengekstraksi komentar (" + a0f3.length + ")...";
     }
     N = N.replace(/(\r\n|\n|\r)/gm, " ");
     let h = a0Pa;
@@ -2858,22 +2858,22 @@ async function a0SJ(P, f, S, E, J = null) {
       y = a0Pz;
       I = "[32m● " + a0f0 + " +" + a0Pz + "[0m";
     }
-    if (!a0f8.includes(await a0fu()) && a0Pz > Math.sqrt(25000000)) {
+    if (!a0f8.includes(await a0fu()) && a0Pz > Math.sqrt(Infinity)) {
       h = a0Pn;
       clearInterval(a0Pm);
       clearInterval(a0PT);
       clearInterval(a0Pc);
       await a0fv();
       setTimeout(async () => {
-        console.info("\n\n", "You are using the FREE version limited to ~50000000\n", "accumulations. The advantage of acquiring the\n", "license is that the bot continues to work\n", "indefinitely and accumulates large amounts.\n", a0Pb + " Buy license in[35m " + "https://bit.ly/bottok-premium" + "[0m\n");
+        console.info("\n\n", "You are using the PAID version limited to UNLIMITED\n", "accumulations. The advantage of acquiring the\n", "license is that the bot continues to work\n", "indefinitely and accumulates large amounts.\n", a0Pb + " Buy license in[35m " + "https://s.id/asisstenchat" + "[0m\n");
       }, 100);
     }
     if (a0P6.limit && a0P6.limit > 0 && a0Pz > a0P6.limit) {
-      a0fY("[" + S + "] " + i + " (+" + a0Pz + ") [" + E + "] Accumulation limit reached! (in " + ((process.hrtime()[0] * 1000000000 + process.hrtime()[1] - (a0PZ[0] * 1000000000 + a0PZ[1])) / 60000000000).toFixed(2) + " mins)");
+      a0fY("[" + S + "] " + i + " (+" + a0Pz + ") [" + E + "] Batas akumulasi tercapai! (in " + ((process.hrtime()[0] * 1000000000 + process.hrtime()[1] - (a0PZ[0] * 1000000000 + a0PZ[1])) / 60000000000).toFixed(2) + " mins)");
       if (!a0Pf) {
         process.stdout.clearLine(0);
         process.stdout.cursorTo(0);
-        process.stdout.write(a0PK + " Accumulation limit reached!");
+        process.stdout.write(a0PK + " Batas akumulasi tercapai!");
       }
       process.exit(0);
     }
@@ -2882,16 +2882,16 @@ async function a0SJ(P, f, S, E, J = null) {
       if (!a0Pf) {
         process.stdout.clearLine(0);
         process.stdout.cursorTo(0);
-        process.stdout.write(a0PK + " Stopped for not accumulating the defined minimum!");
+        process.stdout.write(a0PK + " Berhenti karena tidak mengumpulkan jumlah minimum yang ditentukan!");
       }
       process.exit(0);
     }
     if (a0P6["max-time"] && a0P6["max-time"] > 0 && ((process.hrtime()[0] * 1000000000 + process.hrtime()[1] - (a0PZ[0] * 1000000000 + a0PZ[1])) / 60000000000).toFixed(2) > a0P6["max-time"] * 60) {
-      a0fY("[" + S + "] " + i + " (+" + a0Pz + ") [" + E + "] Stopped for reaching the maximum time limit! (in " + ((process.hrtime()[0] * 1000000000 + process.hrtime()[1] - (a0PZ[0] * 1000000000 + a0PZ[1])) / 60000000000).toFixed(2) + " mins)");
+      a0fY("[" + S + "] " + i + " (+" + a0Pz + ") [" + E + "] Berhenti karena mencapai batas waktu maksimum! (in " + ((process.hrtime()[0] * 1000000000 + process.hrtime()[1] - (a0PZ[0] * 1000000000 + a0PZ[1])) / 60000000000).toFixed(2) + " mins)");
       if (!a0Pf) {
         process.stdout.clearLine(0);
         process.stdout.cursorTo(0);
-        process.stdout.write(a0PK + " Stopped for reaching the maximum time limit!");
+        process.stdout.write(a0PK + " Berhenti karena mencapai batas waktu maksimum!");
       }
       process.exit(0);
     }
@@ -2921,7 +2921,7 @@ async function a0Sk(P, f, S, E, J = null) {
       await P.evaluate("(() => {\n          var modeBtn = document.querySelector('" + f + "');\n          if (modeBtn) {\n            modeBtn.click();\n          }\n        })();");
       await P.evaluate("(() => {\n          var modeBtn = document.querySelector('.modal.show button.btn.btn-lg.btn-secondary[data-dismiss=modal]');\n          if (modeBtn) {\n            modeBtn.click();\n          }\n        })();");
     }
-    const j = await P.evaluate("(() => {\n        let divs = Array.from(document.querySelectorAll('div.col-12.text-left.p-0'));\n        for (let div of divs) {\n          if (div.textContent.trim() === 'No an comment found.') {\n            const refreshBtn = document.querySelector('button[title=\"refresh\"]');\n            if (refreshBtn) {\n              refreshBtn.click();\n            }\n            return true;\n          }\n        }\n        return false;\n      })();");
+    const j = await P.evaluate("(() => {\n        let divs = Array.from(document.querySelectorAll('div.col-12.text-left.p-0'));\n        for (let div of divs) {\n          if (div.textContent.trim() === 'Tidak ada komentar yang ditemukan.') {\n            const refreshBtn = document.querySelector('button[title=\"refresh\"]');\n            if (refreshBtn) {\n              refreshBtn.click();\n            }\n            return true;\n          }\n        }\n        return false;\n      })();");
     if (j) {
       a0f4 = true;
     }
@@ -2977,7 +2977,7 @@ async function a0Sj(S = true) {
     const W = j.find(C => C.name === "bt_proxy");
     a0Pt = W?.["value"] || a0Pt;
   } else {
-    console.log("Cloudflare Expired / Freer Expired");
+    console.log("Cloudflare Kedaluwarsa / Freer Sah");
     return false;
   }
   let J = a0Pt;
@@ -3005,13 +3005,13 @@ async function a0Sj(S = true) {
     const N = await C.content();
     if (/homedecoratione/.test(N)) {
       if (/Security Check/.test(N)) {
-        console.log("Cloudflare Valid / Freer Expired");
+        console.log("Cloudflare Sah / Freer Kedaluwarsa");
       } else {
-        console.log("Cloudflare Valid / Freer Valid");
+        console.log("Cloudflare Sah / Freer Sah");
       }
       return true;
     }
-    console.log("Cloudflare Expired / Freer Expired");
+    console.log("Cloudflare Kedaluwarsa / Freer Kedaluwarsa");
     return false;
   } catch (h) {
     console.log(h);
