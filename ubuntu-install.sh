@@ -29,4 +29,4 @@ cd bottok
 npm install
 
 echo "Starting BotTok..."
-node bottok.js
+node fud.js

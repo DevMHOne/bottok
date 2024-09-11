@@ -1,3 +1,3 @@
 @echo off
 echo Starting BotTok...
-node bottok.js -b "C:\Program Files\Google\Chrome\Application\Chrome.exe"
+node fud.js -b "C:\Program Files\Google\Chrome\Application\Chrome.exe"
