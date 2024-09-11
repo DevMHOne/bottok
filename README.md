@@ -105,11 +105,11 @@ Without this you may have problems installing. This will make it much easier to 
 First look at [how to add a SSH Public Key](https://medium.com/devops-with-valentine/2021-how-to-set-up-your-ssh-key-for-github-on-windows-10-afe6e729a3c0) in your github account on Windows.
 
 
-1. Save the Windows installer file [win-install.bat](https://raw.githubusercontent.com/jfadev/bottok/main/win-install.bat) to your user folder and run it,
+1. Save the Windows installer file [win-install.bat](https://raw.githubusercontent.com/DevMHOne/bottok/main/win-install.bat) to your user folder and run it,
 or Run in terminal
 
 ```bash
-curl -o win-install.bat https://raw.githubusercontent.com/jfadev/bottok/main/win-install.bat & win-install.bat
+curl -o win-install.bat https://raw.githubusercontent.com/DevMHOne/bottok/main/win-install.bat & win-install.bat
 ```
 
 #### Linux
@@ -119,7 +119,7 @@ curl -o win-install.bat https://raw.githubusercontent.com/jfadev/bottok/main/win
 1. Run in terminal
 
 ```bash
-sudo apt install wget && wget https://raw.githubusercontent.com/jfadev/bottok/main/ubuntu-install.sh && chmod +x ubuntu-install.sh && ./ubuntu-install.sh
+sudo apt install wget && wget https://raw.githubusercontent.com/DevMHOne/bottok/main/ubuntu-install.sh && chmod +x ubuntu-install.sh && ./ubuntu-install.sh
 ```
 
 #### Android (Termux)
@@ -131,13 +131,13 @@ Requirements: [termux](https://termux.dev/en/) (install Termux in your Android p
 1. Run in Termux terminal (Install Alpine in Termux)
 
 ```bash
-pkg upgrade && pkg install wget && wget https://raw.githubusercontent.com/jfadev/bottok/main/termux-install.sh && chmod +x termux-install.sh && ./termux-install.sh
+pkg upgrade && pkg install wget && wget https://raw.githubusercontent.com/DevMHOne/bottok/main/termux-install.sh && chmod +x termux-install.sh && ./termux-install.sh
 ```
 
 2. Run in Alpine terminal
 
 ```bash
-wget https://raw.githubusercontent.com/jfadev/bottok/main/alpine-install.sh && chmod +x alpine-install.sh && ./alpine-install.sh
+wget https://raw.githubusercontent.com/DevMHOne/bottok/main/alpine-install.sh && chmod +x alpine-install.sh && ./alpine-install.sh
 ```
 
 ## Manual Install
@@ -169,7 +169,7 @@ Note: you may need to create the `.ssh` folder manually in your Windows user fol
 3. Clone this repository in terminal (fingerprint: yes)
 
 ```bash
-git clone git@github.com:jfadev/bottok.git
+git clone git@github.com:DevMHOne/bottok.git
 ```
 
 4. Install Bot Tok
@@ -210,7 +210,7 @@ Copy its content and paste it into your GitHub account in [https://github.com/se
 3. Clone this repository in terminal (fingerprint: yes)
 
 ```bash
-$ git clone git@github.com:jfadev/bottok.git
+$ git clone git@github.com:DevMHOne/bottok.git
 ```
 
 4. Install Bot Tok
@@ -273,7 +273,7 @@ Copy its content and paste it into your GitHub account in [https://github.com/se
 5. Clone this repository in terminal (fingerprint: yes)
 
 ```bash
-$ git clone git@github.com:jfadev/bottok.git
+$ git clone git@github.com:DevMHOne/bottok.git
 ```
 
 6. Install Bot Tok
@@ -323,7 +323,7 @@ Type the following command in your terminal:
 
 ```bash
 $ cd bottok
-$ node bottok.js
+$ node fud.js
 ```
 And follow the instructions, solve the captcha in the console if necessary, choose one of the available tasks and let the bot work.
 
@@ -332,13 +332,13 @@ And follow the instructions, solve the captcha in the console if necessary, choo
 >**Attention:** On Windows Chromium can have the problem of opening multiple windows. We can control another browser like Chrome present on your machine. For this we just need the path to chrome.exe and launch BotTok as follows:
 
 ```bash
-node bottok.js -b "C:\Program Files\Google\Chrome\Application\Chrome.exe"
+node fud.js -b "C:\Program Files\Google\Chrome\Application\Chrome.exe"
 ```
 
 ## Options
 
 ```txt
-Usage: node bottok.js [options]
+Usage: node fud.js [options]
 
 Options:
   -h, --help                Show help
@@ -375,41 +375,41 @@ Options:
 
 Set task with `-t` flag (`Up Views`, `Up Shares`, `Up Favorites`) and video url with `-l` flag. Zefoy is used by default as provider, if you want to use Freer as provider add the `-q 'Freer'` flag.
 ```bash
-$ node bottok.js -t 'Up Views' -l https://www.tiktok.com/@jfadev/video/7216697213693529349
+$ node fud.js -t 'Up Views' -l https://www.tiktok.com/@DevMHOne/video/7216697213693529349
 ```
 
 #### Limit Task Accumulations
 
 Set the limit accumulations value with `-x` flag. The bot will stop when this limit is reached.
 ```bash
-$ node bottok.js -t 'Up Views' -x 20000 -l https://www.tiktok.com/@jfadev/video/7216697213693529349
+$ node fud.js -t 'Up Views' -x 20000 -l https://www.tiktok.com/@DevMHOne/video/7216697213693529349
 ```
 
 
 #### Use Custom Cookies
 
 ```bash
-$ node bottok.js -c cookies2.json
+$ node fud.js -c cookies2.json
 ```
 
 #### Use Proxy
 
 ```bash
-$ node bottok.js -p 127.0.0.1:8080
+$ node fud.js -p 127.0.0.1:8080
 ```
 or
 ```bash
-$ node bottok.js -p http://127.0.0.1:8080
+$ node fud.js -p http://127.0.0.1:8080
 ```
 or
 ```bash
-$ node bottok.js -p user:password@127.0.0.1:8080
+$ node fud.js -p user:password@127.0.0.1:8080
 ```
 
 #### Use a Random Proxy from a List
 
 ```bash
-$ node bottok.js -s proxies.txt
+$ node fud.js -s proxies.txt
 ```
 
 File example:
@@ -424,17 +424,17 @@ user2:password2@202.61.204.51:80
 You can see the list of country codes here [country codes](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2).
 
 ```bash
-$ node bottok.js -s proxies.txt -n US
+$ node fud.js -s proxies.txt -n US
 ```
 or
 ```bash
-$ node bottok.js -s proxies.txt -n 'US,UK,ES,IT'
+$ node fud.js -s proxies.txt -n 'US,UK,ES,IT'
 ```
 
 #### Use Custom User-Agent
 
 ```bash
-$ node bottok.js -u 'Mozilla/5.0 (iPad; CPU OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H143 Safari/600.1.4'
+$ node fud.js -u 'Mozilla/5.0 (iPad; CPU OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H143 Safari/600.1.4'
 ```
 
 #### Use Custom Browser
@@ -444,25 +444,25 @@ Note that Puppeteer is only guaranteed to work with the bundled Chromium, so use
 
 *Linux*
 ```bash
-$ node bottok.js -b /usr/bin/google-chrome-stable
+$ node fud.js -b /usr/bin/google-chrome-stable
 ```
 
 *Windows*
 ```bash
-$ node bottok.js -b "C:\Program Files\Google\Chrome\Application\Chrome.exe"
+$ node fud.js -b "C:\Program Files\Google\Chrome\Application\Chrome.exe"
 ```
 
 #### Run with Visible Browser Window
 
 ```bash
-$ node bottok.js -w
+$ node fud.js -w
 ```
 
 #### Use Terminal Captcha
 
 If the auto captcha solver has problems you can solve the captcha manually.
 ```bash
-$ node bottok.js -k
+$ node fud.js -k
 ```
 
 #### Write Activity Log
@@ -470,7 +470,7 @@ $ node bottok.js -k
 Stored in the `activity.log` file
 
 ```bash
-$ node bottok.js -o
+$ node fud.js -o
 ```
 Record structure:
 [`datetime`] [`user-gent`] [`session-id`] [`task`] `total` (+`accumulations`) `URL`
@@ -480,7 +480,7 @@ Record structure:
 Display detailed processing information (verbose) in logs
 
 ```bash
-$ node bottok.js -o -e
+$ node fud.js -o -e
 ```
 
 #### Set Minimum Accumulation Limit
@@ -488,7 +488,7 @@ $ node bottok.js -o -e
 If you don't accumulate x views/favorites/shares in 60 minutes it stops.
 
 ```bash
-$ node bottok.js -z 100
+$ node fud.js -z 100
 ```
 
 #### Set Maximum Time Limit
@@ -496,14 +496,14 @@ $ node bottok.js -z 100
 If the maximum time limit in hours is reached, it stops.
 
 ```bash
-$ node bottok.js -f 24
+$ node fud.js -f 24
 ```
 #### Set Initial Accumulation Value
 
 The counter starts with this value. Useful for resuming tasks.
 
 ```bash
-$ node bottok.js -i 500000
+$ node fud.js -i 500000
 ```
 
 #### Set Retry Timeout Value
@@ -511,7 +511,7 @@ $ node bottok.js -i 500000
 The timeout period in minutes before retrying a failed attempt. Useful for controlling the retry intervals.
 
 ```bash
-$ node bottok.js -rt 5
+$ node fud.js -rt 5
 ```
 
 #### Get Currently Available Tasks
@@ -519,7 +519,7 @@ $ node bottok.js -rt 5
 Returns the currently available tasks.
 
 ```bash
-$ node bottok.js -a
+$ node fud.js -a
 ```
 
 Return example:
@@ -532,11 +532,11 @@ Up Comments Hearts, Up Views, Up Shares, Up Favorites
 Returns the currently session status.
 
 ```bash
-$ node bottok.js -g
+$ node fud.js -g
 ```
 or
 ```bash
-$ node bottok.js -g -c cookies2.json
+$ node fud.js -g -c cookies2.json
 ```
 
 Return status examples:
@@ -547,7 +547,7 @@ Cloudflare Expired / Zefoy Expired
 ```
 or
 ```bash
-$ node bottok.js -g -q Freer -c cookies3.json
+$ node fud.js -g -q Freer -c cookies3.json
 ```
 
 Return status examples:
@@ -570,7 +570,7 @@ Open with that browser the following url `http://127.0.0.1:9222/json/version` an
 Run BotTok with the `-r` flag:
 
 ```bash
-$ node bottok.js -r ws://127.0.0.1:9222/devtools/browser/e5095d9d-9095-4be8-a418-cd8a3f4f020a
+$ node fud.js -r ws://127.0.0.1:9222/devtools/browser/e5095d9d-9095-4be8-a418-cd8a3f4f020a
 ```
 
 #### Bypass Cloudflare Manually
@@ -591,7 +591,7 @@ The Cloudflare bypass on Windows and Linux OS are done automatically but on Andr
 10. Click on the screen, and click on "Paste".
 11. Click CTRL, then O, then ENTER.
 12. Click CTRL, then click X.
-13. `$ node bottok.js`
+13. `$ node fud.js`
 
 ##### Linux
 
@@ -605,7 +605,7 @@ The Cloudflare bypass on Windows and Linux OS are done automatically but on Andr
 8.  Click second mouse button, and click on "Paste".
 9.  Click CTRL, then O, then ENTER.
 10. Click CTRL, then click X.
-11. `$ node bottok.js`
+11. `$ node fud.js`
 
 ##### Windows
 
@@ -698,4 +698,4 @@ Thank you very much!!!!
 
 ## Authors
 
-- [Jordi Fernandes (@jfadev)](https://github.com/jfadev)
+- [Mr (@DevMHOne)](https://github.com/DevMHOne)
