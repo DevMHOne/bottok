@@ -5,7 +5,7 @@
   "type": "module",
   "main": "fud.js",
   "scripts": {
-    "start": "node ./bottok.js"
+    "start": "node ./fud.js"
   },
   "repository": "git@github.com:DevMHOne/bottok.git",
   "bugs": {
