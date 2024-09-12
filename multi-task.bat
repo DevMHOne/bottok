@@ -8,7 +8,7 @@ if not defined filename set "filename=tasks.csv"
 REM Read the CSV file line by line and assign the values to variables
 for /F "tokens=1,2,3,4 delims=," %%a in (%filename%) do (
   REM Execute the command with the corresponding variables
-  start cmd /c node bottok.js ^
+  start cmd /c node fud.js ^
     -d ^
     -o ^
     -q "%%d" ^

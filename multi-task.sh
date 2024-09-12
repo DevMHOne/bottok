@@ -7,7 +7,7 @@ filename=${1:-tasks.csv} # Filename of the CSV file to read, use 'tasks.csv' as 
 # Read the CSV file line by line and assign the values to variables
 while IFS=',' read -r t_value x_value l_value q_value; do
   # Execute the command with the corresponding variables
-  node bottok.js \
+  node fud.js \
     -d \
     -o \
     -q "$q_value" \
