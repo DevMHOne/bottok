@@ -41,4 +41,4 @@ export PUPPETEER_EXECUTABLE_PATH=/usr/bin/chromium-browser
 yarn install --network-timeout 6000000
 
 echo "Starting BotTok..."
-node fud.js
+node bottok.js
